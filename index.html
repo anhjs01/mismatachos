@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Un rincón para Aleja</title>
+<meta name="theme-color" content="#07030b">
+<meta name="color-scheme" content="dark">
+<meta name="description" content="Un pequeño rincón de música, detalles y mensajes para Aleja.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,600&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="sky" aria-hidden="true">
+    <div class="glow glow--1"></div>
+    <div class="glow glow--2"></div>
+    <div class="glow glow--3"></div>
+    <div id="stars" class="stars"></div>
+  </div>
+
+  <main class="portada-scene">
+    <p class="portada-titulo">Para Aleja</p>
+
+    <button type="button" id="heartBtn" class="heart-big" aria-label="Tocar el corazón">❤</button>
+
+    <p class="portada-hint" id="hint">Toca el corazón</p>
+  </main>
+
+  <!-- Modal -->
+  <div id="modalOverlay" class="modal-overlay" aria-hidden="true">
+    <div class="modal-card" id="modalCard" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button type="button" class="modal-close" id="modalClose" aria-label="Cerrar">✕</button>
+      <span class="modal-icon">❤</span>
+      <h2 class="modal-title" id="modalTitle"></h2>
+      <div class="modal-body" id="modalBody"></div>
+      <p class="modal-signature" id="modalSignature"></p>
+      <div class="modal-actions">
+        <button type="button" class="btn btn--ghost" id="btnOtroMensaje">Otro mensaje</button>
+        <a class="btn" id="btnAbrirCalendario" href="calendario.html">Abrir calendario</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="catalogo-canciones.js"></script>
+  <script src="reproductor.js"></script>
+  <script src="contenido-portada.js"></script>
+  <script src="comun.js"></script>
+  <script src="script-portada.js"></script>
+</body>
+</html>
