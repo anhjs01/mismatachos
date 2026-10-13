@@ -154,8 +154,6 @@ const CATALOGO_CANCIONES = {
   ambiente: [
     { titulo: "Moment Of Your Life", artista: "Brent Faiyaz feat. Coco Jones", youtubeId: "Jv17JsayCSI", nota: "R&B suave de la playlist de referencia" },
     { titulo: "Careless Whisper", artista: "George Michael", youtubeId: "izGwDsrQ1eQ", nota: "saxofón y nostalgia para una tarde tranquila" },
-    { titulo: "River Flows in You", artista: "Yiruma", youtubeId: "fiBvOKmuWKg" },
-    { titulo: "Nuvole Bianche", artista: "Ludovico Einaudi", youtubeId: "sR2W2scFS4Y" },
     { titulo: "Experience", artista: "Ludovico Einaudi", youtubeId: "l6E8QbsAAJ8" },
     { titulo: "Comptine d'un autre été", artista: "Yann Tiersen", youtubeId: "znfYwABeSZ0" },
     { titulo: "Una Mattina", artista: "Ludovico Einaudi", youtubeId: "94-PAIMDhaQ", nota: "audio oficial distribuido por Universal Music" },
