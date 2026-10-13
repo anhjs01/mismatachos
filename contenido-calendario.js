@@ -17,7 +17,7 @@ const CALENDARIO = [
       "Hay algo bonito en la perrita que te busca: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
       "esa bienvenida mañanera que hace que el día empiece con movimiento. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
     ],
-    "detalle": "Pequeño guiño de hoy: esa bienvenida mañanera que hace que el día empiece con movimiento.",
+    "detalle": "Un detalle para hoy: esa bienvenida mañanera que hace que el día empiece con movimiento.",
     "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. esa bienvenida mañanera que hace que el día empiece con movimiento. Descansa a tu ritmo; no tienes que ganarte una pausa.",
     "cancionTitulo": "Hecha Pa' Mí",
     "cancionArtista": "Grupo Frontera",
@@ -40,7 +40,7 @@ const CALENDARIO = [
       "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en tinto sin azúcar, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
       "un café intenso y un día que ojalá sea amable contigo. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
     ],
-    "detalle": "Pequeño guiño de hoy: un café intenso y un día que ojalá sea amable contigo.",
+    "detalle": "Para acordarte de algo bonito: un café intenso y un día que ojalá sea amable contigo.",
     "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. un café intenso y un día que ojalá sea amable contigo. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
     "cancionTitulo": "pa quererte",
     "cancionArtista": "Rels B",
@@ -63,7 +63,7 @@ const CALENDARIO = [
       "Me gusta imaginar una escena sencilla alrededor de fresas y duraznos. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
       "fruta fresca y una pausa pequeña que sabe a algo bueno. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
     ],
-    "detalle": "Pequeño guiño de hoy: fruta fresca y una pausa pequeña que sabe a algo bueno.",
+    "detalle": "Una pequeña nota que me guardé: fruta fresca y una pausa pequeña que sabe a algo bueno.",
     "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. fruta fresca y una pausa pequeña que sabe a algo bueno. Deja que el día termine sin pedirte una última demostración de energía.",
     "cancionTitulo": "All of Me",
     "cancionArtista": "John Legend",
@@ -86,7 +86,7 @@ const CALENDARIO = [
       "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en tus muecas de concentración, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
       "esa expresión tuya cuando quieres que algo quede como lo imaginaste. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
     ],
-    "detalle": "Pequeño guiño de hoy: esa expresión tuya cuando quieres que algo quede como lo imaginaste.",
+    "detalle": "Si hoy te queda un minuto: esa expresión tuya cuando quieres que algo quede como lo imaginaste.",
     "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. esa expresión tuya cuando quieres que algo quede como lo imaginaste. Ojalá el silencio de esta noche te siente bien.",
     "cancionTitulo": "Bendita Tu Luz",
     "cancionArtista": "Maná & Juan Luis Guerra",
@@ -109,7 +109,7 @@ const CALENDARIO = [
       "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe cerámica y barro, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
       "dar forma a una pieza con paciencia, presión justa y tus propias manos. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
     ],
-    "detalle": "Pequeño guiño de hoy: dar forma a una pieza con paciencia, presión justa y tus propias manos.",
+    "detalle": "Un guiño a una de tus cosas favoritas: dar forma a una pieza con paciencia, presión justa y tus propias manos.",
     "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. dar forma a una pieza con paciencia, presión justa y tus propias manos. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
     "cancionTitulo": "Something",
     "cancionArtista": "The Beatles",
@@ -132,7 +132,7 @@ const CALENDARIO = [
       "Si tuviera que escoger una imagen para este día, sería el olor a óleo. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
       "ese aroma de los materiales que hace reconocible tu rincón creativo. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
     ],
-    "detalle": "Pequeño guiño de hoy: ese aroma de los materiales que hace reconocible tu rincón creativo.",
+    "detalle": "Para ponerle una pausa amable al día: ese aroma de los materiales que hace reconocible tu rincón creativo.",
     "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. ese aroma de los materiales que hace reconocible tu rincón creativo. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
     "cancionTitulo": "Querer Querernos",
     "cancionArtista": "Canserbero",
@@ -155,7 +155,7 @@ const CALENDARIO = [
       "Quise que este día tuviera un detalle diferente, inspirado en atardeceres. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
       "el cielo cambiando de color y una pausa para mirar antes de seguir. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
     ],
-    "detalle": "Pequeño guiño de hoy: el cielo cambiando de color y una pausa para mirar antes de seguir.",
+    "detalle": "Algo pequeño que quería dejarte presente: el cielo cambiando de color y una pausa para mirar antes de seguir.",
     "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. el cielo cambiando de color y una pausa para mirar antes de seguir. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
     "cancionTitulo": "From The Start",
     "cancionArtista": "Laufey",
@@ -178,7 +178,7 @@ const CALENDARIO = [
       "Hay algo bonito en boleros y saxofón: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
       "una melodía cálida que acompaña sin exigir atención. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
     ],
-    "detalle": "Pequeño guiño de hoy: una melodía cálida que acompaña sin exigir atención.",
+    "detalle": "Un detalle para hoy: una melodía cálida que acompaña sin exigir atención.",
     "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. una melodía cálida que acompaña sin exigir atención. Descansa a tu ritmo; no tienes que ganarte una pausa.",
     "cancionTitulo": "Gotas de Lluvia",
     "cancionArtista": "Grupo Niche",
@@ -201,7 +201,7 @@ const CALENDARIO = [
       "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en r&b para la tarde, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
       "un bajo suave, una voz cercana y espacio para pensar. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
     ],
-    "detalle": "Pequeño guiño de hoy: un bajo suave, una voz cercana y espacio para pensar.",
+    "detalle": "Para acordarte de algo bonito: un bajo suave, una voz cercana y espacio para pensar.",
     "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. un bajo suave, una voz cercana y espacio para pensar. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
     "cancionTitulo": "Burbujas de Amor",
     "cancionArtista": "Juan Luis Guerra 4.40",
@@ -224,7 +224,7 @@ const CALENDARIO = [
       "Me gusta imaginar una escena sencilla alrededor de ropa ancha y comodidad. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
       "esa prenda cómoda que te deja moverte a tu manera. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
     ],
-    "detalle": "Pequeño guiño de hoy: esa prenda cómoda que te deja moverte a tu manera.",
+    "detalle": "Una pequeña nota que me guardé: esa prenda cómoda que te deja moverte a tu manera.",
     "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. esa prenda cómoda que te deja moverte a tu manera. Deja que el día termine sin pedirte una última demostración de energía.",
     "cancionTitulo": "Me Enamora",
     "cancionArtista": "Juanes",
@@ -247,7 +247,7 @@ const CALENDARIO = [
       "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en helado de mora silvestre, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
       "mora intensa con cobertura amarga, justo como te gusta. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
     ],
-    "detalle": "Pequeño guiño de hoy: mora intensa con cobertura amarga, justo como te gusta.",
+    "detalle": "Si hoy te queda un minuto: mora intensa con cobertura amarga, justo como te gusta.",
     "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. mora intensa con cobertura amarga, justo como te gusta. Ojalá el silencio de esta noche te siente bien.",
     "cancionTitulo": "Que Me Alcance La Vida",
     "cancionArtista": "Sin Bandera",
@@ -270,7 +270,7 @@ const CALENDARIO = [
       "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe tulipanes y margaritas, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
       "flores elegidas por gusto y no por una fecha del calendario. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
     ],
-    "detalle": "Pequeño guiño de hoy: flores elegidas por gusto y no por una fecha del calendario.",
+    "detalle": "Un guiño a una de tus cosas favoritas: flores elegidas por gusto y no por una fecha del calendario.",
     "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. flores elegidas por gusto y no por una fecha del calendario. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
     "cancionTitulo": "La Distancia",
     "cancionArtista": "Manuel Medrano",
@@ -293,7 +293,7 @@ const CALENDARIO = [
       "Si tuviera que escoger una imagen para este día, sería el orden de las cosas. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
       "la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
     ],
-    "detalle": "Pequeño guiño de hoy: la tranquilidad que aparece cuando cada cosa vuelve a su lugar.",
+    "detalle": "Para ponerle una pausa amable al día: la tranquilidad que aparece cuando cada cosa vuelve a su lugar.",
     "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
     "cancionTitulo": "Just Like Heaven",
     "cancionArtista": "The Cure",
@@ -316,7 +316,7 @@ const CALENDARIO = [
       "Quise que este día tuviera un detalle diferente, inspirado en tu energía impulsiva. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
       "esa manera tuya de tener una idea y querer probarla enseguida. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
     ],
-    "detalle": "Pequeño guiño de hoy: esa manera tuya de tener una idea y querer probarla enseguida.",
+    "detalle": "Algo pequeño que quería dejarte presente: esa manera tuya de tener una idea y querer probarla enseguida.",
     "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. esa manera tuya de tener una idea y querer probarla enseguida. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
     "cancionTitulo": "Chasing Cars",
     "cancionArtista": "Snow Patrol",
@@ -339,7 +339,7 @@ const CALENDARIO = [
       "Hay algo bonito en tu risa y tus gestos: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
       "una expresión espontánea que termina contando toda la historia. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
     ],
-    "detalle": "Pequeño guiño de hoy: una expresión espontánea que termina contando toda la historia.",
+    "detalle": "Un detalle para hoy: una expresión espontánea que termina contando toda la historia.",
     "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. una expresión espontánea que termina contando toda la historia. Descansa a tu ritmo; no tienes que ganarte una pausa.",
     "cancionTitulo": "Sin Sentimiento",
     "cancionArtista": "Grupo Niche",
@@ -362,7 +362,7 @@ const CALENDARIO = [
       "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en la canción en repetir, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
       "volver a poner la misma canción porque todavía no te cansas de ella. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
     ],
-    "detalle": "Pequeño guiño de hoy: volver a poner la misma canción porque todavía no te cansas de ella.",
+    "detalle": "Para acordarte de algo bonito: volver a poner la misma canción porque todavía no te cansas de ella.",
     "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. volver a poner la misma canción porque todavía no te cansas de ella. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
     "cancionTitulo": "I Wanna Be Yours",
     "cancionArtista": "Arctic Monkeys",
@@ -385,7 +385,7 @@ const CALENDARIO = [
       "Me gusta imaginar una escena sencilla alrededor de huevo con arroz y pasta. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
       "comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
     ],
-    "detalle": "Pequeño guiño de hoy: comida sencilla, hecha a tu gusto y sin complicaciones innecesarias.",
+    "detalle": "Una pequeña nota que me guardé: comida sencilla, hecha a tu gusto y sin complicaciones innecesarias.",
     "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. Deja que el día termine sin pedirte una última demostración de energía.",
     "cancionTitulo": "One Summer's Day",
     "cancionArtista": "Joe Hisaishi",
@@ -408,7 +408,7 @@ const CALENDARIO = [
       "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en no todo necesita sal, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
       "recordar un detalle pequeño también es una forma de escuchar. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
     ],
-    "detalle": "Pequeño guiño de hoy: recordar un detalle pequeño también es una forma de escuchar.",
+    "detalle": "Si hoy te queda un minuto: recordar un detalle pequeño también es una forma de escuchar.",
     "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. recordar un detalle pequeño también es una forma de escuchar. Ojalá el silencio de esta noche te siente bien.",
     "cancionTitulo": "Vivir Mi Vida",
     "cancionArtista": "Marc Anthony",
@@ -431,7 +431,7 @@ const CALENDARIO = [
       "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe merlot y conversación, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
       "una copa tranquila y una charla que no necesita un guion. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
     ],
-    "detalle": "Pequeño guiño de hoy: una copa tranquila y una charla que no necesita un guion.",
+    "detalle": "Un guiño a una de tus cosas favoritas: una copa tranquila y una charla que no necesita un guion.",
     "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. una copa tranquila y una charla que no necesita un guion. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
     "cancionTitulo": "Die For You",
     "cancionArtista": "The Weeknd",
@@ -454,7 +454,7 @@ const CALENDARIO = [
       "Si tuviera que escoger una imagen para este día, sería tus ojos cafés. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
       "esa mirada que cambia cuando algo te sorprende o te da risa. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
     ],
-    "detalle": "Pequeño guiño de hoy: esa mirada que cambia cuando algo te sorprende o te da risa.",
+    "detalle": "Para ponerle una pausa amable al día: esa mirada que cambia cuando algo te sorprende o te da risa.",
     "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. esa mirada que cambia cuando algo te sorprende o te da risa. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
     "cancionTitulo": "Until I Found You",
     "cancionArtista": "Stephen Sanchez",
@@ -477,7 +477,7 @@ const CALENDARIO = [
       "Quise que este día tuviera un detalle diferente, inspirado en manualidades sin instrucciones. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
       "materiales sobre la mesa y libertad para cambiar de idea en el proceso. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
     ],
-    "detalle": "Pequeño guiño de hoy: materiales sobre la mesa y libertad para cambiar de idea en el proceso.",
+    "detalle": "Algo pequeño que quería dejarte presente: materiales sobre la mesa y libertad para cambiar de idea en el proceso.",
     "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. materiales sobre la mesa y libertad para cambiar de idea en el proceso. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
     "cancionTitulo": "Mi Persona Favorita",
     "cancionArtista": "Alejandro Sanz & Camila Cabello",
@@ -500,7 +500,7 @@ const CALENDARIO = [
       "Hay algo bonito en nada a medias: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
       "la claridad y el cuidado que merecen los sentimientos. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
     ],
-    "detalle": "Pequeño guiño de hoy: la claridad y el cuidado que merecen los sentimientos.",
+    "detalle": "Un detalle para hoy: la claridad y el cuidado que merecen los sentimientos.",
     "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. la claridad y el cuidado que merecen los sentimientos. Descansa a tu ritmo; no tienes que ganarte una pausa.",
     "cancionTitulo": "Make You Feel My Love",
     "cancionArtista": "Adele",
@@ -523,7 +523,7 @@ const CALENDARIO = [
       "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en café amargo, día amable, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
       "un café fuerte sin que el resto del día tenga que serlo. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
     ],
-    "detalle": "Pequeño guiño de hoy: un café fuerte sin que el resto del día tenga que serlo.",
+    "detalle": "Para acordarte de algo bonito: un café fuerte sin que el resto del día tenga que serlo.",
     "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. un café fuerte sin que el resto del día tenga que serlo. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
     "cancionTitulo": "Todo de Ti",
     "cancionArtista": "Rauw Alejandro",
@@ -546,7 +546,7 @@ const CALENDARIO = [
       "Me gusta imaginar una escena sencilla alrededor de una margarita en tu escritorio. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
       "un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
     ],
-    "detalle": "Pequeño guiño de hoy: un detalle sencillo junto a tus materiales, sin interrumpir tu mundo.",
+    "detalle": "Una pequeña nota que me guardé: un detalle sencillo junto a tus materiales, sin interrumpir tu mundo.",
     "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. Deja que el día termine sin pedirte una última demostración de energía.",
     "cancionTitulo": "Inmortal",
     "cancionArtista": "Aventura",
@@ -569,7 +569,7 @@ const CALENDARIO = [
       "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en un plan casero, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
       "cocinar algo rico, escoger una película y quedarse cómodos. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
     ],
-    "detalle": "Pequeño guiño de hoy: cocinar algo rico, escoger una película y quedarse cómodos.",
+    "detalle": "Si hoy te queda un minuto: cocinar algo rico, escoger una película y quedarse cómodos.",
     "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. cocinar algo rico, escoger una película y quedarse cómodos. Ojalá el silencio de esta noche te siente bien.",
     "cancionTitulo": "Los Caminos de la Vida",
     "cancionArtista": "Los Diablitos",
@@ -592,7 +592,7 @@ const CALENDARIO = [
       "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe la perrita que te busca, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
       "esa bienvenida mañanera que hace que el día empiece con movimiento. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
     ],
-    "detalle": "Pequeño guiño de hoy: esa bienvenida mañanera que hace que el día empiece con movimiento.",
+    "detalle": "Un guiño a una de tus cosas favoritas: esa bienvenida mañanera que hace que el día empiece con movimiento.",
     "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. esa bienvenida mañanera que hace que el día empiece con movimiento. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
     "cancionTitulo": "Tú Sí Sabes Quererme",
     "cancionArtista": "Natalia Lafourcade",
@@ -615,7 +615,7 @@ const CALENDARIO = [
       "Si tuviera que escoger una imagen para este día, sería tinto sin azúcar. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
       "un café intenso y un día que ojalá sea amable contigo. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
     ],
-    "detalle": "Pequeño guiño de hoy: un café intenso y un día que ojalá sea amable contigo.",
+    "detalle": "Para ponerle una pausa amable al día: un café intenso y un día que ojalá sea amable contigo.",
     "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. un café intenso y un día que ojalá sea amable contigo. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
     "cancionTitulo": "Será",
     "cancionArtista": "Sin Bandera",
@@ -638,7 +638,7 @@ const CALENDARIO = [
       "Quise que este día tuviera un detalle diferente, inspirado en fresas y duraznos. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
       "fruta fresca y una pausa pequeña que sabe a algo bueno. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
     ],
-    "detalle": "Pequeño guiño de hoy: fruta fresca y una pausa pequeña que sabe a algo bueno.",
+    "detalle": "Algo pequeño que quería dejarte presente: fruta fresca y una pausa pequeña que sabe a algo bueno.",
     "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. fruta fresca y una pausa pequeña que sabe a algo bueno. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
     "cancionTitulo": "¡Corre!",
     "cancionArtista": "Jesse & Joy",
@@ -661,7 +661,7 @@ const CALENDARIO = [
       "Hay algo bonito en tus muecas de concentración: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
       "esa expresión tuya cuando quieres que algo quede como lo imaginaste. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
     ],
-    "detalle": "Pequeño guiño de hoy: esa expresión tuya cuando quieres que algo quede como lo imaginaste.",
+    "detalle": "Un detalle para hoy: esa expresión tuya cuando quieres que algo quede como lo imaginaste.",
     "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. esa expresión tuya cuando quieres que algo quede como lo imaginaste. Descansa a tu ritmo; no tienes que ganarte una pausa.",
     "cancionTitulo": "Rayando el Sol",
     "cancionArtista": "Maná",
@@ -684,7 +684,7 @@ const CALENDARIO = [
       "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en cerámica y barro, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
       "dar forma a una pieza con paciencia, presión justa y tus propias manos. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
     ],
-    "detalle": "Pequeño guiño de hoy: dar forma a una pieza con paciencia, presión justa y tus propias manos.",
+    "detalle": "Para acordarte de algo bonito: dar forma a una pieza con paciencia, presión justa y tus propias manos.",
     "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. dar forma a una pieza con paciencia, presión justa y tus propias manos. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
     "cancionTitulo": "Yellow",
     "cancionArtista": "Coldplay",
@@ -707,7 +707,7 @@ const CALENDARIO = [
       "Me gusta imaginar una escena sencilla alrededor de el olor a óleo. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
       "ese aroma de los materiales que hace reconocible tu rincón creativo. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
     ],
-    "detalle": "Pequeño guiño de hoy: ese aroma de los materiales que hace reconocible tu rincón creativo.",
+    "detalle": "Una pequeña nota que me guardé: ese aroma de los materiales que hace reconocible tu rincón creativo.",
     "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. ese aroma de los materiales que hace reconocible tu rincón creativo. Deja que el día termine sin pedirte una última demostración de energía.",
     "cancionTitulo": "Iris",
     "cancionArtista": "Goo Goo Dolls",
@@ -730,7 +730,7 @@ const CALENDARIO = [
       "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en atardeceres, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
       "el cielo cambiando de color y una pausa para mirar antes de seguir. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
     ],
-    "detalle": "Pequeño guiño de hoy: el cielo cambiando de color y una pausa para mirar antes de seguir.",
+    "detalle": "Si hoy te queda un minuto: el cielo cambiando de color y una pausa para mirar antes de seguir.",
     "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. el cielo cambiando de color y una pausa para mirar antes de seguir. Ojalá el silencio de esta noche te siente bien.",
     "cancionTitulo": "Colapso",
     "cancionArtista": "Kevin Kaarl",
@@ -753,7 +753,7 @@ const CALENDARIO = [
       "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe boleros y saxofón, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
       "una melodía cálida que acompaña sin exigir atención. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
     ],
-    "detalle": "Pequeño guiño de hoy: una melodía cálida que acompaña sin exigir atención.",
+    "detalle": "Un guiño a una de tus cosas favoritas: una melodía cálida que acompaña sin exigir atención.",
     "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. una melodía cálida que acompaña sin exigir atención. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
     "cancionTitulo": "Experience",
     "cancionArtista": "Ludovico Einaudi",
@@ -776,7 +776,7 @@ const CALENDARIO = [
       "Si tuviera que escoger una imagen para este día, sería r&b para la tarde. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
       "un bajo suave, una voz cercana y espacio para pensar. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
     ],
-    "detalle": "Pequeño guiño de hoy: un bajo suave, una voz cercana y espacio para pensar.",
+    "detalle": "Para ponerle una pausa amable al día: un bajo suave, una voz cercana y espacio para pensar.",
     "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. un bajo suave, una voz cercana y espacio para pensar. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
     "cancionTitulo": "Pero No Te Enamores",
     "cancionArtista": "Fuerza Regida",
@@ -799,7 +799,7 @@ const CALENDARIO = [
       "Quise que este día tuviera un detalle diferente, inspirado en ropa ancha y comodidad. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
       "esa prenda cómoda que te deja moverte a tu manera. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
     ],
-    "detalle": "Pequeño guiño de hoy: esa prenda cómoda que te deja moverte a tu manera.",
+    "detalle": "Algo pequeño que quería dejarte presente: esa prenda cómoda que te deja moverte a tu manera.",
     "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. esa prenda cómoda que te deja moverte a tu manera. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
     "cancionTitulo": "Lo que hay x aquí",
     "cancionArtista": "Rels B",
@@ -822,7 +822,7 @@ const CALENDARIO = [
       "Hay algo bonito en helado de mora silvestre: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
       "mora intensa con cobertura amarga, justo como te gusta. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
     ],
-    "detalle": "Pequeño guiño de hoy: mora intensa con cobertura amarga, justo como te gusta.",
+    "detalle": "Un detalle para hoy: mora intensa con cobertura amarga, justo como te gusta.",
     "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. mora intensa con cobertura amarga, justo como te gusta. Descansa a tu ritmo; no tienes que ganarte una pausa.",
     "cancionTitulo": "Perfect",
     "cancionArtista": "Ed Sheeran",
@@ -845,7 +845,7 @@ const CALENDARIO = [
       "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en tulipanes y margaritas, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
       "flores elegidas por gusto y no por una fecha del calendario. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
     ],
-    "detalle": "Pequeño guiño de hoy: flores elegidas por gusto y no por una fecha del calendario.",
+    "detalle": "Para acordarte de algo bonito: flores elegidas por gusto y no por una fecha del calendario.",
     "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. flores elegidas por gusto y no por una fecha del calendario. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
     "cancionTitulo": "Darte un Beso",
     "cancionArtista": "Prince Royce",
@@ -868,7 +868,7 @@ const CALENDARIO = [
       "Me gusta imaginar una escena sencilla alrededor de el orden de las cosas. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
       "la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
     ],
-    "detalle": "Pequeño guiño de hoy: la tranquilidad que aparece cuando cada cosa vuelve a su lugar.",
+    "detalle": "Una pequeña nota que me guardé: la tranquilidad que aparece cuando cada cosa vuelve a su lugar.",
     "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Deja que el día termine sin pedirte una última demostración de energía.",
     "cancionTitulo": "A Thousand Years",
     "cancionArtista": "Christina Perri",
@@ -891,7 +891,7 @@ const CALENDARIO = [
       "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en tu energía impulsiva, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
       "esa manera tuya de tener una idea y querer probarla enseguida. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
     ],
-    "detalle": "Pequeño guiño de hoy: esa manera tuya de tener una idea y querer probarla enseguida.",
+    "detalle": "Si hoy te queda un minuto: esa manera tuya de tener una idea y querer probarla enseguida.",
     "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. esa manera tuya de tener una idea y querer probarla enseguida. Ojalá el silencio de esta noche te siente bien.",
     "cancionTitulo": "Eres Tú",
     "cancionArtista": "Mocedades",
@@ -914,7 +914,7 @@ const CALENDARIO = [
       "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe tu risa y tus gestos, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
       "una expresión espontánea que termina contando toda la historia. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
     ],
-    "detalle": "Pequeño guiño de hoy: una expresión espontánea que termina contando toda la historia.",
+    "detalle": "Un guiño a una de tus cosas favoritas: una expresión espontánea que termina contando toda la historia.",
     "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. una expresión espontánea que termina contando toda la historia. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
     "cancionTitulo": "Line Without a Hook",
     "cancionArtista": "Ricky Montgomery feat. mxmtoon",
@@ -937,7 +937,7 @@ const CALENDARIO = [
       "Si tuviera que escoger una imagen para este día, sería la canción en repetir. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
       "volver a poner la misma canción porque todavía no te cansas de ella. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
     ],
-    "detalle": "Pequeño guiño de hoy: volver a poner la misma canción porque todavía no te cansas de ella.",
+    "detalle": "Para ponerle una pausa amable al día: volver a poner la misma canción porque todavía no te cansas de ella.",
     "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. volver a poner la misma canción porque todavía no te cansas de ella. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
     "cancionTitulo": "Cásate Conmigo",
     "cancionArtista": "Silvestre Dangond & Nicky Jam",
@@ -960,7 +960,7 @@ const CALENDARIO = [
       "Quise que este día tuviera un detalle diferente, inspirado en huevo con arroz y pasta. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
       "comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
     ],
-    "detalle": "Pequeño guiño de hoy: comida sencilla, hecha a tu gusto y sin complicaciones innecesarias.",
+    "detalle": "Algo pequeño que quería dejarte presente: comida sencilla, hecha a tu gusto y sin complicaciones innecesarias.",
     "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
     "cancionTitulo": "Del Mar",
     "cancionArtista": "Ozuna, Doja Cat & Sia",
@@ -983,7 +983,7 @@ const CALENDARIO = [
       "Hay algo bonito en no todo necesita sal: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
       "recordar un detalle pequeño también es una forma de escuchar. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
     ],
-    "detalle": "Pequeño guiño de hoy: recordar un detalle pequeño también es una forma de escuchar.",
+    "detalle": "Un detalle para hoy: recordar un detalle pequeño también es una forma de escuchar.",
     "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. recordar un detalle pequeño también es una forma de escuchar. Descansa a tu ritmo; no tienes que ganarte una pausa.",
     "cancionTitulo": "Entra En Mi Vida",
     "cancionArtista": "Sin Bandera",
@@ -1006,7 +1006,7 @@ const CALENDARIO = [
       "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en merlot y conversación, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
       "una copa tranquila y una charla que no necesita un guion. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
     ],
-    "detalle": "Pequeño guiño de hoy: una copa tranquila y una charla que no necesita un guion.",
+    "detalle": "Para acordarte de algo bonito: una copa tranquila y una charla que no necesita un guion.",
     "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. una copa tranquila y una charla que no necesita un guion. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
     "cancionTitulo": "Todo Cambió",
     "cancionArtista": "Camila",
@@ -1029,7 +1029,7 @@ const CALENDARIO = [
       "Me gusta imaginar una escena sencilla alrededor de tus ojos cafés. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
       "esa mirada que cambia cuando algo te sorprende o te da risa. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
     ],
-    "detalle": "Pequeño guiño de hoy: esa mirada que cambia cuando algo te sorprende o te da risa.",
+    "detalle": "Una pequeña nota que me guardé: esa mirada que cambia cuando algo te sorprende o te da risa.",
     "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. esa mirada que cambia cuando algo te sorprende o te da risa. Deja que el día termine sin pedirte una última demostración de energía.",
     "cancionTitulo": "Creo en Ti",
     "cancionArtista": "Reik",
@@ -1052,7 +1052,7 @@ const CALENDARIO = [
       "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en manualidades sin instrucciones, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
       "materiales sobre la mesa y libertad para cambiar de idea en el proceso. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
     ],
-    "detalle": "Pequeño guiño de hoy: materiales sobre la mesa y libertad para cambiar de idea en el proceso.",
+    "detalle": "Si hoy te queda un minuto: materiales sobre la mesa y libertad para cambiar de idea en el proceso.",
     "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. materiales sobre la mesa y libertad para cambiar de idea en el proceso. Ojalá el silencio de esta noche te siente bien.",
     "cancionTitulo": "Sweet Disposition",
     "cancionArtista": "The Temper Trap",
@@ -1075,7 +1075,7 @@ const CALENDARIO = [
       "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe nada a medias, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
       "la claridad y el cuidado que merecen los sentimientos. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
     ],
-    "detalle": "Pequeño guiño de hoy: la claridad y el cuidado que merecen los sentimientos.",
+    "detalle": "Un guiño a una de tus cosas favoritas: la claridad y el cuidado que merecen los sentimientos.",
     "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. la claridad y el cuidado que merecen los sentimientos. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
     "cancionTitulo": "Lamento Boliviano",
     "cancionArtista": "Los Enanitos Verdes",
@@ -1098,7 +1098,7 @@ const CALENDARIO = [
       "Si tuviera que escoger una imagen para este día, sería café amargo, día amable. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
       "un café fuerte sin que el resto del día tenga que serlo. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
     ],
-    "detalle": "Pequeño guiño de hoy: un café fuerte sin que el resto del día tenga que serlo.",
+    "detalle": "Para ponerle una pausa amable al día: un café fuerte sin que el resto del día tenga que serlo.",
     "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. un café fuerte sin que el resto del día tenga que serlo. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
     "cancionTitulo": "Periódico de Ayer",
     "cancionArtista": "Héctor Lavoe",
@@ -1121,7 +1121,7 @@ const CALENDARIO = [
       "Quise que este día tuviera un detalle diferente, inspirado en una margarita en tu escritorio. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
       "un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
     ],
-    "detalle": "Pequeño guiño de hoy: un detalle sencillo junto a tus materiales, sin interrumpir tu mundo.",
+    "detalle": "Algo pequeño que quería dejarte presente: un detalle sencillo junto a tus materiales, sin interrumpir tu mundo.",
     "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
     "cancionTitulo": "Me Muero",
     "cancionArtista": "La Quinta Estación",
@@ -1144,7 +1144,7 @@ const CALENDARIO = [
       "Hay algo bonito en un plan casero: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
       "cocinar algo rico, escoger una película y quedarse cómodos. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
     ],
-    "detalle": "Pequeño guiño de hoy: cocinar algo rico, escoger una película y quedarse cómodos.",
+    "detalle": "Un detalle para hoy: cocinar algo rico, escoger una película y quedarse cómodos.",
     "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. cocinar algo rico, escoger una película y quedarse cómodos. Descansa a tu ritmo; no tienes que ganarte una pausa.",
     "cancionTitulo": "Talking to the Moon",
     "cancionArtista": "Bruno Mars",
@@ -1167,7 +1167,7 @@ const CALENDARIO = [
       "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en la perrita que te busca, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
       "esa bienvenida mañanera que hace que el día empiece con movimiento. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
     ],
-    "detalle": "Pequeño guiño de hoy: esa bienvenida mañanera que hace que el día empiece con movimiento.",
+    "detalle": "Para acordarte de algo bonito: esa bienvenida mañanera que hace que el día empiece con movimiento.",
     "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. esa bienvenida mañanera que hace que el día empiece con movimiento. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
     "cancionTitulo": "Cali Pachanguero",
     "cancionArtista": "Grupo Niche",
@@ -1190,7 +1190,7 @@ const CALENDARIO = [
       "Me gusta imaginar una escena sencilla alrededor de tinto sin azúcar. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
       "un café intenso y un día que ojalá sea amable contigo. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
     ],
-    "detalle": "Pequeño guiño de hoy: un café intenso y un día que ojalá sea amable contigo.",
+    "detalle": "Una pequeña nota que me guardé: un café intenso y un día que ojalá sea amable contigo.",
     "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. un café intenso y un día que ojalá sea amable contigo. Deja que el día termine sin pedirte una última demostración de energía.",
     "cancionTitulo": "At Last",
     "cancionArtista": "Etta James",
@@ -1213,7 +1213,7 @@ const CALENDARIO = [
       "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en fresas y duraznos, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
       "fruta fresca y una pausa pequeña que sabe a algo bueno. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
     ],
-    "detalle": "Pequeño guiño de hoy: fruta fresca y una pausa pequeña que sabe a algo bueno.",
+    "detalle": "Si hoy te queda un minuto: fruta fresca y una pausa pequeña que sabe a algo bueno.",
     "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. fruta fresca y una pausa pequeña que sabe a algo bueno. Ojalá el silencio de esta noche te siente bien.",
     "cancionTitulo": "Disfruto",
     "cancionArtista": "Carla Morrison",
@@ -1236,7 +1236,7 @@ const CALENDARIO = [
       "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe tus muecas de concentración, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
       "esa expresión tuya cuando quieres que algo quede como lo imaginaste. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
     ],
-    "detalle": "Pequeño guiño de hoy: esa expresión tuya cuando quieres que algo quede como lo imaginaste.",
+    "detalle": "Un guiño a una de tus cosas favoritas: esa expresión tuya cuando quieres que algo quede como lo imaginaste.",
     "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. esa expresión tuya cuando quieres que algo quede como lo imaginaste. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
     "cancionTitulo": "Besos en Guerra",
     "cancionArtista": "Morat",
@@ -1259,7 +1259,7 @@ const CALENDARIO = [
       "Si tuviera que escoger una imagen para este día, sería cerámica y barro. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
       "dar forma a una pieza con paciencia, presión justa y tus propias manos. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
     ],
-    "detalle": "Pequeño guiño de hoy: dar forma a una pieza con paciencia, presión justa y tus propias manos.",
+    "detalle": "Para ponerle una pausa amable al día: dar forma a una pieza con paciencia, presión justa y tus propias manos.",
     "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. dar forma a una pieza con paciencia, presión justa y tus propias manos. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
     "cancionTitulo": "Día Tras Día",
     "cancionArtista": "Andrés Cepeda",
@@ -1282,7 +1282,7 @@ const CALENDARIO = [
       "Quise que este día tuviera un detalle diferente, inspirado en el olor a óleo. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
       "ese aroma de los materiales que hace reconocible tu rincón creativo. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
     ],
-    "detalle": "Pequeño guiño de hoy: ese aroma de los materiales que hace reconocible tu rincón creativo.",
+    "detalle": "Algo pequeño que quería dejarte presente: ese aroma de los materiales que hace reconocible tu rincón creativo.",
     "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. ese aroma de los materiales que hace reconocible tu rincón creativo. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
     "cancionTitulo": "Lo Que en Ti Veo",
     "cancionArtista": "Kany García & Nahuel Pennisi",
@@ -1305,7 +1305,7 @@ const CALENDARIO = [
       "Hay algo bonito en atardeceres: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
       "el cielo cambiando de color y una pausa para mirar antes de seguir. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
     ],
-    "detalle": "Pequeño guiño de hoy: el cielo cambiando de color y una pausa para mirar antes de seguir.",
+    "detalle": "Un detalle para hoy: el cielo cambiando de color y una pausa para mirar antes de seguir.",
     "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. el cielo cambiando de color y una pausa para mirar antes de seguir. Descansa a tu ritmo; no tienes que ganarte una pausa.",
     "cancionTitulo": "Dile al Amor",
     "cancionArtista": "Aventura",
@@ -1328,7 +1328,7 @@ const CALENDARIO = [
       "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en boleros y saxofón, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
       "una melodía cálida que acompaña sin exigir atención. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
     ],
-    "detalle": "Pequeño guiño de hoy: una melodía cálida que acompaña sin exigir atención.",
+    "detalle": "Para acordarte de algo bonito: una melodía cálida que acompaña sin exigir atención.",
     "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. una melodía cálida que acompaña sin exigir atención. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
     "cancionTitulo": "Me Ilusioné",
     "cancionArtista": "Binomio de Oro de América",
@@ -1351,7 +1351,7 @@ const CALENDARIO = [
       "Me gusta imaginar una escena sencilla alrededor de r&b para la tarde. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
       "un bajo suave, una voz cercana y espacio para pensar. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
     ],
-    "detalle": "Pequeño guiño de hoy: un bajo suave, una voz cercana y espacio para pensar.",
+    "detalle": "Una pequeña nota que me guardé: un bajo suave, una voz cercana y espacio para pensar.",
     "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. un bajo suave, una voz cercana y espacio para pensar. Deja que el día termine sin pedirte una última demostración de energía.",
     "cancionTitulo": "La Mitad",
     "cancionArtista": "Camilo",
@@ -1374,7 +1374,7 @@ const CALENDARIO = [
       "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en ropa ancha y comodidad, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
       "esa prenda cómoda que te deja moverte a tu manera. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
     ],
-    "detalle": "Pequeño guiño de hoy: esa prenda cómoda que te deja moverte a tu manera.",
+    "detalle": "Si hoy te queda un minuto: esa prenda cómoda que te deja moverte a tu manera.",
     "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. esa prenda cómoda que te deja moverte a tu manera. Ojalá el silencio de esta noche te siente bien.",
     "cancionTitulo": "Que Lloro",
     "cancionArtista": "Sin Bandera",
@@ -1397,7 +1397,7 @@ const CALENDARIO = [
       "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe helado de mora silvestre, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
       "mora intensa con cobertura amarga, justo como te gusta. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
     ],
-    "detalle": "Pequeño guiño de hoy: mora intensa con cobertura amarga, justo como te gusta.",
+    "detalle": "Un guiño a una de tus cosas favoritas: mora intensa con cobertura amarga, justo como te gusta.",
     "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. mora intensa con cobertura amarga, justo como te gusta. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
     "cancionTitulo": "Por Amarte Tanto",
     "cancionArtista": "Melendi",
@@ -1420,7 +1420,7 @@ const CALENDARIO = [
       "Si tuviera que escoger una imagen para este día, sería tulipanes y margaritas. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
       "flores elegidas por gusto y no por una fecha del calendario. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
     ],
-    "detalle": "Pequeño guiño de hoy: flores elegidas por gusto y no por una fecha del calendario.",
+    "detalle": "Para ponerle una pausa amable al día: flores elegidas por gusto y no por una fecha del calendario.",
     "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. flores elegidas por gusto y no por una fecha del calendario. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
     "cancionTitulo": "Vivir Sin Aire",
     "cancionArtista": "Maná",
@@ -1443,7 +1443,7 @@ const CALENDARIO = [
       "Quise que este día tuviera un detalle diferente, inspirado en el orden de las cosas. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
       "la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
     ],
-    "detalle": "Pequeño guiño de hoy: la tranquilidad que aparece cuando cada cosa vuelve a su lugar.",
+    "detalle": "Algo pequeño que quería dejarte presente: la tranquilidad que aparece cuando cada cosa vuelve a su lugar.",
     "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
     "cancionTitulo": "505",
     "cancionArtista": "Arctic Monkeys",
@@ -1466,7 +1466,7 @@ const CALENDARIO = [
       "Hay algo bonito en tu energía impulsiva: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
       "esa manera tuya de tener una idea y querer probarla enseguida. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
     ],
-    "detalle": "Pequeño guiño de hoy: esa manera tuya de tener una idea y querer probarla enseguida.",
+    "detalle": "Un detalle para hoy: esa manera tuya de tener una idea y querer probarla enseguida.",
     "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. esa manera tuya de tener una idea y querer probarla enseguida. Descansa a tu ritmo; no tienes que ganarte una pausa.",
     "cancionTitulo": "Amarte Más No Pude",
     "cancionArtista": "Diomedes Díaz",
@@ -1489,7 +1489,7 @@ const CALENDARIO = [
       "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en tu risa y tus gestos, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
       "una expresión espontánea que termina contando toda la historia. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
     ],
-    "detalle": "Pequeño guiño de hoy: una expresión espontánea que termina contando toda la historia.",
+    "detalle": "Para acordarte de algo bonito: una expresión espontánea que termina contando toda la historia.",
     "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. una expresión espontánea que termina contando toda la historia. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
     "cancionTitulo": "Creep",
     "cancionArtista": "Radiohead",
@@ -1512,7 +1512,7 @@ const CALENDARIO = [
       "Me gusta imaginar una escena sencilla alrededor de la canción en repetir. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
       "volver a poner la misma canción porque todavía no te cansas de ella. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
     ],
-    "detalle": "Pequeño guiño de hoy: volver a poner la misma canción porque todavía no te cansas de ella.",
+    "detalle": "Una pequeña nota que me guardé: volver a poner la misma canción porque todavía no te cansas de ella.",
     "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. volver a poner la misma canción porque todavía no te cansas de ella. Deja que el día termine sin pedirte una última demostración de energía.",
     "cancionTitulo": "Comptine d'un autre été",
     "cancionArtista": "Yann Tiersen",
@@ -1535,7 +1535,7 @@ const CALENDARIO = [
       "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en huevo con arroz y pasta, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
       "comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
     ],
-    "detalle": "Pequeño guiño de hoy: comida sencilla, hecha a tu gusto y sin complicaciones innecesarias.",
+    "detalle": "Si hoy te queda un minuto: comida sencilla, hecha a tu gusto y sin complicaciones innecesarias.",
     "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. Ojalá el silencio de esta noche te siente bien.",
     "cancionTitulo": "Perfecta",
     "cancionArtista": "Camilo",
@@ -1558,7 +1558,7 @@ const CALENDARIO = [
       "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe no todo necesita sal, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
       "recordar un detalle pequeño también es una forma de escuchar. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
     ],
-    "detalle": "Pequeño guiño de hoy: recordar un detalle pequeño también es una forma de escuchar.",
+    "detalle": "Un guiño a una de tus cosas favoritas: recordar un detalle pequeño también es una forma de escuchar.",
     "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. recordar un detalle pequeño también es una forma de escuchar. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
     "cancionTitulo": "Te Quiero Tanto",
     "cancionArtista": "Kevin Kaarl",
@@ -1581,7 +1581,7 @@ const CALENDARIO = [
       "Si tuviera que escoger una imagen para este día, sería merlot y conversación. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
       "una copa tranquila y una charla que no necesita un guion. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
     ],
-    "detalle": "Pequeño guiño de hoy: una copa tranquila y una charla que no necesita un guion.",
+    "detalle": "Para ponerle una pausa amable al día: una copa tranquila y una charla que no necesita un guion.",
     "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. una copa tranquila y una charla que no necesita un guion. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
     "cancionTitulo": "Glue Song",
     "cancionArtista": "beabadoobee",
@@ -1604,7 +1604,7 @@ const CALENDARIO = [
       "Quise que este día tuviera un detalle diferente, inspirado en tus ojos cafés. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
       "esa mirada que cambia cuando algo te sorprende o te da risa. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
     ],
-    "detalle": "Pequeño guiño de hoy: esa mirada que cambia cuando algo te sorprende o te da risa.",
+    "detalle": "Algo pequeño que quería dejarte presente: esa mirada que cambia cuando algo te sorprende o te da risa.",
     "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. esa mirada que cambia cuando algo te sorprende o te da risa. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
     "cancionTitulo": "Robarte un Beso",
     "cancionArtista": "Carlos Vives & Sebastián Yatra",
@@ -1627,7 +1627,7 @@ const CALENDARIO = [
       "Hay algo bonito en manualidades sin instrucciones: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
       "materiales sobre la mesa y libertad para cambiar de idea en el proceso. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
     ],
-    "detalle": "Pequeño guiño de hoy: materiales sobre la mesa y libertad para cambiar de idea en el proceso.",
+    "detalle": "Un detalle para hoy: materiales sobre la mesa y libertad para cambiar de idea en el proceso.",
     "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. materiales sobre la mesa y libertad para cambiar de idea en el proceso. Descansa a tu ritmo; no tienes que ganarte una pausa.",
     "cancionTitulo": "Just The Way You Are",
     "cancionArtista": "Bruno Mars",
@@ -1650,7 +1650,7 @@ const CALENDARIO = [
       "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en nada a medias, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
       "la claridad y el cuidado que merecen los sentimientos. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
     ],
-    "detalle": "Pequeño guiño de hoy: la claridad y el cuidado que merecen los sentimientos.",
+    "detalle": "Para acordarte de algo bonito: la claridad y el cuidado que merecen los sentimientos.",
     "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. la claridad y el cuidado que merecen los sentimientos. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
     "cancionTitulo": "Volvamos a Ser Novios",
     "cancionArtista": "Silvestre Dangond & Juancho De La Espriella",
@@ -1673,7 +1673,7 @@ const CALENDARIO = [
       "Me gusta imaginar una escena sencilla alrededor de café amargo, día amable. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
       "un café fuerte sin que el resto del día tenga que serlo. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
     ],
-    "detalle": "Pequeño guiño de hoy: un café fuerte sin que el resto del día tenga que serlo.",
+    "detalle": "Una pequeña nota que me guardé: un café fuerte sin que el resto del día tenga que serlo.",
     "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. un café fuerte sin que el resto del día tenga que serlo. Deja que el día termine sin pedirte una última demostración de energía.",
     "cancionTitulo": "Get You",
     "cancionArtista": "Daniel Caesar feat. Kali Uchis",
@@ -1696,7 +1696,7 @@ const CALENDARIO = [
       "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en una margarita en tu escritorio, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
       "un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
     ],
-    "detalle": "Pequeño guiño de hoy: un detalle sencillo junto a tus materiales, sin interrumpir tu mundo.",
+    "detalle": "Si hoy te queda un minuto: un detalle sencillo junto a tus materiales, sin interrumpir tu mundo.",
     "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. Ojalá el silencio de esta noche te siente bien.",
     "cancionTitulo": "Las Locuras Mías",
     "cancionArtista": "Silvestre Dangond",
@@ -1719,7 +1719,7 @@ const CALENDARIO = [
       "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe un plan casero, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
       "cocinar algo rico, escoger una película y quedarse cómodos. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
     ],
-    "detalle": "Pequeño guiño de hoy: cocinar algo rico, escoger una película y quedarse cómodos.",
+    "detalle": "Un guiño a una de tus cosas favoritas: cocinar algo rico, escoger una película y quedarse cómodos.",
     "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. cocinar algo rico, escoger una película y quedarse cómodos. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
     "cancionTitulo": "La Reina",
     "cancionArtista": "Maluma",
@@ -1742,7 +1742,7 @@ const CALENDARIO = [
       "Si tuviera que escoger una imagen para este día, sería la perrita que te busca. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
       "esa bienvenida mañanera que hace que el día empiece con movimiento. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
     ],
-    "detalle": "Pequeño guiño de hoy: esa bienvenida mañanera que hace que el día empiece con movimiento.",
+    "detalle": "Para ponerle una pausa amable al día: esa bienvenida mañanera que hace que el día empiece con movimiento.",
     "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. esa bienvenida mañanera que hace que el día empiece con movimiento. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
     "cancionTitulo": "Kilómetros",
     "cancionArtista": "Sin Bandera",
