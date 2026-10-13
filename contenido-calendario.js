@@ -1752,23 +1752,24 @@ const CALENDARIO = [
     "dia": 77,
     "fecha": "2026-12-31",
     "fechaTexto": "jue, 31 de dic",
-    "categoria": "Tinto sin azúcar",
-    "icono": "☕",
-    "tono": "ambiente",
+    "categoria": "31 de diciembre: seguimos",
+    "icono": "✨",
+    "tono": "amor",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buen día para ti. Que lo importante salga bien y que lo sencillo también te dé alegría. un café intenso y un día que ojalá sea amable contigo. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Llegó el último día del año y quería que encontraras aquí algo más que una cuenta regresiva. Ojalá hoy tengas tiempo para disfrutar lo que sí salió bien, reírte un rato y entrar al año nuevo sin exigirte tenerlo todo resuelto.",
     "poema": [
-      "Quise que este día tuviera un detalle diferente, inspirado en tinto sin azúcar. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
-      "un café intenso y un día que ojalá sea amable contigo. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
+      "Estos 77 días fueron una colección de pequeños guiños a cosas que te gustan: la música que repites cuando te atrapa, los atardeceres, tus materiales para crear, el café sin azúcar, las flores y esos gestos tuyos que hacen que un momento común tenga personalidad.",
+      "No quería resumirte en una lista ni llenar una pantalla de frases enormes. Quería dejarte un rincón al que pudieras volver y encontrar algo amable, una canción que te acompañara o una frase que te hiciera sonreír aunque fuera un poquito.",
+      "Que el año que viene te traiga proyectos que te entusiasmen, tardes bonitas, canciones nuevas para repetir, tiempo para crear y personas que sean claras y cuidadosas contigo. No hace falta prometer que todo será perfecto; basta con seguir haciendo espacio para lo que de verdad vale la pena."
     ],
-    "detalle": "Pequeño guiño de hoy: un café intenso y un día que ojalá sea amable contigo.",
-    "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. un café intenso y un día que ojalá sea amable contigo. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
-    "cancionTitulo": "Incondicional",
-    "cancionArtista": "Prince Royce",
-    "youtubeId": "h_fXySfFmM8"
+    "detalle": "Para cerrar: elige la canción que más te gustó de este calendario y guárdala como banda sonora de este final de año.",
+    "buenasNoches": "Buenas noches, Aleja. Gracias por llegar hasta aquí. Que despidas el año a tu manera, con calma, música y algo que te haga reír. Ojalá el nuevo año te encuentre rodeada de cariño sincero, ideas bonitas y muchos motivos para seguir siendo tan tú.",
+    "cancionTitulo": "Moment Of Your Life",
+    "cancionArtista": "Brent Faiyaz feat. Coco Jones",
+    "youtubeId": "Jv17JsayCSI"
   }
 ];
