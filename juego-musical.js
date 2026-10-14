@@ -22,16 +22,35 @@ function moveDrag(e){if(!drag||drag.pointer!==e.pointerId)return;const dx=e.clie
 function endDrag(e){if(!drag||drag.pointer!==e.pointerId)return;const d=drag;drag=null;d.el.classList.remove("is-dragging");if(d.moved){d.el.wasDragged=true;const r=mesa.getBoundingClientRect(),cx=r.left+r.width/2,cy=r.top+r.height/2,er=d.el.getBoundingClientRect();if(Math.hypot(er.left+er.width/2-cx,er.top+er.height/2-cy)<Math.min(r.width,r.height)*.25)selectSong(d.el);setTimeout(()=>{d.el.wasDragged=false;},100);}}
 function selectSong(el){if(chosen)chosen.classList.remove("is-fijada");chosen=el;el.classList.add("is-fijada");title.textContent=el.song.titulo;artist.textContent=el.song.artista;cover.innerHTML="";const img=el.querySelector("img").cloneNode();img.loading="eager";cover.appendChild(img);player.classList.add("is-visible");help.textContent="Portada fijada: pulsa «Escuchar canción» para reproducirla, o mueve otra al centro.";
 openBtn.onclick=()=>{const video=document.getElementById("videoInline");video.innerHTML="";const frame=document.createElement("iframe");frame.src="https://www.youtube-nocookie.com/embed/"+encodeURIComponent(el.song.youtubeId)+"?autoplay=1&rel=0";frame.title="Reproductor de "+el.song.titulo;frame.allow="autoplay; encrypted-media; picture-in-picture";frame.allowFullscreen=true;video.appendChild(frame);video.classList.add("is-playing");openBtn.textContent="♫ Reproduciendo aquí";};}
-function shuffle(){shakeCount++;if(chosen)chosen.classList.remove("is-fijada");chosen=null;player.classList.remove("is-visible");const video=document.getElementById("videoInline");if(video){video.innerHTML="";video.classList.remove("is-playing");}mesa.classList.remove("is-revolviendo");void mesa.offsetWidth;mesa.classList.add("is-revolviendo");const cards=[...layer.querySelectorAll(".portada-musical")];cards.forEach((el,i)=>{el.classList.remove("is-fijada","caida-inicial");el.classList.add("volando");el.style.zIndex=String(i+2);el.style.left=(8+Math.random()*Math.max(1,mesa.clientWidth-el.offsetWidth-16))+"px";el.style.top=(35+Math.random()*Math.max(1,mesa.clientHeight-el.offsetHeight-75))+"px";el.style.setProperty("--rotacion",(Math.random()*46-23)+"deg");el.style.setProperty("--rebote-x",(Math.random()*60-30)+"px");el.style.setProperty("--rebote-rot",(Math.random()*35-17)+"deg");el.style.setProperty("--delay",(i*22)+"ms");el.addEventListener("animationend",()=>el.classList.remove("volando"),{once:true});});help.textContent="¡Ahí van las canciones! Cuando una portada te llame la atención, tócala para escucharla.";setTimeout(()=>mesa.classList.remove("is-revolviendo"),1250);}
+function shuffle(){shakeCount++;if(chosen)chosen.classList.remove("is-fijada");chosen=null;player.classList.remove("is-visible");const video=document.getElementById("videoInline");if(video){video.innerHTML="";video.classList.remove("is-playing");}openBtn.textContent="▶ Reproducir aquí";mesa.classList.remove("is-revolviendo");void mesa.offsetWidth;mesa.classList.add("is-revolviendo");const cards=[...layer.querySelectorAll(".portada-musical")];cards.forEach((el,i)=>{el.classList.remove("is-fijada","caida-inicial");el.classList.add("volando");el.style.zIndex=String(i+2);el.style.left=(8+Math.random()*Math.max(1,mesa.clientWidth-el.offsetWidth-16))+"px";el.style.top=(35+Math.random()*Math.max(1,mesa.clientHeight-el.offsetHeight-75))+"px";el.style.setProperty("--rotacion",(Math.random()*46-23)+"deg");el.style.setProperty("--rebote-x",(Math.random()*60-30)+"px");el.style.setProperty("--rebote-rot",(Math.random()*35-17)+"deg");el.style.setProperty("--delay",(i*22)+"ms");el.addEventListener("animationend",()=>el.classList.remove("volando"),{once:true});});help.textContent="¡Ahí van las canciones! Cuando una portada te llame la atención, tócala para escucharla.";setTimeout(()=>mesa.classList.remove("is-revolviendo"),1250);}
 document.getElementById("mezclar").addEventListener("click",shuffle);
 document.getElementById("otraRonda").addEventListener("click",()=>{round++;render();help.textContent="Nueva ronda musical. ¿Cuál portada te llama la atención?";});
-document.getElementById("cerrarReproductor").addEventListener("click",()=>{player.classList.remove("is-visible");if(chosen)chosen.classList.remove("is-fijada");chosen=null;});
-let lastMotion=0, previous={x:null,y:null,z:null}, shakeEnergy=0;
-function listenMotion(){if(motionEnabled)return;motionEnabled=true;help.textContent="Movimiento activado: agita el teléfono para revolver las portadas.";
-window.addEventListener("devicemotion",e=>{const a=e.acceleration||e.accelerationIncludingGravity;if(!a)return;const x=Number(a.x)||0,y=Number(a.y)||0,z=Number(a.z)||0;let delta=0;if(previous.x!==null)delta=Math.abs(x-previous.x)+Math.abs(y-previous.y)+Math.abs(z-previous.z);previous={x,y,z};const now=Date.now();if(delta>13&&now-lastMotion>950){lastMotion=now;shuffle();help.textContent="¡Sacudida detectada! Las portadas vuelan; toca una para escucharla.";}} ,{passive:true});}
+document.getElementById("cerrarReproductor").addEventListener("click",()=>{player.classList.remove("is-visible");if(chosen)chosen.classList.remove("is-fijada");chosen=null;const video=document.getElementById("videoInline");video.innerHTML="";video.classList.remove("is-playing");openBtn.textContent="▶ Reproducir aquí";});
+let lastMotion=0, previous={x:null,y:null,z:null}, shakeEnergy=0, motionEvents=0;
+function listenMotion(){
+ if(motionEnabled)return;
+ motionEnabled=true;
+ help.textContent="Movimiento activado. Agita el teléfono con dos o tres movimientos firmes para revolver las portadas.";
+ window.addEventListener("devicemotion",e=>{
+  const a=e.accelerationIncludingGravity||e.acceleration;
+  if(!a)return;
+  const x=Number(a.x),y=Number(a.y),z=Number(a.z);
+  if(!Number.isFinite(x)||!Number.isFinite(y)||!Number.isFinite(z))return;
+  motionEvents++;
+  let delta=0;
+  if(previous.x!==null)delta=Math.abs(x-previous.x)+Math.abs(y-previous.y)+Math.abs(z-previous.z);
+  previous={x,y,z};
+  const now=Date.now();
+  shakeEnergy=Math.max(0,shakeEnergy-1.8)+Math.min(delta,35);
+  if((delta>8.5||shakeEnergy>20)&&now-lastMotion>1150){
+   lastMotion=now;shakeEnergy=0;shuffle();
+   help.textContent="¡Sacudida detectada! Las portadas rebotan por la mesa. Toca una para escucharla.";
+  }
+ },{passive:true});
+}
 const motionButton=document.getElementById("activarMovimiento");
 if(motionButton)motionButton.addEventListener("click",async()=>{try{if(typeof DeviceMotionEvent!=="undefined"&&typeof DeviceMotionEvent.requestPermission==="function"){const permission=await DeviceMotionEvent.requestPermission();if(permission!=="granted"){help.textContent="El permiso de movimiento no se concedió. Puedes usar «Revolver las portadas».";return;}}listenMotion();motionButton.textContent="✓ Agitado activado";motionButton.classList.add("is-active");}catch(err){help.textContent="Este navegador no permite activar el sensor aquí. Usa el botón de revolver."; }});
-if(typeof DeviceMotionEvent!=="undefined"&&typeof DeviceMotionEvent.requestPermission!=="function"){listenMotion();}
+if(typeof DeviceMotionEvent!=="undefined"&&typeof DeviceMotionEvent.requestPermission!=="function"&&/Android|Linux/i.test(navigator.userAgent)){listenMotion();}
 window.addEventListener("resize",()=>{if(!drag)layer.querySelectorAll(".portada-musical").forEach(el=>{el.style.left=Math.max(0,Math.min(mesa.clientWidth-el.offsetWidth,parseFloat(el.style.left)||0))+"px";});});
 render();
 setTimeout(()=>{layer.querySelectorAll(".portada-musical").forEach(el=>el.classList.remove("caida-inicial"));},1800);
