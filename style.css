@@ -589,3 +589,38 @@ a { color: inherit; }
   .modal-body > *, #pasoContenido > *, .modal-signature{ animation: none !important; }
 }
 
+
+
+/* ================================================================
+   PORTADA PRINCIPAL — Aleja / collage romántico de arte urbano
+   ================================================================ */
+body:has(.portada-urbana){background:#100914;color:#fff7f2}
+.portada-urbana{isolation:isolate;overflow:hidden;min-height:100svh;padding:clamp(2rem,6vh,5rem) 1.2rem;gap:clamp(.75rem,2.4vh,1.35rem)}
+.portada-urbana:before{content:"";position:absolute;z-index:-1;inset:4% 5%;border:1px solid #f3b5d61c;border-radius:2px;pointer-events:none;box-shadow:inset 0 0 100px #d8377910}
+.portada-urbana:after{content:"";position:absolute;z-index:-2;inset:-30%;pointer-events:none;background:radial-gradient(ellipse at 50% 36%,#a7295940,transparent 33%),radial-gradient(ellipse at 8% 72%,#b5d94d14,transparent 30%),radial-gradient(ellipse at 88% 22%,#7c3a9b26,transparent 30%);animation:portada-luz 12s ease-in-out infinite alternate}
+@keyframes portada-luz{from{transform:translate3d(-1%,0,0) scale(1)}to{transform:translate3d(1%,-1%,0) scale(1.04)}}
+.portada-urbana .portada-sello,.portada-urbana .portada-pie{font:500 .64rem/1.5 "DM Mono",monospace;letter-spacing:.19em;color:#d9ed8b;text-transform:uppercase;margin:0;text-align:center}
+.portada-urbana .portada-titulo{font-family:"Playfair Display",Georgia,serif;font-size:clamp(2.7rem,9vw,5.3rem);font-weight:700;letter-spacing:-.055em;line-height:.98;margin:.1rem 0 0;text-shadow:0 8px 40px #e43c8440}
+.portada-urbana .portada-titulo span{font-style:italic;color:#f5a4c7}
+.portada-urbana .portada-subtitulo{max-width:25rem;margin:0;color:#ead9e4;font-size:clamp(1.05rem,3.4vw,1.35rem);font-style:italic;line-height:1.35}
+.portada-urbana .heart-big{position:relative;margin:.2rem 0;font-size:clamp(6rem,25vw,10rem);color:#f27fb0;filter:drop-shadow(0 0 13px #ff68ad99) drop-shadow(0 0 44px #ed328c55);animation:latido-urbano 2.1s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes latido-urbano{0%,100%{transform:scale(1) rotate(-2deg)}16%{transform:scale(1.12) rotate(2deg)}28%{transform:scale(.98) rotate(-1deg)}43%{transform:scale(1.08) rotate(1deg)}58%{transform:scale(1) rotate(0)}}
+.portada-urbana .portada-hint{max-width:21rem;margin:0;font-size:1rem;line-height:1.45;color:#f2dce8;opacity:.9}
+.portada-marcas{position:absolute;inset:0;pointer-events:none;z-index:-1}
+.portada-marcas .marca{position:absolute;display:grid;place-items:center;width:clamp(2.8rem,8vw,4.5rem);aspect-ratio:1;border:1px solid #f4b7d73b;background:#160c1bc9;color:#e2f18b;border-radius:50%;font-size:clamp(1.3rem,4vw,2.1rem);box-shadow:0 8px 24px #0005;animation:sticker-flota 6s ease-in-out infinite}
+.marca--uno{left:9%;top:20%;transform:rotate(-12deg)}.marca--dos{right:10%;top:25%;color:#f5a4c7!important;animation-delay:-1s!important}.marca--tres{left:13%;bottom:24%;transform:rotate(12deg);animation-delay:-2.5s!important}.marca--cuatro{right:11%;bottom:27%;animation-delay:-.8s!important}.marca--cinco{right:21%;top:13%;font-size:1.5rem!important;color:#f5a4c7!important;animation-delay:-3s!important}.marca--seis{left:22%;top:12%;font-size:1.2rem!important;animation-delay:-1.7s!important}
+@keyframes sticker-flota{0%,100%{translate:0 0;rotate:-3deg}50%{translate:0 -8px;rotate:3deg}}
+.portada-accesos{width:min(100%,27rem);display:grid;gap:.7rem;margin-top:.25rem}
+.portada-urbana .portada-juego-link,.portada-calendario-link{display:flex;align-items:center;gap:.85rem;text-decoration:none;text-align:left;border-radius:5px;padding:.9rem 1rem;transition:transform .22s ease,border-color .22s ease,background .22s ease,box-shadow .22s ease}
+.portada-urbana .portada-juego-link{border:1px solid #f28bbd8c;background:linear-gradient(110deg,#e344871e,#201124e8);box-shadow:5px 5px 0 #b9316c55,0 10px 35px #0002}
+.portada-urbana .portada-juego-link>span:first-child{display:grid;place-items:center;width:2.5rem;height:2.5rem;border-radius:50%;background:#f28bbd;color:#210c1a;font-size:1.35rem;flex-shrink:0}
+.portada-urbana .portada-juego-link>span:nth-child(2){flex:1;font-family:"Playfair Display",serif;font-size:1.2rem}
+.portada-urbana .portada-juego-link small{display:block;font:500 .57rem "DM Mono",monospace;letter-spacing:.16em;color:#d9ed8b;margin-bottom:.16rem}
+.portada-urbana .portada-juego-link b,.portada-calendario-link b{font:400 1.1rem "DM Mono",monospace}
+.portada-urbana .portada-calendario-link{justify-content:center;border:1px solid #d9ed8b45;background:#d9ed8b0b;color:#f5e8ed;font-size:1rem}
+.portada-urbana .portada-calendario-link span{color:#d9ed8b}
+.portada-urbana .portada-juego-link:hover,.portada-urbana .portada-calendario-link:hover{transform:translateY(-3px);border-color:#d9ed8b;box-shadow:0 10px 30px #d8377920}
+.portada-urbana .portada-pie{font-size:.55rem;letter-spacing:.12em;color:#c7aebeaa;margin-top:.2rem}
+.portada-urbana .heart-big:focus-visible,.portada-urbana a:focus-visible{outline:2px solid #d9ed8b;outline-offset:5px}
+@media(max-width:560px){.portada-urbana{gap:1rem;padding:3rem 1rem}.portada-urbana:before{inset:2.5% 3%}.portada-marcas .marca{width:2.5rem}.marca--uno{left:5%;top:24%}.marca--dos{right:5%;top:29%}.marca--tres{left:5%;bottom:27%}.marca--cuatro{right:5%;bottom:30%}.marca--cinco{right:17%;top:15%}.marca--seis{left:16%;top:14%}.portada-urbana .portada-titulo{font-size:clamp(2.65rem,12vw,4.3rem)}.portada-urbana .portada-pie{max-width:18rem;line-height:1.8}}
+@media(prefers-reduced-motion:reduce){.portada-urbana:after,.portada-urbana .heart-big,.portada-marcas .marca{animation:none!important}.portada-urbana .portada-juego-link,.portada-urbana .portada-calendario-link{transition:none}}
