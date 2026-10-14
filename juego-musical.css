@@ -41,3 +41,10 @@
 .juego-mesa.is-revolviendo .portada-musical{filter:brightness(1.12) saturate(1.18)}
 @media(max-width:600px){.juego-mesa{min-height:560px}}
 @media(prefers-reduced-motion:reduce){.portada-musical.caida-inicial,.portada-musical.volando{animation:none}}
+
+.juego-btn.is-active{background:#b9cbb3;color:#1d2b20;border-color:transparent}
+.portada-musical.caida-inicial{animation:caer-portada 1.15s cubic-bezier(.16,.72,.2,1) both;animation-delay:var(--delay,0ms)}
+@keyframes caer-portada{0%{opacity:0;transform:translate3d(var(--entrada-x,0),-125vh,0) rotate(var(--entrada-rot,-20deg)) scale(.72)}58%{opacity:1;transform:translate3d(calc(var(--entrada-x,0)*-.18),8px,0) rotate(calc(var(--entrada-rot,-20deg)*-.25)) scale(1.04)}72%{transform:translate3d(0,-10px,0) rotate(var(--rotacion,0deg)) scale(.98)}84%{transform:translate3d(0,4px,0) rotate(var(--rotacion,0deg)) scale(1)}100%{opacity:1;transform:translate3d(0,0,0) rotate(var(--rotacion,0deg)) scale(1)}}
+.portada-musical.volando{animation:volar-portada 1.2s cubic-bezier(.12,.78,.18,1.12) both;animation-delay:var(--delay,0ms)}
+@keyframes volar-portada{0%{transform:translate3d(0,-38vh,0) rotate(-35deg) scale(.72);opacity:.65}30%{opacity:1}57%{transform:translate3d(var(--rebote-x,22px),12px,0) rotate(var(--rebote-rot,18deg)) scale(1.07)}74%{transform:translate3d(calc(var(--rebote-x,22px)*-.45),-7px,0) rotate(calc(var(--rebote-rot,18deg)*-.4)) scale(.99)}100%{transform:translate3d(0,0,0) rotate(var(--rotacion,0deg)) scale(1);opacity:1}}
+@media(prefers-reduced-motion:reduce){.portada-musical.caida-inicial,.portada-musical.volando{animation:none}}
