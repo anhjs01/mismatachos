@@ -154,14 +154,21 @@
     if (!dia) return;
     if (!dia.youtubeId) { reproducirCategoria(dia.tono || "amor"); return; }
     let encontrada = null;
+    let categoriaEncontrada = null;
     if (typeof CATALOGO_CANCIONES !== "undefined") {
       for (const categoria of Object.keys(CATALOGO_CANCIONES)) {
         encontrada = (CATALOGO_CANCIONES[categoria] || []).find(c => c.youtubeId === dia.youtubeId);
-        if (encontrada) break;
+        if (encontrada) {
+          categoriaEncontrada = categoria;
+          break;
+        }
       }
     }
     cancionActual = encontrada ? { ...encontrada } : { titulo: dia.cancionTitulo || "Canción del día", artista: dia.cancionArtista || "", youtubeId: dia.youtubeId };
-    cancionActual.categoria = dia.tono || (encontrada && encontrada.categoria) || "amor";
+    // La categoría real del catálogo permite que el botón "siguiente" y el
+    // avance automático sigan funcionando aunque el tono del día sea distinto.
+    cancionActual.categoria = categoriaEncontrada ||
+      (typeof CATALOGO_CANCIONES !== "undefined" && CATALOGO_CANCIONES[dia.tono] ? dia.tono : "amor");
     reproducirId(dia.youtubeId, false); precargada = null; sonando = true; actualizarUI();
   }
   function pausarOReanudar() {
