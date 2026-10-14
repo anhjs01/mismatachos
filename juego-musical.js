@@ -4,9 +4,19 @@ const source=typeof CATALOGO_CANCIONES!=="undefined"?CATALOGO_CANCIONES:{};
 const videos=Object.values(source).flat().filter(s=>s&&s.youtubeId&&s.titulo);
 const spotifyTracks=Array.isArray(window.CATALOGO_SPOTIFY)?window.CATALOGO_SPOTIFY:[];
 function normaliza(s){return String(s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g," ").trim();}
-const videoByTitle=new Map();
-videos.forEach(s=>{const key=normaliza(s.titulo);if(key&&!videoByTitle.has(key))videoByTitle.set(key,s);});
-const imported=spotifyTracks.map(t=>{const match=videoByTitle.get(normaliza(t.titulo));return {...t,artista:t.artista||"Artista desconocido",youtubeId:match?.youtubeId||"",nota:match?.nota||"",imagen:t.imagen||"",spotifyUrl:t.spotifyUrl||("https://open.spotify.com/track/"+t.spotifyId)};});
+const videosByTitle=new Map();
+videos.forEach(s=>{const key=normaliza(s.titulo);if(key){if(!videosByTitle.has(key))videosByTitle.set(key,[]);videosByTitle.get(key).push(s);}});
+function matchVideo(track){
+ const candidates=videosByTitle.get(normaliza(track.titulo))||[];
+ const target=normaliza(track.artista).split(" ").filter(w=>w.length>2&&!["feat","con","and","the"].includes(w));
+ return candidates.find(candidate=>{
+  const artist=normaliza(candidate.artista);
+  if(!artist||!target.length)return false;
+  const overlap=target.filter(word=>artist.split(" ").includes(word)).length;
+  return artist===normaliza(track.artista)||artist.includes(normaliza(track.artista))||normaliza(track.artista).includes(artist)||overlap>=Math.min(2,target.length);
+ })||null;
+}
+const imported=spotifyTracks.map(t=>{const match=matchVideo(t);return {...t,artista:t.artista||"Artista desconocido",youtubeId:match?.youtubeId||"",nota:match?.nota||"",imagen:t.imagen||"",spotifyUrl:t.spotifyUrl||("https://open.spotify.com/track/"+t.spotifyId)};});
 const merged=[...imported,...videos.filter(v=>!imported.some(t=>t.youtubeId&&t.youtubeId===v.youtubeId))];
 const songs=(merged.length?merged:videos).filter((s,i,a)=>s&&(s.youtubeId||s.spotifyId)&&s.titulo&&a.findIndex(x=>(x.youtubeId||x.spotifyId)===(s.youtubeId||s.spotifyId))===i);
 const mesa=document.getElementById("mesa"),layer=document.getElementById("portadas"),player=document.getElementById("reproductorFijo");
