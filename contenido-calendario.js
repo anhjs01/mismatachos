@@ -14,11 +14,11 @@ const CALENDARIO = [
     },
     "buenosDias": "Buenos días, Aleja. Ojalá hoy alguien te reciba con esa emoción que no necesita palabras: como una perrita que te reconoce desde la puerta y convierte una llegada cualquiera en el mejor momento.",
     "poema": [
-      "Hay cariños que no preguntan cómo te fue ni esperan una explicación. Se acercan, hacen espacio y celebran que estés ahí.",
-      "Me gusta pensar que también podemos aprender a querer así: con atención, paciencia y alegría por las pequeñas cosas que te hacen ser tú."
+      "Hay cariños que no necesitan grandes discursos: una cola que se mueve, unos pasos apurados hacia la puerta y esa alegría limpia de verte aparecer.",
+      "A veces me pregunto si sabes el efecto que puede tener tu llegada. Hay personas que no necesitan hacer nada extraordinario para cambiar el ambiente; simplemente aparecen y el día se vuelve un poquito más amable. Sospecho que tú tienes algo de eso."
     ],
-    "detalle": "Hoy, si necesitas una pausa, imagina una perrita moviendo la cola apenas te ve llegar. Que alguien se alegre de encontrarte también es una forma de hogar.",
-    "buenasNoches": "Que descanses, Aleja. Ojalá el día te haya dejado al menos una escena que te dé ternura al recordarla. Lo demás puede esperar hasta mañana.",
+    "detalle": "Si hoy alguien se alegra de verte, disfruta ese recibimiento. Y si te cruzas con una perrita emocionada, no descartes que te robe una sonrisa también.",
+    "buenasNoches": "Que descanses, Aleja. Ojalá hoy alguien te haya recibido con cariño y que, si no pasó, al menos te vayas a dormir sabiendo que hay algo muy bonito en esa forma tuya de estar en el mundo.",
     "cancionTitulo": "Hecha Pa' Mí",
     "cancionArtista": "Grupo Frontera",
     "youtubeId": "IbE7peGTpmc"
@@ -35,13 +35,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Que tu primera pausa tenga el sabor exacto que prefieres: café sin azúcar, sin adornos que no hacen falta y con unos minutos que sean solo tuyos.",
+    "buenosDias": "Buenos días, Aleja. Que el primer café te salga como te gusta: fuerte, sin azúcar y con ese aire de quien sabe perfectamente lo que quiere. Hay gustos que no necesitan discusión… y personas que tampoco necesitan adornarse para llamar la atención.",
     "poema": [
       "Hay gustos que se aprenden escuchando. No hace falta endulzar tu café para hacerlo especial, igual que no hace falta llenar cada momento de ruido para que valga la pena.",
-      "Ojalá hoy puedas elegir a tu manera, incluso en las cosas pequeñas."
+      "Aunque, si te soy sincero, hay algo de tu manera de tener gustos tan tuyos que me da curiosidad: dan ganas de sentarse contigo, tomar algo y descubrir qué otras pequeñas cosas te hacen sonreír."
     ],
     "detalle": "Si preparas café hoy, tómate el primer sorbo sin mirar el reloj. Que esos segundos sean tuyos antes de volver a todo lo demás.",
-    "buenasNoches": "Que la noche te quite un poco del ruido del día. Mañana puede esperar; deja que el último pensamiento sea algo que te dé calma, no otra tarea.",
+    "buenasNoches": "Que la noche te quite el ruido del día. Ojalá mañana tengas un café rico, una razón para sonreír y, si se puede, alguien que consiga sacarte una de esas sonrisas que hacen que uno se olvide un segundo de lo que iba a decir.",
     "cancionTitulo": "pa quererte",
     "cancionArtista": "Rels B",
     "youtubeId": "XQeBTVeWkDo"
@@ -61,10 +61,10 @@ const CALENDARIO = [
     "buenosDias": "Buenos días. Te deseo una mañana con algo fresco y dulce, de esos pequeños gustos que mejoran el día sin tener que convertirlo en una ocasión especial.",
     "poema": [
       "Pienso en fresas y duraznos cortados en un plato, en escoger primero el que más provoca y en conversar sin apuro mientras se acaba la tarde.",
-      "No todo recuerdo bonito necesita un gran plan. A veces basta con compartir algo que te gusta y estar presente de verdad."
+      "Hay algo encantador en compartir un gusto sencillo con alguien y descubrir que la conversación se vuelve tan dulce como la fruta. Aunque admito que, si tú sonríes en mitad de la charla, probablemente el durazno deje de ser lo más bonito de la mesa."
     ],
-    "detalle": "Regálate una pausa con fruta, si se te antoja. No tiene que ser productiva ni fotografiable: basta con que la disfrutes.",
-    "buenasNoches": "Ojalá cierres el día con la sensación de haber tenido un momento agradable, aunque haya sido breve. El descanso también puede saber a algo sencillo y bueno.",
+    "detalle": "Si se te antoja fruta, elige la que de verdad te provoque. Y si alguien te hace reír mientras la compartes, no te preocupes si terminas olvidando cuál pedazo ibas a escoger.",
+    "buenasNoches": "Ojalá cierres el día con un recuerdo pequeño y dulce. De esos que vuelven sin avisar y te hacen sonreír sola, como cuando alguien dice algo inesperado y la sonrisa se queda un poquito más de la cuenta.",
     "cancionTitulo": "All of Me",
     "cancionArtista": "John Legend",
     "youtubeId": "450p7goxZqg"
@@ -81,13 +81,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hoy me acordé de esa expresión que aparece cuando quieres que algo quede tal como lo imaginaste. Espero que tengas espacio para crear sin que nadie te apure.",
+    "buenosDias": "Buenos días, Aleja. Me acordé de esa cara que pones cuando estás concentrada y quieres que algo quede justo como lo imaginaste. Debe ser difícil interrumpirte… aunque confieso que me daría curiosidad ver cuánto tardas en notar que te estoy mirando con una sonrisa.",
     "poema": [
       "A veces conoces mejor a alguien al notar cómo frunce el ceño cuando algo no encaja o cómo cambia su cara cuando por fin queda bien.",
-      "Esos gestos cotidianos también cuentan una historia; no hace falta que te des cuenta para que sean parte de lo que te hace única."
+      "Hay gestos que tienen una belleza distraída, precisamente porque no están hechos para gustarle a nadie. Me imagino tus ojos cafés siguiendo cada detalle, las pecas apareciendo cuando sonríes al lograrlo y esa expresión satisfecha que quizá dura apenas un instante, pero merece ser vista."
     ],
-    "detalle": "Si algo no te queda como querías, no te castigues en el primer intento. Aléjate un minuto y vuelve a mirarlo.",
-    "buenasNoches": "Descansa esos ojos y esa cabeza que tanto se empeñan en que las cosas salgan bien. Puedes retomar lo pendiente cuando te nazca.",
+    "detalle": "Si hoy estás creando algo, fíjate en tu expresión cuando te concentras y cuando por fin te gusta el resultado. Son dos versiones tuyas que seguro cuentan historias distintas.",
+    "buenasNoches": "Descansa esos ojos que se fijan en tantos detalles. Y guarda un poquito de esa sonrisa para cuando algo te salga como querías; tengo la sospecha de que tus pecas hacen equipo con ella.",
     "cancionTitulo": "Bendita Tu Luz",
     "cancionArtista": "Maná & Juan Luis Guerra",
     "youtubeId": "44kityInDvM"
@@ -129,11 +129,11 @@ const CALENDARIO = [
     },
     "buenosDias": "Buenos días, Aleja. Hay olores que abren una puerta a un mundo propio; el del óleo puede hacer que un rincón cualquiera se sienta como tu espacio creativo.",
     "poema": [
-      "Antes de ver un cuadro terminado, ya existe ese momento de preparar los materiales, abrir el frasco y decidir por dónde empezar.",
-      "Que siempre tengas libertad para crear a tu manera, sin que cada intento tenga que convertirse en una obra perfecta."
+      "El olor de la pintura tiene algo que anuncia que el tiempo va a pasar de otra manera: los colores se abren, las ideas se mueven y las manos empiezan a contar lo que todavía no tiene palabras.",
+      "Me gusta imaginarte en ese instante en que te metes de lleno en lo que haces y se te olvida mirar el reloj. Hay algo muy atractivo en alguien que se apasiona por lo suyo; dan ganas de acercarse despacio, mirar lo que estás creando y preguntarte qué ves tú que los demás todavía no vemos."
     ],
-    "detalle": "Si pintas hoy, no te obligues a saber desde el comienzo cómo debe quedar. Deja que el color te responda un poco en el camino.",
-    "buenasNoches": "Cierra el día lejos de las exigencias por un rato. Ojalá recuerdes algo que hiciste por gusto, sin medir si fue útil o perfecto.",
+    "detalle": "Si pintas hoy, deja que alguien curioso te pregunte por una parte de la obra. A veces contar por qué elegiste un color revela tanto como el cuadro.",
+    "buenasNoches": "Que esta noche te acompañe el recuerdo de algo que disfrutaste hacer. La pasión con la que te entregas a tus cosas tiene una luz propia; ojalá nunca sientas que debes esconderla.",
     "cancionTitulo": "Querer Querernos",
     "cancionArtista": "Canserbero",
     "youtubeId": "Ei7Hp_4FbGY"
@@ -152,11 +152,11 @@ const CALENDARIO = [
     },
     "buenosDias": "Si hoy el cielo cambia de color cuando estés ocupada, ojalá puedas regalarte un minuto para mirarlo antes de seguir.",
     "poema": [
-      "Los atardeceres tienen algo que no se puede apurar: uno puede llegar tarde, encontrar el cielo distinto y aun así detenerse.",
-      "A veces la belleza no resuelve nada; simplemente acompaña."
+      "El cielo cambia de color sin pedir que nadie lo entienda. Basta con quedarse un rato mirando para notar que lo que parecía quieto está lleno de matices.",
+      "Me imagino a tu lado mirando cómo se apaga la tarde, intentando adivinar cuál será el siguiente color y fallando porque el cielo decide otra cosa. Sería un buen pretexto para alargar la conversación… aunque con una sonrisa tuya quizá terminaría mirando más hacia ti que hacia el horizonte."
     ],
-    "detalle": "Si el cielo se pinta bonito esta tarde, guárdate un minuto para mirarlo. No hace falta sacar una foto: también vale quedártelo en la memoria.",
-    "buenasNoches": "Que la noche llegue sin exigirte haber aprovechado cada minuto. Hay días cuyo mejor plan es bajar el ritmo y dejar que las cosas terminen.",
+    "detalle": "Si encuentras un cielo bonito, quédate un minuto más. Y si estás con alguien, cuéntale qué color te gusta más; las respuestas pequeñas a veces abren conversaciones inesperadas.",
+    "buenasNoches": "Ojalá hoy hayas encontrado algo que te hiciera levantar la mirada. Hay tardes que se quedan en la memoria por sus colores, y otras porque la compañía hace que uno quiera demorarse un poquito más.",
     "cancionTitulo": "From The Start",
     "cancionArtista": "Laufey",
     "youtubeId": "lSD_L-xic9o"
@@ -175,11 +175,11 @@ const CALENDARIO = [
     },
     "buenosDias": "Ojalá hoy encuentres una canción que te haga bajar un poco los hombros: un bolero cálido, un saxofón entrando despacio y nada que tengas que resolver durante esos minutos.",
     "poema": [
-      "Hay canciones que parecen hablar más cerca cuando todo alrededor se aquieta. Un bolero no necesita correr; deja que la melodía respire.",
-      "Quizá por eso cierta música convierte una tarde normal en un lugar al que uno quisiera volver."
+      "Un bolero tiene la paciencia de quien no necesita correr para decir algo importante. El saxofón entra suave, la voz cuenta su historia y hasta el silencio entre las notas parece tener sentido.",
+      "Me pregunto qué cara pones cuando llega esa parte de una canción que te gusta de verdad. Si sonríes sin darte cuenta, apuesto a que las pecas aparecen primero y después llega el resto de la sonrisa. Hay detalles que uno empieza a imaginar y luego quiere comprobar."
     ],
-    "detalle": "Pon hoy un bolero o algo con saxofón y escucha un minuto sin hacer otra cosa al mismo tiempo.",
-    "buenasNoches": "Que esta noche tenga un ritmo más suave que el día. Si te apetece, deja una melodía tranquila acompañándote mientras todo lo demás pierde volumen.",
+    "detalle": "Pon ese bolero que siempre te atrapa y escucha el momento que más te gusta. Si alguien te pregunta por qué, cuéntale la parte que te hace volver a él.",
+    "buenasNoches": "Que la noche tenga una melodía bonita y el ritmo suficiente para bajar la prisa. Si te sorprendes sonriendo por una canción, no la cambies todavía; quédate ahí un momento.",
     "cancionTitulo": "Gotas de Lluvia",
     "cancionArtista": "Grupo Niche",
     "youtubeId": "Kg15fQkXR98"
@@ -219,13 +219,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Ojalá hoy puedas elegir esa ropa ancha en la que te sientes tú, sin pensar demasiado en cómo se ve desde fuera.",
+    "buenosDias": "Buenos días, Aleja. Ojalá hoy te pongas algo cómodo, de eso que te deja moverte a tu manera. Aunque me queda una duda: ¿cómo haces para que hasta la ropa más sencilla parezca tener más personalidad cuando la eliges tú?",
     "poema": [
-      "La comodidad también tiene personalidad: una camiseta grande, una tela suave y la libertad de moverte sin estar pendiente de la ropa.",
-      "Me gusta la idea de que no tengas que arreglarte para merecer sentirte bonita."
+      "Una camiseta amplia, unas mangas que cubren las manos o una tela suave pueden hacer que el cuerpo por fin deje de estar pendiente de sí mismo. La comodidad no te quita estilo; a veces es precisamente la forma más honesta de mostrarlo.",
+      "Me gusta la idea de que tengas tu propia manera de ocupar el espacio, sin vestirte para cumplir expectativas ajenas. Hay algo coqueto en una persona que está a gusto consigo misma: no necesita esforzarse tanto para llamar la atención."
     ],
-    "detalle": "Ponte hoy algo que te deje respirar y moverte con libertad. No necesitas una ocasión para estar cómoda contigo misma.",
-    "buenasNoches": "Que te reciba la noche sin tener que sostener ninguna pose. Ponte cómoda, suelta el día y deja que tu cuerpo descanse de verdad.",
+    "detalle": "Elige hoy algo en lo que te sientas completamente tú. Y si alguien te dice que te queda bien, puedes aceptar el cumplido sin buscarle una explicación.",
+    "buenasNoches": "Que termines el día cómoda, por dentro y por fuera. Ojalá nunca te falten motivos para sentirte bonita a tu manera, incluso en esos días en los que solo quieres una camiseta grande y descansar.",
     "cancionTitulo": "Me Enamora",
     "cancionArtista": "Juanes",
     "youtubeId": "voxgN3Dhjuo"
@@ -267,11 +267,11 @@ const CALENDARIO = [
     },
     "buenosDias": "Ojalá hoy aparezca una flor en tu camino sin que el calendario tenga que dar una razón para ello.",
     "poema": [
-      "Un tulipán tiene una elegancia distinta a una margarita, pero las dos pueden alegrar un rincón a su manera.",
-      "Me gusta más regalar flores porque alguien se acordó de ti que hacerlo porque una fecha lo exige."
+      "Una flor no necesita una fecha especial para cambiar la cara de un rincón. A veces basta una margarita sencilla para que el lugar parezca menos cotidiano.",
+      "Si alguna vez te regalo flores, me gustaría que fuera porque vi una y pensé en ti, no porque el calendario me lo ordenó. Y quizá porque me imaginé tu sonrisa al recibirlas; esas pecas tuyas seguramente tendrían algo que decir en ese momento."
     ],
-    "detalle": "Si ves una margarita o un tulipán hoy, piensa que las cosas bonitas no necesitan una fecha oficial para aparecer.",
-    "buenasNoches": "Que esta noche te deje una sensación tranquila. Ojalá hayas encontrado algún detalle pequeño que te alegrara sin pedir nada a cambio.",
+    "detalle": "Si hoy encuentras una flor bonita, elige mentalmente a quién se la regalarías y por qué. A veces pensar en alguien ya es una forma pequeña de tenerlo presente.",
+    "buenasNoches": "Que esta noche te quede una sensación bonita, como la de encontrar una flor sin esperarla. Hay detalles que no cambian el mundo, pero sí consiguen que el día se sienta un poco más especial.",
     "cancionTitulo": "La Distancia",
     "cancionArtista": "Manuel Medrano",
     "youtubeId": "dH7_By3Y2i0"
@@ -334,13 +334,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Ojalá hoy alguien te haga reír de esa forma en la que la cara habla antes que las palabras y termina contagiando a quien esté cerca.",
+    "buenosDias": "Buenos días, Aleja. Ojalá hoy te rías de esas cosas que empiezan como una tontería y terminan dejándote con esa sonrisa tuya que, sospecho, es bastante difícil de ignorar.",
     "poema": [
-      "Hay gestos que se quedan en la memoria porque aparecen sin preparación: una mirada cómplice, una risa que se escapa o esa cara que haces cuando algo te parece absurdo.",
-      "Esas pequeñas escenas tienen más verdad que muchas frases perfectamente pensadas."
+      "Las risas más bonitas no siempre salen perfectas: a veces se te escapan antes de terminar la frase, te hacen cerrar los ojos o te obligan a intentar hablar otra vez sin conseguirlo.",
+      "Y hay sonrisas que tienen un detalle extra. En tu caso, me imagino que las pecas se notan más justo cuando sonríes de verdad, como si también quisieran participar. No sé si te lo dicen mucho, pero esa clase de detalle puede volver inolvidable un gesto cotidiano."
     ],
-    "detalle": "Si algo te da risa, no la cortes por seguir pendiente de otra cosa. Déjate disfrutar ese segundo completo.",
-    "buenasNoches": "Que al cerrar el día puedas recordar algo que te hizo reír de verdad. Si no pasó, ojalá mañana te encuentre una tontería buena.",
+    "detalle": "Si hoy algo te da risa, no te apures a disimularla. Y si alguien te hace un cumplido bonito, no lo descartes por costumbre: a veces la gente sí está viendo algo real.",
+    "buenasNoches": "Que te vayas a dormir con una risa guardada en la memoria. Hay sonrisas que uno recuerda incluso después de que termina la conversación; ojalá hoy hayas tenido una razón para regalarte una de esas.",
     "cancionTitulo": "Sin Sentimiento",
     "cancionArtista": "Grupo Niche",
     "youtubeId": "EJdbZIgaSHg"
@@ -359,11 +359,11 @@ const CALENDARIO = [
     },
     "buenosDias": "Que hoy te encuentre una canción tan buena que la vuelvas a poner apenas termina, solo porque todavía quieres quedarte ahí.",
     "poema": [
-      "Repetir una canción es una forma de alargar un momento. Quizá te gusta una línea, quizá el ritmo encaja con cómo te sientes.",
-      "No todo lo que se repite pierde su encanto; a veces una canción mejora con cada vuelta."
+      "Hay canciones que uno repite porque todavía no se cansa de una voz, de una frase o de lo que le hacen sentir los primeros segundos.",
+      "También pasa con ciertas personas: una conversación podría terminar, pero aparece otra pregunta y uno encuentra una excusa pequeña para quedarse un rato más. No digo que una canción y una persona sean lo mismo; solo que hay cosas a las que da gusto volver."
     ],
-    "detalle": "Vuelve hoy a una canción que te sepas de memoria. Escúchala como si todavía pudiera sorprenderte en algún detalle.",
-    "buenasNoches": "Ojalá termines el día con una melodía que te acompañe incluso después de apagar la pantalla.",
+    "detalle": "Vuelve a escuchar esa canción que te pide otra vuelta. Si te recuerda a alguien o a un momento, deja que el recuerdo llegue sin obligarte a explicarlo.",
+    "buenasNoches": "Que hoy tengas algo bonito que quieras repetir: una canción, una conversación o una risa. Algunas cosas merecen unos minutos extra, sobre todo cuando nos hacen bien.",
     "cancionTitulo": "I Wanna Be Yours",
     "cancionArtista": "Arctic Monkeys",
     "youtubeId": "nyuo9-OjNNg"
@@ -426,13 +426,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Ojalá algún día de estos podamos alargar una conversación sin mirar la hora, con una copa tranquila y sin tener que preparar de antemano qué decir.",
+    "buenosDias": "Buenos días, Aleja. Ojalá hoy te toque una charla que empiece sin plan, se alargue más de la cuenta y te haga olvidar por un rato que tenías otras cosas pendientes.",
     "poema": [
-      "Las mejores charlas no siempre son profundas desde el principio. A veces empiezan por una tontería, saltan a una historia vieja y terminan revelando algo.",
-      "Me gusta más la sinceridad imperfecta que una conversación en la que todo suena ensayado."
+      "Una copa, una mesa tranquila y una conversación que salta de un tema a otro pueden hacer que la noche pase sin pedir permiso. No hace falta tener respuestas ingeniosas; basta con que haya curiosidad por lo que el otro cuenta.",
+      "Me gustan las personas con las que uno puede hablar de algo serio y dos minutos después terminar riéndose de una tontería. Tengo la impresión de que contigo una conversación podría tomar caminos inesperados… y eso me parece una buena razón para empezar una."
     ],
-    "detalle": "Busca un rato para hablar con alguien con quien puedas ser espontánea. La confianza también se construye en conversaciones normales.",
-    "buenasNoches": "Que esta noche te deje descansar de tener que responder, explicar o aparentar. Ojalá encuentres un espacio donde puedas ser tú.",
+    "detalle": "Piensa en una pregunta que te gustaría que alguien te hiciera y que casi nunca aparece en una charla normal. Las conversaciones interesantes suelen empezar por ahí.",
+    "buenasNoches": "Ojalá hoy hayas hablado con alguien con quien el tiempo se pasara rápido. Y si la conversación quedó pendiente, a veces un «me quedé pensando en lo que dijiste» es una buena manera de retomarla.",
     "cancionTitulo": "Die For You",
     "cancionArtista": "The Weeknd",
     "youtubeId": "gSo0YiGPgHk"
@@ -449,13 +449,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Hay algo especial en una mirada cuando aparece la sorpresa o se escapa la risa. Espero que hoy tengas varios motivos para mirar el mundo así.",
+    "buenosDias": "Buenos días, Aleja. Hoy el título va por tus ojos cafés, que seguro cambian un poquito con la luz. No sé si te lo han dicho así, pero hay miradas que hacen que uno se olvide por un segundo de lo que iba a decir.",
     "poema": [
-      "Tus ojos cafés no son solo un color; también son parte de las expresiones que cambian cuando algo te emociona, te da curiosidad o te hace gracia.",
-      "Me gusta pensar en la mirada como un pequeño gesto que dice mucho antes de que uno encuentre las palabras."
+      "Los ojos pueden verse distintos según la luz, el cansancio o lo que está pasando por la cabeza. Los tuyos, cafés, tienen ese tono cálido que no necesita una comparación exagerada para llamar la atención.",
+      "Y si a eso se le suma tu sonrisa, con las pecas resaltando justo cuando aparece, entiendo que una conversación pueda perder el hilo por un momento. Es un cumplido pequeño, no una declaración dramática: hay detalles tuyos que dan ganas de mirar un segundo más."
     ],
-    "detalle": "Si algo te sorprende hoy, no te apresures a disimularlo. Esa primera reacción también forma parte de lo bonito.",
-    "buenasNoches": "Descansa, Aleja. Ojalá cierres los ojos con una imagen amable en la cabeza y despiertes mañana con algo que te dé curiosidad.",
+    "detalle": "Si hoy te miras al espejo, busca un detalle de tu cara que te guste de verdad. No para evaluarte, sino para reconocerlo sin discutir contigo misma.",
+    "buenasNoches": "Descansa, Aleja. Que hoy alguien te haya mirado con ternura o que tú misma hayas encontrado algo bonito en el espejo. Tus ojos cafés y tu sonrisa merecen cumplidos sencillos, sin que eso tenga que significar más de lo que significa.",
     "cancionTitulo": "Until I Found You",
     "cancionArtista": "Stephen Sanchez",
     "youtubeId": "GxldQ9eX2wo"
@@ -497,11 +497,11 @@ const CALENDARIO = [
     },
     "buenosDias": "Mereces claridad en las cosas que importan: que las palabras y los actos se parezcan, que el interés no aparezca solo cuando conviene y que no tengas que adivinarlo todo.",
     "poema": [
-      "Querer bonito no significa acertar siempre. Significa hablar cuando algo importa, reconocer cuando uno se equivoca y no dejar a la otra persona haciendo sola todo el trabajo de entender.",
-      "Ojalá recibas un cariño que se note en lo cotidiano y no solo en las promesas."
+      "El cariño se nota cuando las palabras encuentran un gesto que las acompaña: preguntar cómo estás y escuchar la respuesta, recordar algo importante y aparecer cuando dijiste que ibas a aparecer.",
+      "No hace falta hablar como en una película para hacer sentir especial a alguien. A veces basta decir «me acordé de ti cuando vi esto» o notar un cambio de ánimo. Lo coqueto puede estar en la atención, en una broma suave y en dejar claro que alguien te despierta curiosidad, sin ponerle un nombre enorme."
     ],
-    "detalle": "Recuerda que puedes pedir claridad sin sentir que estás pidiendo demasiado. Tus sentimientos también merecen cuidado.",
-    "buenasNoches": "Que descanses con la tranquilidad de no tener que resolver por tu cuenta lo que necesita una conversación honesta.",
+    "detalle": "Si hoy piensas en alguien, puedes compartirle una canción o un detalle que te lo recordó. Sin discurso ni expectativa; solo porque te nació.",
+    "buenasNoches": "Que termines el día rodeada de gestos que coincidan con las palabras. La atención sincera se siente más bonita cuando no viene acompañada de presión ni de promesas enormes.",
     "cancionTitulo": "Make You Feel My Love",
     "cancionArtista": "Adele",
     "youtubeId": "0put0_a--Ng"
@@ -543,11 +543,11 @@ const CALENDARIO = [
     },
     "buenosDias": "Me imagino una margarita en un vaso pequeño, cerca de tus pinceles o de las cosas que estés usando, sin invadir tu espacio ni interrumpir lo que te inspira.",
     "poema": [
-      "No hace falta llenar una habitación de flores para hacerla más bonita. A veces una sola, puesta donde la vas a ver mientras trabajas, cambia el ambiente.",
-      "Un detalle puede acompañar sin pedir protagonismo."
+      "Una flor junto a los pinceles no necesita combinar con los colores ni ocupar el centro. Puede estar ahí mientras una idea toma forma, como una visita silenciosa que hace más bonito el espacio.",
+      "Me imagino preguntándote qué estás pintando y tú explicándomelo con esa expresión concentrada que cambia cuando te entusiasmas. Tal vez no entienda todo a la primera, pero me gustaría escuchar la historia que ves en los colores. A veces conocer a alguien empieza por dejar que te enseñe lo que le importa."
     ],
-    "detalle": "Si estás creando, deja cerca algo que te alegre la vista. No para decorar para otros, sino para que tú disfrutes tu rincón.",
-    "buenasNoches": "Que esta noche tu espacio se sienta tuyo. Si algo quedó fuera de lugar, puede esperar hasta mañana.",
+    "detalle": "Si alguien se interesa por algo que estás creando, cuéntale una cosa que no se note a simple vista. La historia detrás de una obra también forma parte de ella.",
+    "buenasNoches": "Que descanses con la satisfacción de haber creado algo, aunque todavía no esté terminado. Ojalá siempre tengas cerca personas que miren tus ideas con curiosidad y no con prisa.",
     "cancionTitulo": "Inmortal",
     "cancionArtista": "Aventura",
     "youtubeId": "XlmaJ-yU46U"
@@ -564,13 +564,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hoy me gusta imaginar un plan casero sin grandes preparativos: elegir algo rico para cocinar, poner música mientras se hace y discutir un poquito qué película merece la noche.",
+    "buenosDias": "Buenos días, Aleja. Te dejo un plan que me parece peligrosamente bueno: cocinar algo rico, probarlo antes de servir y luego pasar demasiado tiempo eligiendo una película. La parte difícil será decidir si vemos la película o seguimos hablando.",
     "poema": [
-      "El plan perfecto no necesita reservas ni salir corriendo. Puede empezar con alguien cortando ingredientes, seguir con una probadita y terminar en el sofá.",
-      "Lo bonito sería compartirlo sin estar pendientes del reloj."
+      "Imagino una cocina con música, una salsa que hay que probar y alguien robándose un pedacito antes de que esté listo. Después llega la discusión más seria de la noche: qué película poner y cuánto tardaremos en ponernos de acuerdo.",
+      "Me gustan esos planes que no necesitan impresionar a nadie. Aunque confieso que si la conversación está buena y tú te ríes así, quizá termine siguiendo más la charla que la película."
     ],
-    "detalle": "Guarda esta idea para un día libre: preparar algo juntos, comer tranquilos y escoger una película entre los dos.",
-    "buenasNoches": "Que descanses con la idea de que los buenos planes también pueden ser pequeños. A veces una cocina, una película y compañía sincera bastan.",
+    "detalle": "Guarda este plan para una tarde libre: cocinar algo que te guste, poner música y escoger una película sin afán. Se aceptan recomendaciones y debates sobre qué vale la pena ver.",
+    "buenasNoches": "Que esta noche te deje ganas de un plan sencillo y rico. A veces una buena comida, una película y una conversación que se alarga son más que suficientes para que un día común se sienta especial.",
     "cancionTitulo": "Los Caminos de la Vida",
     "cancionArtista": "Los Diablitos",
     "youtubeId": "I-cOD2x-qBs"
@@ -658,11 +658,11 @@ const CALENDARIO = [
     },
     "buenosDias": "Buenos días, Aleja. Hoy quiero recordar algo que parece sencillo, pero importa: escuchar lo que te gusta tal como lo dices, sin completar la historia con suposiciones mías.",
     "poema": [
-      "Hay detalles que parecen mínimos hasta que alguien los confunde. Entonces uno descubre que no se trata solo del objeto o del gusto, sino de sentirse escuchada de verdad. Recordar bien también es una forma de respeto.",
-      "No quiero quererte como quien memoriza una lista; quiero prestar atención a la persona que hay detrás de cada preferencia, a lo que cambia, a lo que te emociona y a lo que ya no te apetece. Que mis detalles se parezcan a ti, no a una idea inventada de ti."
+      "Hay detalles que parecen mínimos hasta que alguien los confunde. Entonces uno descubre que no se trata solo del objeto o del gusto, sino de sentirse escuchada de verdad.",
+      "Quiero que, si te digo algo bonito, no suene como una frase copiada para cualquiera. Prefiero fijarme en lo que realmente te hace tú: tus gustos, tus ocurrencias, la forma en que sonríes y esos pequeños gestos que quizá tú ni notas, pero que otra persona puede recordar."
     ],
-    "detalle": "Hoy escucha con atención a alguien que quieras y procura no responder antes de entender. Ese pequeño cuidado puede cambiar una conversación entera.",
-    "buenasNoches": "Que esta noche te quede la tranquilidad de no tener que explicar una y otra vez quién eres. Mereces que te escuchen con curiosidad, no que te reduzcan a una suposición.",
+    "detalle": "Piensa en un cumplido que te gustaría recibir porque habla de algo real de ti, no solo de tu apariencia. Los más lindos suelen ser los que demuestran que alguien sí se fijó.",
+    "buenasNoches": "Que hoy te hayas sentido vista de verdad, no observada ni evaluada. Hay una diferencia bonita entre que alguien mire y que alguien se fije con cariño.",
     "cancionTitulo": "Rayando el Sol",
     "cancionArtista": "Maná",
     "youtubeId": "8lbsQyMhMT8"
@@ -727,11 +727,11 @@ const CALENDARIO = [
     },
     "buenosDias": "Buenos días. Si hoy el cielo te regala un color bonito, ojalá puedas mirarlo sin tener que convertirlo en una foto ni compartirlo con nadie.",
     "poema": [
-      "Un atardecer nunca repite exactamente la misma combinación: a veces el naranja se queda pegado al horizonte y otras el violeta llega primero, como si el día no quisiera despedirse de golpe. Esa fugacidad es parte de lo que lo vuelve especial.",
-      "Quizá por eso me gustan esos minutos en que uno deja de exigirle algo al mundo y simplemente mira. No arreglan los problemas, pero pueden recordarnos que todavía hay cosas capaces de sorprendernos en medio de la rutina."
+      "Un atardecer nunca repite exactamente la misma combinación: a veces el naranja se queda pegado al horizonte y otras el violeta llega primero, como si el día no quisiera despedirse de golpe.",
+      "Me imagino compartiendo contigo uno de esos cielos y preguntándote qué color te gusta más. Si respondes señalando el que acaba de cambiar, seguro termino mirando tarde y diciendo que sí, que ese también es bonito. A veces el encanto está en prestar atención a lo que otra persona mira."
     ],
-    "detalle": "Esta tarde, si puedes, mira el cielo durante un minuto entero. No busques el encuadre perfecto; quédate con lo que tienes delante.",
-    "buenasNoches": "Que la noche no te haga sentir que debiste aprovechar mejor cada hora. Hay días que ya fueron valiosos por una sola pausa sincera.",
+    "detalle": "Esta tarde, si puedes, mira el cielo durante un minuto entero. Si te acompaña alguien, pregúntale qué color ve; puede que no estén mirando exactamente el mismo atardecer.",
+    "buenasNoches": "Que la noche te deje una imagen bonita del cielo o de alguien con quien te gustó compartirlo. Hay momentos que se vuelven especiales no por lo que pasó, sino por quién estaba ahí.",
     "cancionTitulo": "Colapso",
     "cancionArtista": "Kevin Kaarl",
     "youtubeId": "Mz8n2prxhg8"
@@ -842,11 +842,11 @@ const CALENDARIO = [
     },
     "buenosDias": "Buenos días, Aleja. Que hoy una flor te alegre sin que haga falta una fecha, una excusa ni una ocasión perfectamente preparada.",
     "poema": [
-      "Un tulipán y una margarita tienen maneras distintas de llamar la atención. Uno parece guardar su forma con elegancia; la otra abre sus pétalos con una sencillez que ilumina cualquier rincón. No necesitan competir para ser bonitas.",
-      "Así me gustaría que se sintieran los detalles que te doy: elegidos porque me acordé de ti, no porque el calendario me avisó que debía hacerlo. Que una flor pueda decir «te vi y pensé en ti» sin tener que convertirse en un discurso."
+      "Un tulipán y una margarita tienen maneras distintas de llamar la atención. Uno parece guardar su forma con elegancia; la otra abre sus pétalos con una sencillez que ilumina cualquier rincón.",
+      "Quizá por eso me gustan los detalles que no intentan competir con nadie. Una flor elegida pensando en ti, una canción que te mando porque creo que te gustaría o un cumplido dicho en el momento justo: pequeñas formas de decir «me fijé en ti» sin convertirlo en una escena enorme."
     ],
-    "detalle": "Si ves una flor hoy, fíjate en un detalle que normalmente pasarías por alto: el borde de un pétalo, el tallo o cómo cambia con la luz.",
-    "buenasNoches": "Que la noche te deje la sensación de que no todo cariño llega por obligación. Algunos gestos nacen simplemente porque alguien te tuvo presente.",
+    "detalle": "Si hoy eligieras una flor para ti, ¿sería un tulipán o una margarita? No hay respuesta correcta; me da curiosidad saber cuál escogerías y por qué.",
+    "buenasNoches": "Que termines el día con la sensación de que los detalles bonitos no siempre tienen una fecha. A veces basta con que alguien se acuerde de lo que te gusta y se le ocurra compartirlo.",
     "cancionTitulo": "Darte un Beso",
     "cancionArtista": "Prince Royce",
     "youtubeId": "bdOXnTbyk0g"
@@ -912,10 +912,10 @@ const CALENDARIO = [
     "buenosDias": "Buenos días. Ojalá hoy algo te haga reír de verdad, de esa forma en que intentas seguir seria pero la sonrisa te traiciona.",
     "poema": [
       "Me gustan las risas que llegan en el momento menos conveniente: una palabra mal dicha, una mirada que lo explica todo o una tontería que solo dos personas entienden. De pronto el día deja de ser tan solemne y aparece una complicidad que no se puede fabricar.",
-      "No tienes que estar siempre concentrada, fuerte o pendiente de lo que sigue. También mereces esos minutos absurdos en los que no sale una respuesta inteligente porque te estás riendo demasiado."
+      "Y si te ríes de verdad, de esas veces en que se te ilumina toda la cara, apuesto a que las pecas se vuelven parte de la fiesta. Puede que no recuerdes después qué fue tan gracioso; quizá sí recuerdes con quién te reíste, y eso ya es bastante."
     ],
-    "detalle": "Si alguien te hace reír hoy, no te apresures a volver a la seriedad. Quédate un momento más en esa alegría.",
-    "buenasNoches": "Que al acostarte te acuerdes de una risa que te haya soltado el cuerpo. Y si hoy no llegó, que mañana te encuentre una tontería inesperada.",
+    "detalle": "Si alguien te hace reír hoy, no te apresures a volver a la seriedad. La risa compartida es una buena excusa para seguir hablando un rato más.",
+    "buenasNoches": "Que te vayas a dormir con una risa que todavía te haga sonreír al recordarla. Hay algo especialmente lindo en ver a alguien reírse sin estar pendiente de cómo se ve.",
     "cancionTitulo": "Line Without a Hook",
     "cancionArtista": "Ricky Montgomery feat. mxmtoon",
     "youtubeId": "TM-LcROZaFs"
@@ -1003,11 +1003,11 @@ const CALENDARIO = [
     },
     "buenosDias": "Buenos días, Aleja. Ojalá hoy tengas una conversación que empiece por cualquier tontería y termine siendo mucho más larga de lo que pensabas.",
     "poema": [
-      "Las charlas que más recuerdo no tienen un guion: alguien cuenta algo mínimo, aparece una pregunta, se abre una historia vieja y de pronto la hora cambió sin que nadie lo notara. No hace falta decir algo brillante todo el tiempo; basta con tener ganas de seguir escuchando.",
-      "Me gustaría que conmigo pudieras hablar así, sin preparar cada frase ni temer que un silencio arruine el momento. Que puedas cambiar de tema, reírte a mitad de una historia o decir «no sé cómo explicarlo» y aun así sentirte entendida."
+      "Las charlas que más recuerdo no tienen un guion: alguien cuenta algo mínimo, aparece una pregunta, se abre una historia vieja y de pronto la hora cambió sin que nadie lo notara.",
+      "Me gustaría que una conversación contigo pudiera ser así: con curiosidad, bromas suaves y la libertad de pasar de un tema profundo a una tontería. Si al final me quedo con ganas de hacerte otra pregunta, lo tomaré como señal de que la charla estuvo buena, no como una excusa demasiado disimulada para alargarla."
     ],
-    "detalle": "Si hoy hablas con alguien de confianza, haz una pregunta más de la que harías normalmente y escucha la respuesta sin apresurarla.",
-    "buenasNoches": "Que al terminar el día tengas menos necesidad de fingir que todo está claro. Las conversaciones buenas también dejan espacio para pensar después.",
+    "detalle": "Si hoy hablas con alguien de confianza, haz una pregunta que te dé curiosidad de verdad. Escuchar una respuesta inesperada puede ser el inicio de una conversación larga.",
+    "buenasNoches": "Que hoy te haya quedado una conversación dando vueltas en la cabeza por una buena razón. A veces una charla bonita termina, pero deja ganas de retomarla pronto.",
     "cancionTitulo": "Todo Cambió",
     "cancionArtista": "Camila",
     "youtubeId": "gO8-9OWzPOQ"
@@ -1024,13 +1024,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días. Ojalá hoy una mirada te diga algo bonito antes de que encuentres las palabras para explicarlo.",
+    "buenosDias": "Buenos días, Aleja. Hay miradas que contestan antes que la boca, y sonrisas que aparecen cuando alguien intenta disimular que algo le hizo gracia. Me pregunto cuántas veces haces eso sin darte cuenta.",
     "poema": [
       "Los ojos cambian con la luz, con el sueño, con la sorpresa y con esa risa que empieza en la cara antes de salir. No son un misterio que haya que descifrar; son una parte viva de alguien que siente cosas distintas a lo largo del día.",
-      "Me gusta imaginar que podría reconocer algunas de tus expresiones: la mirada concentrada cuando algo te importa, el brillo de una idea nueva o esa cara que pones cuando algo te parece increíble. No porque crea conocerte por completo, sino porque quiero seguir descubriéndote."
+      "Me gustan esos segundos en que alguien deja de posar y simplemente reacciona. Tus ojos cafés, tu sonrisa y las pecas que se notan cuando te ríes tienen justo ese encanto: no parecen hechos para impresionar, pero consiguen que uno se fije."
     ],
-    "detalle": "Si hoy algo te sorprende, permítete mostrarlo antes de pensar qué cara deberías poner. No tienes que disimular la emoción.",
-    "buenasNoches": "Que descanses los ojos y la cabeza. Ojalá la última imagen del día sea una que te dé ternura, no una preocupación que tengas que resolver ahora.",
+    "detalle": "Hoy fíjate en una expresión que te salga sin pensar: una sonrisa, una mueca o esa cara de sorpresa que no alcanzas a esconder. A veces lo más bonito es lo menos planeado.",
+    "buenasNoches": "Que descanses, Aleja. Ojalá hoy hayas sonreído de verdad, de esa forma que no se prepara. Hay sonrisas que le ponen luz a una conversación mucho después de que se acaba.",
     "cancionTitulo": "Creo en Ti",
     "cancionArtista": "Reik",
     "youtubeId": "cqGyeFvhm8U"
@@ -1142,10 +1142,10 @@ const CALENDARIO = [
     "buenosDias": "Buenos días, Aleja. Hoy me imagino un plan casero que no necesite demasiada logística: cocinar algo rico, probarlo mientras se hace y terminar juntos en el sofá buscando una película.",
     "poema": [
       "Me gusta la intimidad de las cosas pequeñas: decidir qué vamos a preparar, cortar ingredientes en la misma cocina, robar una probadita antes de servir y discutir durante diez minutos qué película poner. Si al final elegimos una mala, al menos tendríamos de qué reírnos.",
-      "No quiero que todos los momentos bonitos tengan que ser una salida especial. También quiero saber compartir contigo el cansancio, el desorden de la cocina y ese silencio cómodo en el que nadie necesita entretener al otro a cada segundo."
+      "Y quizá lo mejor no sea la receta ni la película, sino ir descubriendo cómo es alguien cuando está cómodo: qué canción pone mientras cocina, cómo prueba la salsa y qué comentario hace cuando algo sale distinto. Esas son las pequeñas escenas que dan ganas de conocer mejor a una persona."
     ],
-    "detalle": "Guarda esta idea para cuando tengamos un rato libre: cocinar juntos algo que te guste y escoger la película sin afán.",
-    "buenasNoches": "Que la noche te deje imaginar planes que no cuestan tanto ni exigen estar impecables. A veces lo más íntimo es poder estar a gusto sin salir de casa.",
+    "detalle": "Guarda esta idea para cuando haya tiempo: cocinar algo que te guste y elegir una película sin afán. La regla es que el plan sea cómodo, no perfecto.",
+    "buenasNoches": "Que la noche te deje ganas de compartir un plan sencillo con alguien cuya compañía te haga sentir cómoda. A veces conocerse mejor empieza por algo tan poco solemne como decidir qué vamos a cenar.",
     "cancionTitulo": "Talking to the Moon",
     "cancionArtista": "Bruno Mars",
     "youtubeId": "fXw0jcYbqdo"
@@ -1165,10 +1165,10 @@ const CALENDARIO = [
     "buenosDias": "Buenos días. Hay algo bonito en volver a encontrarse con alguien y sentir que, aunque el día haya sido largo, todavía queda una sonrisa reservada para esa persona.",
     "poema": [
       "Me imagino ese instante en que dos personas se ven después de sus propios días: dejan las cosas a un lado, se preguntan cómo les fue y empiezan a compartir lo que cada una llevaba guardado. No hace falta una escena perfecta; basta con que el interés sea sincero.",
-      "Quisiera que el cariño entre nosotros también tuviera esa clase de refugio: poder volver después de estar ocupados, contar lo bueno y lo pesado, y sentir que no tenemos que llegar con una versión editada de nosotros mismos."
+      "Hay algo bonito en notar que alguien se alegra de verte. No porque eso resuelva todo, sino porque durante un instante te sientes elegida para compartir una historia, una risa o simplemente el cansancio del día. Esa clase de atención puede ser discreta y aun así quedarse contigo."
     ],
-    "detalle": "Cuando vuelvas a ver a alguien que quieres, deja el teléfono un momento y regálale toda tu atención al saludo.",
-    "buenasNoches": "Que hoy te hayas sentido bienvenida en algún lugar. Y si no ocurrió, ojalá pronto tengas un abrazo o una conversación que te haga sentir que puedes volver a respirar.",
+    "detalle": "Cuando veas a alguien que te alegra, dilo con naturalidad. Un «qué bueno verte» sincero puede cambiarle el tono a un encuentro.",
+    "buenasNoches": "Ojalá hoy hayas tenido un encuentro que te dejara el ánimo más ligero. A veces la compañía correcta no necesita hacer mucho: basta con que se note que le alegra que estés ahí.",
     "cancionTitulo": "Cali Pachanguero",
     "cancionArtista": "Grupo Niche",
     "youtubeId": "7KxkMLAZlzw"
@@ -1326,10 +1326,10 @@ const CALENDARIO = [
     "buenosDias": "Buenos días, Aleja. Ojalá hoy un bolero te encuentre en el ánimo justo para escuchar cómo una voz puede contar una historia sin levantar la voz.",
     "poema": [
       "Hay boleros que parecen recordar algo que uno no vivió exactamente, pero que reconoce de todos modos. La melodía avanza despacio, el saxofón entra como una conversación a media luz y por un momento el tiempo deja de empujar.",
-      "Quizá la nostalgia bonita sea eso: no quedarse atrapada en lo que pasó, sino sentir que algunos recuerdos todavía tienen música, calor y un lugar donde descansar. No todo lo que emociona tiene que doler."
+      "Un bolero tiene esa coquetería antigua de decir mucho sin apresurarse. Quizá por eso me gusta imaginar una charla con esa música de fondo: una sonrisa al escuchar una letra atrevida, una broma sobre la canción y un silencio cómodo que no pide explicaciones."
     ],
-    "detalle": "Pon un bolero que te guste y escucha hasta que entre el saxofón o llegue esa parte que siempre esperas.",
-    "buenasNoches": "Que la noche te deje sentir lo que tengas que sentir sin obligarte a ponerle nombre enseguida. Hay emociones que se entienden mejor cuando las dejamos respirar.",
+    "detalle": "Pon un bolero que te guste y escucha hasta que entre el saxofón o llegue esa parte que siempre esperas. Si la letra tiene una frase coqueta, dime si te parece encantadora o demasiado dramática.",
+    "buenasNoches": "Que la noche tenga un poco de música y esa calma elegante de un bolero. Algunas frases coquetas funcionan mejor cuando se dicen con una sonrisa y sin intentar convertirlas en una promesa.",
     "cancionTitulo": "Me Ilusioné",
     "cancionArtista": "Binomio de Oro de América",
     "youtubeId": "wDeZiEZGS3Q"
@@ -1372,10 +1372,10 @@ const CALENDARIO = [
     "buenosDias": "Buenos días, Aleja. Que hoy la ropa que elijas te acompañe en vez de convertirse en otra cosa de la que tengas que estar pendiente.",
     "poema": [
       "A veces el mejor conjunto es el que te deja sentarte, caminar, crear y olvidarte de acomodar la tela cada cinco minutos. La ropa amplia puede tener una personalidad propia: no busca llamar la atención, pero tampoco pide disculpas por ocupar su espacio.",
-      "Ojalá te sientas libre de elegir por cómo te sientes dentro de algo, no solo por la impresión que pueda causar. Tu estilo no tiene que ser entendido por todo el mundo para ser auténticamente tuyo."
+      "Hay algo atractivo en alguien que sabe qué le gusta y se mueve con naturalidad dentro de su estilo. No hace falta llevar algo llamativo para tener presencia; a veces la seguridad tranquila es lo que hace que uno mire dos veces."
     ],
-    "detalle": "Ponte algo que te permita pasar el día con comodidad. Si te miras al espejo, intenta verte con la misma amabilidad con la que mirarías a alguien que quieres.",
-    "buenasNoches": "Que esta noche puedas quitarte la ropa del día y también la presión de haber tenido que verte o comportarte de cierta manera. Ya puedes descansar.",
+    "detalle": "Ponte algo que te permita pasar el día con comodidad. Si te gusta cómo te ves, disfruta esa sensación sin buscarle defectos.",
+    "buenasNoches": "Que esta noche puedas estar cómoda y a gusto contigo. El estilo más bonito es el que te deja ser tú, sin tener que pedir permiso ni demostrar nada.",
     "cancionTitulo": "Que Lloro",
     "cancionArtista": "Sin Bandera",
     "youtubeId": "Fk5oL0mgI08"
@@ -1418,10 +1418,10 @@ const CALENDARIO = [
     "buenosDias": "Buenos días, Aleja. Ojalá una flor aparezca en tu día como aparecen algunas personas bonitas: sin aviso, sin una razón enorme y con la capacidad de cambiar el ambiente.",
     "poema": [
       "Una margarita puede alegrar un vaso sencillo y un tulipán puede quedarse elegante sin más adornos. No necesitan un ramo enorme para llamar la atención; a veces una sola flor en el lugar adecuado basta para hacer que uno se detenga.",
-      "Me gustaría regalarte detalles que nazcan de acordarme de ti en medio de cualquier día, no solo cuando todos esperan que uno sea romántico. Que el cariño se note también un martes cualquiera, en un gesto pequeño y sin público."
+      "Me gustan los detalles que hacen pensar «esto le gustaría». No tienen que ser caros ni espectaculares: una flor, una canción, una frase que encaja contigo. Y si además consiguen sacarte una sonrisa, diría que cumplieron perfectamente su cometido."
     ],
-    "detalle": "Si hoy ves una flor, imagina dónde la pondrías para encontrarla al pasar. A veces basta pensar en ese pequeño rincón para alegrarse.",
-    "buenasNoches": "Que termines el día sintiendo que mereces detalles sin tener que solicitarlos en una fecha señalada. El cariño también puede ser espontáneo.",
+    "detalle": "Si alguien te regala un detalle pequeño, date permiso de disfrutarlo sin medir cuánto costó. La intención también tiene su belleza.",
+    "buenasNoches": "Que hoy te haya llegado algún detalle que te hiciera sonreír. Y si no, ojalá mañana alguien encuentre una excusa bonita para acordarse de ti.",
     "cancionTitulo": "Vivir Sin Aire",
     "cancionArtista": "Maná",
     "youtubeId": "Mr1pHZ2_xJU"
@@ -1487,10 +1487,10 @@ const CALENDARIO = [
     "buenosDias": "Buenos días. Ojalá la risa te encuentre cuando menos la esperes, quizá en una conversación absurda o en una tontería que solo tenga gracia para ti.",
     "poema": [
       "Las risas más sinceras a veces llegan sin aviso y desordenan todo: intentas seguir hablando, vuelves a recordar lo que dio risa y te ríes otra vez. No hay una forma elegante de controlar esos momentos, y precisamente por eso se sienten tan vivos.",
-      "Me gusta pensar que contigo también se pueden acumular esas pequeñas tonterías que luego vuelven como chistes privados. No hacen falta grandes aventuras para crear recuerdos; a veces basta con que dos personas se entiendan en algo ridículo."
+      "Si algún día me toca verte reír así, espero acordarme de la historia completa y no quedarme distraído con tu sonrisa. Aunque no prometo nada: con las pecas apareciendo y los ojos achinándose un poquito, puede que pierda el hilo de la anécdota."
     ],
-    "detalle": "Si algo te hace reír hoy, guárdate ese momento en vez de volver enseguida a la prisa. Deja que la alegría dure un poquito más.",
-    "buenasNoches": "Que la noche te encuentre con la cara descansada y, ojalá, con una risa reciente en la memoria. Si hoy fue un día serio, que mañana tenga una sorpresa más ligera.",
+    "detalle": "Si algo te hace reír hoy, guárdate ese momento. Y si alguien se ríe contigo, fíjate si la risa se contagia; a veces ahí empieza una complicidad inesperada.",
+    "buenasNoches": "Que la noche te encuentre con una risa reciente en la memoria. Las personas que nos hacen reír suelen quedarse asociadas a esa sensación, y es una de las formas más bonitas de recordarlas.",
     "cancionTitulo": "Creep",
     "cancionArtista": "Radiohead",
     "youtubeId": "zFYEYRcjK2g"
@@ -1599,13 +1599,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, Aleja. Hay luces que cambian el color de todo por unos segundos; ojalá hoy alguna te haga detenerte y mirar dos veces.",
+    "buenosDias": "Buenos días, Aleja. La luz de la mañana tiene la costumbre de cambiarlo todo, pero hay detalles que seguro siguen llamando la atención: esos ojos cafés tuyos y la sonrisa que hace que tus pecas resalten.",
     "poema": [
       "La luz de la mañana puede volver dorado un borde, y la del atardecer puede hacer que una mirada parezca distinta. Me gusta imaginar tus ojos cafés reflejando esos cambios: no como una frase de postal, sino como un detalle real que aparece cuando estás mirando algo que te interesa.",
-      "A veces una persona se vuelve más bonita justo cuando deja de intentar verse bonita: cuando se sorprende, se concentra o se ríe sin prepararlo. Me gusta esa belleza que aparece mientras estás ocupada viviendo."
+      "Y cuando sonríes, las pecas parecen cobrar protagonismo por un instante. No hace falta compararte con estrellas ni inventar metáforas enormes; a veces un cumplido sencillo es más bonito porque dice exactamente lo que uno notó."
     ],
-    "detalle": "Si hoy la luz entra de una forma bonita por una ventana, fíjate en cómo cambia lo que tienes delante. Guarda ese pequeño instante para ti.",
-    "buenasNoches": "Que la noche suavice las imágenes que te dejó el día. Ojalá te quedes con una que te dé paz y puedas soltar las que todavía te inquietan.",
+    "detalle": "Si hoy la luz entra de una forma bonita por una ventana, fíjate en cómo cambia lo que tienes delante. Y si alguien te hace un cumplido sincero, intenta recibirlo sin restarle valor.",
+    "buenasNoches": "Que la noche te deje descansar con la certeza de que no hace falta parecerse a nadie para ser bonita. Tus ojos cafés, tus pecas y tu sonrisa tienen su propio encanto, precisamente porque son tuyos.",
     "cancionTitulo": "Robarte un Beso",
     "cancionArtista": "Carlos Vives & Sebastián Yatra",
     "youtubeId": "mtau4v6foha"
@@ -1648,10 +1648,10 @@ const CALENDARIO = [
     "buenosDias": "Buenos días, Aleja. Ojalá hoy el cariño que recibas sea claro: de esos que no te obligan a interpretar cada mensaje ni a preguntarte constantemente qué lugar ocupas.",
     "poema": [
       "La tranquilidad en una relación no significa que nunca haya dudas o desacuerdos. Significa que se pueden hablar sin castigos, que un error se puede reconocer y que las palabras no se usan para mantener a alguien adivinando. El cariño también necesita honestidad y consistencia.",
-      "No quiero que las cosas bonitas se queden solo en lo que escribo. Lo importante es que un gesto, una conversación y la forma de tratarte puedan sostener lo que digo. No siempre lo haré perfecto, pero sí quiero tener la disposición de escuchar y corregir."
+      "Y cuando apenas estás conociendo a alguien, no hace falta ponerle un nombre a todo para disfrutarlo. Puede bastar con conversar, coquetear un poquito, ver si la curiosidad es mutua y dejar que la confianza crezca al ritmo que ambos quieran."
     ],
-    "detalle": "Si algo te inquieta, recuerda que puedes expresarlo con respeto y esperar que te escuchen con la misma seriedad.",
-    "buenasNoches": "Que esta noche no tengas que pasar horas descifrando el comportamiento de nadie. Ojalá tus vínculos te den espacio para preguntar, hablar y descansar.",
+    "detalle": "Si alguien te interesa, una pregunta sincera o una broma suave pueden abrir una conversación sin presionar a nadie. Lo bonito también puede ir despacio.",
+    "buenasNoches": "Que esta noche puedas disfrutar de lo que estás conociendo sin sentir que tienes que decidirlo todo ya. A veces lo mejor de una conexión está en la curiosidad, la honestidad y el espacio para descubrir.",
     "cancionTitulo": "Volvamos a Ser Novios",
     "cancionArtista": "Silvestre Dangond & Juancho De La Espriella",
     "youtubeId": "gBOuViKzj1Y"
@@ -1740,10 +1740,10 @@ const CALENDARIO = [
     "buenosDias": "Buenos días, Aleja. Ojalá hoy alguien te reciba con una alegría tan espontánea que te haga sonreír antes de que alcances a contar cómo te fue.",
     "poema": [
       "Pienso en ese instante en que abres una puerta y una mascota corre hacia ti, o una persona levanta la mirada y sonríe porque de verdad le alegra verte. No te están pidiendo que expliques nada ni que llegues de buen humor; simplemente se nota que tu presencia importa.",
-      "Me gustaría que el cariño que compartamos tenga algo de eso: que puedas volver después de un día largo y sentir que no tienes que ganarte la bienvenida. Que haya espacio para tus buenas noticias, tu cansancio y tus silencios."
+      "Hay sonrisas que hacen que uno quiera devolverlas sin pensarlo. Y si la tuya aparece con esas pecas resaltando, entiendo que un saludo cualquiera pueda convertirse en uno de esos pequeños momentos que se recuerdan después."
     ],
-    "detalle": "Si hoy te encuentras con alguien que te alegra, deja que se note. A veces mostrar que nos importa también es un regalo para la otra persona.",
-    "buenasNoches": "Que al final del día sientas que no tienes que estar siempre fuerte ni entretenida para merecer cariño. También puedes llegar cansada y necesitar que te reciban con ternura.",
+    "detalle": "Si hoy te encuentras con alguien que te alegra, deja que se note. Una sonrisa sincera es una forma sencilla de hacerle saber a alguien que te da gusto verlo.",
+    "buenasNoches": "Que al final del día recuerdes una sonrisa que te haya hecho sentir bienvenida. A veces no hace falta una gran frase; una mirada amable y una alegría sincera dicen bastante.",
     "cancionTitulo": "Kilómetros",
     "cancionArtista": "Sin Bandera",
     "youtubeId": "oR5rpFzaBaA"
