@@ -5,7 +5,7 @@ const CALENDARIO = [
     "fecha": "2026-10-16",
     "fechaTexto": "vie, 16 de oct",
     "categoria": "La perrita que te busca",
-    "icono": "🐶",
+    "icono": "🐕",
     "tono": "amor",
     "color": {
       "principal": "#e9a3bd",
@@ -511,7 +511,7 @@ const CALENDARIO = [
     "fecha": "2026-11-07",
     "fechaTexto": "sáb, 7 de nov",
     "categoria": "Café amargo, día amable",
-    "icono": "☕",
+    "icono": "🫘",
     "tono": "ambiente",
     "color": {
       "principal": "#d6b36c",
@@ -580,7 +580,7 @@ const CALENDARIO = [
     "fecha": "2026-11-10",
     "fechaTexto": "mar, 10 de nov",
     "categoria": "La perrita que te busca",
-    "icono": "🐶",
+    "icono": "🐾",
     "tono": "amor",
     "color": {
       "principal": "#e6a47d",
@@ -603,7 +603,7 @@ const CALENDARIO = [
     "fecha": "2026-11-11",
     "fechaTexto": "mié, 11 de nov",
     "categoria": "Tinto sin azúcar",
-    "icono": "☕",
+    "icono": "🫖",
     "tono": "ambiente",
     "color": {
       "principal": "#d68caa",
@@ -626,7 +626,7 @@ const CALENDARIO = [
     "fecha": "2026-11-12",
     "fechaTexto": "jue, 12 de nov",
     "categoria": "Fresas y duraznos",
-    "icono": "🍓",
+    "icono": "🍑",
     "tono": "amor",
     "color": {
       "principal": "#94a9d6",
@@ -649,7 +649,7 @@ const CALENDARIO = [
     "fecha": "2026-11-13",
     "fechaTexto": "vie, 13 de nov",
     "categoria": "Tus muecas de concentración",
-    "icono": "🎨",
+    "icono": "🖍️",
     "tono": "filosofica",
     "color": {
       "principal": "#e9a3bd",
@@ -672,7 +672,7 @@ const CALENDARIO = [
     "fecha": "2026-11-14",
     "fechaTexto": "sáb, 14 de nov",
     "categoria": "Cerámica y barro",
-    "icono": "🏺",
+    "icono": "🪴",
     "tono": "ambiente",
     "color": {
       "principal": "#d6b36c",
@@ -695,7 +695,7 @@ const CALENDARIO = [
     "fecha": "2026-11-15",
     "fechaTexto": "dom, 15 de nov",
     "categoria": "El olor a óleo",
-    "icono": "🖌️",
+    "icono": "🌀",
     "tono": "filosofica",
     "color": {
       "principal": "#b9a4e5",
@@ -718,7 +718,7 @@ const CALENDARIO = [
     "fecha": "2026-11-16",
     "fechaTexto": "lun, 16 de nov",
     "categoria": "Atardeceres",
-    "icono": "🌇",
+    "icono": "🌅",
     "tono": "ambiente",
     "color": {
       "principal": "#8fc6bd",
@@ -741,7 +741,7 @@ const CALENDARIO = [
     "fecha": "2026-11-17",
     "fechaTexto": "mar, 17 de nov",
     "categoria": "Boleros y saxofón",
-    "icono": "🎷",
+    "icono": "🎺",
     "tono": "ambiente",
     "color": {
       "principal": "#e6a47d",
@@ -764,7 +764,7 @@ const CALENDARIO = [
     "fecha": "2026-11-18",
     "fechaTexto": "mié, 18 de nov",
     "categoria": "R&B para la tarde",
-    "icono": "🎧",
+    "icono": "🎙️",
     "tono": "ambiente",
     "color": {
       "principal": "#d68caa",
@@ -787,7 +787,7 @@ const CALENDARIO = [
     "fecha": "2026-11-19",
     "fechaTexto": "jue, 19 de nov",
     "categoria": "Ropa ancha y comodidad",
-    "icono": "🧥",
+    "icono": "👕",
     "tono": "filosofica",
     "color": {
       "principal": "#94a9d6",
@@ -810,7 +810,7 @@ const CALENDARIO = [
     "fecha": "2026-11-20",
     "fechaTexto": "vie, 20 de nov",
     "categoria": "Helado de mora silvestre",
-    "icono": "🍦",
+    "icono": "🍨",
     "tono": "amor",
     "color": {
       "principal": "#e9a3bd",
@@ -833,7 +833,7 @@ const CALENDARIO = [
     "fecha": "2026-11-21",
     "fechaTexto": "sáb, 21 de nov",
     "categoria": "Tulipanes y margaritas",
-    "icono": "🌷",
+    "icono": "💐",
     "tono": "amor",
     "color": {
       "principal": "#d6b36c",
@@ -856,7 +856,7 @@ const CALENDARIO = [
     "fecha": "2026-11-22",
     "fechaTexto": "dom, 22 de nov",
     "categoria": "El orden de las cosas",
-    "icono": "📚",
+    "icono": "🗂️",
     "tono": "filosofica",
     "color": {
       "principal": "#b9a4e5",
@@ -879,7 +879,7 @@ const CALENDARIO = [
     "fecha": "2026-11-23",
     "fechaTexto": "lun, 23 de nov",
     "categoria": "Tu energía impulsiva",
-    "icono": "⚡",
+    "icono": "🔥",
     "tono": "filosofica",
     "color": {
       "principal": "#8fc6bd",
@@ -902,7 +902,7 @@ const CALENDARIO = [
     "fecha": "2026-11-24",
     "fechaTexto": "mar, 24 de nov",
     "categoria": "Tu risa y tus gestos",
-    "icono": "😄",
+    "icono": "😊",
     "tono": "amor",
     "color": {
       "principal": "#e6a47d",
@@ -925,7 +925,7 @@ const CALENDARIO = [
     "fecha": "2026-11-25",
     "fechaTexto": "mié, 25 de nov",
     "categoria": "La canción en repetir",
-    "icono": "🎶",
+    "icono": "🎵",
     "tono": "ambiente",
     "color": {
       "principal": "#d68caa",
@@ -948,7 +948,7 @@ const CALENDARIO = [
     "fecha": "2026-11-26",
     "fechaTexto": "jue, 26 de nov",
     "categoria": "Huevo con arroz y pasta",
-    "icono": "🍝",
+    "icono": "🍳",
     "tono": "amor",
     "color": {
       "principal": "#94a9d6",
@@ -971,7 +971,7 @@ const CALENDARIO = [
     "fecha": "2026-11-27",
     "fechaTexto": "vie, 27 de nov",
     "categoria": "No todo necesita sal",
-    "icono": "🧂",
+    "icono": "🥄",
     "tono": "filosofica",
     "color": {
       "principal": "#e9a3bd",
@@ -994,7 +994,7 @@ const CALENDARIO = [
     "fecha": "2026-11-28",
     "fechaTexto": "sáb, 28 de nov",
     "categoria": "Merlot y conversación",
-    "icono": "🍷",
+    "icono": "🥂",
     "tono": "amor",
     "color": {
       "principal": "#d6b36c",
@@ -1017,7 +1017,7 @@ const CALENDARIO = [
     "fecha": "2026-11-29",
     "fechaTexto": "dom, 29 de nov",
     "categoria": "Tus ojos cafés",
-    "icono": "🤎",
+    "icono": "👁️",
     "tono": "amor",
     "color": {
       "principal": "#b9a4e5",
@@ -1040,7 +1040,7 @@ const CALENDARIO = [
     "fecha": "2026-11-30",
     "fechaTexto": "lun, 30 de nov",
     "categoria": "Manualidades sin instrucciones",
-    "icono": "✂️",
+    "icono": "🧵",
     "tono": "filosofica",
     "color": {
       "principal": "#8fc6bd",
@@ -1063,7 +1063,7 @@ const CALENDARIO = [
     "fecha": "2026-12-01",
     "fechaTexto": "mar, 1 de dic",
     "categoria": "Nada a medias",
-    "icono": "🧭",
+    "icono": "🎯",
     "tono": "filosofica",
     "color": {
       "principal": "#e6a47d",
@@ -1086,7 +1086,7 @@ const CALENDARIO = [
     "fecha": "2026-12-02",
     "fechaTexto": "mié, 2 de dic",
     "categoria": "Café amargo, día amable",
-    "icono": "☕",
+    "icono": "🫗",
     "tono": "ambiente",
     "color": {
       "principal": "#d68caa",
@@ -1109,7 +1109,7 @@ const CALENDARIO = [
     "fecha": "2026-12-03",
     "fechaTexto": "jue, 3 de dic",
     "categoria": "Una margarita en tu escritorio",
-    "icono": "🌼",
+    "icono": "🌻",
     "tono": "amor",
     "color": {
       "principal": "#94a9d6",
@@ -1132,7 +1132,7 @@ const CALENDARIO = [
     "fecha": "2026-12-04",
     "fechaTexto": "vie, 4 de dic",
     "categoria": "Un plan casero",
-    "icono": "🏠",
+    "icono": "🛋️",
     "tono": "amor",
     "color": {
       "principal": "#e9a3bd",
@@ -1155,7 +1155,7 @@ const CALENDARIO = [
     "fecha": "2026-12-05",
     "fechaTexto": "sáb, 5 de dic",
     "categoria": "La perrita que te busca",
-    "icono": "🐶",
+    "icono": "🦴",
     "tono": "amor",
     "color": {
       "principal": "#d6b36c",
@@ -1178,7 +1178,7 @@ const CALENDARIO = [
     "fecha": "2026-12-06",
     "fechaTexto": "dom, 6 de dic",
     "categoria": "Tinto sin azúcar",
-    "icono": "☕",
+    "icono": "☕️",
     "tono": "ambiente",
     "color": {
       "principal": "#b9a4e5",
@@ -1201,7 +1201,7 @@ const CALENDARIO = [
     "fecha": "2026-12-07",
     "fechaTexto": "lun, 7 de dic",
     "categoria": "Fresas y duraznos",
-    "icono": "🍓",
+    "icono": "🍒",
     "tono": "amor",
     "color": {
       "principal": "#8fc6bd",
@@ -1224,7 +1224,7 @@ const CALENDARIO = [
     "fecha": "2026-12-08",
     "fechaTexto": "mar, 8 de dic",
     "categoria": "Tus muecas de concentración",
-    "icono": "🎨",
+    "icono": "🖼️",
     "tono": "filosofica",
     "color": {
       "principal": "#e6a47d",
@@ -1247,7 +1247,7 @@ const CALENDARIO = [
     "fecha": "2026-12-09",
     "fechaTexto": "mié, 9 de dic",
     "categoria": "Cerámica y barro",
-    "icono": "🏺",
+    "icono": "🪡",
     "tono": "ambiente",
     "color": {
       "principal": "#d68caa",
@@ -1270,7 +1270,7 @@ const CALENDARIO = [
     "fecha": "2026-12-10",
     "fechaTexto": "jue, 10 de dic",
     "categoria": "El olor a óleo",
-    "icono": "🖌️",
+    "icono": "🧑‍🎨",
     "tono": "filosofica",
     "color": {
       "principal": "#94a9d6",
@@ -1293,7 +1293,7 @@ const CALENDARIO = [
     "fecha": "2026-12-11",
     "fechaTexto": "vie, 11 de dic",
     "categoria": "Atardeceres",
-    "icono": "🌇",
+    "icono": "🌄",
     "tono": "ambiente",
     "color": {
       "principal": "#e9a3bd",
@@ -1316,7 +1316,7 @@ const CALENDARIO = [
     "fecha": "2026-12-12",
     "fechaTexto": "sáb, 12 de dic",
     "categoria": "Boleros y saxofón",
-    "icono": "🎷",
+    "icono": "🎼",
     "tono": "ambiente",
     "color": {
       "principal": "#d6b36c",
@@ -1339,7 +1339,7 @@ const CALENDARIO = [
     "fecha": "2026-12-13",
     "fechaTexto": "dom, 13 de dic",
     "categoria": "R&B para la tarde",
-    "icono": "🎧",
+    "icono": "🎛️",
     "tono": "ambiente",
     "color": {
       "principal": "#b9a4e5",
@@ -1362,7 +1362,7 @@ const CALENDARIO = [
     "fecha": "2026-12-14",
     "fechaTexto": "lun, 14 de dic",
     "categoria": "Ropa ancha y comodidad",
-    "icono": "🧥",
+    "icono": "🧢",
     "tono": "filosofica",
     "color": {
       "principal": "#8fc6bd",
@@ -1385,7 +1385,7 @@ const CALENDARIO = [
     "fecha": "2026-12-15",
     "fechaTexto": "mar, 15 de dic",
     "categoria": "Helado de mora silvestre",
-    "icono": "🍦",
+    "icono": "🍧",
     "tono": "amor",
     "color": {
       "principal": "#e6a47d",
@@ -1408,7 +1408,7 @@ const CALENDARIO = [
     "fecha": "2026-12-16",
     "fechaTexto": "mié, 16 de dic",
     "categoria": "Tulipanes y margaritas",
-    "icono": "🌷",
+    "icono": "🌱",
     "tono": "amor",
     "color": {
       "principal": "#d68caa",
@@ -1431,7 +1431,7 @@ const CALENDARIO = [
     "fecha": "2026-12-17",
     "fechaTexto": "jue, 17 de dic",
     "categoria": "El orden de las cosas",
-    "icono": "📚",
+    "icono": "📝",
     "tono": "filosofica",
     "color": {
       "principal": "#94a9d6",
@@ -1454,7 +1454,7 @@ const CALENDARIO = [
     "fecha": "2026-12-18",
     "fechaTexto": "vie, 18 de dic",
     "categoria": "Tu energía impulsiva",
-    "icono": "⚡",
+    "icono": "💥",
     "tono": "filosofica",
     "color": {
       "principal": "#e9a3bd",
@@ -1477,7 +1477,7 @@ const CALENDARIO = [
     "fecha": "2026-12-19",
     "fechaTexto": "sáb, 19 de dic",
     "categoria": "Tu risa y tus gestos",
-    "icono": "😄",
+    "icono": "😆",
     "tono": "amor",
     "color": {
       "principal": "#d6b36c",
@@ -1500,7 +1500,7 @@ const CALENDARIO = [
     "fecha": "2026-12-20",
     "fechaTexto": "dom, 20 de dic",
     "categoria": "La canción en repetir",
-    "icono": "🎶",
+    "icono": "🔁",
     "tono": "ambiente",
     "color": {
       "principal": "#b9a4e5",
@@ -1523,7 +1523,7 @@ const CALENDARIO = [
     "fecha": "2026-12-21",
     "fechaTexto": "lun, 21 de dic",
     "categoria": "Huevo con arroz y pasta",
-    "icono": "🍝",
+    "icono": "🍜",
     "tono": "amor",
     "color": {
       "principal": "#8fc6bd",
@@ -1546,7 +1546,7 @@ const CALENDARIO = [
     "fecha": "2026-12-22",
     "fechaTexto": "mar, 22 de dic",
     "categoria": "No todo necesita sal",
-    "icono": "🧂",
+    "icono": "🫙",
     "tono": "filosofica",
     "color": {
       "principal": "#e6a47d",
@@ -1569,7 +1569,7 @@ const CALENDARIO = [
     "fecha": "2026-12-23",
     "fechaTexto": "mié, 23 de dic",
     "categoria": "Merlot y conversación",
-    "icono": "🍷",
+    "icono": "🍇",
     "tono": "amor",
     "color": {
       "principal": "#d68caa",
@@ -1592,7 +1592,7 @@ const CALENDARIO = [
     "fecha": "2026-12-24",
     "fechaTexto": "jue, 24 de dic",
     "categoria": "Tus ojos cafés",
-    "icono": "🤎",
+    "icono": "🟤",
     "tono": "amor",
     "color": {
       "principal": "#94a9d6",
@@ -1615,7 +1615,7 @@ const CALENDARIO = [
     "fecha": "2026-12-25",
     "fechaTexto": "vie, 25 de dic",
     "categoria": "Manualidades sin instrucciones",
-    "icono": "✂️",
+    "icono": "🧶",
     "tono": "filosofica",
     "color": {
       "principal": "#e9a3bd",
@@ -1638,7 +1638,7 @@ const CALENDARIO = [
     "fecha": "2026-12-26",
     "fechaTexto": "sáb, 26 de dic",
     "categoria": "Nada a medias",
-    "icono": "🧭",
+    "icono": "🧩",
     "tono": "filosofica",
     "color": {
       "principal": "#d6b36c",
@@ -1661,7 +1661,7 @@ const CALENDARIO = [
     "fecha": "2026-12-27",
     "fechaTexto": "dom, 27 de dic",
     "categoria": "Café amargo, día amable",
-    "icono": "☕",
+    "icono": "🥃",
     "tono": "ambiente",
     "color": {
       "principal": "#b9a4e5",
@@ -1684,7 +1684,7 @@ const CALENDARIO = [
     "fecha": "2026-12-28",
     "fechaTexto": "lun, 28 de dic",
     "categoria": "Una margarita en tu escritorio",
-    "icono": "🌼",
+    "icono": "🌿",
     "tono": "amor",
     "color": {
       "principal": "#8fc6bd",
@@ -1707,7 +1707,7 @@ const CALENDARIO = [
     "fecha": "2026-12-29",
     "fechaTexto": "mar, 29 de dic",
     "categoria": "Un plan casero",
-    "icono": "🏠",
+    "icono": "🕯️",
     "tono": "amor",
     "color": {
       "principal": "#e6a47d",
@@ -1730,7 +1730,7 @@ const CALENDARIO = [
     "fecha": "2026-12-30",
     "fechaTexto": "mié, 30 de dic",
     "categoria": "La perrita que te busca",
-    "icono": "🐶",
+    "icono": "🐩",
     "tono": "amor",
     "color": {
       "principal": "#d68caa",
@@ -1753,7 +1753,7 @@ const CALENDARIO = [
     "fecha": "2026-12-31",
     "fechaTexto": "jue, 31 de dic",
     "categoria": "31 de diciembre: seguimos",
-    "icono": "✨",
+    "icono": "🎆",
     "tono": "amor",
     "color": {
       "principal": "#94a9d6",
