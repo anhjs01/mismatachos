@@ -4,7 +4,7 @@ const CALENDARIO = [
     "dia": 1,
     "fecha": "2026-10-16",
     "fechaTexto": "vie, 16 de oct",
-    "categoria": "La perrita que te busca",
+    "categoria": "La alegría de una cola que se mueve",
     "icono": "🐕",
     "tono": "amor",
     "color": {
@@ -12,13 +12,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Quería que empezaras con una idea sencilla: a veces el cariño se nota en quien se acuerda de tus pequeñas cosas. Ojalá hoy tengas un rato para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Ojalá hoy alguien te reciba con esa emoción que no necesita palabras: como una perrita que te reconoce desde la puerta y convierte una llegada cualquiera en el mejor momento.",
     "poema": [
-          "Hay algo bonito en la perrita que te busca: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
-          "Me gusta la idea de que alguien aprenda tus pequeños gustos y les haga espacio sin convertirlos en una lista. Ojalá este rincón se parezca un poquito a eso."
+      "Hay cariños que no preguntan cómo te fue ni esperan una explicación. Se acercan, hacen espacio y celebran que estés ahí.",
+      "Me gusta pensar que también podemos aprender a querer así: con atención, paciencia y alegría por las pequeñas cosas que te hacen ser tú."
     ],
-    "detalle": "Si hoy ves una perrita buscando a su persona, acuérdate de ese cariño que acompaña sin pedir explicaciones.",
-    "buenasNoches": "Cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. Deja que el día termine despacio y date permiso de parar.",
+    "detalle": "Hoy, si necesitas una pausa, imagina una perrita moviendo la cola apenas te ve llegar. Que alguien se alegre de encontrarte también es una forma de hogar.",
+    "buenasNoches": "Que descanses, Aleja. Ojalá el día te haya dejado al menos una escena que te dé ternura al recordarla. Lo demás puede esperar hasta mañana.",
     "cancionTitulo": "Hecha Pa' Mí",
     "cancionArtista": "Grupo Frontera",
     "youtubeId": "IbE7peGTpmc"
@@ -27,7 +27,7 @@ const CALENDARIO = [
     "dia": 2,
     "fecha": "2026-10-17",
     "fechaTexto": "sáb, 17 de oct",
-    "categoria": "Tinto sin azúcar",
+    "categoria": "El tinto, exactamente como te gusta",
     "icono": "☕",
     "tono": "ambiente",
     "color": {
@@ -35,13 +35,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buen día. No necesitas que todo salga perfecto para que hoy tenga algo bueno. un café intenso y un día que ojalá sea amable contigo. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que tu primera pausa tenga el sabor exacto que prefieres: café sin azúcar, sin adornos que no hacen falta y con unos minutos que sean solo tuyos.",
     "poema": [
-      "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en tinto sin azúcar, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
-      "un café intenso y un día que ojalá sea amable contigo. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
+      "Hay gustos que se aprenden escuchando. No hace falta endulzar tu café para hacerlo especial, igual que no hace falta llenar cada momento de ruido para que valga la pena.",
+      "Ojalá hoy puedas elegir a tu manera, incluso en las cosas pequeñas."
     ],
-    "detalle": "Para acordarte de algo bonito: un café intenso y un día que ojalá sea amable contigo.",
-    "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. un café intenso y un día que ojalá sea amable contigo. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
+    "detalle": "Si preparas café hoy, tómate el primer sorbo sin mirar el reloj. Que esos segundos sean tuyos antes de volver a todo lo demás.",
+    "buenasNoches": "Que la noche te quite un poco del ruido del día. Mañana puede esperar; deja que el último pensamiento sea algo que te dé calma, no otra tarea.",
     "cancionTitulo": "pa quererte",
     "cancionArtista": "Rels B",
     "youtubeId": "XQeBTVeWkDo"
@@ -50,7 +50,7 @@ const CALENDARIO = [
     "dia": 3,
     "fecha": "2026-10-18",
     "fechaTexto": "dom, 18 de oct",
-    "categoria": "Fresas y duraznos",
+    "categoria": "Fresas, duraznos y una pausa",
     "icono": "🍓",
     "tono": "amor",
     "color": {
@@ -58,13 +58,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días. Ojalá encuentres una pausa bonita antes de entrar de lleno en tus cosas. fruta fresca y una pausa pequeña que sabe a algo bueno. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días. Te deseo una mañana con algo fresco y dulce, de esos pequeños gustos que mejoran el día sin tener que convertirlo en una ocasión especial.",
     "poema": [
-      "Me gusta imaginar una escena sencilla alrededor de fresas y duraznos. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
-      "fruta fresca y una pausa pequeña que sabe a algo bueno. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
+      "Pienso en fresas y duraznos cortados en un plato, en escoger primero el que más provoca y en conversar sin apuro mientras se acaba la tarde.",
+      "No todo recuerdo bonito necesita un gran plan. A veces basta con compartir algo que te gusta y estar presente de verdad."
     ],
-    "detalle": "Una pequeña nota que me guardé: fruta fresca y una pausa pequeña que sabe a algo bueno.",
-    "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. fruta fresca y una pausa pequeña que sabe a algo bueno. Deja que el día termine sin pedirte una última demostración de energía.",
+    "detalle": "Regálate una pausa con fruta, si se te antoja. No tiene que ser productiva ni fotografiable: basta con que la disfrutes.",
+    "buenasNoches": "Ojalá cierres el día con la sensación de haber tenido un momento agradable, aunque haya sido breve. El descanso también puede saber a algo sencillo y bueno.",
     "cancionTitulo": "All of Me",
     "cancionArtista": "John Legend",
     "youtubeId": "450p7goxZqg"
@@ -73,7 +73,7 @@ const CALENDARIO = [
     "dia": 4,
     "fecha": "2026-10-19",
     "fechaTexto": "lun, 19 de oct",
-    "categoria": "Tus muecas de concentración",
+    "categoria": "La cara que pones al concentrarte",
     "icono": "🎨",
     "tono": "filosofica",
     "color": {
@@ -81,13 +81,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hola, Aleja. Te dejo estas líneas para acompañarte un momento, sin pedirte que cambies tu ritmo. esa expresión tuya cuando quieres que algo quede como lo imaginaste. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Hoy me acordé de esa expresión que aparece cuando quieres que algo quede tal como lo imaginaste. Espero que tengas espacio para crear sin que nadie te apure.",
     "poema": [
-      "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en tus muecas de concentración, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
-      "esa expresión tuya cuando quieres que algo quede como lo imaginaste. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
+      "A veces conoces mejor a alguien al notar cómo frunce el ceño cuando algo no encaja o cómo cambia su cara cuando por fin queda bien.",
+      "Esos gestos cotidianos también cuentan una historia; no hace falta que te des cuenta para que sean parte de lo que te hace única."
     ],
-    "detalle": "Si hoy te queda un minuto: esa expresión tuya cuando quieres que algo quede como lo imaginaste.",
-    "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. esa expresión tuya cuando quieres que algo quede como lo imaginaste. Ojalá el silencio de esta noche te siente bien.",
+    "detalle": "Si algo no te queda como querías, no te castigues en el primer intento. Aléjate un minuto y vuelve a mirarlo.",
+    "buenasNoches": "Descansa esos ojos y esa cabeza que tanto se empeñan en que las cosas salgan bien. Puedes retomar lo pendiente cuando te nazca.",
     "cancionTitulo": "Bendita Tu Luz",
     "cancionArtista": "Maná & Juan Luis Guerra",
     "youtubeId": "44kityInDvM"
@@ -96,7 +96,7 @@ const CALENDARIO = [
     "dia": 5,
     "fecha": "2026-10-20",
     "fechaTexto": "mar, 20 de oct",
-    "categoria": "Cerámica y barro",
+    "categoria": "Barro en las manos, ideas en marcha",
     "icono": "🏺",
     "tono": "ambiente",
     "color": {
@@ -104,13 +104,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Que tengas una mañana amable. Si todo empieza rápido, acuérdate de respirar un poquito. dar forma a una pieza con paciencia, presión justa y tus propias manos. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que tengas una mañana con paciencia para probar, corregir y volver a empezar. Las cosas hechas a mano tienen su propio ritmo.",
     "poema": [
-      "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe cerámica y barro, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
-      "dar forma a una pieza con paciencia, presión justa y tus propias manos. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
+      "Me imagino tus manos dando forma al barro, notando cuándo presionar y cuándo dejar que la pieza conserve su curva.",
+      "Cada pieza guarda un poco del proceso, incluso lo que al principio parecía un error."
     ],
-    "detalle": "Un guiño a una de tus cosas favoritas: dar forma a una pieza con paciencia, presión justa y tus propias manos.",
-    "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. dar forma a una pieza con paciencia, presión justa y tus propias manos. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
+    "detalle": "Si tienes materiales cerca, disfruta el proceso más que la idea de terminar. A veces lo mejor aparece cuando dejas de pelearte con la forma.",
+    "buenasNoches": "Que esta noche te encuentre con las manos descansadas y la mente menos exigente. No tienes que terminarlo todo hoy para sentir orgullo por lo que haces.",
     "cancionTitulo": "Something",
     "cancionArtista": "The Beatles",
     "youtubeId": "qCY80SdwBVI"
@@ -119,7 +119,7 @@ const CALENDARIO = [
     "dia": 6,
     "fecha": "2026-10-21",
     "fechaTexto": "mié, 21 de oct",
-    "categoria": "El olor a óleo",
+    "categoria": "El olor que anuncia que vas a pintar",
     "icono": "🖌️",
     "tono": "filosofica",
     "color": {
@@ -127,13 +127,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días. Espero que hoy algo pequeño te haga sonreír antes de que te des cuenta. ese aroma de los materiales que hace reconocible tu rincón creativo. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Hay olores que abren una puerta a un mundo propio; el del óleo puede hacer que un rincón cualquiera se sienta como tu espacio creativo.",
     "poema": [
-      "Si tuviera que escoger una imagen para este día, sería el olor a óleo. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
-      "ese aroma de los materiales que hace reconocible tu rincón creativo. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
+      "Antes de ver un cuadro terminado, ya existe ese momento de preparar los materiales, abrir el frasco y decidir por dónde empezar.",
+      "Que siempre tengas libertad para crear a tu manera, sin que cada intento tenga que convertirse en una obra perfecta."
     ],
-    "detalle": "Para ponerle una pausa amable al día: ese aroma de los materiales que hace reconocible tu rincón creativo.",
-    "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. ese aroma de los materiales que hace reconocible tu rincón creativo. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
+    "detalle": "Si pintas hoy, no te obligues a saber desde el comienzo cómo debe quedar. Deja que el color te responda un poco en el camino.",
+    "buenasNoches": "Cierra el día lejos de las exigencias por un rato. Ojalá recuerdes algo que hiciste por gusto, sin medir si fue útil o perfecto.",
     "cancionTitulo": "Querer Querernos",
     "cancionArtista": "Canserbero",
     "youtubeId": "Ei7Hp_4FbGY"
@@ -142,7 +142,7 @@ const CALENDARIO = [
     "dia": 7,
     "fecha": "2026-10-22",
     "fechaTexto": "jue, 22 de oct",
-    "categoria": "Atardeceres",
+    "categoria": "Un minuto mirando el cielo",
     "icono": "🌇",
     "tono": "ambiente",
     "color": {
@@ -150,13 +150,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buen día para ti. Que lo importante salga bien y que lo sencillo también te dé alegría. el cielo cambiando de color y una pausa para mirar antes de seguir. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Si hoy el cielo cambia de color cuando estés ocupada, ojalá puedas regalarte un minuto para mirarlo antes de seguir.",
     "poema": [
-      "Quise que este día tuviera un detalle diferente, inspirado en atardeceres. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
-      "el cielo cambiando de color y una pausa para mirar antes de seguir. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
+      "Los atardeceres tienen algo que no se puede apurar: uno puede llegar tarde, encontrar el cielo distinto y aun así detenerse.",
+      "A veces la belleza no resuelve nada; simplemente acompaña."
     ],
-    "detalle": "Algo pequeño que quería dejarte presente: el cielo cambiando de color y una pausa para mirar antes de seguir.",
-    "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. el cielo cambiando de color y una pausa para mirar antes de seguir. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
+    "detalle": "Si el cielo se pinta bonito esta tarde, guárdate un minuto para mirarlo. No hace falta sacar una foto: también vale quedártelo en la memoria.",
+    "buenasNoches": "Que la noche llegue sin exigirte haber aprovechado cada minuto. Hay días cuyo mejor plan es bajar el ritmo y dejar que las cosas terminen.",
     "cancionTitulo": "From The Start",
     "cancionArtista": "Laufey",
     "youtubeId": "lSD_L-xic9o"
@@ -165,7 +165,7 @@ const CALENDARIO = [
     "dia": 8,
     "fecha": "2026-10-23",
     "fechaTexto": "vie, 23 de oct",
-    "categoria": "Boleros y saxofón",
+    "categoria": "Un bolero con saxofón al fondo",
     "icono": "🎷",
     "tono": "ambiente",
     "color": {
@@ -173,13 +173,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Antes de que el día se llene de pendientes, quería dejarte una idea amable. una melodía cálida que acompaña sin exigir atención. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Ojalá hoy encuentres una canción que te haga bajar un poco los hombros: un bolero cálido, un saxofón entrando despacio y nada que tengas que resolver durante esos minutos.",
     "poema": [
-      "Hay algo bonito en boleros y saxofón: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
-      "una melodía cálida que acompaña sin exigir atención. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
+      "Hay canciones que parecen hablar más cerca cuando todo alrededor se aquieta. Un bolero no necesita correr; deja que la melodía respire.",
+      "Quizá por eso cierta música convierte una tarde normal en un lugar al que uno quisiera volver."
     ],
-    "detalle": "Un detalle para hoy: una melodía cálida que acompaña sin exigir atención.",
-    "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. una melodía cálida que acompaña sin exigir atención. Descansa a tu ritmo; no tienes que ganarte una pausa.",
+    "detalle": "Pon hoy un bolero o algo con saxofón y escucha un minuto sin hacer otra cosa al mismo tiempo.",
+    "buenasNoches": "Que esta noche tenga un ritmo más suave que el día. Si te apetece, deja una melodía tranquila acompañándote mientras todo lo demás pierde volumen.",
     "cancionTitulo": "Gotas de Lluvia",
     "cancionArtista": "Grupo Niche",
     "youtubeId": "Kg15fQkXR98"
@@ -188,7 +188,7 @@ const CALENDARIO = [
     "dia": 9,
     "fecha": "2026-10-24",
     "fechaTexto": "sáb, 24 de oct",
-    "categoria": "R&B para la tarde",
+    "categoria": "R&B para bajar el volumen del mundo",
     "icono": "🎧",
     "tono": "ambiente",
     "color": {
@@ -196,13 +196,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buen día. No necesitas que todo salga perfecto para que hoy tenga algo bueno. un bajo suave, una voz cercana y espacio para pensar. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Te deseo una tarde con esa mezcla de R&B que acompaña sin invadir: una voz cercana, un bajo que se siente y espacio para que tus pensamientos vayan a su ritmo.",
     "poema": [
-      "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en r&b para la tarde, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
-      "un bajo suave, una voz cercana y espacio para pensar. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
+      "Hay música que no necesita ocupar toda la habitación para hacerse notar. Se queda detrás de la conversación y vuelve más amable una tarde cualquiera.",
+      "Ojalá siempre tengas canciones que te entiendan sin pedirte que expliques cómo estás."
     ],
-    "detalle": "Para acordarte de algo bonito: un bajo suave, una voz cercana y espacio para pensar.",
-    "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. un bajo suave, una voz cercana y espacio para pensar. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
+    "detalle": "Elige una canción de R&B que te guste y déjala sonar mientras haces algo sencillo. Que sea compañía, no otra cosa que atender.",
+    "buenasNoches": "Antes de dormir, deja que el día pierda intensidad poco a poco. No necesitas encontrarle una moraleja a todo; algunas noches solo toca descansar.",
     "cancionTitulo": "Burbujas de Amor",
     "cancionArtista": "Juan Luis Guerra 4.40",
     "youtubeId": "PWGwF_B0bxk"
@@ -211,7 +211,7 @@ const CALENDARIO = [
     "dia": 10,
     "fecha": "2026-10-25",
     "fechaTexto": "dom, 25 de oct",
-    "categoria": "Ropa ancha y comodidad",
+    "categoria": "Tu uniforme favorito: estar cómoda",
     "icono": "🧥",
     "tono": "filosofica",
     "color": {
@@ -219,13 +219,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días. Ojalá encuentres una pausa bonita antes de entrar de lleno en tus cosas. esa prenda cómoda que te deja moverte a tu manera. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Ojalá hoy puedas elegir esa ropa ancha en la que te sientes tú, sin pensar demasiado en cómo se ve desde fuera.",
     "poema": [
-      "Me gusta imaginar una escena sencilla alrededor de ropa ancha y comodidad. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
-      "esa prenda cómoda que te deja moverte a tu manera. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
+      "La comodidad también tiene personalidad: una camiseta grande, una tela suave y la libertad de moverte sin estar pendiente de la ropa.",
+      "Me gusta la idea de que no tengas que arreglarte para merecer sentirte bonita."
     ],
-    "detalle": "Una pequeña nota que me guardé: esa prenda cómoda que te deja moverte a tu manera.",
-    "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. esa prenda cómoda que te deja moverte a tu manera. Deja que el día termine sin pedirte una última demostración de energía.",
+    "detalle": "Ponte hoy algo que te deje respirar y moverte con libertad. No necesitas una ocasión para estar cómoda contigo misma.",
+    "buenasNoches": "Que te reciba la noche sin tener que sostener ninguna pose. Ponte cómoda, suelta el día y deja que tu cuerpo descanse de verdad.",
     "cancionTitulo": "Me Enamora",
     "cancionArtista": "Juanes",
     "youtubeId": "voxgN3Dhjuo"
@@ -234,7 +234,7 @@ const CALENDARIO = [
     "dia": 11,
     "fecha": "2026-10-26",
     "fechaTexto": "lun, 26 de oct",
-    "categoria": "Helado de mora silvestre",
+    "categoria": "Mora silvestre y cobertura amarga",
     "icono": "🍦",
     "tono": "amor",
     "color": {
@@ -242,13 +242,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hola, Aleja. Te dejo estas líneas para acompañarte un momento, sin pedirte que cambies tu ritmo. mora intensa con cobertura amarga, justo como te gusta. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que el día te sorprenda con algo que tenga ese contraste que te gusta: mora intensa y una cobertura amarga, sin volverlo más dulce de lo que quieres.",
     "poema": [
-      "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en helado de mora silvestre, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
-      "mora intensa con cobertura amarga, justo como te gusta. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
+      "Hay algo muy tuyo en saber qué sabor prefieres y no necesitar que todo se adapte al gusto de los demás.",
+      "Lo que te gusta puede ser particular, intenso o distinto; no tiene que convencer a nadie."
     ],
-    "detalle": "Si hoy te queda un minuto: mora intensa con cobertura amarga, justo como te gusta.",
-    "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. mora intensa con cobertura amarga, justo como te gusta. Ojalá el silencio de esta noche te siente bien.",
+    "detalle": "Si hoy se te antoja algo dulce, recuerda esa combinación de mora y cobertura amarga. Disfrútala sin convertirla en premio por haber hecho todo.",
+    "buenasNoches": "Que el final del día sea amable contigo. No tienes que ganarte los pequeños gustos ni justificar por qué te hacen feliz.",
     "cancionTitulo": "Que Me Alcance La Vida",
     "cancionArtista": "Sin Bandera",
     "youtubeId": "fbqXGMXVgB8"
@@ -257,7 +257,7 @@ const CALENDARIO = [
     "dia": 12,
     "fecha": "2026-10-27",
     "fechaTexto": "mar, 27 de oct",
-    "categoria": "Tulipanes y margaritas",
+    "categoria": "Flores sin esperar una fecha",
     "icono": "🌷",
     "tono": "amor",
     "color": {
@@ -265,13 +265,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Que tengas una mañana amable. Si todo empieza rápido, acuérdate de respirar un poquito. flores elegidas por gusto y no por una fecha del calendario. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Ojalá hoy aparezca una flor en tu camino sin que el calendario tenga que dar una razón para ello.",
     "poema": [
-      "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe tulipanes y margaritas, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
-      "flores elegidas por gusto y no por una fecha del calendario. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
+      "Un tulipán tiene una elegancia distinta a una margarita, pero las dos pueden alegrar un rincón a su manera.",
+      "Me gusta más regalar flores porque alguien se acordó de ti que hacerlo porque una fecha lo exige."
     ],
-    "detalle": "Un guiño a una de tus cosas favoritas: flores elegidas por gusto y no por una fecha del calendario.",
-    "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. flores elegidas por gusto y no por una fecha del calendario. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
+    "detalle": "Si ves una margarita o un tulipán hoy, piensa que las cosas bonitas no necesitan una fecha oficial para aparecer.",
+    "buenasNoches": "Que esta noche te deje una sensación tranquila. Ojalá hayas encontrado algún detalle pequeño que te alegrara sin pedir nada a cambio.",
     "cancionTitulo": "La Distancia",
     "cancionArtista": "Manuel Medrano",
     "youtubeId": "dH7_By3Y2i0"
@@ -280,7 +280,7 @@ const CALENDARIO = [
     "dia": 13,
     "fecha": "2026-10-28",
     "fechaTexto": "mié, 28 de oct",
-    "categoria": "El orden de las cosas",
+    "categoria": "La calma de encontrar cada cosa",
     "icono": "📚",
     "tono": "filosofica",
     "color": {
@@ -288,13 +288,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días. Espero que hoy algo pequeño te haga sonreír antes de que te des cuenta. la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Espero que hoy encuentres ese alivio pequeño de poner algo en su sitio y sentir que, por un momento, el mundo deja de estar tan revuelto.",
     "poema": [
-      "Si tuviera que escoger una imagen para este día, sería el orden de las cosas. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
-      "la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
+      "Ordenar no siempre significa tenerlo todo bajo control. A veces es despejar un espacio, encontrar lo que buscabas o dejar la mesa lista para mañana.",
+      "Que el orden te sirva para respirar mejor, no para exigirte que todo esté perfecto."
     ],
-    "detalle": "Para ponerle una pausa amable al día: la tranquilidad que aparece cuando cada cosa vuelve a su lugar.",
-    "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
+    "detalle": "Escoge hoy una sola cosa que te estorbe y acomódala. Con eso basta; no conviertas una pausa en una lista interminable.",
+    "buenasNoches": "Cuando llegue la noche, deja algunas cosas sin ordenar si hace falta. Tu descanso vale más que una lista tachada por completo.",
     "cancionTitulo": "Just Like Heaven",
     "cancionArtista": "The Cure",
     "youtubeId": "n3nPiBai66M"
@@ -303,7 +303,7 @@ const CALENDARIO = [
     "dia": 14,
     "fecha": "2026-10-29",
     "fechaTexto": "jue, 29 de oct",
-    "categoria": "Tu energía impulsiva",
+    "categoria": "La idea que no puede esperar",
     "icono": "⚡",
     "tono": "filosofica",
     "color": {
@@ -311,13 +311,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buen día para ti. Que lo importante salga bien y que lo sencillo también te dé alegría. esa manera tuya de tener una idea y querer probarla enseguida. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Me imagino esa chispa que te da cuando se te ocurre algo y quieres probarlo ya. Ojalá hoy encuentres un espacio para seguir esa curiosidad.",
     "poema": [
-      "Quise que este día tuviera un detalle diferente, inspirado en tu energía impulsiva. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
-      "esa manera tuya de tener una idea y querer probarla enseguida. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
+      "La impulsividad también puede ser entusiasmo: querer comprobar si una idea funciona, empezar antes de tener todas las respuestas y descubrir algo en el camino.",
+      "Solo espero que te des el mismo permiso para cambiar de opinión si algo deja de emocionarte."
     ],
-    "detalle": "Algo pequeño que quería dejarte presente: esa manera tuya de tener una idea y querer probarla enseguida.",
-    "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. esa manera tuya de tener una idea y querer probarla enseguida. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
+    "detalle": "Si se te ocurre algo nuevo, anótalo o pruébalo en pequeño. No tienes que convertir cada idea en una obligación.",
+    "buenasNoches": "Que puedas apagar el motor un rato esta noche. Hasta las personas llenas de ideas necesitan momentos en los que no tengan que inventar nada.",
     "cancionTitulo": "Chasing Cars",
     "cancionArtista": "Snow Patrol",
     "youtubeId": "GemKqzILV4w"
@@ -326,7 +326,7 @@ const CALENDARIO = [
     "dia": 15,
     "fecha": "2026-10-30",
     "fechaTexto": "vie, 30 de oct",
-    "categoria": "Tu risa y tus gestos",
+    "categoria": "Tu risa cambia la escena",
     "icono": "😄",
     "tono": "amor",
     "color": {
@@ -334,13 +334,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Antes de que el día se llene de pendientes, quería dejarte una idea amable. una expresión espontánea que termina contando toda la historia. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Ojalá hoy alguien te haga reír de esa forma en la que la cara habla antes que las palabras y termina contagiando a quien esté cerca.",
     "poema": [
-      "Hay algo bonito en tu risa y tus gestos: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
-      "una expresión espontánea que termina contando toda la historia. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
+      "Hay gestos que se quedan en la memoria porque aparecen sin preparación: una mirada cómplice, una risa que se escapa o esa cara que haces cuando algo te parece absurdo.",
+      "Esas pequeñas escenas tienen más verdad que muchas frases perfectamente pensadas."
     ],
-    "detalle": "Un detalle para hoy: una expresión espontánea que termina contando toda la historia.",
-    "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. una expresión espontánea que termina contando toda la historia. Descansa a tu ritmo; no tienes que ganarte una pausa.",
+    "detalle": "Si algo te da risa, no la cortes por seguir pendiente de otra cosa. Déjate disfrutar ese segundo completo.",
+    "buenasNoches": "Que al cerrar el día puedas recordar algo que te hizo reír de verdad. Si no pasó, ojalá mañana te encuentre una tontería buena.",
     "cancionTitulo": "Sin Sentimiento",
     "cancionArtista": "Grupo Niche",
     "youtubeId": "EJdbZIgaSHg"
@@ -349,7 +349,7 @@ const CALENDARIO = [
     "dia": 16,
     "fecha": "2026-10-31",
     "fechaTexto": "sáb, 31 de oct",
-    "categoria": "La canción en repetir",
+    "categoria": "La canción que pide otra vuelta",
     "icono": "🎶",
     "tono": "ambiente",
     "color": {
@@ -357,13 +357,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buen día. No necesitas que todo salga perfecto para que hoy tenga algo bueno. volver a poner la misma canción porque todavía no te cansas de ella. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que hoy te encuentre una canción tan buena que la vuelvas a poner apenas termina, solo porque todavía quieres quedarte ahí.",
     "poema": [
-      "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en la canción en repetir, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
-      "volver a poner la misma canción porque todavía no te cansas de ella. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
+      "Repetir una canción es una forma de alargar un momento. Quizá te gusta una línea, quizá el ritmo encaja con cómo te sientes.",
+      "No todo lo que se repite pierde su encanto; a veces una canción mejora con cada vuelta."
     ],
-    "detalle": "Para acordarte de algo bonito: volver a poner la misma canción porque todavía no te cansas de ella.",
-    "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. volver a poner la misma canción porque todavía no te cansas de ella. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
+    "detalle": "Vuelve hoy a una canción que te sepas de memoria. Escúchala como si todavía pudiera sorprenderte en algún detalle.",
+    "buenasNoches": "Ojalá termines el día con una melodía que te acompañe incluso después de apagar la pantalla.",
     "cancionTitulo": "I Wanna Be Yours",
     "cancionArtista": "Arctic Monkeys",
     "youtubeId": "nyuo9-OjNNg"
@@ -372,7 +372,7 @@ const CALENDARIO = [
     "dia": 17,
     "fecha": "2026-11-01",
     "fechaTexto": "dom, 1 de nov",
-    "categoria": "Huevo con arroz y pasta",
+    "categoria": "Arroz con huevo, pasta a tu manera",
     "icono": "🍝",
     "tono": "amor",
     "color": {
@@ -380,13 +380,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días. Ojalá encuentres una pausa bonita antes de entrar de lleno en tus cosas. comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Me acuerdo de dos gustos tuyos que merecen su propio espacio: arroz con huevo, por un lado, y pasta en casi todas sus presentaciones, por otro. No son lo mismo, y quiero recordarlos bien.",
     "poema": [
-      "Me gusta imaginar una escena sencilla alrededor de huevo con arroz y pasta. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
-      "comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
+      "El arroz con huevo tiene el encanto directo de un plato que no necesita demasiadas vueltas. La pasta, en cambio, puede cambiar con la salsa, la forma o la preparación.",
+      "Son dos gustos distintos y cada uno merece su lugar. Recordar lo que te gusta no debería significar mezclarlo todo en una sola frase."
     ],
-    "detalle": "Una pequeña nota que me guardé: comida sencilla, hecha a tu gusto y sin complicaciones innecesarias.",
-    "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. Deja que el día termine sin pedirte una última demostración de energía.",
+    "detalle": "Cuando tengas que elegir qué comer, pregúntate qué se te antoja de verdad: arroz con huevo o una pasta en la versión que más te provoque.",
+    "buenasNoches": "Ojalá hayas comido rico y tenido un momento sin apuros. Mañana puede aparecer otro antojo; no hace falta que todos tus gustos quepan en una sola descripción.",
     "cancionTitulo": "One Summer's Day",
     "cancionArtista": "Joe Hisaishi",
     "youtubeId": "TK1Ij_-mank"
@@ -395,7 +395,7 @@ const CALENDARIO = [
     "dia": 18,
     "fecha": "2026-11-02",
     "fechaTexto": "lun, 2 de nov",
-    "categoria": "No todo necesita sal",
+    "categoria": "Escuchar también es recordar la diferencia",
     "icono": "🧂",
     "tono": "filosofica",
     "color": {
@@ -403,13 +403,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hola, Aleja. Te dejo estas líneas para acompañarte un momento, sin pedirte que cambies tu ritmo. recordar un detalle pequeño también es una forma de escuchar. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "A veces demostrar que escuchaste no requiere una gran sorpresa: basta con recordar cómo le gusta algo a la otra persona y no cambiarlo por lo que tú supones.",
     "poema": [
-      "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en no todo necesita sal, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
-      "recordar un detalle pequeño también es una forma de escuchar. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
+      "Prestar atención es más que guardar datos. Es distinguir entre dos gustos, recordar qué sí te gusta y qué no, y no convertir tus preferencias en una versión aproximada.",
+      "Quiero que los detalles que te dedique se parezcan a ti de verdad, no a una idea genérica de lo que debería gustarte."
     ],
-    "detalle": "Si hoy te queda un minuto: recordar un detalle pequeño también es una forma de escuchar.",
-    "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. recordar un detalle pequeño también es una forma de escuchar. Ojalá el silencio de esta noche te siente bien.",
+    "detalle": "Hoy fíjate en un detalle pequeño de alguien a quien quieres. Escuchar bien puede ser una forma sencilla de cuidar.",
+    "buenasNoches": "Que el día termine con menos ruido y más claridad. Ojalá hoy te hayas sentido escuchada en algo, por pequeño que fuera.",
     "cancionTitulo": "Vivir Mi Vida",
     "cancionArtista": "Marc Anthony",
     "youtubeId": "YXnjy5YlDwk"
@@ -418,7 +418,7 @@ const CALENDARIO = [
     "dia": 19,
     "fecha": "2026-11-03",
     "fechaTexto": "mar, 3 de nov",
-    "categoria": "Merlot y conversación",
+    "categoria": "Una copa y una charla sin guion",
     "icono": "🍷",
     "tono": "amor",
     "color": {
@@ -426,13 +426,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Que tengas una mañana amable. Si todo empieza rápido, acuérdate de respirar un poquito. una copa tranquila y una charla que no necesita un guion. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Ojalá algún día de estos podamos alargar una conversación sin mirar la hora, con una copa tranquila y sin tener que preparar de antemano qué decir.",
     "poema": [
-      "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe merlot y conversación, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
-      "una copa tranquila y una charla que no necesita un guion. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
+      "Las mejores charlas no siempre son profundas desde el principio. A veces empiezan por una tontería, saltan a una historia vieja y terminan revelando algo.",
+      "Me gusta más la sinceridad imperfecta que una conversación en la que todo suena ensayado."
     ],
-    "detalle": "Un guiño a una de tus cosas favoritas: una copa tranquila y una charla que no necesita un guion.",
-    "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. una copa tranquila y una charla que no necesita un guion. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
+    "detalle": "Busca un rato para hablar con alguien con quien puedas ser espontánea. La confianza también se construye en conversaciones normales.",
+    "buenasNoches": "Que esta noche te deje descansar de tener que responder, explicar o aparentar. Ojalá encuentres un espacio donde puedas ser tú.",
     "cancionTitulo": "Die For You",
     "cancionArtista": "The Weeknd",
     "youtubeId": "gSo0YiGPgHk"
@@ -441,7 +441,7 @@ const CALENDARIO = [
     "dia": 20,
     "fecha": "2026-11-04",
     "fechaTexto": "mié, 4 de nov",
-    "categoria": "Tus ojos cafés",
+    "categoria": "Los ojos que se iluminan",
     "icono": "🤎",
     "tono": "amor",
     "color": {
@@ -449,13 +449,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días. Espero que hoy algo pequeño te haga sonreír antes de que te des cuenta. esa mirada que cambia cuando algo te sorprende o te da risa. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Hay algo especial en una mirada cuando aparece la sorpresa o se escapa la risa. Espero que hoy tengas varios motivos para mirar el mundo así.",
     "poema": [
-      "Si tuviera que escoger una imagen para este día, sería tus ojos cafés. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
-      "esa mirada que cambia cuando algo te sorprende o te da risa. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
+      "Tus ojos cafés no son solo un color; también son parte de las expresiones que cambian cuando algo te emociona, te da curiosidad o te hace gracia.",
+      "Me gusta pensar en la mirada como un pequeño gesto que dice mucho antes de que uno encuentre las palabras."
     ],
-    "detalle": "Para ponerle una pausa amable al día: esa mirada que cambia cuando algo te sorprende o te da risa.",
-    "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. esa mirada que cambia cuando algo te sorprende o te da risa. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
+    "detalle": "Si algo te sorprende hoy, no te apresures a disimularlo. Esa primera reacción también forma parte de lo bonito.",
+    "buenasNoches": "Descansa, Aleja. Ojalá cierres los ojos con una imagen amable en la cabeza y despiertes mañana con algo que te dé curiosidad.",
     "cancionTitulo": "Until I Found You",
     "cancionArtista": "Stephen Sanchez",
     "youtubeId": "GxldQ9eX2wo"
@@ -464,7 +464,7 @@ const CALENDARIO = [
     "dia": 21,
     "fecha": "2026-11-05",
     "fechaTexto": "jue, 5 de nov",
-    "categoria": "Manualidades sin instrucciones",
+    "categoria": "Crear sin pedirle permiso a las instrucciones",
     "icono": "✂️",
     "tono": "filosofica",
     "color": {
@@ -472,13 +472,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buen día para ti. Que lo importante salga bien y que lo sencillo también te dé alegría. materiales sobre la mesa y libertad para cambiar de idea en el proceso. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que hoy puedas empezar algo sin tener que saber exactamente cómo va a terminar. A veces las mejores ideas aparecen cuando dejas sitio para improvisar.",
     "poema": [
-      "Quise que este día tuviera un detalle diferente, inspirado en manualidades sin instrucciones. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
-      "materiales sobre la mesa y libertad para cambiar de idea en el proceso. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
+      "Una mesa con materiales mezclados, una prueba que no estaba en el plan y una decisión de última hora pueden terminar en algo interesante.",
+      "Crear también es descubrir lo que no habías pensado."
     ],
-    "detalle": "Algo pequeño que quería dejarte presente: materiales sobre la mesa y libertad para cambiar de idea en el proceso.",
-    "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. materiales sobre la mesa y libertad para cambiar de idea en el proceso. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
+    "detalle": "Haz hoy algo pequeño sin buscar la forma perfecta de hacerlo. Cambia una cosa, mezcla ideas o empieza por donde te dé la gana.",
+    "buenasNoches": "Que esta noche no te juzgues por lo que quedó a medias. También cuenta haber probado, haber jugado y haber descubierto algo nuevo.",
     "cancionTitulo": "Mi Persona Favorita",
     "cancionArtista": "Alejandro Sanz & Camila Cabello",
     "youtubeId": "W4AiOKlOO0Q"
@@ -487,7 +487,7 @@ const CALENDARIO = [
     "dia": 22,
     "fecha": "2026-11-06",
     "fechaTexto": "vie, 6 de nov",
-    "categoria": "Nada a medias",
+    "categoria": "El cariño que no se queda a medias",
     "icono": "🧭",
     "tono": "filosofica",
     "color": {
@@ -495,13 +495,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Antes de que el día se llene de pendientes, quería dejarte una idea amable. la claridad y el cuidado que merecen los sentimientos. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Mereces claridad en las cosas que importan: que las palabras y los actos se parezcan, que el interés no aparezca solo cuando conviene y que no tengas que adivinarlo todo.",
     "poema": [
-      "Hay algo bonito en nada a medias: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
-      "la claridad y el cuidado que merecen los sentimientos. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
+      "Querer bonito no significa acertar siempre. Significa hablar cuando algo importa, reconocer cuando uno se equivoca y no dejar a la otra persona haciendo sola todo el trabajo de entender.",
+      "Ojalá recibas un cariño que se note en lo cotidiano y no solo en las promesas."
     ],
-    "detalle": "Un detalle para hoy: la claridad y el cuidado que merecen los sentimientos.",
-    "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. la claridad y el cuidado que merecen los sentimientos. Descansa a tu ritmo; no tienes que ganarte una pausa.",
+    "detalle": "Recuerda que puedes pedir claridad sin sentir que estás pidiendo demasiado. Tus sentimientos también merecen cuidado.",
+    "buenasNoches": "Que descanses con la tranquilidad de no tener que resolver por tu cuenta lo que necesita una conversación honesta.",
     "cancionTitulo": "Make You Feel My Love",
     "cancionArtista": "Adele",
     "youtubeId": "0put0_a--Ng"
@@ -510,7 +510,7 @@ const CALENDARIO = [
     "dia": 23,
     "fecha": "2026-11-07",
     "fechaTexto": "sáb, 7 de nov",
-    "categoria": "Café amargo, día amable",
+    "categoria": "Café fuerte, día sin tanta prisa",
     "icono": "🫘",
     "tono": "ambiente",
     "color": {
@@ -518,13 +518,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buen día. No necesitas que todo salga perfecto para que hoy tenga algo bueno. un café fuerte sin que el resto del día tenga que serlo. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que tu café llegue intenso y que el resto de la mañana no tenga que ir al mismo ritmo. Puedes empezar con energía y aun así darte permiso de ir despacio.",
     "poema": [
-      "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en café amargo, día amable, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
-      "un café fuerte sin que el resto del día tenga que serlo. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
+      "Un café puede ser amargo y gustarte precisamente por eso; un día puede tener partes difíciles y aun así guardar algo bueno.",
+      "Una cosa no cancela la otra, y no tienes que endulzarlo todo para disfrutarlo."
     ],
-    "detalle": "Para acordarte de algo bonito: un café fuerte sin que el resto del día tenga que serlo.",
-    "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. un café fuerte sin que el resto del día tenga que serlo. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
+    "detalle": "Tómate el café como te gusta y regálate cinco minutos sin desplazarte entre pendientes. Un descanso breve también cuenta.",
+    "buenasNoches": "Que la noche no te encuentre todavía corriendo por dentro. Deja los pendientes a un lado; ahora toca bajar el ritmo.",
     "cancionTitulo": "Todo de Ti",
     "cancionArtista": "Rauw Alejandro",
     "youtubeId": "CFPLIaMpGrY"
@@ -533,7 +533,7 @@ const CALENDARIO = [
     "dia": 24,
     "fecha": "2026-11-08",
     "fechaTexto": "dom, 8 de nov",
-    "categoria": "Una margarita en tu escritorio",
+    "categoria": "Una flor junto a tus materiales",
     "icono": "🌼",
     "tono": "amor",
     "color": {
@@ -541,13 +541,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días. Ojalá encuentres una pausa bonita antes de entrar de lleno en tus cosas. un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Me imagino una margarita en un vaso pequeño, cerca de tus pinceles o de las cosas que estés usando, sin invadir tu espacio ni interrumpir lo que te inspira.",
     "poema": [
-      "Me gusta imaginar una escena sencilla alrededor de una margarita en tu escritorio. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
-      "un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
+      "No hace falta llenar una habitación de flores para hacerla más bonita. A veces una sola, puesta donde la vas a ver mientras trabajas, cambia el ambiente.",
+      "Un detalle puede acompañar sin pedir protagonismo."
     ],
-    "detalle": "Una pequeña nota que me guardé: un detalle sencillo junto a tus materiales, sin interrumpir tu mundo.",
-    "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. Deja que el día termine sin pedirte una última demostración de energía.",
+    "detalle": "Si estás creando, deja cerca algo que te alegre la vista. No para decorar para otros, sino para que tú disfrutes tu rincón.",
+    "buenasNoches": "Que esta noche tu espacio se sienta tuyo. Si algo quedó fuera de lugar, puede esperar hasta mañana.",
     "cancionTitulo": "Inmortal",
     "cancionArtista": "Aventura",
     "youtubeId": "XlmaJ-yU46U"
@@ -556,7 +556,7 @@ const CALENDARIO = [
     "dia": 25,
     "fecha": "2026-11-09",
     "fechaTexto": "lun, 9 de nov",
-    "categoria": "Un plan casero",
+    "categoria": "Cocinar juntos y elegir la película",
     "icono": "🏠",
     "tono": "amor",
     "color": {
@@ -564,13 +564,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hola, Aleja. Te dejo estas líneas para acompañarte un momento, sin pedirte que cambies tu ritmo. cocinar algo rico, escoger una película y quedarse cómodos. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Hoy me gusta imaginar un plan casero sin grandes preparativos: elegir algo rico para cocinar, poner música mientras se hace y discutir un poquito qué película merece la noche.",
     "poema": [
-      "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en un plan casero, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
-      "cocinar algo rico, escoger una película y quedarse cómodos. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
+      "El plan perfecto no necesita reservas ni salir corriendo. Puede empezar con alguien cortando ingredientes, seguir con una probadita y terminar en el sofá.",
+      "Lo bonito sería compartirlo sin estar pendientes del reloj."
     ],
-    "detalle": "Si hoy te queda un minuto: cocinar algo rico, escoger una película y quedarse cómodos.",
-    "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. cocinar algo rico, escoger una película y quedarse cómodos. Ojalá el silencio de esta noche te siente bien.",
+    "detalle": "Guarda esta idea para un día libre: preparar algo juntos, comer tranquilos y escoger una película entre los dos.",
+    "buenasNoches": "Que descanses con la idea de que los buenos planes también pueden ser pequeños. A veces una cocina, una película y compañía sincera bastan.",
     "cancionTitulo": "Los Caminos de la Vida",
     "cancionArtista": "Los Diablitos",
     "youtubeId": "I-cOD2x-qBs"
@@ -579,7 +579,7 @@ const CALENDARIO = [
     "dia": 26,
     "fecha": "2026-11-10",
     "fechaTexto": "mar, 10 de nov",
-    "categoria": "La perrita que te busca",
+    "categoria": "Una compañía que celebra tu llegada",
     "icono": "🐾",
     "tono": "amor",
     "color": {
@@ -587,13 +587,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Que tengas una mañana amable. Si todo empieza rápido, acuérdate de respirar un poquito. Hasta los días llenos pueden guardar un momento sencillo para ti.",
+    "buenosDias": "Buenos días, Aleja. Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Ojalá Una compañía que celebra tu llegada te regale hoy un momento que disfrutes de verdad.",
     "poema": [
-          "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe la perrita que te busca, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
-          "La perrita que te busca tiene esa forma directa de recordar lo importante: estar cerca, celebrar el regreso y hacer especial lo cotidiano."
+      "Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Una compañía que celebra tu llegada tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un guiño a esa alegría sencilla de llegar a casa y encontrar una compañía que se alegra de verte.",
-    "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. No hace falta resolverlo todo esta noche; mañana habrá otro momento.",
+    "detalle": "Un detalle para hoy: reserva un minuto para Una compañía que celebra tu llegada, sin hacer otra cosa al mismo tiempo.",
+    "buenasNoches": "Que esta noche te deje soltar el ritmo. Ojalá Una compañía que celebra tu llegada te haya regalado un instante agradable; si no, mañana habrá otra oportunidad.",
     "cancionTitulo": "Tú Sí Sabes Quererme",
     "cancionArtista": "Natalia Lafourcade",
     "youtubeId": "qTd2P94Qhp8"
@@ -602,7 +602,7 @@ const CALENDARIO = [
     "dia": 27,
     "fecha": "2026-11-11",
     "fechaTexto": "mié, 11 de nov",
-    "categoria": "Tinto sin azúcar",
+    "categoria": "El primer sorbo, sin azúcar",
     "icono": "🫖",
     "tono": "ambiente",
     "color": {
@@ -610,13 +610,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días. Espero que hoy algo pequeño te haga sonreír antes de que te des cuenta. un café intenso y un día que ojalá sea amable contigo. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Hola, Aleja. Hoy va por El primer sorbo, sin azúcar: no como una etiqueta, sino como una pequeña parte de las cosas que te hacen ser tú. Que el día te trate con cariño.",
     "poema": [
-      "Si tuviera que escoger una imagen para este día, sería tinto sin azúcar. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
-      "un café intenso y un día que ojalá sea amable contigo. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
+      "Hay algo de este tema que me gustaría que recordaras sin sentir que tienes que hacer nada con él. El primer sorbo, sin azúcar tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para ponerle una pausa amable al día: un café intenso y un día que ojalá sea amable contigo.",
-    "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. un café intenso y un día que ojalá sea amable contigo. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
+    "detalle": "Si se presenta la ocasión, disfruta El primer sorbo, sin azúcar a tu manera. No tiene que ser un plan grande para contar.",
+    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
     "cancionTitulo": "Será",
     "cancionArtista": "Sin Bandera",
     "youtubeId": "pqvI-6NRN_A"
@@ -625,7 +625,7 @@ const CALENDARIO = [
     "dia": 28,
     "fecha": "2026-11-12",
     "fechaTexto": "jue, 12 de nov",
-    "categoria": "Fresas y duraznos",
+    "categoria": "El color fresco de la fruta",
     "icono": "🍑",
     "tono": "amor",
     "color": {
@@ -633,13 +633,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buen día para ti. Que lo importante salga bien y que lo sencillo también te dé alegría. fruta fresca y una pausa pequeña que sabe a algo bueno. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que tengas una mañana amable. Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Si hoy aparece El color fresco de la fruta, disfrútalo sin convertirlo en otra tarea.",
     "poema": [
-      "Quise que este día tuviera un detalle diferente, inspirado en fresas y duraznos. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
-      "fruta fresca y una pausa pequeña que sabe a algo bueno. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
+      "Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. El color fresco de la fruta tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Algo pequeño que quería dejarte presente: fruta fresca y una pausa pequeña que sabe a algo bueno.",
-    "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. fruta fresca y una pausa pequeña que sabe a algo bueno. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
+    "detalle": "Guárdate una pausa para El color fresco de la fruta; que sea por gusto y no porque tengas que tachar algo de una lista.",
+    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
     "cancionTitulo": "¡Corre!",
     "cancionArtista": "Jesse & Joy",
     "youtubeId": "P2hM9CLAMu4"
@@ -648,7 +648,7 @@ const CALENDARIO = [
     "dia": 29,
     "fecha": "2026-11-13",
     "fechaTexto": "vie, 13 de nov",
-    "categoria": "Tus muecas de concentración",
+    "categoria": "Cuando el detalle sí importa",
     "icono": "🖍️",
     "tono": "filosofica",
     "color": {
@@ -656,13 +656,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Antes de que el día se llene de pendientes, quería dejarte una idea amable. esa expresión tuya cuando quieres que algo quede como lo imaginaste. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días. Me gustaría que hoy te quedara espacio para Cuando el detalle sí importa, aunque solo sea un ratito y aunque el resto del día venga lleno.",
     "poema": [
-      "Hay algo bonito en tus muecas de concentración: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
-      "esa expresión tuya cuando quieres que algo quede como lo imaginaste. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
+      "Me quedé pensando en cómo este detalle puede aparecer en un día cualquiera, sin necesidad de prepararlo todo. Cuando el detalle sí importa tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un detalle para hoy: esa expresión tuya cuando quieres que algo quede como lo imaginaste.",
-    "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. esa expresión tuya cuando quieres que algo quede como lo imaginaste. Descansa a tu ritmo; no tienes que ganarte una pausa.",
+    "detalle": "Hoy prueba algo pequeño relacionado con Cuando el detalle sí importa, solo si te nace. El momento también vale sin foto ni explicación.",
+    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
     "cancionTitulo": "Rayando el Sol",
     "cancionArtista": "Maná",
     "youtubeId": "8lbsQyMhMT8"
@@ -671,7 +671,7 @@ const CALENDARIO = [
     "dia": 30,
     "fecha": "2026-11-14",
     "fechaTexto": "sáb, 14 de nov",
-    "categoria": "Cerámica y barro",
+    "categoria": "Una pieza que solo tus manos podían hacer",
     "icono": "🪴",
     "tono": "ambiente",
     "color": {
@@ -679,13 +679,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buen día. No necesitas que todo salga perfecto para que hoy tenga algo bueno. dar forma a una pieza con paciencia, presión justa y tus propias manos. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Aleja, te dejo esta idea para hoy: Una pieza que solo tus manos podían hacer también puede ser una pausa, una risa o un detalle que te cambie el ánimo.",
     "poema": [
-      "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en cerámica y barro, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
-      "dar forma a una pieza con paciencia, presión justa y tus propias manos. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
+      "Quería que este mensaje tuviera un ritmo propio y que no sonara como una copia de los días anteriores. Una pieza que solo tus manos podían hacer tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para acordarte de algo bonito: dar forma a una pieza con paciencia, presión justa y tus propias manos.",
-    "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. dar forma a una pieza con paciencia, presión justa y tus propias manos. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
+    "detalle": "Recuerda esto cuando el día vaya rápido: Una pieza que solo tus manos podían hacer merece un espacio si es algo que te hace bien.",
+    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
     "cancionTitulo": "Yellow",
     "cancionArtista": "Coldplay",
     "youtubeId": "yKNxeF4KMsY"
@@ -694,7 +694,7 @@ const CALENDARIO = [
     "dia": 31,
     "fecha": "2026-11-15",
     "fechaTexto": "dom, 15 de nov",
-    "categoria": "El olor a óleo",
+    "categoria": "El color que aparece al mezclar",
     "icono": "🌀",
     "tono": "filosofica",
     "color": {
@@ -702,13 +702,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días. Ojalá encuentres una pausa bonita antes de entrar de lleno en tus cosas. ese aroma de los materiales que hace reconocible tu rincón creativo. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Ojalá El color que aparece al mezclar te regale hoy un momento que disfrutes de verdad.",
     "poema": [
-      "Me gusta imaginar una escena sencilla alrededor de el olor a óleo. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
-      "ese aroma de los materiales que hace reconocible tu rincón creativo. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
+      "Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. El color que aparece al mezclar tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Una pequeña nota que me guardé: ese aroma de los materiales que hace reconocible tu rincón creativo.",
-    "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. ese aroma de los materiales que hace reconocible tu rincón creativo. Deja que el día termine sin pedirte una última demostración de energía.",
+    "detalle": "Un detalle para hoy: reserva un minuto para El color que aparece al mezclar, sin hacer otra cosa al mismo tiempo.",
+    "buenasNoches": "Que esta noche te deje soltar el ritmo. Ojalá El color que aparece al mezclar te haya regalado un instante agradable; si no, mañana habrá otra oportunidad.",
     "cancionTitulo": "Iris",
     "cancionArtista": "Goo Goo Dolls",
     "youtubeId": "Dy_eP-mqWow"
@@ -717,7 +717,7 @@ const CALENDARIO = [
     "dia": 32,
     "fecha": "2026-11-16",
     "fechaTexto": "lun, 16 de nov",
-    "categoria": "Atardeceres",
+    "categoria": "El cielo que no se repite",
     "icono": "🌅",
     "tono": "ambiente",
     "color": {
@@ -725,13 +725,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hola, Aleja. Te dejo estas líneas para acompañarte un momento, sin pedirte que cambies tu ritmo. el cielo cambiando de color y una pausa para mirar antes de seguir. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Hola, Aleja. Hoy va por El cielo que no se repite: no como una etiqueta, sino como una pequeña parte de las cosas que te hacen ser tú. Que el día te trate con cariño.",
     "poema": [
-      "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en atardeceres, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
-      "el cielo cambiando de color y una pausa para mirar antes de seguir. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
+      "Hay algo de este tema que me gustaría que recordaras sin sentir que tienes que hacer nada con él. El cielo que no se repite tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Si hoy te queda un minuto: el cielo cambiando de color y una pausa para mirar antes de seguir.",
-    "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. el cielo cambiando de color y una pausa para mirar antes de seguir. Ojalá el silencio de esta noche te siente bien.",
+    "detalle": "Si se presenta la ocasión, disfruta El cielo que no se repite a tu manera. No tiene que ser un plan grande para contar.",
+    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
     "cancionTitulo": "Colapso",
     "cancionArtista": "Kevin Kaarl",
     "youtubeId": "Mz8n2prxhg8"
@@ -740,7 +740,7 @@ const CALENDARIO = [
     "dia": 33,
     "fecha": "2026-11-17",
     "fechaTexto": "mar, 17 de nov",
-    "categoria": "Boleros y saxofón",
+    "categoria": "Una melodía que se queda en el pecho",
     "icono": "🎺",
     "tono": "ambiente",
     "color": {
@@ -748,13 +748,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Que tengas una mañana amable. Si todo empieza rápido, acuérdate de respirar un poquito. una melodía cálida que acompaña sin exigir atención. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que tengas una mañana amable. Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Si hoy aparece Una melodía que se queda en el pecho, disfrútalo sin convertirlo en otra tarea.",
     "poema": [
-      "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe boleros y saxofón, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
-      "una melodía cálida que acompaña sin exigir atención. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
+      "Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Una melodía que se queda en el pecho tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un guiño a una de tus cosas favoritas: una melodía cálida que acompaña sin exigir atención.",
-    "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. una melodía cálida que acompaña sin exigir atención. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
+    "detalle": "Guárdate una pausa para Una melodía que se queda en el pecho; que sea por gusto y no porque tengas que tachar algo de una lista.",
+    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
     "cancionTitulo": "Experience",
     "cancionArtista": "Ludovico Einaudi",
     "youtubeId": "l6E8QbsAAJ8"
@@ -763,7 +763,7 @@ const CALENDARIO = [
     "dia": 34,
     "fecha": "2026-11-18",
     "fechaTexto": "mié, 18 de nov",
-    "categoria": "R&B para la tarde",
+    "categoria": "R&B para una tarde sin prisa",
     "icono": "🎙️",
     "tono": "ambiente",
     "color": {
@@ -771,13 +771,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días. Espero que hoy algo pequeño te haga sonreír antes de que te des cuenta. un bajo suave, una voz cercana y espacio para pensar. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días. Me gustaría que hoy te quedara espacio para R&B para una tarde sin prisa, aunque solo sea un ratito y aunque el resto del día venga lleno.",
     "poema": [
-      "Si tuviera que escoger una imagen para este día, sería r&b para la tarde. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
-      "un bajo suave, una voz cercana y espacio para pensar. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
+      "Me quedé pensando en cómo este detalle puede aparecer en un día cualquiera, sin necesidad de prepararlo todo. R&B para una tarde sin prisa tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para ponerle una pausa amable al día: un bajo suave, una voz cercana y espacio para pensar.",
-    "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. un bajo suave, una voz cercana y espacio para pensar. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
+    "detalle": "Hoy prueba algo pequeño relacionado con R&B para una tarde sin prisa, solo si te nace. El momento también vale sin foto ni explicación.",
+    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
     "cancionTitulo": "Pero No Te Enamores",
     "cancionArtista": "Fuerza Regida",
     "youtubeId": "qGTBrBTFKOM"
@@ -786,7 +786,7 @@ const CALENDARIO = [
     "dia": 35,
     "fecha": "2026-11-19",
     "fechaTexto": "jue, 19 de nov",
-    "categoria": "Ropa ancha y comodidad",
+    "categoria": "La comodidad también tiene estilo",
     "icono": "👕",
     "tono": "filosofica",
     "color": {
@@ -794,13 +794,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buen día para ti. Que lo importante salga bien y que lo sencillo también te dé alegría. esa prenda cómoda que te deja moverte a tu manera. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Aleja, te dejo esta idea para hoy: La comodidad también tiene estilo también puede ser una pausa, una risa o un detalle que te cambie el ánimo.",
     "poema": [
-      "Quise que este día tuviera un detalle diferente, inspirado en ropa ancha y comodidad. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
-      "esa prenda cómoda que te deja moverte a tu manera. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
+      "Quería que este mensaje tuviera un ritmo propio y que no sonara como una copia de los días anteriores. La comodidad también tiene estilo tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Algo pequeño que quería dejarte presente: esa prenda cómoda que te deja moverte a tu manera.",
-    "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. esa prenda cómoda que te deja moverte a tu manera. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
+    "detalle": "Recuerda esto cuando el día vaya rápido: La comodidad también tiene estilo merece un espacio si es algo que te hace bien.",
+    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
     "cancionTitulo": "Lo que hay x aquí",
     "cancionArtista": "Rels B",
     "youtubeId": "qWCup_EZSWE"
@@ -809,7 +809,7 @@ const CALENDARIO = [
     "dia": 36,
     "fecha": "2026-11-20",
     "fechaTexto": "vie, 20 de nov",
-    "categoria": "Helado de mora silvestre",
+    "categoria": "El antojo de mora que recuerdas",
     "icono": "🍨",
     "tono": "amor",
     "color": {
@@ -817,13 +817,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Antes de que el día se llene de pendientes, quería dejarte una idea amable. mora intensa con cobertura amarga, justo como te gusta. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Ojalá El antojo de mora que recuerdas te regale hoy un momento que disfrutes de verdad.",
     "poema": [
-      "Hay algo bonito en helado de mora silvestre: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
-      "mora intensa con cobertura amarga, justo como te gusta. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
+      "Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. El antojo de mora que recuerdas tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un detalle para hoy: mora intensa con cobertura amarga, justo como te gusta.",
-    "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. mora intensa con cobertura amarga, justo como te gusta. Descansa a tu ritmo; no tienes que ganarte una pausa.",
+    "detalle": "Un detalle para hoy: reserva un minuto para El antojo de mora que recuerdas, sin hacer otra cosa al mismo tiempo.",
+    "buenasNoches": "Que esta noche te deje soltar el ritmo. Ojalá El antojo de mora que recuerdas te haya regalado un instante agradable; si no, mañana habrá otra oportunidad.",
     "cancionTitulo": "Perfect",
     "cancionArtista": "Ed Sheeran",
     "youtubeId": "2Vv-BfVoq4g"
@@ -832,7 +832,7 @@ const CALENDARIO = [
     "dia": 37,
     "fecha": "2026-11-21",
     "fechaTexto": "sáb, 21 de nov",
-    "categoria": "Tulipanes y margaritas",
+    "categoria": "Tulipanes, margaritas y ninguna excusa",
     "icono": "💐",
     "tono": "amor",
     "color": {
@@ -840,13 +840,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buen día. No necesitas que todo salga perfecto para que hoy tenga algo bueno. flores elegidas por gusto y no por una fecha del calendario. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Hola, Aleja. Hoy va por Tulipanes, margaritas y ninguna excusa: no como una etiqueta, sino como una pequeña parte de las cosas que te hacen ser tú. Que el día te trate con cariño.",
     "poema": [
-      "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en tulipanes y margaritas, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
-      "flores elegidas por gusto y no por una fecha del calendario. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
+      "Hay algo de este tema que me gustaría que recordaras sin sentir que tienes que hacer nada con él. Tulipanes, margaritas y ninguna excusa tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para acordarte de algo bonito: flores elegidas por gusto y no por una fecha del calendario.",
-    "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. flores elegidas por gusto y no por una fecha del calendario. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
+    "detalle": "Si se presenta la ocasión, disfruta Tulipanes, margaritas y ninguna excusa a tu manera. No tiene que ser un plan grande para contar.",
+    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
     "cancionTitulo": "Darte un Beso",
     "cancionArtista": "Prince Royce",
     "youtubeId": "bdOXnTbyk0g"
@@ -855,7 +855,7 @@ const CALENDARIO = [
     "dia": 38,
     "fecha": "2026-11-22",
     "fechaTexto": "dom, 22 de nov",
-    "categoria": "El orden de las cosas",
+    "categoria": "Un rincón despejado para pensar",
     "icono": "🗂️",
     "tono": "filosofica",
     "color": {
@@ -863,13 +863,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días. Ojalá encuentres una pausa bonita antes de entrar de lleno en tus cosas. la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que tengas una mañana amable. Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Si hoy aparece Un rincón despejado para pensar, disfrútalo sin convertirlo en otra tarea.",
     "poema": [
-      "Me gusta imaginar una escena sencilla alrededor de el orden de las cosas. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
-      "la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
+      "Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Un rincón despejado para pensar tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Una pequeña nota que me guardé: la tranquilidad que aparece cuando cada cosa vuelve a su lugar.",
-    "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Deja que el día termine sin pedirte una última demostración de energía.",
+    "detalle": "Guárdate una pausa para Un rincón despejado para pensar; que sea por gusto y no porque tengas que tachar algo de una lista.",
+    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
     "cancionTitulo": "A Thousand Years",
     "cancionArtista": "Christina Perri",
     "youtubeId": "rtOvBOTyX00"
@@ -878,7 +878,7 @@ const CALENDARIO = [
     "dia": 39,
     "fecha": "2026-11-23",
     "fechaTexto": "lun, 23 de nov",
-    "categoria": "Tu energía impulsiva",
+    "categoria": "Cuando una idea te enciende",
     "icono": "🔥",
     "tono": "filosofica",
     "color": {
@@ -886,13 +886,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hola, Aleja. Te dejo estas líneas para acompañarte un momento, sin pedirte que cambies tu ritmo. esa manera tuya de tener una idea y querer probarla enseguida. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días. Me gustaría que hoy te quedara espacio para Cuando una idea te enciende, aunque solo sea un ratito y aunque el resto del día venga lleno.",
     "poema": [
-      "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en tu energía impulsiva, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
-      "esa manera tuya de tener una idea y querer probarla enseguida. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
+      "Me quedé pensando en cómo este detalle puede aparecer en un día cualquiera, sin necesidad de prepararlo todo. Cuando una idea te enciende tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Si hoy te queda un minuto: esa manera tuya de tener una idea y querer probarla enseguida.",
-    "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. esa manera tuya de tener una idea y querer probarla enseguida. Ojalá el silencio de esta noche te siente bien.",
+    "detalle": "Hoy prueba algo pequeño relacionado con Cuando una idea te enciende, solo si te nace. El momento también vale sin foto ni explicación.",
+    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
     "cancionTitulo": "Eres Tú",
     "cancionArtista": "Mocedades",
     "youtubeId": "Tw69WAn2-_0"
@@ -901,7 +901,7 @@ const CALENDARIO = [
     "dia": 40,
     "fecha": "2026-11-24",
     "fechaTexto": "mar, 24 de nov",
-    "categoria": "Tu risa y tus gestos",
+    "categoria": "La risa que rompe la seriedad",
     "icono": "😊",
     "tono": "amor",
     "color": {
@@ -909,13 +909,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Que tengas una mañana amable. Si todo empieza rápido, acuérdate de respirar un poquito. una expresión espontánea que termina contando toda la historia. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Aleja, te dejo esta idea para hoy: La risa que rompe la seriedad también puede ser una pausa, una risa o un detalle que te cambie el ánimo.",
     "poema": [
-      "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe tu risa y tus gestos, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
-      "una expresión espontánea que termina contando toda la historia. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
+      "Quería que este mensaje tuviera un ritmo propio y que no sonara como una copia de los días anteriores. La risa que rompe la seriedad tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un guiño a una de tus cosas favoritas: una expresión espontánea que termina contando toda la historia.",
-    "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. una expresión espontánea que termina contando toda la historia. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
+    "detalle": "Recuerda esto cuando el día vaya rápido: La risa que rompe la seriedad merece un espacio si es algo que te hace bien.",
+    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
     "cancionTitulo": "Line Without a Hook",
     "cancionArtista": "Ricky Montgomery feat. mxmtoon",
     "youtubeId": "TM-LcROZaFs"
@@ -924,7 +924,7 @@ const CALENDARIO = [
     "dia": 41,
     "fecha": "2026-11-25",
     "fechaTexto": "mié, 25 de nov",
-    "categoria": "La canción en repetir",
+    "categoria": "La repetición que se vuelve favorita",
     "icono": "🎵",
     "tono": "ambiente",
     "color": {
@@ -932,13 +932,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días. Espero que hoy algo pequeño te haga sonreír antes de que te des cuenta. volver a poner la misma canción porque todavía no te cansas de ella. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Ojalá La repetición que se vuelve favorita te regale hoy un momento que disfrutes de verdad.",
     "poema": [
-      "Si tuviera que escoger una imagen para este día, sería la canción en repetir. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
-      "volver a poner la misma canción porque todavía no te cansas de ella. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
+      "Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. La repetición que se vuelve favorita tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para ponerle una pausa amable al día: volver a poner la misma canción porque todavía no te cansas de ella.",
-    "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. volver a poner la misma canción porque todavía no te cansas de ella. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
+    "detalle": "Un detalle para hoy: reserva un minuto para La repetición que se vuelve favorita, sin hacer otra cosa al mismo tiempo.",
+    "buenasNoches": "Que esta noche te deje soltar el ritmo. Ojalá La repetición que se vuelve favorita te haya regalado un instante agradable; si no, mañana habrá otra oportunidad.",
     "cancionTitulo": "Cásate Conmigo",
     "cancionArtista": "Silvestre Dangond & Nicky Jam",
     "youtubeId": "cpN78ZjnCZY"
@@ -947,7 +947,7 @@ const CALENDARIO = [
     "dia": 42,
     "fecha": "2026-11-26",
     "fechaTexto": "jue, 26 de nov",
-    "categoria": "Huevo con arroz y pasta",
+    "categoria": "Dos antojos, cada uno a su manera",
     "icono": "🍳",
     "tono": "amor",
     "color": {
@@ -955,13 +955,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buen día para ti. Que lo importante salga bien y que lo sencillo también te dé alegría. comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Me acuerdo de dos gustos tuyos que merecen su propio espacio: arroz con huevo, por un lado, y pasta en casi todas sus presentaciones, por otro. No son lo mismo, y quiero recordarlos bien.",
     "poema": [
-      "Quise que este día tuviera un detalle diferente, inspirado en huevo con arroz y pasta. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
-      "comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
+      "El arroz con huevo tiene el encanto directo de un plato que no necesita demasiadas vueltas. La pasta, en cambio, puede cambiar con la salsa, la forma o la preparación.",
+      "Son dos gustos distintos y cada uno merece su lugar. Recordar lo que te gusta no debería significar mezclarlo todo en una sola frase."
     ],
-    "detalle": "Algo pequeño que quería dejarte presente: comida sencilla, hecha a tu gusto y sin complicaciones innecesarias.",
-    "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
+    "detalle": "Cuando tengas que elegir qué comer, pregúntate qué se te antoja de verdad: arroz con huevo o una pasta en la versión que más te provoque.",
+    "buenasNoches": "Ojalá hayas comido rico y tenido un momento sin apuros. Mañana puede aparecer otro antojo; no hace falta que todos tus gustos quepan en una sola descripción.",
     "cancionTitulo": "Del Mar",
     "cancionArtista": "Ozuna, Doja Cat & Sia",
     "youtubeId": "K2kUyHgadQo"
@@ -970,7 +970,7 @@ const CALENDARIO = [
     "dia": 43,
     "fecha": "2026-11-27",
     "fechaTexto": "vie, 27 de nov",
-    "categoria": "No todo necesita sal",
+    "categoria": "Lo que parece pequeño también cuenta",
     "icono": "🥄",
     "tono": "filosofica",
     "color": {
@@ -978,13 +978,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Antes de que el día se llene de pendientes, quería dejarte una idea amable. recordar un detalle pequeño también es una forma de escuchar. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que tengas una mañana amable. Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Si hoy aparece Lo que parece pequeño también cuenta, disfrútalo sin convertirlo en otra tarea.",
     "poema": [
-      "Hay algo bonito en no todo necesita sal: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
-      "recordar un detalle pequeño también es una forma de escuchar. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
+      "Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Lo que parece pequeño también cuenta tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un detalle para hoy: recordar un detalle pequeño también es una forma de escuchar.",
-    "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. recordar un detalle pequeño también es una forma de escuchar. Descansa a tu ritmo; no tienes que ganarte una pausa.",
+    "detalle": "Guárdate una pausa para Lo que parece pequeño también cuenta; que sea por gusto y no porque tengas que tachar algo de una lista.",
+    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
     "cancionTitulo": "Entra En Mi Vida",
     "cancionArtista": "Sin Bandera",
     "youtubeId": "-hoZpSoKAYE"
@@ -993,7 +993,7 @@ const CALENDARIO = [
     "dia": 44,
     "fecha": "2026-11-28",
     "fechaTexto": "sáb, 28 de nov",
-    "categoria": "Merlot y conversación",
+    "categoria": "Una charla que se alarga sin darse cuenta",
     "icono": "🥂",
     "tono": "amor",
     "color": {
@@ -1001,13 +1001,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buen día. No necesitas que todo salga perfecto para que hoy tenga algo bueno. una copa tranquila y una charla que no necesita un guion. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días. Me gustaría que hoy te quedara espacio para Una charla que se alarga sin darse cuenta, aunque solo sea un ratito y aunque el resto del día venga lleno.",
     "poema": [
-      "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en merlot y conversación, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
-      "una copa tranquila y una charla que no necesita un guion. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
+      "Me quedé pensando en cómo este detalle puede aparecer en un día cualquiera, sin necesidad de prepararlo todo. Una charla que se alarga sin darse cuenta tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para acordarte de algo bonito: una copa tranquila y una charla que no necesita un guion.",
-    "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. una copa tranquila y una charla que no necesita un guion. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
+    "detalle": "Hoy prueba algo pequeño relacionado con Una charla que se alarga sin darse cuenta, solo si te nace. El momento también vale sin foto ni explicación.",
+    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
     "cancionTitulo": "Todo Cambió",
     "cancionArtista": "Camila",
     "youtubeId": "gO8-9OWzPOQ"
@@ -1016,7 +1016,7 @@ const CALENDARIO = [
     "dia": 45,
     "fecha": "2026-11-29",
     "fechaTexto": "dom, 29 de nov",
-    "categoria": "Tus ojos cafés",
+    "categoria": "Una mirada que no necesita explicación",
     "icono": "👁️",
     "tono": "amor",
     "color": {
@@ -1024,13 +1024,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días. Ojalá encuentres una pausa bonita antes de entrar de lleno en tus cosas. esa mirada que cambia cuando algo te sorprende o te da risa. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Aleja, te dejo esta idea para hoy: Una mirada que no necesita explicación también puede ser una pausa, una risa o un detalle que te cambie el ánimo.",
     "poema": [
-      "Me gusta imaginar una escena sencilla alrededor de tus ojos cafés. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
-      "esa mirada que cambia cuando algo te sorprende o te da risa. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
+      "Quería que este mensaje tuviera un ritmo propio y que no sonara como una copia de los días anteriores. Una mirada que no necesita explicación tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Una pequeña nota que me guardé: esa mirada que cambia cuando algo te sorprende o te da risa.",
-    "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. esa mirada que cambia cuando algo te sorprende o te da risa. Deja que el día termine sin pedirte una última demostración de energía.",
+    "detalle": "Recuerda esto cuando el día vaya rápido: Una mirada que no necesita explicación merece un espacio si es algo que te hace bien.",
+    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
     "cancionTitulo": "Creo en Ti",
     "cancionArtista": "Reik",
     "youtubeId": "cqGyeFvhm8U"
@@ -1039,7 +1039,7 @@ const CALENDARIO = [
     "dia": 46,
     "fecha": "2026-11-30",
     "fechaTexto": "lun, 30 de nov",
-    "categoria": "Manualidades sin instrucciones",
+    "categoria": "Hacer algo solo para ver qué pasa",
     "icono": "🧵",
     "tono": "filosofica",
     "color": {
@@ -1047,13 +1047,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hola, Aleja. Te dejo estas líneas para acompañarte un momento, sin pedirte que cambies tu ritmo. materiales sobre la mesa y libertad para cambiar de idea en el proceso. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Ojalá Hacer algo solo para ver qué pasa te regale hoy un momento que disfrutes de verdad.",
     "poema": [
-      "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en manualidades sin instrucciones, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
-      "materiales sobre la mesa y libertad para cambiar de idea en el proceso. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
+      "Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Hacer algo solo para ver qué pasa tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Si hoy te queda un minuto: materiales sobre la mesa y libertad para cambiar de idea en el proceso.",
-    "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. materiales sobre la mesa y libertad para cambiar de idea en el proceso. Ojalá el silencio de esta noche te siente bien.",
+    "detalle": "Un detalle para hoy: reserva un minuto para Hacer algo solo para ver qué pasa, sin hacer otra cosa al mismo tiempo.",
+    "buenasNoches": "Que esta noche te deje soltar el ritmo. Ojalá Hacer algo solo para ver qué pasa te haya regalado un instante agradable; si no, mañana habrá otra oportunidad.",
     "cancionTitulo": "Sweet Disposition",
     "cancionArtista": "The Temper Trap",
     "youtubeId": "vN7HQrgakZU"
@@ -1062,7 +1062,7 @@ const CALENDARIO = [
     "dia": 47,
     "fecha": "2026-12-01",
     "fechaTexto": "mar, 1 de dic",
-    "categoria": "Nada a medias",
+    "categoria": "Que las palabras coincidan con los actos",
     "icono": "🎯",
     "tono": "filosofica",
     "color": {
@@ -1070,13 +1070,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Que tengas una mañana amable. Si todo empieza rápido, acuérdate de respirar un poquito. la claridad y el cuidado que merecen los sentimientos. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Hola, Aleja. Hoy va por Que las palabras coincidan con los actos: no como una etiqueta, sino como una pequeña parte de las cosas que te hacen ser tú. Que el día te trate con cariño.",
     "poema": [
-      "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe nada a medias, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
-      "la claridad y el cuidado que merecen los sentimientos. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
+      "Hay algo de este tema que me gustaría que recordaras sin sentir que tienes que hacer nada con él. Que las palabras coincidan con los actos tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un guiño a una de tus cosas favoritas: la claridad y el cuidado que merecen los sentimientos.",
-    "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. la claridad y el cuidado que merecen los sentimientos. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
+    "detalle": "Si se presenta la ocasión, disfruta Que las palabras coincidan con los actos a tu manera. No tiene que ser un plan grande para contar.",
+    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
     "cancionTitulo": "Lamento Boliviano",
     "cancionArtista": "Los Enanitos Verdes",
     "youtubeId": "hReAuaAuJOE"
@@ -1085,7 +1085,7 @@ const CALENDARIO = [
     "dia": 48,
     "fecha": "2026-12-02",
     "fechaTexto": "mié, 2 de dic",
-    "categoria": "Café amargo, día amable",
+    "categoria": "Un café que no endulza el día a la fuerza",
     "icono": "🫗",
     "tono": "ambiente",
     "color": {
@@ -1093,13 +1093,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días. Espero que hoy algo pequeño te haga sonreír antes de que te des cuenta. un café fuerte sin que el resto del día tenga que serlo. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que tengas una mañana amable. Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Si hoy aparece Un café que no endulza el día a la fuerza, disfrútalo sin convertirlo en otra tarea.",
     "poema": [
-      "Si tuviera que escoger una imagen para este día, sería café amargo, día amable. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
-      "un café fuerte sin que el resto del día tenga que serlo. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
+      "Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Un café que no endulza el día a la fuerza tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para ponerle una pausa amable al día: un café fuerte sin que el resto del día tenga que serlo.",
-    "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. un café fuerte sin que el resto del día tenga que serlo. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
+    "detalle": "Guárdate una pausa para Un café que no endulza el día a la fuerza; que sea por gusto y no porque tengas que tachar algo de una lista.",
+    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
     "cancionTitulo": "Periódico de Ayer",
     "cancionArtista": "Héctor Lavoe",
     "youtubeId": "LMIrkCL8Zg0"
@@ -1108,7 +1108,7 @@ const CALENDARIO = [
     "dia": 49,
     "fecha": "2026-12-03",
     "fechaTexto": "jue, 3 de dic",
-    "categoria": "Una margarita en tu escritorio",
+    "categoria": "Una margarita cerca de lo que creas",
     "icono": "🌻",
     "tono": "amor",
     "color": {
@@ -1116,13 +1116,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buen día para ti. Que lo importante salga bien y que lo sencillo también te dé alegría. un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días. Me gustaría que hoy te quedara espacio para Una margarita cerca de lo que creas, aunque solo sea un ratito y aunque el resto del día venga lleno.",
     "poema": [
-      "Quise que este día tuviera un detalle diferente, inspirado en una margarita en tu escritorio. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
-      "un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
+      "Me quedé pensando en cómo este detalle puede aparecer en un día cualquiera, sin necesidad de prepararlo todo. Una margarita cerca de lo que creas tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Algo pequeño que quería dejarte presente: un detalle sencillo junto a tus materiales, sin interrumpir tu mundo.",
-    "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
+    "detalle": "Hoy prueba algo pequeño relacionado con Una margarita cerca de lo que creas, solo si te nace. El momento también vale sin foto ni explicación.",
+    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
     "cancionTitulo": "Me Muero",
     "cancionArtista": "La Quinta Estación",
     "youtubeId": "k5k2XVKxznc"
@@ -1131,7 +1131,7 @@ const CALENDARIO = [
     "dia": 50,
     "fecha": "2026-12-04",
     "fechaTexto": "vie, 4 de dic",
-    "categoria": "Un plan casero",
+    "categoria": "Una noche casera que sí apetece",
     "icono": "🛋️",
     "tono": "amor",
     "color": {
@@ -1139,13 +1139,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Antes de que el día se llene de pendientes, quería dejarte una idea amable. cocinar algo rico, escoger una película y quedarse cómodos. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Aleja, te dejo esta idea para hoy: Una noche casera que sí apetece también puede ser una pausa, una risa o un detalle que te cambie el ánimo.",
     "poema": [
-      "Hay algo bonito en un plan casero: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
-      "cocinar algo rico, escoger una película y quedarse cómodos. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
+      "Quería que este mensaje tuviera un ritmo propio y que no sonara como una copia de los días anteriores. Una noche casera que sí apetece tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un detalle para hoy: cocinar algo rico, escoger una película y quedarse cómodos.",
-    "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. cocinar algo rico, escoger una película y quedarse cómodos. Descansa a tu ritmo; no tienes que ganarte una pausa.",
+    "detalle": "Recuerda esto cuando el día vaya rápido: Una noche casera que sí apetece merece un espacio si es algo que te hace bien.",
+    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
     "cancionTitulo": "Talking to the Moon",
     "cancionArtista": "Bruno Mars",
     "youtubeId": "fXw0jcYbqdo"
@@ -1154,7 +1154,7 @@ const CALENDARIO = [
     "dia": 51,
     "fecha": "2026-12-05",
     "fechaTexto": "sáb, 5 de dic",
-    "categoria": "La perrita que te busca",
+    "categoria": "La alegría de volver a encontrarse",
     "icono": "🦴",
     "tono": "amor",
     "color": {
@@ -1162,13 +1162,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buen día. No necesitas que todo salga perfecto para que hoy tenga algo bueno. A veces basta con una pausa, una canción que te guste o una pequeña sorpresa.",
+    "buenosDias": "Buenos días, Aleja. Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Ojalá La alegría de volver a encontrarse te regale hoy un momento que disfrutes de verdad.",
     "poema": [
-          "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en la perrita que te busca, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
-          "También hay belleza en lo que no todo el mundo nota: las cosas que eliges, lo que te hace reír y esos detalles que hablan de ti sin necesidad de explicarlos."
+      "Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. La alegría de volver a encontrarse tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Hoy, un pequeño recordatorio: lo que te hace feliz no tiene que parecer importante para nadie más.",
-    "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. No todo merece acompañarte hasta la almohada.",
+    "detalle": "Un detalle para hoy: reserva un minuto para La alegría de volver a encontrarse, sin hacer otra cosa al mismo tiempo.",
+    "buenasNoches": "Que esta noche te deje soltar el ritmo. Ojalá La alegría de volver a encontrarse te haya regalado un instante agradable; si no, mañana habrá otra oportunidad.",
     "cancionTitulo": "Cali Pachanguero",
     "cancionArtista": "Grupo Niche",
     "youtubeId": "7KxkMLAZlzw"
@@ -1177,7 +1177,7 @@ const CALENDARIO = [
     "dia": 52,
     "fecha": "2026-12-06",
     "fechaTexto": "dom, 6 de dic",
-    "categoria": "Tinto sin azúcar",
+    "categoria": "El café de una mañana lenta",
     "icono": "☕️",
     "tono": "ambiente",
     "color": {
@@ -1185,13 +1185,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días. Ojalá encuentres una pausa bonita antes de entrar de lleno en tus cosas. un café intenso y un día que ojalá sea amable contigo. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Hola, Aleja. Hoy va por El café de una mañana lenta: no como una etiqueta, sino como una pequeña parte de las cosas que te hacen ser tú. Que el día te trate con cariño.",
     "poema": [
-      "Me gusta imaginar una escena sencilla alrededor de tinto sin azúcar. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
-      "un café intenso y un día que ojalá sea amable contigo. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
+      "Hay algo de este tema que me gustaría que recordaras sin sentir que tienes que hacer nada con él. El café de una mañana lenta tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Una pequeña nota que me guardé: un café intenso y un día que ojalá sea amable contigo.",
-    "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. un café intenso y un día que ojalá sea amable contigo. Deja que el día termine sin pedirte una última demostración de energía.",
+    "detalle": "Si se presenta la ocasión, disfruta El café de una mañana lenta a tu manera. No tiene que ser un plan grande para contar.",
+    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
     "cancionTitulo": "At Last",
     "cancionArtista": "Etta James",
     "youtubeId": "1qJU8G7gR_g"
@@ -1200,7 +1200,7 @@ const CALENDARIO = [
     "dia": 53,
     "fecha": "2026-12-07",
     "fechaTexto": "lun, 7 de dic",
-    "categoria": "Fresas y duraznos",
+    "categoria": "El dulce de la fruta en su punto",
     "icono": "🍒",
     "tono": "amor",
     "color": {
@@ -1208,13 +1208,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hola, Aleja. Te dejo estas líneas para acompañarte un momento, sin pedirte que cambies tu ritmo. fruta fresca y una pausa pequeña que sabe a algo bueno. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que tengas una mañana amable. Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Si hoy aparece El dulce de la fruta en su punto, disfrútalo sin convertirlo en otra tarea.",
     "poema": [
-      "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en fresas y duraznos, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
-      "fruta fresca y una pausa pequeña que sabe a algo bueno. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
+      "Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. El dulce de la fruta en su punto tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Si hoy te queda un minuto: fruta fresca y una pausa pequeña que sabe a algo bueno.",
-    "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. fruta fresca y una pausa pequeña que sabe a algo bueno. Ojalá el silencio de esta noche te siente bien.",
+    "detalle": "Guárdate una pausa para El dulce de la fruta en su punto; que sea por gusto y no porque tengas que tachar algo de una lista.",
+    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
     "cancionTitulo": "Disfruto",
     "cancionArtista": "Carla Morrison",
     "youtubeId": "_ruEj-XK1lA"
@@ -1223,7 +1223,7 @@ const CALENDARIO = [
     "dia": 54,
     "fecha": "2026-12-08",
     "fechaTexto": "mar, 8 de dic",
-    "categoria": "Tus muecas de concentración",
+    "categoria": "El gesto de quien quiere que salga bien",
     "icono": "🖼️",
     "tono": "filosofica",
     "color": {
@@ -1231,13 +1231,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Que tengas una mañana amable. Si todo empieza rápido, acuérdate de respirar un poquito. esa expresión tuya cuando quieres que algo quede como lo imaginaste. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días. Me gustaría que hoy te quedara espacio para El gesto de quien quiere que salga bien, aunque solo sea un ratito y aunque el resto del día venga lleno.",
     "poema": [
-      "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe tus muecas de concentración, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
-      "esa expresión tuya cuando quieres que algo quede como lo imaginaste. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
+      "Me quedé pensando en cómo este detalle puede aparecer en un día cualquiera, sin necesidad de prepararlo todo. El gesto de quien quiere que salga bien tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un guiño a una de tus cosas favoritas: esa expresión tuya cuando quieres que algo quede como lo imaginaste.",
-    "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. esa expresión tuya cuando quieres que algo quede como lo imaginaste. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
+    "detalle": "Hoy prueba algo pequeño relacionado con El gesto de quien quiere que salga bien, solo si te nace. El momento también vale sin foto ni explicación.",
+    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
     "cancionTitulo": "Besos en Guerra",
     "cancionArtista": "Morat",
     "youtubeId": "1oeD2m2UQAI"
@@ -1246,7 +1246,7 @@ const CALENDARIO = [
     "dia": 55,
     "fecha": "2026-12-09",
     "fechaTexto": "mié, 9 de dic",
-    "categoria": "Cerámica y barro",
+    "categoria": "Un recuerdo hecho de barro y paciencia",
     "icono": "🪡",
     "tono": "ambiente",
     "color": {
@@ -1254,13 +1254,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días. Espero que hoy algo pequeño te haga sonreír antes de que te des cuenta. dar forma a una pieza con paciencia, presión justa y tus propias manos. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Aleja, te dejo esta idea para hoy: Un recuerdo hecho de barro y paciencia también puede ser una pausa, una risa o un detalle que te cambie el ánimo.",
     "poema": [
-      "Si tuviera que escoger una imagen para este día, sería cerámica y barro. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
-      "dar forma a una pieza con paciencia, presión justa y tus propias manos. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
+      "Quería que este mensaje tuviera un ritmo propio y que no sonara como una copia de los días anteriores. Un recuerdo hecho de barro y paciencia tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para ponerle una pausa amable al día: dar forma a una pieza con paciencia, presión justa y tus propias manos.",
-    "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. dar forma a una pieza con paciencia, presión justa y tus propias manos. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
+    "detalle": "Recuerda esto cuando el día vaya rápido: Un recuerdo hecho de barro y paciencia merece un espacio si es algo que te hace bien.",
+    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
     "cancionTitulo": "Día Tras Día",
     "cancionArtista": "Andrés Cepeda",
     "youtubeId": "g3ZzqseVv6Q"
@@ -1269,7 +1269,7 @@ const CALENDARIO = [
     "dia": 56,
     "fecha": "2026-12-10",
     "fechaTexto": "jue, 10 de dic",
-    "categoria": "El olor a óleo",
+    "categoria": "Una mancha de color que cambia la idea",
     "icono": "🧑‍🎨",
     "tono": "filosofica",
     "color": {
@@ -1277,13 +1277,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buen día para ti. Que lo importante salga bien y que lo sencillo también te dé alegría. ese aroma de los materiales que hace reconocible tu rincón creativo. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Ojalá Una mancha de color que cambia la idea te regale hoy un momento que disfrutes de verdad.",
     "poema": [
-      "Quise que este día tuviera un detalle diferente, inspirado en el olor a óleo. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
-      "ese aroma de los materiales que hace reconocible tu rincón creativo. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
+      "Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Una mancha de color que cambia la idea tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Algo pequeño que quería dejarte presente: ese aroma de los materiales que hace reconocible tu rincón creativo.",
-    "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. ese aroma de los materiales que hace reconocible tu rincón creativo. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
+    "detalle": "Un detalle para hoy: reserva un minuto para Una mancha de color que cambia la idea, sin hacer otra cosa al mismo tiempo.",
+    "buenasNoches": "Que esta noche te deje soltar el ritmo. Ojalá Una mancha de color que cambia la idea te haya regalado un instante agradable; si no, mañana habrá otra oportunidad.",
     "cancionTitulo": "Lo Que en Ti Veo",
     "cancionArtista": "Kany García & Nahuel Pennisi",
     "youtubeId": "CrTGrpnlsFI"
@@ -1292,7 +1292,7 @@ const CALENDARIO = [
     "dia": 57,
     "fecha": "2026-12-11",
     "fechaTexto": "vie, 11 de dic",
-    "categoria": "Atardeceres",
+    "categoria": "Un atardecer con tonos inesperados",
     "icono": "🌄",
     "tono": "ambiente",
     "color": {
@@ -1300,13 +1300,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Antes de que el día se llene de pendientes, quería dejarte una idea amable. el cielo cambiando de color y una pausa para mirar antes de seguir. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Hola, Aleja. Hoy va por Un atardecer con tonos inesperados: no como una etiqueta, sino como una pequeña parte de las cosas que te hacen ser tú. Que el día te trate con cariño.",
     "poema": [
-      "Hay algo bonito en atardeceres: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
-      "el cielo cambiando de color y una pausa para mirar antes de seguir. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
+      "Hay algo de este tema que me gustaría que recordaras sin sentir que tienes que hacer nada con él. Un atardecer con tonos inesperados tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un detalle para hoy: el cielo cambiando de color y una pausa para mirar antes de seguir.",
-    "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. el cielo cambiando de color y una pausa para mirar antes de seguir. Descansa a tu ritmo; no tienes que ganarte una pausa.",
+    "detalle": "Si se presenta la ocasión, disfruta Un atardecer con tonos inesperados a tu manera. No tiene que ser un plan grande para contar.",
+    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
     "cancionTitulo": "Dile al Amor",
     "cancionArtista": "Aventura",
     "youtubeId": "ebakGrBkTog"
@@ -1315,7 +1315,7 @@ const CALENDARIO = [
     "dia": 58,
     "fecha": "2026-12-12",
     "fechaTexto": "sáb, 12 de dic",
-    "categoria": "Boleros y saxofón",
+    "categoria": "La nostalgia bonita de un bolero",
     "icono": "🎼",
     "tono": "ambiente",
     "color": {
@@ -1323,13 +1323,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buen día. No necesitas que todo salga perfecto para que hoy tenga algo bueno. una melodía cálida que acompaña sin exigir atención. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que tengas una mañana amable. Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Si hoy aparece La nostalgia bonita de un bolero, disfrútalo sin convertirlo en otra tarea.",
     "poema": [
-      "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en boleros y saxofón, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
-      "una melodía cálida que acompaña sin exigir atención. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
+      "Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. La nostalgia bonita de un bolero tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para acordarte de algo bonito: una melodía cálida que acompaña sin exigir atención.",
-    "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. una melodía cálida que acompaña sin exigir atención. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
+    "detalle": "Guárdate una pausa para La nostalgia bonita de un bolero; que sea por gusto y no porque tengas que tachar algo de una lista.",
+    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
     "cancionTitulo": "Me Ilusioné",
     "cancionArtista": "Binomio de Oro de América",
     "youtubeId": "wDeZiEZGS3Q"
@@ -1338,7 +1338,7 @@ const CALENDARIO = [
     "dia": 59,
     "fecha": "2026-12-13",
     "fechaTexto": "dom, 13 de dic",
-    "categoria": "R&B para la tarde",
+    "categoria": "Una canción que acompaña sin estorbar",
     "icono": "🎛️",
     "tono": "ambiente",
     "color": {
@@ -1346,13 +1346,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días. Ojalá encuentres una pausa bonita antes de entrar de lleno en tus cosas. un bajo suave, una voz cercana y espacio para pensar. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días. Me gustaría que hoy te quedara espacio para Una canción que acompaña sin estorbar, aunque solo sea un ratito y aunque el resto del día venga lleno.",
     "poema": [
-      "Me gusta imaginar una escena sencilla alrededor de r&b para la tarde. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
-      "un bajo suave, una voz cercana y espacio para pensar. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
+      "Me quedé pensando en cómo este detalle puede aparecer en un día cualquiera, sin necesidad de prepararlo todo. Una canción que acompaña sin estorbar tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Una pequeña nota que me guardé: un bajo suave, una voz cercana y espacio para pensar.",
-    "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. un bajo suave, una voz cercana y espacio para pensar. Deja que el día termine sin pedirte una última demostración de energía.",
+    "detalle": "Hoy prueba algo pequeño relacionado con Una canción que acompaña sin estorbar, solo si te nace. El momento también vale sin foto ni explicación.",
+    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
     "cancionTitulo": "La Mitad",
     "cancionArtista": "Camilo",
     "youtubeId": "yz7oP-JqaXk"
@@ -1361,7 +1361,7 @@ const CALENDARIO = [
     "dia": 60,
     "fecha": "2026-12-14",
     "fechaTexto": "lun, 14 de dic",
-    "categoria": "Ropa ancha y comodidad",
+    "categoria": "Tu ropa, tu ritmo",
     "icono": "🧢",
     "tono": "filosofica",
     "color": {
@@ -1369,13 +1369,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hola, Aleja. Te dejo estas líneas para acompañarte un momento, sin pedirte que cambies tu ritmo. esa prenda cómoda que te deja moverte a tu manera. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Aleja, te dejo esta idea para hoy: tu ropa, tu ritmo también puede ser una pausa, una risa o un detalle que te cambie el ánimo.",
     "poema": [
-      "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en ropa ancha y comodidad, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
-      "esa prenda cómoda que te deja moverte a tu manera. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
+      "Quería que este mensaje tuviera un ritmo propio y que no sonara como una copia de los días anteriores. Tu ropa, tu ritmo tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Si hoy te queda un minuto: esa prenda cómoda que te deja moverte a tu manera.",
-    "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. esa prenda cómoda que te deja moverte a tu manera. Ojalá el silencio de esta noche te siente bien.",
+    "detalle": "Recuerda esto cuando el día vaya rápido: tu ropa, tu ritmo merece un espacio si es algo que te hace bien.",
+    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
     "cancionTitulo": "Que Lloro",
     "cancionArtista": "Sin Bandera",
     "youtubeId": "Fk5oL0mgI08"
@@ -1384,7 +1384,7 @@ const CALENDARIO = [
     "dia": 61,
     "fecha": "2026-12-15",
     "fechaTexto": "mar, 15 de dic",
-    "categoria": "Helado de mora silvestre",
+    "categoria": "El contraste que te gusta en la mora",
     "icono": "🍧",
     "tono": "amor",
     "color": {
@@ -1392,13 +1392,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Que tengas una mañana amable. Si todo empieza rápido, acuérdate de respirar un poquito. mora intensa con cobertura amarga, justo como te gusta. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Ojalá El contraste que te gusta en la mora te regale hoy un momento que disfrutes de verdad.",
     "poema": [
-      "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe helado de mora silvestre, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
-      "mora intensa con cobertura amarga, justo como te gusta. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
+      "Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. El contraste que te gusta en la mora tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un guiño a una de tus cosas favoritas: mora intensa con cobertura amarga, justo como te gusta.",
-    "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. mora intensa con cobertura amarga, justo como te gusta. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
+    "detalle": "Un detalle para hoy: reserva un minuto para El contraste que te gusta en la mora, sin hacer otra cosa al mismo tiempo.",
+    "buenasNoches": "Que esta noche te deje soltar el ritmo. Ojalá El contraste que te gusta en la mora te haya regalado un instante agradable; si no, mañana habrá otra oportunidad.",
     "cancionTitulo": "Por Amarte Tanto",
     "cancionArtista": "Melendi",
     "youtubeId": "z7Uwv5QuOys"
@@ -1407,7 +1407,7 @@ const CALENDARIO = [
     "dia": 62,
     "fecha": "2026-12-16",
     "fechaTexto": "mié, 16 de dic",
-    "categoria": "Tulipanes y margaritas",
+    "categoria": "Flores para alegrar un día cualquiera",
     "icono": "🌱",
     "tono": "amor",
     "color": {
@@ -1415,13 +1415,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días. Espero que hoy algo pequeño te haga sonreír antes de que te des cuenta. flores elegidas por gusto y no por una fecha del calendario. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Hola, Aleja. Hoy va por Flores para alegrar un día cualquiera: no como una etiqueta, sino como una pequeña parte de las cosas que te hacen ser tú. Que el día te trate con cariño.",
     "poema": [
-      "Si tuviera que escoger una imagen para este día, sería tulipanes y margaritas. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
-      "flores elegidas por gusto y no por una fecha del calendario. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
+      "Hay algo de este tema que me gustaría que recordaras sin sentir que tienes que hacer nada con él. Flores para alegrar un día cualquiera tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para ponerle una pausa amable al día: flores elegidas por gusto y no por una fecha del calendario.",
-    "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. flores elegidas por gusto y no por una fecha del calendario. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
+    "detalle": "Si se presenta la ocasión, disfruta Flores para alegrar un día cualquiera a tu manera. No tiene que ser un plan grande para contar.",
+    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
     "cancionTitulo": "Vivir Sin Aire",
     "cancionArtista": "Maná",
     "youtubeId": "Mr1pHZ2_xJU"
@@ -1430,7 +1430,7 @@ const CALENDARIO = [
     "dia": 63,
     "fecha": "2026-12-17",
     "fechaTexto": "jue, 17 de dic",
-    "categoria": "El orden de las cosas",
+    "categoria": "Dejar espacio para lo que viene",
     "icono": "📝",
     "tono": "filosofica",
     "color": {
@@ -1438,13 +1438,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buen día para ti. Que lo importante salga bien y que lo sencillo también te dé alegría. la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que tengas una mañana amable. Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Si hoy aparece Dejar espacio para lo que viene, disfrútalo sin convertirlo en otra tarea.",
     "poema": [
-      "Quise que este día tuviera un detalle diferente, inspirado en el orden de las cosas. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
-      "la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
+      "Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Dejar espacio para lo que viene tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Algo pequeño que quería dejarte presente: la tranquilidad que aparece cuando cada cosa vuelve a su lugar.",
-    "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. la tranquilidad que aparece cuando cada cosa vuelve a su lugar. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
+    "detalle": "Guárdate una pausa para Dejar espacio para lo que viene; que sea por gusto y no porque tengas que tachar algo de una lista.",
+    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
     "cancionTitulo": "505",
     "cancionArtista": "Arctic Monkeys",
     "youtubeId": "CKI8iQTgZKU"
@@ -1453,7 +1453,7 @@ const CALENDARIO = [
     "dia": 64,
     "fecha": "2026-12-18",
     "fechaTexto": "vie, 18 de dic",
-    "categoria": "Tu energía impulsiva",
+    "categoria": "El impulso de empezar",
     "icono": "💥",
     "tono": "filosofica",
     "color": {
@@ -1461,13 +1461,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Antes de que el día se llene de pendientes, quería dejarte una idea amable. esa manera tuya de tener una idea y querer probarla enseguida. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días. Me gustaría que hoy te quedara espacio para El impulso de empezar, aunque solo sea un ratito y aunque el resto del día venga lleno.",
     "poema": [
-      "Hay algo bonito en tu energía impulsiva: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
-      "esa manera tuya de tener una idea y querer probarla enseguida. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
+      "Me quedé pensando en cómo este detalle puede aparecer en un día cualquiera, sin necesidad de prepararlo todo. El impulso de empezar tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un detalle para hoy: esa manera tuya de tener una idea y querer probarla enseguida.",
-    "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. esa manera tuya de tener una idea y querer probarla enseguida. Descansa a tu ritmo; no tienes que ganarte una pausa.",
+    "detalle": "Hoy prueba algo pequeño relacionado con El impulso de empezar, solo si te nace. El momento también vale sin foto ni explicación.",
+    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
     "cancionTitulo": "Amarte Más No Pude",
     "cancionArtista": "Diomedes Díaz",
     "youtubeId": "OVfQD-A2RiY"
@@ -1476,7 +1476,7 @@ const CALENDARIO = [
     "dia": 65,
     "fecha": "2026-12-19",
     "fechaTexto": "sáb, 19 de dic",
-    "categoria": "Tu risa y tus gestos",
+    "categoria": "La risa que llega de sorpresa",
     "icono": "😆",
     "tono": "amor",
     "color": {
@@ -1484,13 +1484,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buen día. No necesitas que todo salga perfecto para que hoy tenga algo bueno. una expresión espontánea que termina contando toda la historia. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Aleja, te dejo esta idea para hoy: La risa que llega de sorpresa también puede ser una pausa, una risa o un detalle que te cambie el ánimo.",
     "poema": [
-      "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en tu risa y tus gestos, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
-      "una expresión espontánea que termina contando toda la historia. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
+      "Quería que este mensaje tuviera un ritmo propio y que no sonara como una copia de los días anteriores. La risa que llega de sorpresa tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para acordarte de algo bonito: una expresión espontánea que termina contando toda la historia.",
-    "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. una expresión espontánea que termina contando toda la historia. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
+    "detalle": "Recuerda esto cuando el día vaya rápido: La risa que llega de sorpresa merece un espacio si es algo que te hace bien.",
+    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
     "cancionTitulo": "Creep",
     "cancionArtista": "Radiohead",
     "youtubeId": "zFYEYRcjK2g"
@@ -1499,7 +1499,7 @@ const CALENDARIO = [
     "dia": 66,
     "fecha": "2026-12-20",
     "fechaTexto": "dom, 20 de dic",
-    "categoria": "La canción en repetir",
+    "categoria": "La canción que ya se siente tuya",
     "icono": "🔁",
     "tono": "ambiente",
     "color": {
@@ -1507,13 +1507,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días. Ojalá encuentres una pausa bonita antes de entrar de lleno en tus cosas. volver a poner la misma canción porque todavía no te cansas de ella. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Ojalá La canción que ya se siente tuya te regale hoy un momento que disfrutes de verdad.",
     "poema": [
-      "Me gusta imaginar una escena sencilla alrededor de la canción en repetir. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
-      "volver a poner la misma canción porque todavía no te cansas de ella. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
+      "Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. La canción que ya se siente tuya tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Una pequeña nota que me guardé: volver a poner la misma canción porque todavía no te cansas de ella.",
-    "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. volver a poner la misma canción porque todavía no te cansas de ella. Deja que el día termine sin pedirte una última demostración de energía.",
+    "detalle": "Un detalle para hoy: reserva un minuto para La canción que ya se siente tuya, sin hacer otra cosa al mismo tiempo.",
+    "buenasNoches": "Que esta noche te deje soltar el ritmo. Ojalá La canción que ya se siente tuya te haya regalado un instante agradable; si no, mañana habrá otra oportunidad.",
     "cancionTitulo": "Comptine d'un autre été",
     "cancionArtista": "Yann Tiersen",
     "youtubeId": "znfYwABeSZ0"
@@ -1522,7 +1522,7 @@ const CALENDARIO = [
     "dia": 67,
     "fecha": "2026-12-21",
     "fechaTexto": "lun, 21 de dic",
-    "categoria": "Huevo con arroz y pasta",
+    "categoria": "El plato que te provoca, no el que mezclan por ti",
     "icono": "🍜",
     "tono": "amor",
     "color": {
@@ -1530,13 +1530,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hola, Aleja. Te dejo estas líneas para acompañarte un momento, sin pedirte que cambies tu ritmo. comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Me acuerdo de dos gustos tuyos que merecen su propio espacio: arroz con huevo, por un lado, y pasta en casi todas sus presentaciones, por otro. No son lo mismo, y quiero recordarlos bien.",
     "poema": [
-      "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en huevo con arroz y pasta, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
-      "comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
+      "El arroz con huevo tiene el encanto directo de un plato que no necesita demasiadas vueltas. La pasta, en cambio, puede cambiar con la salsa, la forma o la preparación.",
+      "Son dos gustos distintos y cada uno merece su lugar. Recordar lo que te gusta no debería significar mezclarlo todo en una sola frase."
     ],
-    "detalle": "Si hoy te queda un minuto: comida sencilla, hecha a tu gusto y sin complicaciones innecesarias.",
-    "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. comida sencilla, hecha a tu gusto y sin complicaciones innecesarias. Ojalá el silencio de esta noche te siente bien.",
+    "detalle": "Cuando tengas que elegir qué comer, pregúntate qué se te antoja de verdad: arroz con huevo o una pasta en la versión que más te provoque.",
+    "buenasNoches": "Ojalá hayas comido rico y tenido un momento sin apuros. Mañana puede aparecer otro antojo; no hace falta que todos tus gustos quepan en una sola descripción.",
     "cancionTitulo": "Perfecta",
     "cancionArtista": "Camilo",
     "youtubeId": "8BRXjKvWrtQ"
@@ -1545,7 +1545,7 @@ const CALENDARIO = [
     "dia": 68,
     "fecha": "2026-12-22",
     "fechaTexto": "mar, 22 de dic",
-    "categoria": "No todo necesita sal",
+    "categoria": "Escuchar es recordar la diferencia",
     "icono": "🫙",
     "tono": "filosofica",
     "color": {
@@ -1553,13 +1553,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Que tengas una mañana amable. Si todo empieza rápido, acuérdate de respirar un poquito. recordar un detalle pequeño también es una forma de escuchar. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que tengas una mañana amable. Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Si hoy aparece Escuchar es recordar la diferencia, disfrútalo sin convertirlo en otra tarea.",
     "poema": [
-      "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe no todo necesita sal, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
-      "recordar un detalle pequeño también es una forma de escuchar. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
+      "Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Escuchar es recordar la diferencia tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un guiño a una de tus cosas favoritas: recordar un detalle pequeño también es una forma de escuchar.",
-    "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. recordar un detalle pequeño también es una forma de escuchar. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
+    "detalle": "Guárdate una pausa para Escuchar es recordar la diferencia; que sea por gusto y no porque tengas que tachar algo de una lista.",
+    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
     "cancionTitulo": "Te Quiero Tanto",
     "cancionArtista": "Kevin Kaarl",
     "youtubeId": "q07Gd6Q-7dY"
@@ -1568,7 +1568,7 @@ const CALENDARIO = [
     "dia": 69,
     "fecha": "2026-12-23",
     "fechaTexto": "mié, 23 de dic",
-    "categoria": "Merlot y conversación",
+    "categoria": "Una conversación que encuentra su camino",
     "icono": "🍇",
     "tono": "amor",
     "color": {
@@ -1576,13 +1576,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días. Espero que hoy algo pequeño te haga sonreír antes de que te des cuenta. una copa tranquila y una charla que no necesita un guion. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días. Me gustaría que hoy te quedara espacio para Una conversación que encuentra su camino, aunque solo sea un ratito y aunque el resto del día venga lleno.",
     "poema": [
-      "Si tuviera que escoger una imagen para este día, sería merlot y conversación. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
-      "una copa tranquila y una charla que no necesita un guion. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
+      "Me quedé pensando en cómo este detalle puede aparecer en un día cualquiera, sin necesidad de prepararlo todo. Una conversación que encuentra su camino tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para ponerle una pausa amable al día: una copa tranquila y una charla que no necesita un guion.",
-    "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. una copa tranquila y una charla que no necesita un guion. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
+    "detalle": "Hoy prueba algo pequeño relacionado con Una conversación que encuentra su camino, solo si te nace. El momento también vale sin foto ni explicación.",
+    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
     "cancionTitulo": "Glue Song",
     "cancionArtista": "beabadoobee",
     "youtubeId": "y1cBhJLNNXU"
@@ -1591,7 +1591,7 @@ const CALENDARIO = [
     "dia": 70,
     "fecha": "2026-12-24",
     "fechaTexto": "jue, 24 de dic",
-    "categoria": "Tus ojos cafés",
+    "categoria": "La luz que cambia tus ojos",
     "icono": "👀",
     "tono": "amor",
     "color": {
@@ -1599,13 +1599,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buen día para ti. Que lo importante salga bien y que lo sencillo también te dé alegría. esa mirada que cambia cuando algo te sorprende o te da risa. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Aleja, te dejo esta idea para hoy: La luz que cambia tus ojos también puede ser una pausa, una risa o un detalle que te cambie el ánimo.",
     "poema": [
-      "Quise que este día tuviera un detalle diferente, inspirado en tus ojos cafés. No porque eso te defina por completo, sino porque forma parte de esas pequeñas cosas que hacen que conocerte sea mucho más interesante que quedarse con una descripción general.",
-      "esa mirada que cambia cuando algo te sorprende o te da risa. Léelo como una nota amable, sonríe si te nace y sigue con tu día a tu manera."
+      "Quería que este mensaje tuviera un ritmo propio y que no sonara como una copia de los días anteriores. La luz que cambia tus ojos tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Algo pequeño que quería dejarte presente: esa mirada que cambia cuando algo te sorprende o te da risa.",
-    "buenasNoches": "Que puedas cerrar el día sin repasar cada pendiente como si todo dependiera de esta noche. esa mirada que cambia cuando algo te sorprende o te da risa. Buenas noches, Aleja. Que mañana tenga detalles amables y motivos reales para sonreír.",
+    "detalle": "Recuerda esto cuando el día vaya rápido: La luz que cambia tus ojos merece un espacio si es algo que te hace bien.",
+    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
     "cancionTitulo": "Robarte un Beso",
     "cancionArtista": "Carlos Vives & Sebastián Yatra",
     "youtubeId": "mtau4v6foha"
@@ -1614,7 +1614,7 @@ const CALENDARIO = [
     "dia": 71,
     "fecha": "2026-12-25",
     "fechaTexto": "vie, 25 de dic",
-    "categoria": "Manualidades sin instrucciones",
+    "categoria": "Improvisar también es crear",
     "icono": "🧶",
     "tono": "filosofica",
     "color": {
@@ -1622,13 +1622,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Antes de que el día se llene de pendientes, quería dejarte una idea amable. materiales sobre la mesa y libertad para cambiar de idea en el proceso. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Ojalá Improvisar también es crear te regale hoy un momento que disfrutes de verdad.",
     "poema": [
-      "Hay algo bonito en manualidades sin instrucciones: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
-      "materiales sobre la mesa y libertad para cambiar de idea en el proceso. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
+      "Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Improvisar también es crear tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un detalle para hoy: materiales sobre la mesa y libertad para cambiar de idea en el proceso.",
-    "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. materiales sobre la mesa y libertad para cambiar de idea en el proceso. Descansa a tu ritmo; no tienes que ganarte una pausa.",
+    "detalle": "Un detalle para hoy: reserva un minuto para Improvisar también es crear, sin hacer otra cosa al mismo tiempo.",
+    "buenasNoches": "Que esta noche te deje soltar el ritmo. Ojalá Improvisar también es crear te haya regalado un instante agradable; si no, mañana habrá otra oportunidad.",
     "cancionTitulo": "Just The Way You Are",
     "cancionArtista": "Bruno Mars",
     "youtubeId": "LjhCEhWiKXk"
@@ -1637,7 +1637,7 @@ const CALENDARIO = [
     "dia": 72,
     "fecha": "2026-12-26",
     "fechaTexto": "sáb, 26 de dic",
-    "categoria": "Nada a medias",
+    "categoria": "Un cariño claro, sin adivinanzas",
     "icono": "🧩",
     "tono": "filosofica",
     "color": {
@@ -1645,13 +1645,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buen día. No necesitas que todo salga perfecto para que hoy tenga algo bueno. la claridad y el cuidado que merecen los sentimientos. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Hola, Aleja. Hoy va por Un cariño claro, sin adivinanzas: no como una etiqueta, sino como una pequeña parte de las cosas que te hacen ser tú. Que el día te trate con cariño.",
     "poema": [
-      "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en nada a medias, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
-      "la claridad y el cuidado que merecen los sentimientos. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
+      "Hay algo de este tema que me gustaría que recordaras sin sentir que tienes que hacer nada con él. Un cariño claro, sin adivinanzas tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para acordarte de algo bonito: la claridad y el cuidado que merecen los sentimientos.",
-    "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. la claridad y el cuidado que merecen los sentimientos. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
+    "detalle": "Si se presenta la ocasión, disfruta Un cariño claro, sin adivinanzas a tu manera. No tiene que ser un plan grande para contar.",
+    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
     "cancionTitulo": "Volvamos a Ser Novios",
     "cancionArtista": "Silvestre Dangond & Juancho De La Espriella",
     "youtubeId": "gBOuViKzj1Y"
@@ -1660,7 +1660,7 @@ const CALENDARIO = [
     "dia": 73,
     "fecha": "2026-12-27",
     "fechaTexto": "dom, 27 de dic",
-    "categoria": "Café amargo, día amable",
+    "categoria": "Café sin azúcar y permiso de ir despacio",
     "icono": "♨️",
     "tono": "ambiente",
     "color": {
@@ -1668,13 +1668,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días. Ojalá encuentres una pausa bonita antes de entrar de lleno en tus cosas. un café fuerte sin que el resto del día tenga que serlo. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que tengas una mañana amable. Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Si hoy aparece Café sin azúcar y permiso de ir despacio, disfrútalo sin convertirlo en otra tarea.",
     "poema": [
-      "Me gusta imaginar una escena sencilla alrededor de café amargo, día amable. No hace falta convertirla en una película ni adornarla demasiado; basta con que tenga algo real, algo que te haga sentir cómoda y que se parezca a ti.",
-      "un café fuerte sin que el resto del día tenga que serlo. Ojalá el día te dé un motivo para detenerte un momento y disfrutarlo, aunque después vuelvas a tus tareas con la misma energía de siempre."
+      "Este día merece algo más concreto que una frase bonita: una imagen pequeña que se pueda reconocer en la vida real. Café sin azúcar y permiso de ir despacio tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Una pequeña nota que me guardé: un café fuerte sin que el resto del día tenga que serlo.",
-    "buenasNoches": "Que la noche te encuentre cómoda, con la cabeza más ligera y sin exigirte seguir haciendo cosas. un café fuerte sin que el resto del día tenga que serlo. Deja que el día termine sin pedirte una última demostración de energía.",
+    "detalle": "Guárdate una pausa para Café sin azúcar y permiso de ir despacio; que sea por gusto y no porque tengas que tachar algo de una lista.",
+    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
     "cancionTitulo": "Get You",
     "cancionArtista": "Daniel Caesar feat. Kali Uchis",
     "youtubeId": "WFLGrpGemLg"
@@ -1683,7 +1683,7 @@ const CALENDARIO = [
     "dia": 74,
     "fecha": "2026-12-28",
     "fechaTexto": "lun, 28 de dic",
-    "categoria": "Una margarita en tu escritorio",
+    "categoria": "Una margarita junto a tus pinceles",
     "icono": "🪻",
     "tono": "amor",
     "color": {
@@ -1691,13 +1691,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hola, Aleja. Te dejo estas líneas para acompañarte un momento, sin pedirte que cambies tu ritmo. un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días. Me gustaría que hoy te quedara espacio para Una margarita junto a tus pinceles, aunque solo sea un ratito y aunque el resto del día venga lleno.",
     "poema": [
-      "Con el tiempo, las cosas que uno recuerda de alguien suelen ser detalles muy concretos. Por eso hoy me quedé pensando en una margarita en tu escritorio, en cómo una preferencia pequeña puede convertirse en una manera de decir “sí te conozco”.",
-      "un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. No quiero que este mensaje sea una frase bonita más; quiero que te deje la sensación de que alguien prestó atención."
+      "Me quedé pensando en cómo este detalle puede aparecer en un día cualquiera, sin necesidad de prepararlo todo. Una margarita junto a tus pinceles tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Si hoy te queda un minuto: un detalle sencillo junto a tus materiales, sin interrumpir tu mundo.",
-    "buenasNoches": "Antes de dormir, ojalá puedas recordar una pequeña cosa que hoy sí salió bien. un detalle sencillo junto a tus materiales, sin interrumpir tu mundo. Ojalá el silencio de esta noche te siente bien.",
+    "detalle": "Hoy prueba algo pequeño relacionado con Una margarita junto a tus pinceles, solo si te nace. El momento también vale sin foto ni explicación.",
+    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
     "cancionTitulo": "Las Locuras Mías",
     "cancionArtista": "Silvestre Dangond",
     "youtubeId": "LqKscPDW8Y0"
@@ -1706,7 +1706,7 @@ const CALENDARIO = [
     "dia": 75,
     "fecha": "2026-12-29",
     "fechaTexto": "mar, 29 de dic",
-    "categoria": "Un plan casero",
+    "categoria": "Un plan casero para quedarse a gusto",
     "icono": "🕯️",
     "tono": "amor",
     "color": {
@@ -1714,13 +1714,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Que tengas una mañana amable. Si todo empieza rápido, acuérdate de respirar un poquito. cocinar algo rico, escoger una película y quedarse cómodos. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Aleja, te dejo esta idea para hoy: Un plan casero para quedarse a gusto también puede ser una pausa, una risa o un detalle que te cambie el ánimo.",
     "poema": [
-      "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe un plan casero, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
-      "cocinar algo rico, escoger una película y quedarse cómodos. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
+      "Quería que este mensaje tuviera un ritmo propio y que no sonara como una copia de los días anteriores. Un plan casero para quedarse a gusto tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Un guiño a una de tus cosas favoritas: cocinar algo rico, escoger una película y quedarse cómodos.",
-    "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. cocinar algo rico, escoger una película y quedarse cómodos. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
+    "detalle": "Recuerda esto cuando el día vaya rápido: Un plan casero para quedarse a gusto merece un espacio si es algo que te hace bien.",
+    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
     "cancionTitulo": "La Reina",
     "cancionArtista": "Maluma",
     "youtubeId": "VFKu6QBbOa4"
@@ -1729,7 +1729,7 @@ const CALENDARIO = [
     "dia": 76,
     "fecha": "2026-12-30",
     "fechaTexto": "mié, 30 de dic",
-    "categoria": "La perrita que te busca",
+    "categoria": "La alegría de ser recibida con cariño",
     "icono": "🐩",
     "tono": "amor",
     "color": {
@@ -1737,13 +1737,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días. Espero que hoy algo pequeño te haga sonreír antes de que te des cuenta. Que puedas guardar un ratito para algo que disfrutes, sin sentir que tienes que aprovechar cada minuto.",
+    "buenosDias": "Buenos días, Aleja. Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. Ojalá La alegría de ser recibida con cariño te regale hoy un momento que disfrutes de verdad.",
     "poema": [
-          "Si tuviera que escoger una imagen para este día, sería la perrita que te busca. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
-          "Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
+      "Hoy quería dejarte una nota distinta, pensada en ese detalle que hace que este día tenga su propia personalidad. La alegría de ser recibida con cariño tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para ponerle una pausa amable al día: piensa en una cosa pequeña que te gustaría repetir antes de que termine el año.",
-    "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
+    "detalle": "Un detalle para hoy: reserva un minuto para La alegría de ser recibida con cariño, sin hacer otra cosa al mismo tiempo.",
+    "buenasNoches": "Que esta noche te deje soltar el ritmo. Ojalá La alegría de ser recibida con cariño te haya regalado un instante agradable; si no, mañana habrá otra oportunidad.",
     "cancionTitulo": "Kilómetros",
     "cancionArtista": "Sin Bandera",
     "youtubeId": "oR5rpFzaBaA"
@@ -1752,7 +1752,7 @@ const CALENDARIO = [
     "dia": 77,
     "fecha": "2026-12-31",
     "fechaTexto": "jue, 31 de dic",
-    "categoria": "31 de diciembre: seguimos",
+    "categoria": "El café que empieza la mañana",
     "icono": "🎆",
     "tono": "amor",
     "color": {
@@ -1760,14 +1760,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, Aleja. Llegó el último día del año y quería que encontraras aquí algo más que una cuenta regresiva. Ojalá hoy tengas tiempo para disfrutar lo que sí salió bien, reírte un rato y entrar al año nuevo sin exigirte tenerlo todo resuelto.",
+    "buenosDias": "Hola, Aleja. Hoy va por El café que empieza la mañana: no como una etiqueta, sino como una pequeña parte de las cosas que te hacen ser tú. Que el día te trate con cariño.",
     "poema": [
-      "Estos 77 días fueron una colección de pequeños guiños a cosas que te gustan: la música que repites cuando te atrapa, los atardeceres, tus materiales para crear, el café sin azúcar, las flores y esos gestos tuyos que hacen que un momento común tenga personalidad.",
-      "No quería resumirte en una lista ni llenar una pantalla de frases enormes. Quería dejarte un rincón al que pudieras volver y encontrar algo amable, una canción que te acompañara o una frase que te hiciera sonreír aunque fuera un poquito.",
-      "Que el año que viene te traiga proyectos que te entusiasmen, tardes bonitas, canciones nuevas para repetir, tiempo para crear y personas que sean claras y cuidadosas contigo. No hace falta prometer que todo será perfecto; basta con seguir haciendo espacio para lo que de verdad vale la pena."
+      "Hay algo de este tema que me gustaría que recordaras sin sentir que tienes que hacer nada con él. El café que empieza la mañana tiene algo propio que no quiero reducir a una frase genérica.",
+      "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
-    "detalle": "Para cerrar: elige la canción que más te gustó de este calendario y guárdala como banda sonora de este final de año.",
-    "buenasNoches": "Buenas noches, Aleja. Gracias por llegar hasta aquí. Que despidas el año a tu manera, con calma, música y algo que te haga reír. Ojalá el nuevo año te encuentre rodeada de cariño sincero, ideas bonitas y muchos motivos para seguir siendo tan tú.",
+    "detalle": "Si se presenta la ocasión, disfruta El café que empieza la mañana a tu manera. No tiene que ser un plan grande para contar.",
+    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
     "cancionTitulo": "Moment Of Your Life",
     "cancionArtista": "Brent Faiyaz feat. Coco Jones",
     "youtubeId": "Jv17JsayCSI"
