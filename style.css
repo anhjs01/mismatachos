@@ -620,3 +620,12 @@ a { color: inherit; }
 @media (prefers-reduced-motion: reduce){
   .mascotas-fondo{ scroll-behavior:auto; }
 }
+
+.mascotas-fondo--calendario{
+  width:min(88vw, 860px);
+  bottom:-12vh;
+  opacity:.22;
+}
+@media (max-width:620px){
+  .mascotas-fondo--calendario{width:120vw;bottom:-2vh;opacity:.17}
+}
