@@ -865,3 +865,79 @@ body.portada-inicio .sky .glow--2{opacity:.25;background:radial-gradient(circle,
   .portada-urbana:after,.portada-urbana .heart-big,.portada-marcas .marca{animation:none!important}
   .portada-urbana .portada-juego-link,.portada-urbana .portada-calendario-link{transition:none}
 }
+
+
+/* Ajuste de coherencia visual: sin marco, sin burbujas y corazón original */
+body.portada-inicio{
+  background:
+    radial-gradient(ellipse at 14% 12%,rgba(92,35,73,.62),transparent 34%),
+    radial-gradient(ellipse at 88% 70%,rgba(18,75,72,.45),transparent 29%),
+    linear-gradient(135deg,#100d17 0%,#201323 52%,#0c1619 100%);
+}
+body.portada-inicio .sky .glow--1{background:radial-gradient(circle,#e8498b55,transparent 70%)}
+body.portada-inicio .sky .glow--2{background:radial-gradient(circle,#21b8a955,transparent 70%)}
+.portada-urbana:before{display:none!important}
+.portada-urbana:after{
+  background:
+    radial-gradient(ellipse at 50% 38%,rgba(232,73,139,.15),transparent 36%),
+    radial-gradient(ellipse at 10% 75%,rgba(216,240,120,.055),transparent 27%),
+    radial-gradient(ellipse at 92% 18%,rgba(33,184,169,.10),transparent 28%);
+}
+.portada-urbana .heart-big{
+  display:block;
+  width:auto;
+  height:auto;
+  padding:0;
+  margin:1rem 0 .5rem;
+  border:0;
+  border-radius:0;
+  background:none;
+  box-shadow:none;
+  color:#f17eae;
+  font-size:clamp(6rem,25vw,10rem);
+  line-height:1;
+  filter:drop-shadow(0 0 16px rgba(232,73,139,.45)) drop-shadow(0 0 38px rgba(232,73,139,.2));
+  animation:latido-urbano 2.1s cubic-bezier(.45,0,.55,1) infinite;
+}
+.portada-marcas .marca{
+  display:block;
+  width:auto;
+  height:auto;
+  aspect-ratio:auto;
+  border:0;
+  border-radius:0;
+  background:none;
+  box-shadow:none;
+  color:#d8f078;
+  opacity:.7;
+  font-size:clamp(1.35rem,3vw,2.2rem);
+  text-shadow:2px 2px 0 rgba(232,73,139,.5),0 0 18px rgba(33,184,169,.16);
+}
+.portada-marcas .marca--dos,.portada-marcas .marca--cuatro,.portada-marcas .marca--cinco{color:#e8498b}
+.portada-marcas .marca--cuatro{font-size:clamp(1.15rem,2.4vw,1.7rem)}
+.portada-marcas .marca--seis{color:#21b8a9}
+.portada-urbana .portada-juego-link{
+  border:1px solid rgba(232,73,139,.58);
+  background:linear-gradient(135deg,rgba(232,73,139,.13),rgba(16,13,23,.83));
+  box-shadow:4px 4px 0 rgba(232,73,139,.22);
+}
+.portada-urbana .portada-calendario-link{
+  border:1px solid rgba(216,240,120,.36);
+  background:linear-gradient(135deg,rgba(33,184,169,.08),rgba(16,13,23,.86));
+}
+.portada-urbana .acceso-icono{
+  border-radius:4px;
+  background:#e8498b;
+  color:#170c17;
+}
+.portada-urbana .portada-calendario-link .acceso-icono{background:#d8f078}
+.portada-urbana .acceso-texto small,.portada-urbana .portada-edicion{color:#d8f078}
+.portada-urbana .portada-juego-link>b,.portada-urbana .portada-calendario-link>b{color:#21b8a9}
+.portada-urbana .portada-juego-link:hover,.portada-urbana .portada-calendario-link:hover{
+  border-color:#d8f078;
+  box-shadow:4px 4px 0 rgba(33,184,169,.28);
+}
+@media(max-width:600px){
+  .portada-marcas .marca{width:auto;height:auto;font-size:1.45rem}
+  .portada-urbana .heart-big{width:auto;height:auto;font-size:clamp(6rem,25vw,8rem)}
+}
