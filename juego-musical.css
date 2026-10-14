@@ -64,3 +64,23 @@
 .reproductor-fijo{border:2px solid #d8f078;background:#15111cf2;border-radius:5px;box-shadow:8px 8px 0 #e8498b88,0 25px 80px #08030dc9}.reproductor-portada{border:3px solid #d8f078}.reproductor-etiqueta{color:#d8f078;font-family:Arial,sans-serif;letter-spacing:.14em}.reproductor-texto h2{font-family:Impact,"Arial Black",sans-serif;text-transform:uppercase;letter-spacing:-.02em}.reproductor-accion{border:2px solid #d8f078;background:#d8f078;color:#17111a;border-radius:3px;font-family:Arial,sans-serif;font-weight:800;text-transform:uppercase;letter-spacing:.04em}
 .juego-btn{border:1px solid #d8f07877;border-radius:3px;background:#17121fe8;font-family:Arial,sans-serif;font-size:.76rem;font-weight:700;letter-spacing:.025em;text-transform:uppercase}.juego-btn--principal{background:#d8f078;color:#17111a;border-color:#d8f078;box-shadow:4px 4px 0 #e8498b}.juego-btn:hover{transform:translate(-2px,-2px);box-shadow:3px 3px 0 #21b8a9}.juego-btn.is-active{background:#21b8a9;color:#081716}.juego-ayuda{color:#e9dce6}.juego-footer{border-top:1px solid #d8f07855;font-family:Arial,sans-serif;font-size:.72rem;letter-spacing:.03em}
 @media(max-width:600px){.juego-intro h1{font-size:clamp(2.25rem,12vw,3.4rem)}.juego-tag{letter-spacing:.16em}.juego-mesa{box-shadow:4px 4px 0 #e8498b45,inset 0 0 60px #09070f99}.mesa-nota{font-size:.58rem;max-width:48%}}
+
+
+/* Pulido de movimiento: rebote elástico corto, luz suave y respuesta táctil */
+.juego-body{isolation:isolate}
+.juego-body:after{content:"";position:fixed;inset:0;z-index:0;pointer-events:none;background:radial-gradient(ellipse at 50% 0%,#f7c8d00a,transparent 52%);opacity:.9}
+.juego-shell,.juego-top{z-index:1}
+.juego-mesa{isolation:isolate;transition:box-shadow .35s ease,border-color .35s ease}
+.juego-mesa.is-revolviendo{border-color:#d8f078;box-shadow:8px 8px 0 #e8498b66,inset 0 0 90px #d8f07812,0 24px 70px #08040d66}
+.portada-musical{will-change:left,top,transform;backface-visibility:hidden;-webkit-tap-highlight-color:transparent}
+.portada-musical:focus-visible{outline:3px solid #d8f078;outline-offset:4px}
+.portada-musical:active{filter:brightness(1.14) saturate(1.18)}
+.portada-musical.is-fijada{animation:pop-fijar .48s cubic-bezier(.16,1.4,.32,1) both}
+.reproductor-fijo{backdrop-filter:blur(22px) saturate(1.15);-webkit-backdrop-filter:blur(22px) saturate(1.15)}
+.reproductor-fijo.is-visible{animation:reproductor-entra .38s cubic-bezier(.18,.85,.28,1.15) both}
+@keyframes reproductor-entra{0%{opacity:0;transform:translate(-50%,-47%) scale(.94)}75%{transform:translate(-50%,-51%) scale(1.015)}100%{opacity:1;transform:translate(-50%,-50%) scale(1)}}
+.juego-btn{transition:transform .2s ease,box-shadow .2s ease,background .2s ease,border-color .2s ease}
+.juego-btn:focus-visible,.reproductor-accion:focus-visible,.reproductor-cerrar:focus-visible{outline:3px solid #d8f078;outline-offset:3px}
+.juego-ayuda{transition:color .2s ease}
+@media(max-width:600px){.reproductor-fijo{max-height:calc(100svh - 36px);overflow:auto}.reproductor-texto h2{font-size:1.12rem}.juego-controles{gap:.55rem}.juego-btn{padding:.78rem .9rem}}
+@media(prefers-reduced-motion:reduce){.juego-body:after,.juego-mesa,.juego-btn,.juego-ayuda{transition:none}.reproductor-fijo.is-visible{animation:none}}
