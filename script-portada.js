@@ -1,22 +1,24 @@
 /* =======================================================================
-   SCRIPT-PORTADA.JS — lógica del corazón inicial.
-   No necesitas editar este archivo para cambiar textos: eso se hace
-   en contenido-portada.js.
+   SCRIPT-PORTADA.JS — apertura segura de la carta inicial.
+   El contenido editable vive en contenido-portada.js.
    ======================================================================= */
-
 (function () {
   "use strict";
 
-  if (typeof CARTA_INICIAL === "undefined" || typeof VERSOS_EXTRA === "undefined") {
+  function mostrarErrorDeContenido() {
     const overlay = document.getElementById("modalOverlay");
-    if (overlay) {
-      overlay.classList.add("is-open");
-      overlay.querySelector(".modal-card").innerHTML =
-        '<div style="padding:1rem;color:#ffdede;font-family:sans-serif;font-size:.92rem;line-height:1.5;">' +
-        "<strong>⚠️ No se pudo leer el contenido de la portada.</strong><br><br>" +
-        "Revisa que el archivo <code>contenido-portada.js</code> esté en la misma carpeta que <code>index.html</code> y que no haya sido renombrado.</div>";
-    }
-    return;
+    const card = document.getElementById("modalCard");
+    if (!overlay || !card) return;
+    card.innerHTML =
+      '<button type="button" class="modal-close" id="modalCloseFallback" aria-label="Cerrar">✕</button>' +
+      '<span class="modal-icon" aria-hidden="true">♡</span>' +
+      '<h2 class="modal-title">Una carta para ti</h2>' +
+      '<div class="modal-body"><p>Quería dejarte unas palabras aquí, como un pequeño recordatorio de lo especial que eres para mí.</p><p>Vuelve a cargar la página para abrir la carta completa.</p></div>' +
+      '<p class="modal-signature">Con cariño, para Aleja.</p>';
+    overlay.classList.add("is-open");
+    overlay.setAttribute("aria-hidden", "false");
+    const close = document.getElementById("modalCloseFallback");
+    if (close) close.addEventListener("click", cerrar);
   }
 
   const overlay = document.getElementById("modalOverlay");
@@ -25,63 +27,108 @@
   const firma = document.getElementById("modalSignature");
   const btnOtro = document.getElementById("btnOtroMensaje");
   const hint = document.getElementById("hint");
-
-  function mostrarCartaInicial() {
-    titulo.textContent = CARTA_INICIAL.titulo;
-    cuerpo.innerHTML = CARTA_INICIAL.poema.map((p) => "<p>" + p + "</p>").join("");
-    firma.textContent = CARTA_INICIAL.firma;
-    btnOtro.style.display = "inline-block";
-    abrir();
-  }
-
-  function mostrarVersoExtra() {
-    const verso = VERSOS_EXTRA[Math.floor(Math.random() * VERSOS_EXTRA.length)];
-    titulo.textContent = "Un momento más...";
-    cuerpo.innerHTML = "<p>" + verso + "</p>";
-    firma.textContent = "";
-  }
+  const heart = document.getElementById("heartBtn");
 
   function abrir() {
+    if (!overlay) return;
     overlay.classList.add("is-open");
     overlay.setAttribute("aria-hidden", "false");
   }
+
   function cerrar() {
+    if (!overlay) return;
     overlay.classList.remove("is-open");
     overlay.setAttribute("aria-hidden", "true");
   }
 
-  document.getElementById("heartBtn").addEventListener("click", (e) => {
-    hint.style.opacity = "0";
-
-    const heart = e.currentTarget;
-    heart.classList.add("abriendo");
-    setTimeout(() => heart.classList.remove("abriendo"), 500);
-
-    if (window.SorpresaComun) {
-      window.SorpresaComun.estallarParticulas(heart, {
-        simbolos: ["💗", "💖", "✨", "💫"],
-        cantidad: 14,
-      });
+  function mostrarCartaInicial() {
+    if (typeof CARTA_INICIAL === "undefined" || !CARTA_INICIAL ||
+        !Array.isArray(CARTA_INICIAL.poema) || !titulo || !cuerpo || !firma) {
+      mostrarErrorDeContenido();
+      return;
     }
+    titulo.textContent = CARTA_INICIAL.titulo || "Una carta para ti";
+    cuerpo.replaceChildren();
+    CARTA_INICIAL.poema.forEach((parrafo) => {
+      const p = document.createElement("p");
+      p.textContent = parrafo;
+      cuerpo.appendChild(p);
+    });
+    firma.textContent = CARTA_INICIAL.firma || "Con cariño, para Aleja.";
+    if (btnOtro) btnOtro.style.display = "inline-block";
+    abrir();
+  }
 
-    if (window.SorpresaReproductor) {
-      window.SorpresaReproductor.reproducirCategoria("ambiente");
+  function mostrarVersoExtra() {
+    if (typeof VERSOS_EXTRA === "undefined" || !Array.isArray(VERSOS_EXTRA) || !VERSOS_EXTRA.length) {
+      mostrarCartaInicial();
+      return;
     }
+    const verso = VERSOS_EXTRA[Math.floor(Math.random() * VERSOS_EXTRA.length)];
+    if (titulo) titulo.textContent = "Un momento más...";
+    if (cuerpo) {
+      const p = document.createElement("p");
+      p.textContent = verso;
+      cuerpo.replaceChildren(p);
+    }
+    if (firma) firma.textContent = "";
+  }
 
-    mostrarCartaInicial();
+  if (heart) {
+    heart.addEventListener("click", (event) => {
+      if (hint) hint.style.opacity = "0";
+      const boton = event.currentTarget;
+      boton.classList.add("abriendo");
+      window.setTimeout(() => boton.classList.remove("abriendo"), 500);
+
+      // Los efectos decorativos nunca deben impedir que se abra la carta.
+      try {
+        if (window.SorpresaComun && typeof window.SorpresaComun.estallarParticulas === "function") {
+          window.SorpresaComun.estallarParticulas(boton, {
+            simbolos: ["💗", "💖", "✨", "💫"],
+            cantidad: 14,
+          });
+        }
+      } catch (error) {
+        console.warn("No se pudo iniciar la animación decorativa:", error);
+      }
+
+      try {
+        if (window.SorpresaReproductor && typeof window.SorpresaReproductor.reproducirCategoria === "function") {
+          window.SorpresaReproductor.reproducirCategoria("ambiente");
+        }
+      } catch (error) {
+        console.warn("No se pudo iniciar la música ambiental:", error);
+      }
+
+      mostrarCartaInicial();
+    });
+  }
+
+  if (btnOtro) {
+    btnOtro.addEventListener("click", (event) => {
+      try {
+        if (window.SorpresaComun && typeof window.SorpresaComun.estallarParticulas === "function") {
+          window.SorpresaComun.estallarParticulas(event.currentTarget, {
+            simbolos: ["✨", "💫"],
+            cantidad: 6,
+          });
+        }
+      } catch (error) {
+        console.warn("No se pudo iniciar la animación decorativa:", error);
+      }
+      mostrarVersoExtra();
+    });
+  }
+
+  const closeButton = document.getElementById("modalClose");
+  if (closeButton) closeButton.addEventListener("click", cerrar);
+  if (overlay) {
+    overlay.addEventListener("click", (event) => {
+      if (event.target === overlay) cerrar();
+    });
+  }
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") cerrar();
   });
-
-  btnOtro.addEventListener("click", (e) => {
-    if (window.SorpresaComun) {
-      window.SorpresaComun.estallarParticulas(e.currentTarget, {
-        simbolos: ["✨", "💫"],
-        cantidad: 6,
-      });
-    }
-    mostrarVersoExtra();
-  });
-
-  document.getElementById("modalClose").addEventListener("click", cerrar);
-  overlay.addEventListener("click", (e) => { if (e.target === overlay) cerrar(); });
-  document.addEventListener("keydown", (e) => { if (e.key === "Escape") cerrar(); });
 })();
