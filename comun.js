@@ -31,7 +31,7 @@
       frag.appendChild(estrella);
     }
 
-    const petalos = ["🌸", "✨", "🌷"];
+    const petalos = document.body.classList.contains("calendario-urbano") ? ["✳", "🐾", "🎨", "🍓", "★", "♫", "🌼", "🖌️", "🐕", "◉", "🌷", "✦"] : ["🌸", "✨", "🌷"];
     const totalPetalos = window.innerWidth < 560 ? 6 : 10;
     for (let i = 0; i < totalPetalos; i++) {
       const p = document.createElement("span");
@@ -59,7 +59,7 @@
      ----------------------------------------------------------------- */
   function estallarParticulas(origen, opciones) {
     opciones = opciones || {};
-    const simbolos = opciones.simbolos || ["💗", "✨"];
+    const simbolos = opciones.simbolos || (document.body.classList.contains("calendario-urbano") ? ["✳", "★", "🎨", "🐾", "♫", "🌼", "🍓"] : ["💗", "✨"]);
     const cantidad = opciones.cantidad || 12;
     const rect = origen.getBoundingClientRect();
     const cx = rect.left + rect.width / 2;
