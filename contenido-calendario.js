@@ -1,4 +1,4 @@
-/* Calendario de Aleja · 77 días del 16 de octubre al 31 de diciembre de 2026. Mensajes personalizados con voz cercana y romántica. */
+/* Calendario de Aleja · 78 días del 16 de octubre de 2026 al 1 de enero de 2027. Mensajes personalizados con voz cercana y romántica. */
 const CALENDARIO = [
   {
     "dia": 1,
@@ -1770,5 +1770,28 @@ const CALENDARIO = [
     "cancionTitulo": "Moment Of Your Life",
     "cancionArtista": "Brent Faiyaz feat. Coco Jones",
     "youtubeId": "Jv17JsayCSI"
+  },
+  {
+    "dia": 78,
+    "fecha": "2027-01-01",
+    "fechaTexto": "vie, 1 de ene",
+    "categoria": "Un año nuevo, a tu manera",
+    "icono": "🎆",
+    "tono": "amor",
+    "color": {
+      "principal": "#d5a8e8",
+      "suave": "#f0dff8",
+      "oscuro": "#291633"
+    },
+    "buenosDias": "Buenos días, mi vida. Feliz año nuevo. Ojalá este primero de enero te encuentre con calma, algo rico para desayunar y ganas de seguir haciendo las cosas a tu manera. No tienes que empezar el año con una lista enorme de propósitos; también vale empezar despacito y darte crédito por todo lo que ya eres.",
+    "poema": [
+      "Corazón, deseo que este año te traiga momentos que te emocionen de verdad: ideas que te den ganas de pintar hasta perder la noción de la hora, canciones que encuentren justo el ánimo que tienes y personas que te cuiden con la misma ternura con la que tú sabes cuidar a los tuyos.",
+      "Y ojalá no te falten razones para esa sonrisa tan genuina tuya. Que haya días tranquilos, otros llenos de historias para contar y muchos detalles pequeños que te hagan pensar: «qué bonito que esto me pasó». Feliz año, Aleja; que puedas vivirlo sin dejar de ser tú."
+    ],
+    "detalle": "Hoy no toca exigirte una versión nueva de ti como si fueras un proyecto pendiente. Come algo rico, abraza a tus mascotas si las tienes cerca, habla con tu gente y date permiso de comenzar el año a tu ritmo. Los propósitos pueden esperar hasta después del desayuno; ya sabes que esa negociación con el reloj tiene antecedentes.",
+    "buenasNoches": "Buenas noches, corazón, y feliz primer día del año. Ojalá hoy hayas tenido un momento bonito, una risa sincera o una conversación que te haya hecho sentir cerca de tu gente. Que este año te dé espacio para crear, descansar, querer y dejarte querer. No hace falta que el primer día sea perfecto para que el año tenga cosas buenas por delante.",
+    "cancionTitulo": "Vivir Mi Vida",
+    "cancionArtista": "Marc Anthony",
+    "youtubeId": "YXnjy5YlDwk"
   }
 ];
