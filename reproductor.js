@@ -71,7 +71,17 @@
         },
         onStateChange: function (e) {
           if (!cancionActual) return; // ignora eventos de la precarga silenciosa
-          sonando = e.data === 1; // 1 = YT.PlayerState.PLAYING
+
+          // Cuando termina una canción, continúa con otra de la misma categoría.
+          // Así la música no se queda detenida al acabar la canción del día.
+          if (e.data === YT.PlayerState.ENDED) {
+            sonando = false;
+            actualizarUI();
+            siguienteDeLaMisma();
+            return;
+          }
+
+          sonando = e.data === YT.PlayerState.PLAYING;
           actualizarUI();
         },
       },
