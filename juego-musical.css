@@ -1,0 +1,30 @@
+/* Identidad propia del rincón musical de Aleja */
+.juego-body{min-height:100svh;background:radial-gradient(ellipse at 50% 12%,#633448 0%,#2a1728 48%,#100d19 100%);color:#fff4ef;overflow-x:hidden}
+.juego-fondo{position:fixed;inset:0;pointer-events:none;overflow:hidden;opacity:.22}
+.juego-fondo span{position:absolute;color:#f0b9c8;font-size:clamp(2rem,5vw,5rem);animation:flotar-juego 9s ease-in-out infinite}
+.juego-fondo span:nth-child(1){left:4%;top:18%}.juego-fondo span:nth-child(2){right:7%;top:28%;animation-delay:-2s}.juego-fondo span:nth-child(3){left:14%;bottom:12%;animation-delay:-4s}.juego-fondo span:nth-child(4){right:13%;bottom:9%;animation-delay:-1s}.juego-fondo span:nth-child(5){left:48%;top:8%;animation-delay:-3s}
+@keyframes flotar-juego{50%{transform:translateY(-14px) rotate(8deg)}}
+.juego-top{position:relative;z-index:2;display:flex;justify-content:space-between;align-items:center;gap:1rem;padding:1.2rem clamp(1rem,4vw,3.5rem);font-size:.85rem}
+.juego-top a,.juego-footer a{color:#f5c8d3;text-decoration:none}.juego-sello{color:#d7b5bc;letter-spacing:.12em;text-transform:uppercase;font-size:.68rem}
+.juego-shell{position:relative;z-index:1;max-width:1200px;margin:auto;padding:1rem clamp(1rem,4vw,3rem) 2rem}
+.juego-intro{text-align:center;max-width:680px;margin:0 auto 1.3rem}.juego-eyebrow,.reproductor-etiqueta{font-size:.68rem;letter-spacing:.2em;color:#e5b6a2}.juego-intro h1{font:500 clamp(2.5rem,6vw,4.8rem)/1.03 'Playfair Display',serif;margin:.55rem 0;color:#fff0e8}.juego-intro h1 em{color:#f2b5c9;font-weight:500}.juego-sub{color:#e1cdd4;line-height:1.65;margin:.8rem auto;max-width:560px}
+.juego-mesa{position:relative;min-height:clamp(430px,60vh,650px);border:1px solid #e8b8c43b;border-radius:28px;background:linear-gradient(145deg,#f5c4cc0d,#0d091b4d),radial-gradient(ellipse at 50% 50%,#89516a45,transparent 68%);box-shadow:inset 0 0 80px #12081766,0 24px 70px #08040d55;overflow:hidden}
+.juego-mesa:before{content:"";position:absolute;inset:14px;border:1px dashed #f2c9d04a;border-radius:20px;pointer-events:none}
+.mesa-nota{position:absolute;z-index:1;color:#e8c7ce;font:italic 1rem 'Cormorant Garamond',serif;pointer-events:none}.mesa-nota--uno{left:28px;top:25px}.mesa-nota--dos{right:28px;bottom:25px}
+.portada-musical{position:absolute;width:clamp(94px,12vw,148px);aspect-ratio:1;border:5px solid #f5e7df;border-radius:5px;background:#352336;box-shadow:0 12px 25px #05030b80;cursor:grab;touch-action:none;user-select:none;transition:box-shadow .2s,filter .2s;overflow:hidden}
+.portada-musical img{width:100%;height:100%;object-fit:cover;display:block;pointer-events:none}
+.portada-musical:after{content:"";position:absolute;inset:0;border:1px solid #fff5;pointer-events:none}
+.portada-musical:hover{z-index:20!important;box-shadow:0 16px 34px #08030ca8;filter:saturate(1.1)}
+.portada-musical.is-dragging{cursor:grabbing;z-index:50!important;transform:scale(1.12) rotate(0deg)!important;box-shadow:0 22px 45px #05020ed9}
+.portada-musical.is-fijada{z-index:30!important;border-color:#ffd8a5;box-shadow:0 0 0 3px #f0bb9a55,0 20px 48px #09030dcc;animation:pop-fijar .45s cubic-bezier(.2,1.5,.4,1)}
+@keyframes pop-fijar{from{transform:scale(.55) rotate(-12deg)}to{transform:scale(1) rotate(0)}}
+.reproductor-fijo{position:absolute;z-index:40;left:50%;top:50%;width:min(520px,calc(100% - 36px));transform:translate(-50%,-50%) scale(.92);display:grid;grid-template-columns:88px 1fr;gap:14px;align-items:center;padding:18px;border:1px solid #f5c8d06e;border-radius:20px;background:#1d1125ed;box-shadow:0 25px 80px #08030dc9;opacity:0;visibility:hidden;transition:opacity .25s,transform .25s,visibility .25s;backdrop-filter:blur(18px)}
+.reproductor-fijo.is-visible{opacity:1;visibility:visible;transform:translate(-50%,-50%) scale(1)}
+.reproductor-cerrar{position:absolute;right:8px;top:5px;border:0;background:none;color:#ffe4e8;font-size:1.6rem;cursor:pointer}
+.reproductor-portada{width:88px;aspect-ratio:1;background:#3c263c;border:3px solid #f5e7df}.reproductor-portada img{width:100%;height:100%;object-fit:cover}
+.reproductor-texto h2{font:500 1.35rem 'Playfair Display',serif;margin:.35rem 1rem .2rem 0}.reproductor-texto p{margin:0;color:#d8c1ce;font-size:.9rem}.reproductor-accion{grid-column:1/-1;border:1px solid #e6b6c5;background:#e9b6c8;color:#35172a;border-radius:999px;padding:.7rem 1rem;font:600 .9rem inherit;cursor:pointer}
+.juego-controles{display:flex;justify-content:center;flex-wrap:wrap;gap:.7rem;margin:1.2rem 0 .7rem}.juego-btn{border:1px solid #e7bac64d;border-radius:999px;background:#ffffff0b;color:#ffeaf0;padding:.8rem 1.15rem;cursor:pointer}.juego-btn--principal{background:#edb9c9;color:#35182b;border-color:transparent;font-weight:650}.juego-btn:hover{filter:brightness(1.12);transform:translateY(-1px)}
+.juego-ayuda{text-align:center;color:#d5bbc8;font-size:.85rem;line-height:1.5;min-height:1.4em}.juego-footer{display:flex;justify-content:space-between;gap:1rem;margin-top:2rem;padding-top:1rem;border-top:1px solid #e9bdc52b;color:#cdb2bf;font-size:.82rem}
+.yt-audio{position:fixed;width:1px;height:1px;left:-10px;bottom:-10px;overflow:hidden}
+@media(max-width:600px){.juego-top{align-items:flex-start}.juego-sello{max-width:130px;text-align:right;line-height:1.5}.juego-shell{padding-top:.3rem}.juego-mesa{min-height:520px}.portada-musical{width:clamp(86px,26vw,120px)}.mesa-nota--uno{left:20px;top:20px}.mesa-nota--dos{right:18px;bottom:20px;max-width:160px;text-align:right}.reproductor-fijo{grid-template-columns:70px 1fr;padding:14px}.reproductor-portada{width:70px}.juego-footer{flex-direction:column;text-align:center;align-items:center}}
+@media(prefers-reduced-motion:reduce){.juego-fondo span,.portada-musical.is-fijada{animation:none}.portada-musical,.reproductor-fijo{transition:none}}
