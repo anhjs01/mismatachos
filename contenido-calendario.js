@@ -1592,7 +1592,7 @@ const CALENDARIO = [
     "fecha": "2026-12-24",
     "fechaTexto": "jue, 24 de dic",
     "categoria": "Tus ojos cafés",
-    "icono": "🟤",
+    "icono": "👀",
     "tono": "amor",
     "color": {
       "principal": "#94a9d6",
@@ -1661,7 +1661,7 @@ const CALENDARIO = [
     "fecha": "2026-12-27",
     "fechaTexto": "dom, 27 de dic",
     "categoria": "Café amargo, día amable",
-    "icono": "🥃",
+    "icono": "♨️",
     "tono": "ambiente",
     "color": {
       "principal": "#b9a4e5",
@@ -1684,7 +1684,7 @@ const CALENDARIO = [
     "fecha": "2026-12-28",
     "fechaTexto": "lun, 28 de dic",
     "categoria": "Una margarita en tu escritorio",
-    "icono": "🌿",
+    "icono": "🪻",
     "tono": "amor",
     "color": {
       "principal": "#8fc6bd",
