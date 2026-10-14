@@ -11,7 +11,7 @@
 .juego-mesa{position:relative;min-height:clamp(430px,60vh,650px);border:1px solid #e8b8c43b;border-radius:28px;background:linear-gradient(145deg,#f5c4cc0d,#0d091b4d),radial-gradient(ellipse at 50% 50%,#89516a45,transparent 68%);box-shadow:inset 0 0 80px #12081766,0 24px 70px #08040d55;overflow:hidden}
 .juego-mesa:before{content:"";position:absolute;inset:14px;border:1px dashed #f2c9d04a;border-radius:20px;pointer-events:none}
 .mesa-nota{position:absolute;z-index:1;color:#e8c7ce;font:italic 1rem 'Cormorant Garamond',serif;pointer-events:none}.mesa-nota--uno{left:28px;top:25px}.mesa-nota--dos{right:28px;bottom:25px}
-.portada-musical{position:absolute;width:clamp(94px,12vw,148px);aspect-ratio:1;border:5px solid #f5e7df;border-radius:5px;background:#352336;box-shadow:0 12px 25px #05030b80;cursor:grab;touch-action:none;user-select:none;transition:box-shadow .2s,filter .2s;overflow:hidden}
+.portada-musical{position:absolute;width:clamp(70px,8.5vw,108px);aspect-ratio:1;border:5px solid #f5e7df;border-radius:5px;background:#352336;box-shadow:0 12px 25px #05030b80;cursor:grab;touch-action:none;user-select:none;transition:box-shadow .2s,filter .2s;overflow:hidden}
 .portada-musical img{width:100%;height:100%;object-fit:cover;display:block;pointer-events:none}
 .portada-musical:after{content:"";position:absolute;inset:0;border:1px solid #fff5;pointer-events:none}
 .portada-musical:hover{z-index:20!important;box-shadow:0 16px 34px #08030ca8;filter:saturate(1.1)}
@@ -26,8 +26,18 @@
 .juego-controles{display:flex;justify-content:center;flex-wrap:wrap;gap:.7rem;margin:1.2rem 0 .7rem}.juego-btn{border:1px solid #e7bac64d;border-radius:999px;background:#ffffff0b;color:#ffeaf0;padding:.8rem 1.15rem;cursor:pointer}.juego-btn--principal{background:#edb9c9;color:#35182b;border-color:transparent;font-weight:650}.juego-btn:hover{filter:brightness(1.12);transform:translateY(-1px)}
 .juego-ayuda{text-align:center;color:#d5bbc8;font-size:.85rem;line-height:1.5;min-height:1.4em}.juego-footer{display:flex;justify-content:space-between;gap:1rem;margin-top:2rem;padding-top:1rem;border-top:1px solid #e9bdc52b;color:#cdb2bf;font-size:.82rem}
 .yt-audio{position:fixed;width:1px;height:1px;left:-10px;bottom:-10px;overflow:hidden}
-@media(max-width:600px){.juego-top{align-items:flex-start}.juego-sello{max-width:130px;text-align:right;line-height:1.5}.juego-shell{padding-top:.3rem}.juego-mesa{min-height:520px}.portada-musical{width:clamp(86px,26vw,120px)}.mesa-nota--uno{left:20px;top:20px}.mesa-nota--dos{right:18px;bottom:20px;max-width:160px;text-align:right}.reproductor-fijo{grid-template-columns:70px 1fr;padding:14px}.reproductor-portada{width:70px}.juego-footer{flex-direction:column;text-align:center;align-items:center}}
+@media(max-width:600px){.juego-top{align-items:flex-start}.juego-sello{max-width:130px;text-align:right;line-height:1.5}.juego-shell{padding-top:.3rem}.juego-mesa{min-height:520px}.portada-musical{width:clamp(68px,18vw,94px)}.mesa-nota--uno{left:20px;top:20px}.mesa-nota--dos{right:18px;bottom:20px;max-width:160px;text-align:right}.reproductor-fijo{grid-template-columns:70px 1fr;padding:14px}.reproductor-portada{width:70px}.juego-footer{flex-direction:column;text-align:center;align-items:center}}
 @media(prefers-reduced-motion:reduce){.juego-fondo span,.portada-musical.is-fijada{animation:none}.portada-musical,.reproductor-fijo{transition:none}}
 
 .portada-juego-link{display:inline-flex;align-items:center;justify-content:center;margin-top:.9rem;padding:.72rem 1.2rem;border:1px solid #eab6c780;border-radius:999px;color:#ffe9ef;text-decoration:none;background:linear-gradient(135deg,#8e526eaa,#3b243fbb);box-shadow:0 8px 28px #09030b35;transition:transform .2s,background .2s}.portada-juego-link:hover{transform:translateY(-2px);background:#8e526e}
 .video-inline{grid-column:1/-1;display:none;width:100%;aspect-ratio:16/9;border-radius:12px;overflow:hidden;background:#08060d}.video-inline.is-playing{display:block}.video-inline iframe{width:100%;height:100%;border:0}
+
+/* Lluvia de portadas: pequeñas carátulas que caen, rebotan y se asientan */
+.portada-musical{transition:left .82s cubic-bezier(.18,.68,.28,1.15),top .82s cubic-bezier(.18,.68,.28,1.15),transform .82s cubic-bezier(.18,.68,.28,1.15),box-shadow .2s,filter .2s}
+.portada-musical.caida-inicial{animation:caer-portada .95s cubic-bezier(.18,.68,.28,1.15) both;animation-delay:var(--delay,0ms)}
+.portada-musical.volando{animation:volar-portada 1.05s cubic-bezier(.15,.8,.22,1.15) both;animation-delay:var(--delay,0ms)}
+@keyframes caer-portada{0%{opacity:0;transform:translateY(-140vh) rotate(var(--rotacion,-18deg)) scale(.72)}72%{opacity:1;transform:translateY(16px) rotate(var(--rotacion,10deg)) scale(1.04)}86%{transform:translateY(-8px) rotate(var(--rotacion,-5deg)) scale(.98)}100%{opacity:1;transform:translateY(0) rotate(var(--rotacion,0deg)) scale(1)}}
+@keyframes volar-portada{0%{transform:translate(0,-35vh) rotate(-30deg) scale(.7);opacity:.4}40%{opacity:1}70%{transform:translate(var(--rebote-x,18px),12px) rotate(var(--rebote-rot,15deg)) scale(1.08)}100%{transform:translate(0,0) rotate(var(--rotacion,0deg)) scale(1);opacity:1}}
+.juego-mesa.is-revolviendo .portada-musical{filter:brightness(1.12) saturate(1.18)}
+@media(max-width:600px){.juego-mesa{min-height:560px}}
+@media(prefers-reduced-motion:reduce){.portada-musical.caida-inicial,.portada-musical.volando{animation:none}}
