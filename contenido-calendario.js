@@ -372,7 +372,7 @@ const CALENDARIO = [
     "dia": 17,
     "fecha": "2026-11-01",
     "fechaTexto": "dom, 1 de nov",
-    "categoria": "Arroz con huevo, pasta a tu manera",
+    "categoria": "Arroz con huevo, el clásico que te gusta",
     "icono": "🍝",
     "tono": "amor",
     "color": {
@@ -380,13 +380,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días, Aleja. Me acuerdo de dos gustos tuyos que merecen su propio espacio: arroz con huevo, por un lado, y pasta en casi todas sus presentaciones, por otro. No son lo mismo, y quiero recordarlos bien.",
+    "buenosDias": "Buenos días, Aleja. Hoy sí quiero separar bien esos dos antojos tuyos: arroz con huevo cuando te provoca ese plato de siempre, y pasta cuando quieres cualquiera de sus muchas versiones.",
     "poema": [
-      "El arroz con huevo tiene el encanto directo de un plato que no necesita demasiadas vueltas. La pasta, en cambio, puede cambiar con la salsa, la forma o la preparación.",
-      "Son dos gustos distintos y cada uno merece su lugar. Recordar lo que te gusta no debería significar mezclarlo todo en una sola frase."
+      "El arroz con huevo tiene una sencillez muy suya: pocos elementos y un plato que se disfruta tal cual. La pasta juega en otra liga de posibilidades: cambia con la salsa, la forma y la preparación.",
+      "No hace falta juntarlos para hablar de tus gustos. Recordar bien es saber que cada uno tiene su lugar y que los dos te gustan por razones distintas."
     ],
-    "detalle": "Cuando tengas que elegir qué comer, pregúntate qué se te antoja de verdad: arroz con huevo o una pasta en la versión que más te provoque.",
-    "buenasNoches": "Ojalá hayas comido rico y tenido un momento sin apuros. Mañana puede aparecer otro antojo; no hace falta que todos tus gustos quepan en una sola descripción.",
+    "detalle": "Si hoy pudieras escoger sin pensar en nada más, ¿te provocarías arroz con huevo o una pasta con tu salsa favorita?",
+    "buenasNoches": "Que la noche te encuentre tranquila y bien cuidada. Ojalá hayas comido algo que realmente se te antojaba, no solo lo primero que apareció por falta de tiempo.",
     "cancionTitulo": "One Summer's Day",
     "cancionArtista": "Joe Hisaishi",
     "youtubeId": "TK1Ij_-mank"
@@ -616,7 +616,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Si se presenta la ocasión, disfruta El primer sorbo, sin azúcar a tu manera. No tiene que ser un plan grande para contar.",
-    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
+    "buenasNoches": "Deja que el día se apague sin pedirte otra cosa. Mañana volverás a tus ideas; esta noche basta con descansar.",
     "cancionTitulo": "Será",
     "cancionArtista": "Sin Bandera",
     "youtubeId": "pqvI-6NRN_A"
@@ -639,7 +639,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Guárdate una pausa para El color fresco de la fruta; que sea por gusto y no porque tengas que tachar algo de una lista.",
-    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
+    "buenasNoches": "Si algo quedó pendiente, puede esperar a que tengas más energía. Tu día no pierde valor porque no hayas terminado todo.",
     "cancionTitulo": "¡Corre!",
     "cancionArtista": "Jesse & Joy",
     "youtubeId": "P2hM9CLAMu4"
@@ -662,7 +662,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Hoy prueba algo pequeño relacionado con Cuando el detalle sí importa, solo si te nace. El momento también vale sin foto ni explicación.",
-    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
+    "buenasNoches": "Que la noche te dé permiso de bajar el ritmo y estar a gusto contigo, sin tener que demostrar que aprovechaste cada minuto.",
     "cancionTitulo": "Rayando el Sol",
     "cancionArtista": "Maná",
     "youtubeId": "8lbsQyMhMT8"
@@ -685,7 +685,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Recuerda esto cuando el día vaya rápido: Una pieza que solo tus manos podían hacer merece un espacio si es algo que te hace bien.",
-    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
+    "buenasNoches": "Guarda el teléfono cuando te nazca y dale un descanso a la cabeza. Lo que necesita una respuesta puede seguir ahí mañana.",
     "cancionTitulo": "Yellow",
     "cancionArtista": "Coldplay",
     "youtubeId": "yKNxeF4KMsY"
@@ -731,7 +731,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Si se presenta la ocasión, disfruta El cielo que no se repite a tu manera. No tiene que ser un plan grande para contar.",
-    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
+    "buenasNoches": "No hace falta resolver cada pensamiento antes de dormir. Deja que la noche te encuentre con espacio para respirar.",
     "cancionTitulo": "Colapso",
     "cancionArtista": "Kevin Kaarl",
     "youtubeId": "Mz8n2prxhg8"
@@ -754,7 +754,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Guárdate una pausa para Una melodía que se queda en el pecho; que sea por gusto y no porque tengas que tachar algo de una lista.",
-    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
+    "buenasNoches": "Que el descanso no dependa de haber cumplido con todo. Puedes parar aunque todavía haya cosas por hacer.",
     "cancionTitulo": "Experience",
     "cancionArtista": "Ludovico Einaudi",
     "youtubeId": "l6E8QbsAAJ8"
@@ -777,7 +777,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Hoy prueba algo pequeño relacionado con R&B para una tarde sin prisa, solo si te nace. El momento también vale sin foto ni explicación.",
-    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
+    "buenasNoches": "Antes de cerrar los ojos, quédate con una imagen amable del día. Lo demás no tiene que acompañarte hasta la cama.",
     "cancionTitulo": "Pero No Te Enamores",
     "cancionArtista": "Fuerza Regida",
     "youtubeId": "qGTBrBTFKOM"
@@ -800,7 +800,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Recuerda esto cuando el día vaya rápido: La comodidad también tiene estilo merece un espacio si es algo que te hace bien.",
-    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
+    "buenasNoches": "Que la última parte de tu día sea más suave que la primera. Ya habrá tiempo para retomar lo que quedó abierto.",
     "cancionTitulo": "Lo que hay x aquí",
     "cancionArtista": "Rels B",
     "youtubeId": "qWCup_EZSWE"
@@ -846,7 +846,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Si se presenta la ocasión, disfruta Tulipanes, margaritas y ninguna excusa a tu manera. No tiene que ser un plan grande para contar.",
-    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
+    "buenasNoches": "Si hoy no salió como querías, no conviertas la noche en un juicio. Descansa y vuelve a mirarlo con calma mañana.",
     "cancionTitulo": "Darte un Beso",
     "cancionArtista": "Prince Royce",
     "youtubeId": "bdOXnTbyk0g"
@@ -869,7 +869,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Guárdate una pausa para Un rincón despejado para pensar; que sea por gusto y no porque tengas que tachar algo de una lista.",
-    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
+    "buenasNoches": "Que puedas dejar de estar disponible por un rato. También mereces silencio, comodidad y tiempo sin responderle a nadie.",
     "cancionTitulo": "A Thousand Years",
     "cancionArtista": "Christina Perri",
     "youtubeId": "rtOvBOTyX00"
@@ -892,7 +892,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Hoy prueba algo pequeño relacionado con Cuando una idea te enciende, solo si te nace. El momento también vale sin foto ni explicación.",
-    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
+    "buenasNoches": "Espero que esta noche encuentres una pequeña comodidad que te haga bien: una canción, una manta o un rato sin pendientes.",
     "cancionTitulo": "Eres Tú",
     "cancionArtista": "Mocedades",
     "youtubeId": "Tw69WAn2-_0"
@@ -915,7 +915,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Recuerda esto cuando el día vaya rápido: La risa que rompe la seriedad merece un espacio si es algo que te hace bien.",
-    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
+    "buenasNoches": "Deja que mañana tenga sus propias preguntas. Por ahora, no necesitas encontrarle una explicación a todo lo que pasó.",
     "cancionTitulo": "Line Without a Hook",
     "cancionArtista": "Ricky Montgomery feat. mxmtoon",
     "youtubeId": "TM-LcROZaFs"
@@ -947,7 +947,7 @@ const CALENDARIO = [
     "dia": 42,
     "fecha": "2026-11-26",
     "fechaTexto": "jue, 26 de nov",
-    "categoria": "Dos antojos, cada uno a su manera",
+    "categoria": "Pasta a tu manera o arroz con huevo",
     "icono": "🍳",
     "tono": "amor",
     "color": {
@@ -955,13 +955,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, Aleja. Me acuerdo de dos gustos tuyos que merecen su propio espacio: arroz con huevo, por un lado, y pasta en casi todas sus presentaciones, por otro. No son lo mismo, y quiero recordarlos bien.",
+    "buenosDias": "Aleja, una pregunta de esas que sí importa responder con precisión: ¿hoy te provoca el arroz con huevo de toda la vida o una pasta preparada a tu gusto? Son dos opciones distintas, y ambas tienen su encanto.",
     "poema": [
-      "El arroz con huevo tiene el encanto directo de un plato que no necesita demasiadas vueltas. La pasta, en cambio, puede cambiar con la salsa, la forma o la preparación.",
-      "Son dos gustos distintos y cada uno merece su lugar. Recordar lo que te gusta no debería significar mezclarlo todo en una sola frase."
+      "Hay días en los que un plato conocido es justo lo que uno necesita; otros, apetece cambiar de salsa, textura o forma y disfrutar una pasta distinta.",
+      "Lo bonito de recordar tus gustos no es hacer una lista, sino poder imaginar cada opción como realmente es, sin mezclarlas ni convertirlas en una descripción genérica."
     ],
-    "detalle": "Cuando tengas que elegir qué comer, pregúntate qué se te antoja de verdad: arroz con huevo o una pasta en la versión que más te provoque.",
-    "buenasNoches": "Ojalá hayas comido rico y tenido un momento sin apuros. Mañana puede aparecer otro antojo; no hace falta que todos tus gustos quepan en una sola descripción.",
+    "detalle": "Idea para un día sin ganas de complicarte: decide primero qué te provoca de verdad —arroz con huevo o pasta— y después piensa en cómo prepararlo.",
+    "buenasNoches": "Espero que hayas encontrado un momento para comer sin apuro. Que mañana puedas elegir por antojo y no únicamente por lo que haya más cerca.",
     "cancionTitulo": "Del Mar",
     "cancionArtista": "Ozuna, Doja Cat & Sia",
     "youtubeId": "K2kUyHgadQo"
@@ -984,7 +984,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Guárdate una pausa para Lo que parece pequeño también cuenta; que sea por gusto y no porque tengas que tachar algo de una lista.",
-    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
+    "buenasNoches": "Que tu cabeza no siga trabajando cuando el cuerpo ya pide descanso. Las ideas pueden esperar a que despiertes.",
     "cancionTitulo": "Entra En Mi Vida",
     "cancionArtista": "Sin Bandera",
     "youtubeId": "-hoZpSoKAYE"
@@ -1007,7 +1007,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Hoy prueba algo pequeño relacionado con Una charla que se alarga sin darse cuenta, solo si te nace. El momento también vale sin foto ni explicación.",
-    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
+    "buenasNoches": "Si el día fue intenso, que la noche no te pida más energía. Busca algo tranquilo y termina a tu ritmo.",
     "cancionTitulo": "Todo Cambió",
     "cancionArtista": "Camila",
     "youtubeId": "gO8-9OWzPOQ"
@@ -1030,7 +1030,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Recuerda esto cuando el día vaya rápido: Una mirada que no necesita explicación merece un espacio si es algo que te hace bien.",
-    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
+    "buenasNoches": "Hoy no tienes que sacar una conclusión de cada cosa. A veces basta con haber vivido el día y dejarlo ir.",
     "cancionTitulo": "Creo en Ti",
     "cancionArtista": "Reik",
     "youtubeId": "cqGyeFvhm8U"
@@ -1076,7 +1076,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Si se presenta la ocasión, disfruta Que las palabras coincidan con los actos a tu manera. No tiene que ser un plan grande para contar.",
-    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
+    "buenasNoches": "Que la noche te regale una pausa real, sin convertir el descanso en otra tarea por cumplir.",
     "cancionTitulo": "Lamento Boliviano",
     "cancionArtista": "Los Enanitos Verdes",
     "youtubeId": "hReAuaAuJOE"
@@ -1099,7 +1099,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Guárdate una pausa para Un café que no endulza el día a la fuerza; que sea por gusto y no porque tengas que tachar algo de una lista.",
-    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
+    "buenasNoches": "Descansa sabiendo que tus gustos no necesitan justificación y que mereces disfrutar las cosas pequeñas con tranquilidad.",
     "cancionTitulo": "Periódico de Ayer",
     "cancionArtista": "Héctor Lavoe",
     "youtubeId": "LMIrkCL8Zg0"
@@ -1122,7 +1122,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Hoy prueba algo pequeño relacionado con Una margarita cerca de lo que creas, solo si te nace. El momento también vale sin foto ni explicación.",
-    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
+    "buenasNoches": "Que puedas cerrar el día sin repasar cada conversación. Lo que haga falta aclarar tendrá un momento mejor mañana.",
     "cancionTitulo": "Me Muero",
     "cancionArtista": "La Quinta Estación",
     "youtubeId": "k5k2XVKxznc"
@@ -1145,7 +1145,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Recuerda esto cuando el día vaya rápido: Una noche casera que sí apetece merece un espacio si es algo que te hace bien.",
-    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
+    "buenasNoches": "Apaga el ruido poco a poco y quédate con lo que te haga sentir en paz. Lo demás puede quedarse para después.",
     "cancionTitulo": "Talking to the Moon",
     "cancionArtista": "Bruno Mars",
     "youtubeId": "fXw0jcYbqdo"
@@ -1191,7 +1191,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Si se presenta la ocasión, disfruta El café de una mañana lenta a tu manera. No tiene que ser un plan grande para contar.",
-    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
+    "buenasNoches": "Que esta noche sea un lugar para recuperarte, no para exigirte más. Mañana será otro comienzo, no una deuda.",
     "cancionTitulo": "At Last",
     "cancionArtista": "Etta James",
     "youtubeId": "1qJU8G7gR_g"
@@ -1214,7 +1214,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Guárdate una pausa para El dulce de la fruta en su punto; que sea por gusto y no porque tengas que tachar algo de una lista.",
-    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
+    "buenasNoches": "Deja que el día se apague sin pedirte otra cosa. Mañana volverás a tus ideas; esta noche basta con descansar.",
     "cancionTitulo": "Disfruto",
     "cancionArtista": "Carla Morrison",
     "youtubeId": "_ruEj-XK1lA"
@@ -1237,7 +1237,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Hoy prueba algo pequeño relacionado con El gesto de quien quiere que salga bien, solo si te nace. El momento también vale sin foto ni explicación.",
-    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
+    "buenasNoches": "Si algo quedó pendiente, puede esperar a que tengas más energía. Tu día no pierde valor porque no hayas terminado todo.",
     "cancionTitulo": "Besos en Guerra",
     "cancionArtista": "Morat",
     "youtubeId": "1oeD2m2UQAI"
@@ -1260,7 +1260,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Recuerda esto cuando el día vaya rápido: Un recuerdo hecho de barro y paciencia merece un espacio si es algo que te hace bien.",
-    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
+    "buenasNoches": "Que la noche te dé permiso de bajar el ritmo y estar a gusto contigo, sin tener que demostrar que aprovechaste cada minuto.",
     "cancionTitulo": "Día Tras Día",
     "cancionArtista": "Andrés Cepeda",
     "youtubeId": "g3ZzqseVv6Q"
@@ -1306,7 +1306,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Si se presenta la ocasión, disfruta Un atardecer con tonos inesperados a tu manera. No tiene que ser un plan grande para contar.",
-    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
+    "buenasNoches": "Guarda el teléfono cuando te nazca y dale un descanso a la cabeza. Lo que necesita una respuesta puede seguir ahí mañana.",
     "cancionTitulo": "Dile al Amor",
     "cancionArtista": "Aventura",
     "youtubeId": "ebakGrBkTog"
@@ -1329,7 +1329,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Guárdate una pausa para La nostalgia bonita de un bolero; que sea por gusto y no porque tengas que tachar algo de una lista.",
-    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
+    "buenasNoches": "No hace falta resolver cada pensamiento antes de dormir. Deja que la noche te encuentre con espacio para respirar.",
     "cancionTitulo": "Me Ilusioné",
     "cancionArtista": "Binomio de Oro de América",
     "youtubeId": "wDeZiEZGS3Q"
@@ -1352,7 +1352,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Hoy prueba algo pequeño relacionado con Una canción que acompaña sin estorbar, solo si te nace. El momento también vale sin foto ni explicación.",
-    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
+    "buenasNoches": "Que el descanso no dependa de haber cumplido con todo. Puedes parar aunque todavía haya cosas por hacer.",
     "cancionTitulo": "La Mitad",
     "cancionArtista": "Camilo",
     "youtubeId": "yz7oP-JqaXk"
@@ -1375,7 +1375,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Recuerda esto cuando el día vaya rápido: tu ropa, tu ritmo merece un espacio si es algo que te hace bien.",
-    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
+    "buenasNoches": "Antes de cerrar los ojos, quédate con una imagen amable del día. Lo demás no tiene que acompañarte hasta la cama.",
     "cancionTitulo": "Que Lloro",
     "cancionArtista": "Sin Bandera",
     "youtubeId": "Fk5oL0mgI08"
@@ -1421,7 +1421,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Si se presenta la ocasión, disfruta Flores para alegrar un día cualquiera a tu manera. No tiene que ser un plan grande para contar.",
-    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
+    "buenasNoches": "Que la última parte de tu día sea más suave que la primera. Ya habrá tiempo para retomar lo que quedó abierto.",
     "cancionTitulo": "Vivir Sin Aire",
     "cancionArtista": "Maná",
     "youtubeId": "Mr1pHZ2_xJU"
@@ -1444,7 +1444,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Guárdate una pausa para Dejar espacio para lo que viene; que sea por gusto y no porque tengas que tachar algo de una lista.",
-    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
+    "buenasNoches": "Si hoy no salió como querías, no conviertas la noche en un juicio. Descansa y vuelve a mirarlo con calma mañana.",
     "cancionTitulo": "505",
     "cancionArtista": "Arctic Monkeys",
     "youtubeId": "CKI8iQTgZKU"
@@ -1467,7 +1467,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Hoy prueba algo pequeño relacionado con El impulso de empezar, solo si te nace. El momento también vale sin foto ni explicación.",
-    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
+    "buenasNoches": "Que puedas dejar de estar disponible por un rato. También mereces silencio, comodidad y tiempo sin responderle a nadie.",
     "cancionTitulo": "Amarte Más No Pude",
     "cancionArtista": "Diomedes Díaz",
     "youtubeId": "OVfQD-A2RiY"
@@ -1490,7 +1490,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Recuerda esto cuando el día vaya rápido: La risa que llega de sorpresa merece un espacio si es algo que te hace bien.",
-    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
+    "buenasNoches": "Espero que esta noche encuentres una pequeña comodidad que te haga bien: una canción, una manta o un rato sin pendientes.",
     "cancionTitulo": "Creep",
     "cancionArtista": "Radiohead",
     "youtubeId": "zFYEYRcjK2g"
@@ -1522,7 +1522,7 @@ const CALENDARIO = [
     "dia": 67,
     "fecha": "2026-12-21",
     "fechaTexto": "lun, 21 de dic",
-    "categoria": "El plato que te provoca, no el que mezclan por ti",
+    "categoria": "Dos gustos que recuerdo por separado",
     "icono": "🍜",
     "tono": "amor",
     "color": {
@@ -1530,13 +1530,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Buenos días, Aleja. Me acuerdo de dos gustos tuyos que merecen su propio espacio: arroz con huevo, por un lado, y pasta en casi todas sus presentaciones, por otro. No son lo mismo, y quiero recordarlos bien.",
+    "buenosDias": "Buenos días, Aleja. Me quedo con un detalle concreto tuyo: te gusta el arroz con huevo, y también la pasta en casi todas sus presentaciones. Lo recuerdo como dos gustos separados, no como una sola comida.",
     "poema": [
-      "El arroz con huevo tiene el encanto directo de un plato que no necesita demasiadas vueltas. La pasta, en cambio, puede cambiar con la salsa, la forma o la preparación.",
-      "Son dos gustos distintos y cada uno merece su lugar. Recordar lo que te gusta no debería significar mezclarlo todo en una sola frase."
+      "El arroz con huevo puede ser ese plato sencillo que cumple exactamente con lo que se te antoja. La pasta permite cambiar de forma, salsa y combinación sin dejar de ser una de tus favoritas.",
+      "Me gusta más recordar tus preferencias con exactitud que adornarlas con frases bonitas. Si un día hablamos de comida, quiero que se note que escuché lo que de verdad dijiste."
     ],
-    "detalle": "Cuando tengas que elegir qué comer, pregúntate qué se te antoja de verdad: arroz con huevo o una pasta en la versión que más te provoque.",
-    "buenasNoches": "Ojalá hayas comido rico y tenido un momento sin apuros. Mañana puede aparecer otro antojo; no hace falta que todos tus gustos quepan en una sola descripción.",
+    "detalle": "Para la próxima vez que pensemos qué comer, hay dos caminos claros: arroz con huevo o alguna pasta de las muchas que te gustan.",
+    "buenasNoches": "Que termines el día con calma, Aleja. Y que cuando llegue la hora de comer, siempre puedas escoger lo que te provoca, sin que nadie reduzca tus gustos a una sola frase.",
     "cancionTitulo": "Perfecta",
     "cancionArtista": "Camilo",
     "youtubeId": "8BRXjKvWrtQ"
@@ -1559,7 +1559,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Guárdate una pausa para Escuchar es recordar la diferencia; que sea por gusto y no porque tengas que tachar algo de una lista.",
-    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
+    "buenasNoches": "Deja que mañana tenga sus propias preguntas. Por ahora, no necesitas encontrarle una explicación a todo lo que pasó.",
     "cancionTitulo": "Te Quiero Tanto",
     "cancionArtista": "Kevin Kaarl",
     "youtubeId": "q07Gd6Q-7dY"
@@ -1582,7 +1582,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Hoy prueba algo pequeño relacionado con Una conversación que encuentra su camino, solo si te nace. El momento también vale sin foto ni explicación.",
-    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
+    "buenasNoches": "Que tu cabeza no siga trabajando cuando el cuerpo ya pide descanso. Las ideas pueden esperar a que despiertes.",
     "cancionTitulo": "Glue Song",
     "cancionArtista": "beabadoobee",
     "youtubeId": "y1cBhJLNNXU"
@@ -1605,7 +1605,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Recuerda esto cuando el día vaya rápido: La luz que cambia tus ojos merece un espacio si es algo que te hace bien.",
-    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
+    "buenasNoches": "Si el día fue intenso, que la noche no te pida más energía. Busca algo tranquilo y termina a tu ritmo.",
     "cancionTitulo": "Robarte un Beso",
     "cancionArtista": "Carlos Vives & Sebastián Yatra",
     "youtubeId": "mtau4v6foha"
@@ -1651,7 +1651,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Si se presenta la ocasión, disfruta Un cariño claro, sin adivinanzas a tu manera. No tiene que ser un plan grande para contar.",
-    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
+    "buenasNoches": "Hoy no tienes que sacar una conclusión de cada cosa. A veces basta con haber vivido el día y dejarlo ir.",
     "cancionTitulo": "Volvamos a Ser Novios",
     "cancionArtista": "Silvestre Dangond & Juancho De La Espriella",
     "youtubeId": "gBOuViKzj1Y"
@@ -1674,7 +1674,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Guárdate una pausa para Café sin azúcar y permiso de ir despacio; que sea por gusto y no porque tengas que tachar algo de una lista.",
-    "buenasNoches": "Que puedas apagar las pantallas y descansar sin repasar cada detalle. Mañana podrás volver a tus ideas con otra energía.",
+    "buenasNoches": "Que la noche te regale una pausa real, sin convertir el descanso en otra tarea por cumplir.",
     "cancionTitulo": "Get You",
     "cancionArtista": "Daniel Caesar feat. Kali Uchis",
     "youtubeId": "WFLGrpGemLg"
@@ -1697,7 +1697,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Hoy prueba algo pequeño relacionado con Una margarita junto a tus pinceles, solo si te nace. El momento también vale sin foto ni explicación.",
-    "buenasNoches": "Buenas noches, Aleja. Espero que hoy haya habido algo que te hiciera sentir a gusto contigo misma. Si no, que el descanso te dé un nuevo comienzo.",
+    "buenasNoches": "Descansa sabiendo que tus gustos no necesitan justificación y que mereces disfrutar las cosas pequeñas con tranquilidad.",
     "cancionTitulo": "Las Locuras Mías",
     "cancionArtista": "Silvestre Dangond",
     "youtubeId": "LqKscPDW8Y0"
@@ -1720,7 +1720,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Recuerda esto cuando el día vaya rápido: Un plan casero para quedarse a gusto merece un espacio si es algo que te hace bien.",
-    "buenasNoches": "Deja el día donde está y quédate con lo que sí te hizo bien. No necesitas resolverlo todo antes de dormir.",
+    "buenasNoches": "Que puedas cerrar el día sin repasar cada conversación. Lo que haga falta aclarar tendrá un momento mejor mañana.",
     "cancionTitulo": "La Reina",
     "cancionArtista": "Maluma",
     "youtubeId": "VFKu6QBbOa4"
@@ -1766,7 +1766,7 @@ const CALENDARIO = [
       "Ojalá lo que encuentres hoy se parezca a ti de verdad: a tus gustos, a tu forma de elegir y a los pequeños detalles que merecen recordarse con precisión."
     ],
     "detalle": "Si se presenta la ocasión, disfruta El café que empieza la mañana a tu manera. No tiene que ser un plan grande para contar.",
-    "buenasNoches": "Al terminar el día, no tienes que encontrar una lección en todo. Descansa y deja que lo pendiente espere un poco.",
+    "buenasNoches": "Apaga el ruido poco a poco y quédate con lo que te haga sentir en paz. Lo demás puede quedarse para después.",
     "cancionTitulo": "Moment Of Your Life",
     "cancionArtista": "Brent Faiyaz feat. Coco Jones",
     "youtubeId": "Jv17JsayCSI"
