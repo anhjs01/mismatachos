@@ -28,3 +28,6 @@
 .yt-audio{position:fixed;width:1px;height:1px;left:-10px;bottom:-10px;overflow:hidden}
 @media(max-width:600px){.juego-top{align-items:flex-start}.juego-sello{max-width:130px;text-align:right;line-height:1.5}.juego-shell{padding-top:.3rem}.juego-mesa{min-height:520px}.portada-musical{width:clamp(86px,26vw,120px)}.mesa-nota--uno{left:20px;top:20px}.mesa-nota--dos{right:18px;bottom:20px;max-width:160px;text-align:right}.reproductor-fijo{grid-template-columns:70px 1fr;padding:14px}.reproductor-portada{width:70px}.juego-footer{flex-direction:column;text-align:center;align-items:center}}
 @media(prefers-reduced-motion:reduce){.juego-fondo span,.portada-musical.is-fijada{animation:none}.portada-musical,.reproductor-fijo{transition:none}}
+
+.portada-juego-link{display:inline-flex;align-items:center;justify-content:center;margin-top:.9rem;padding:.72rem 1.2rem;border:1px solid #eab6c780;border-radius:999px;color:#ffe9ef;text-decoration:none;background:linear-gradient(135deg,#8e526eaa,#3b243fbb);box-shadow:0 8px 28px #09030b35;transition:transform .2s,background .2s}.portada-juego-link:hover{transform:translateY(-2px);background:#8e526e}
+.video-inline{grid-column:1/-1;display:none;width:100%;aspect-ratio:16/9;border-radius:12px;overflow:hidden;background:#08060d}.video-inline.is-playing{display:block}.video-inline iframe{width:100%;height:100%;border:0}
