@@ -591,81 +591,82 @@ a { color: inherit; }
 
 
 
-/* ================================================================
-   PORTADA PRINCIPAL — Aleja / collage romántico de arte urbano
-   ================================================================ */
-body:has(.portada-urbana){background:#100914;color:#fff7f2}
-.portada-urbana{isolation:isolate;overflow:hidden;min-height:100svh;padding:clamp(2rem,6vh,5rem) 1.2rem;gap:clamp(.75rem,2.4vh,1.35rem)}
-.portada-urbana:before{content:"";position:absolute;z-index:-1;inset:4% 5%;border:1px solid #f3b5d61c;border-radius:2px;pointer-events:none;box-shadow:inset 0 0 100px #d8377910}
-.portada-urbana:after{content:"";position:absolute;z-index:-2;inset:-30%;pointer-events:none;background:radial-gradient(ellipse at 50% 36%,#a7295940,transparent 33%),radial-gradient(ellipse at 8% 72%,#b5d94d14,transparent 30%),radial-gradient(ellipse at 88% 22%,#7c3a9b26,transparent 30%);animation:portada-luz 12s ease-in-out infinite alternate}
-@keyframes portada-luz{from{transform:translate3d(-1%,0,0) scale(1)}to{transform:translate3d(1%,-1%,0) scale(1.04)}}
-.portada-urbana .portada-sello,.portada-urbana .portada-pie{font:500 .64rem/1.5 "DM Mono",monospace;letter-spacing:.19em;color:#d9ed8b;text-transform:uppercase;margin:0;text-align:center}
-.portada-urbana .portada-titulo{font-family:"Playfair Display",Georgia,serif;font-size:clamp(2.7rem,9vw,5.3rem);font-weight:700;letter-spacing:-.055em;line-height:.98;margin:.1rem 0 0;text-shadow:0 8px 40px #e43c8440}
-.portada-urbana .portada-titulo span{font-style:italic;color:#f5a4c7}
-.portada-urbana .portada-subtitulo{max-width:25rem;margin:0;color:#ead9e4;font-size:clamp(1.05rem,3.4vw,1.35rem);font-style:italic;line-height:1.35}
-.portada-urbana .heart-big{position:relative;margin:.2rem 0;font-size:clamp(6rem,25vw,10rem);color:#f27fb0;filter:drop-shadow(0 0 13px #ff68ad99) drop-shadow(0 0 44px #ed328c55);animation:latido-urbano 2.1s cubic-bezier(.45,0,.55,1) infinite}
-@keyframes latido-urbano{0%,100%{transform:scale(1) rotate(-2deg)}16%{transform:scale(1.12) rotate(2deg)}28%{transform:scale(.98) rotate(-1deg)}43%{transform:scale(1.08) rotate(1deg)}58%{transform:scale(1) rotate(0)}}
-.portada-urbana .portada-hint{max-width:21rem;margin:0;font-size:1rem;line-height:1.45;color:#f2dce8;opacity:.9}
-.portada-marcas{position:absolute;inset:0;pointer-events:none;z-index:-1}
-.portada-marcas .marca{position:absolute;display:grid;place-items:center;width:clamp(2.8rem,8vw,4.5rem);aspect-ratio:1;border:1px solid #f4b7d73b;background:#160c1bc9;color:#e2f18b;border-radius:50%;font-size:clamp(1.3rem,4vw,2.1rem);box-shadow:0 8px 24px #0005;animation:sticker-flota 6s ease-in-out infinite}
-.marca--uno{left:9%;top:20%;transform:rotate(-12deg)}.marca--dos{right:10%;top:25%;color:#f5a4c7!important;animation-delay:-1s!important}.marca--tres{left:13%;bottom:24%;transform:rotate(12deg);animation-delay:-2.5s!important}.marca--cuatro{right:11%;bottom:27%;animation-delay:-.8s!important}.marca--cinco{right:21%;top:13%;font-size:1.5rem!important;color:#f5a4c7!important;animation-delay:-3s!important}.marca--seis{left:22%;top:12%;font-size:1.2rem!important;animation-delay:-1.7s!important}
-@keyframes sticker-flota{0%,100%{translate:0 0;rotate:-3deg}50%{translate:0 -8px;rotate:3deg}}
-.portada-accesos{width:min(100%,27rem);display:grid;gap:.7rem;margin-top:.25rem}
-.portada-urbana .portada-juego-link,.portada-calendario-link{display:flex;align-items:center;gap:.85rem;text-decoration:none;text-align:left;border-radius:5px;padding:.9rem 1rem;transition:transform .22s ease,border-color .22s ease,background .22s ease,box-shadow .22s ease}
-.portada-urbana .portada-juego-link{border:1px solid #f28bbd8c;background:linear-gradient(110deg,#e344871e,#201124e8);box-shadow:5px 5px 0 #b9316c55,0 10px 35px #0002}
-.portada-urbana .portada-juego-link>span:first-child{display:grid;place-items:center;width:2.5rem;height:2.5rem;border-radius:50%;background:#f28bbd;color:#210c1a;font-size:1.35rem;flex-shrink:0}
-.portada-urbana .portada-juego-link>span:nth-child(2){flex:1;font-family:"Playfair Display",serif;font-size:1.2rem}
-.portada-urbana .portada-juego-link small{display:block;font:500 .57rem "DM Mono",monospace;letter-spacing:.16em;color:#d9ed8b;margin-bottom:.16rem}
-.portada-urbana .portada-juego-link b,.portada-calendario-link b{font:400 1.1rem "DM Mono",monospace}
-.portada-urbana .portada-calendario-link{justify-content:center;border:1px solid #d9ed8b45;background:#d9ed8b0b;color:#f5e8ed;font-size:1rem}
-.portada-urbana .portada-calendario-link span{color:#d9ed8b}
-.portada-urbana .portada-juego-link:hover,.portada-urbana .portada-calendario-link:hover{transform:translateY(-3px);border-color:#d9ed8b;box-shadow:0 10px 30px #d8377920}
-.portada-urbana .portada-pie{font-size:.55rem;letter-spacing:.12em;color:#c7aebeaa;margin-top:.2rem}
-.portada-urbana .heart-big:focus-visible,.portada-urbana a:focus-visible{outline:2px solid #d9ed8b;outline-offset:5px}
-@media(max-width:560px){.portada-urbana{gap:1rem;padding:3rem 1rem}.portada-urbana:before{inset:2.5% 3%}.portada-marcas .marca{width:2.5rem}.marca--uno{left:5%;top:24%}.marca--dos{right:5%;top:29%}.marca--tres{left:5%;bottom:27%}.marca--cuatro{right:5%;bottom:30%}.marca--cinco{right:17%;top:15%}.marca--seis{left:16%;top:14%}.portada-urbana .portada-titulo{font-size:clamp(2.65rem,12vw,4.3rem)}.portada-urbana .portada-pie{max-width:18rem;line-height:1.8}}
-@media(prefers-reduced-motion:reduce){.portada-urbana:after,.portada-urbana .heart-big,.portada-marcas .marca{animation:none!important}.portada-urbana .portada-juego-link,.portada-urbana .portada-calendario-link{transition:none}}
-
-
-/* ================================================================
-   PORTADA REFINADA — composición editorial, menos ruido visual
-   ================================================================ */
+/* =======================================================================
+   PORTADA DE ALEJA — diseño unificado, editorial y artístico
+   Todo este bloque está limitado a index.html para no alterar las otras pantallas.
+   ======================================================================= */
 body.portada-inicio{
   min-height:100svh;
+  color:#fff5f8;
   background:
-    radial-gradient(ellipse at 50% 35%, rgba(133,35,88,.22), transparent 42%),
-    linear-gradient(145deg,#100914 0%,#170d1c 54%,#0b080f 100%);
+    radial-gradient(ellipse at 15% 18%,rgba(92,35,73,.62),transparent 34%),
+    radial-gradient(ellipse at 88% 76%,rgba(18,75,72,.42),transparent 30%),
+    radial-gradient(ellipse at 52% 44%,rgba(232,73,139,.10),transparent 37%),
+    linear-gradient(135deg,#100d17 0%,#201323 53%,#0c1619 100%);
 }
-body.portada-inicio .sky .glow--1{opacity:.3;background:radial-gradient(circle,#9a315d,transparent 70%)}
-body.portada-inicio .sky .glow--2{opacity:.25;background:radial-gradient(circle,#50336a,transparent 70%)}
+body.portada-inicio .sky{opacity:.7}
+body.portada-inicio .sky .glow--1{
+  opacity:.36;
+  background:radial-gradient(circle,rgba(232,73,139,.42),transparent 70%);
+}
+body.portada-inicio .sky .glow--2{
+  opacity:.32;
+  background:radial-gradient(circle,rgba(33,184,169,.34),transparent 70%);
+}
+body.portada-inicio .sky .glow--3{
+  opacity:.28;
+  background:radial-gradient(circle,rgba(216,240,120,.12),transparent 70%);
+}
 .portada-urbana{
-  width:min(100%,920px);
+  position:relative;
+  isolation:isolate;
+  width:min(100%,1120px);
   min-height:100svh;
   margin-inline:auto;
-  padding:clamp(1.3rem,4vh,3rem) clamp(1.25rem,5vw,3.5rem) 1.25rem;
-  gap:0;
+  padding:clamp(1.3rem,4vh,2.6rem) clamp(1.2rem,5.5vw,4.5rem) 1.25rem;
+  display:flex;
+  flex-direction:column;
   justify-content:space-between;
-  isolation:isolate;
+  align-items:stretch;
+  gap:1rem;
+  overflow:hidden;
 }
 .portada-urbana:before{
-  inset:1.25rem;
-  border:1px solid rgba(244,177,207,.16);
-  border-radius:3px;
-  box-shadow:inset 0 0 80px rgba(216,55,121,.035);
+  content:"";
+  position:absolute;
+  z-index:-2;
+  inset:0;
+  pointer-events:none;
+  opacity:.7;
+  background:
+    linear-gradient(116deg,transparent 0 17%,rgba(232,73,139,.035) 17.1% 17.35%,transparent 17.5% 100%),
+    linear-gradient(64deg,transparent 0 78%,rgba(216,240,120,.04) 78.1% 78.35%,transparent 78.5% 100%),
+    radial-gradient(ellipse at 50% 48%,rgba(13,8,17,.02),rgba(8,8,13,.28) 70%);
 }
 .portada-urbana:after{
-  background:
-    radial-gradient(ellipse at 50% 38%,rgba(167,41,89,.22),transparent 36%),
-    radial-gradient(ellipse at 10% 75%,rgba(181,217,77,.065),transparent 27%),
-    radial-gradient(ellipse at 92% 18%,rgba(124,58,155,.13),transparent 28%);
+  content:"";
+  position:absolute;
+  z-index:-1;
+  pointer-events:none;
+  width:min(42vw,460px);
+  aspect-ratio:1;
+  top:19%;
+  left:50%;
+  transform:translateX(-50%);
+  border-radius:50%;
+  background:radial-gradient(circle,rgba(232,73,139,.09),rgba(33,184,169,.035) 42%,transparent 70%);
+  filter:blur(9px);
 }
-.portada-cabecera,.portada-pie{
+.portada-cabecera{
   width:100%;
   display:flex;
   align-items:center;
   justify-content:space-between;
   gap:1rem;
+  position:relative;
+  z-index:2;
+  padding:.2rem 0;
 }
-.portada-cabecera{position:relative;z-index:2;padding:0 .2rem}
 .portada-edicion,.portada-folio,.portada-sello,.portada-pie{
   font-family:"DM Mono",monospace;
   font-size:.61rem;
@@ -673,7 +674,7 @@ body.portada-inicio .sky .glow--2{opacity:.25;background:radial-gradient(circle,
   letter-spacing:.14em;
   text-transform:uppercase;
 }
-.portada-edicion{color:#d9ed8b}
+.portada-edicion{color:#d8f078}
 .portada-folio{color:#bda9ba}
 .portada-centro{
   position:relative;
@@ -682,262 +683,214 @@ body.portada-inicio .sky .glow--2{opacity:.25;background:radial-gradient(circle,
   flex-direction:column;
   align-items:center;
   width:100%;
-  padding:clamp(1.7rem,5vh,3rem) 0 2rem;
+  padding:clamp(1.8rem,5vh,3.6rem) 0 clamp(1.6rem,4vh,2.6rem);
+  text-align:center;
 }
 .portada-urbana .portada-sello{
   margin:0 0 1rem;
-  color:#d9ed8b;
+  color:#d8f078;
   font-size:.6rem;
-  letter-spacing:.18em;
+  letter-spacing:.19em;
 }
 .portada-urbana .portada-titulo{
   margin:0;
-  font-size:clamp(3.4rem,9vw,6.7rem);
-  line-height:.98;
+  font-family:"Playfair Display",Georgia,serif;
+  font-size:clamp(3.8rem,10vw,7.2rem);
+  font-weight:700;
+  line-height:.94;
   letter-spacing:-.065em;
-  text-shadow:0 10px 48px rgba(227,60,132,.17);
+  color:#fff5f8;
+  text-shadow:0 10px 46px rgba(232,73,139,.18);
 }
-.portada-urbana .portada-titulo span{color:#f1a2c3}
-.portada-urbana .portada-titulo i{font-style:normal;color:#d9ed8b}
+.portada-urbana .portada-titulo span{
+  color:#f19bc1;
+  font-style:italic;
+}
+.portada-urbana .portada-titulo i{
+  color:#d8f078;
+  font-style:normal;
+}
 .portada-urbana .portada-subtitulo{
-  margin:1.1rem 0 0;
-  color:#d9cbd8;
-  font-size:clamp(1.15rem,3vw,1.55rem);
-  line-height:1.45;
+  margin:1.15rem 0 0;
+  max-width:27rem;
+  color:#e1d2df;
+  font-size:clamp(1.2rem,3vw,1.6rem);
+  line-height:1.35;
   letter-spacing:.01em;
 }
 .portada-urbana .heart-big{
-  display:grid;
-  place-items:center;
-  width:clamp(5.4rem,13vw,7.3rem);
-  height:clamp(5.4rem,13vw,7.3rem);
-  margin:1.15rem 0 .45rem;
+  display:block;
+  position:relative;
+  width:auto;
+  height:auto;
   padding:0;
-  border:1px solid rgba(244,164,199,.4);
-  border-radius:50%;
-  background:linear-gradient(145deg,rgba(242,127,176,.13),rgba(22,10,27,.75));
-  color:#f28bbd;
-  font-size:clamp(2.7rem,7vw,4rem);
+  margin:1.1rem 0 .35rem;
+  border:0;
+  border-radius:0;
+  background:transparent;
+  box-shadow:none;
+  color:#f17eae;
+  font-family:Arial,sans-serif;
+  font-size:clamp(7rem,22vw,10rem);
+  font-weight:400;
   line-height:1;
-  filter:drop-shadow(0 0 20px rgba(242,127,176,.2));
-  box-shadow:0 0 0 8px rgba(242,127,176,.025),inset 0 0 24px rgba(242,127,176,.08);
-  animation:latido-urbano 2.7s ease-in-out infinite;
   cursor:pointer;
+  filter:drop-shadow(0 0 15px rgba(232,73,139,.48)) drop-shadow(0 0 42px rgba(232,73,139,.2));
+  animation:latido 1.7s ease-in-out infinite;
+  transition:filter .2s ease,transform .2s ease;
+}
+.portada-urbana .heart-big:hover{
+  filter:drop-shadow(0 0 22px rgba(232,73,139,.68)) drop-shadow(0 0 54px rgba(232,73,139,.3));
+}
+.portada-urbana .heart-big:focus-visible,
+.portada-urbana a:focus-visible{
+  outline:2px solid #d8f078;
+  outline-offset:7px;
 }
 .portada-urbana .portada-hint{
-  margin:.65rem 0 0;
-  color:#cbb9c9;
-  font-size:.98rem;
-  letter-spacing:.01em;
+  max-width:22rem;
+  margin:.55rem 0 0;
+  color:#eadce7;
+  font-size:1.02rem;
+  line-height:1.45;
+  opacity:.88;
 }
-.portada-marcas{z-index:0}
+.portada-marcas{
+  position:absolute;
+  inset:0;
+  z-index:0;
+  pointer-events:none;
+}
 .portada-marcas .marca{
-  width:clamp(2.2rem,4.5vw,3.2rem);
-  border:1px solid rgba(244,177,207,.2);
-  background:rgba(24,13,29,.7);
-  color:#d9ed8b;
-  box-shadow:0 5px 20px rgba(0,0,0,.14);
-  font-size:clamp(1rem,2.5vw,1.5rem);
-  opacity:.8;
-  animation:sticker-flota 8s ease-in-out infinite;
+  position:absolute;
+  display:block;
+  width:auto;
+  height:auto;
+  border:0;
+  border-radius:0;
+  background:transparent;
+  box-shadow:none;
+  color:#d8f078;
+  opacity:.72;
+  font-size:clamp(1.35rem,3vw,2.2rem);
+  line-height:1;
+  text-shadow:2px 2px 0 rgba(232,73,139,.5),0 0 18px rgba(33,184,169,.18);
+  animation:marca-deriva 7s ease-in-out infinite;
 }
-.portada-marcas .marca--uno{left:13%;top:29%}
-.portada-marcas .marca--dos{right:13%;top:34%}
-.portada-marcas .marca--tres{left:17%;bottom:28%}
-.portada-marcas .marca--cuatro{right:16%;bottom:31%;font-size:1.15rem}
-.portada-marcas .marca--cinco{right:23%;top:19%}
-.portada-marcas .marca--seis{left:24%;top:19%}
+.portada-marcas .marca--uno{left:10%;top:29%;transform:rotate(-12deg)}
+.portada-marcas .marca--dos{right:11%;top:32%;color:#e8498b;animation-delay:-1.2s}
+.portada-marcas .marca--tres{left:14%;bottom:27%;transform:rotate(9deg);animation-delay:-2.2s}
+.portada-marcas .marca--cuatro{right:13%;bottom:29%;font-size:1.45rem;color:#e8498b;animation-delay:-.8s}
+.portada-marcas .marca--cinco{right:24%;top:18%;color:#e8498b;animation-delay:-3s}
+.portada-marcas .marca--seis{left:23%;top:18%;color:#21b8a9;animation-delay:-1.8s}
+@keyframes marca-deriva{
+  0%,100%{translate:0 0;rotate:-3deg}
+  50%{translate:0 -7px;rotate:3deg}
+}
 .portada-accesos{
   position:relative;
   z-index:2;
-  width:min(100%,660px);
+  width:min(100%,31rem);
   margin:0 auto;
-  display:grid;
-  grid-template-columns:repeat(2,minmax(0,1fr));
-  gap:.9rem;
-}
-.portada-urbana .portada-juego-link,.portada-urbana .portada-calendario-link{
-  min-width:0;
-  min-height:108px;
-  padding:1rem;
-  display:grid;
-  grid-template-columns:2.65rem minmax(0,1fr) 1rem;
-  align-items:center;
-  gap:.8rem;
-  border-radius:4px;
-  text-align:left;
-  text-decoration:none;
-  transition:transform .2s ease,border-color .2s ease,background .2s ease;
+  display:flex;
+  justify-content:center;
 }
 .portada-urbana .portada-juego-link{
-  border:1px solid rgba(242,139,189,.45);
-  background:linear-gradient(135deg,rgba(227,68,135,.12),rgba(24,13,29,.88));
-  box-shadow:4px 4px 0 rgba(185,49,108,.22);
+  width:100%;
+  min-height:92px;
+  padding:1rem 1.2rem;
+  display:grid;
+  grid-template-columns:2.8rem minmax(0,1fr) 1.2rem;
+  align-items:center;
+  gap:1rem;
+  border:1px solid rgba(232,73,139,.52);
+  border-radius:3px;
+  background:linear-gradient(112deg,rgba(232,73,139,.13),rgba(16,13,23,.84) 70%);
+  box-shadow:4px 4px 0 rgba(232,73,139,.22);
+  color:#fff4f8;
+  text-align:left;
+  text-decoration:none;
+  transition:transform .2s ease,border-color .2s ease,background .2s ease,box-shadow .2s ease;
 }
-.portada-urbana .portada-calendario-link{
-  border:1px solid rgba(217,237,139,.27);
-  background:linear-gradient(135deg,rgba(217,237,139,.055),rgba(24,13,29,.86));
-  color:#fff0f6;
-  justify-content:initial;
-  font-size:1rem;
-}
-.portada-urbana .acceso-icono{
+.portada-urbana .portada-juego-link .acceso-icono{
   display:grid;
   place-items:center;
-  width:2.55rem;
-  height:2.55rem;
-  border-radius:50%;
-  background:#f28bbd;
-  color:#210c1a;
-  font-size:1.35rem;
+  width:2.7rem;
+  height:2.7rem;
+  background:#e8498b;
+  color:#180c18;
+  font-size:1.45rem;
 }
-.portada-urbana .portada-calendario-link .acceso-icono{background:#d9ed8b}
 .portada-urbana .acceso-texto{display:block;min-width:0}
 .portada-urbana .acceso-texto small{
   display:block;
   margin-bottom:.3rem;
-  color:#d9ed8b;
-  font:500 .56rem "DM Mono",monospace;
-  letter-spacing:.13em;
+  color:#d8f078;
+  font:500 .58rem "DM Mono",monospace;
+  letter-spacing:.14em;
 }
 .portada-urbana .acceso-texto strong{
   display:block;
   color:#fff4f8;
-  font:600 clamp(1rem,2vw,1.17rem)/1.2 "Playfair Display",serif;
+  font:600 clamp(1.08rem,2.5vw,1.28rem)/1.2 "Playfair Display",serif;
 }
 .portada-urbana .acceso-texto em{
   display:block;
-  margin-top:.35rem;
+  margin-top:.3rem;
   color:#cbb9c9;
-  font:italic .9rem/1.25 "Cormorant Garamond",serif;
+  font:italic .96rem/1.25 "Cormorant Garamond",serif;
 }
-.portada-urbana .portada-juego-link>b,.portada-urbana .portada-calendario-link>b{
-  color:#d9ed8b;
-  font:400 1rem "DM Mono",monospace;
+.portada-urbana .portada-juego-link>b{
+  color:#21b8a9;
+  font:400 1.2rem "DM Mono",monospace;
 }
-.portada-urbana .portada-juego-link:hover,.portada-urbana .portada-calendario-link:hover{
+.portada-urbana .portada-juego-link:hover{
   transform:translateY(-3px);
-  border-color:#d9ed8b;
-  box-shadow:0 9px 26px rgba(0,0,0,.2);
+  border-color:#d8f078;
+  background:linear-gradient(112deg,rgba(232,73,139,.18),rgba(16,13,23,.92) 70%);
+  box-shadow:4px 4px 0 rgba(33,184,169,.26);
 }
 .portada-pie{
   position:relative;
   z-index:2;
+  display:flex;
   justify-content:center;
+  align-items:center;
   gap:.8rem;
-  margin-top:1.7rem;
+  width:100%;
+  margin-top:1.5rem;
   color:#a995a7;
   font-size:.53rem;
   letter-spacing:.12em;
   text-align:center;
 }
-.portada-pie .pie-estrella{color:#d9ed8b;font-size:.9rem}
-.portada-urbana a:focus-visible,.portada-urbana .heart-big:focus-visible{
-  outline:2px solid #d9ed8b;
-  outline-offset:5px;
-}
+.portada-pie .pie-estrella{color:#d8f078;font-size:.9rem}
 @media(max-width:600px){
-  .portada-urbana{padding:1.2rem 1.1rem 1rem}
-  .portada-urbana:before{inset:.7rem}
-  .portada-centro{padding:clamp(2.5rem,8vh,4.2rem) 0 2.3rem}
-  .portada-urbana .portada-sello{font-size:.52rem;letter-spacing:.12em}
-  .portada-urbana .portada-titulo{font-size:clamp(3.3rem,15vw,5rem)}
-  .portada-urbana .portada-subtitulo{font-size:1.2rem}
+  .portada-urbana{padding:1.25rem 1.1rem 1rem;gap:.6rem}
+  .portada-cabecera{align-items:flex-start}
+  .portada-edicion,.portada-folio{font-size:.5rem;letter-spacing:.1em}
+  .portada-centro{padding:clamp(2.4rem,7vh,3.8rem) 0 2.1rem}
+  .portada-urbana .portada-sello{font-size:.51rem;letter-spacing:.12em}
+  .portada-urbana .portada-titulo{font-size:clamp(3.35rem,15vw,5rem)}
+  .portada-urbana .portada-subtitulo{margin-top:.85rem;font-size:1.2rem}
   .salto-escritorio{display:none}
-  .portada-marcas .marca{width:2.15rem;font-size:1rem}
-  .portada-marcas .marca--uno{left:5%;top:29%}
+  .portada-urbana .heart-big{font-size:clamp(6.6rem,29vw,8.2rem);margin:.95rem 0 .2rem}
+  .portada-marcas .marca{font-size:1.45rem}
+  .portada-marcas .marca--uno{left:5%;top:28%}
   .portada-marcas .marca--dos{right:5%;top:32%}
-  .portada-marcas .marca--tres{left:6%;bottom:30%}
-  .portada-marcas .marca--cuatro{right:6%;bottom:32%}
-  .portada-marcas .marca--cinco{right:17%;top:19%}
-  .portada-marcas .marca--seis{left:17%;top:19%}
-  .portada-accesos{grid-template-columns:1fr;gap:.7rem}
-  .portada-urbana .portada-juego-link,.portada-urbana .portada-calendario-link{min-height:88px;padding:.8rem}
-  .portada-urbana .acceso-texto strong{font-size:1.08rem}
-  .portada-pie{font-size:.46rem;letter-spacing:.07em;gap:.45rem;margin-top:1.2rem}
+  .portada-marcas .marca--tres{left:5%;bottom:29%}
+  .portada-marcas .marca--cuatro{right:5%;bottom:31%}
+  .portada-marcas .marca--cinco{right:17%;top:18%}
+  .portada-marcas .marca--seis{left:17%;top:18%}
+  .portada-urbana .portada-juego-link{min-height:82px;padding:.8rem .9rem;gap:.75rem}
+  .portada-urbana .portada-pie{font-size:.45rem;letter-spacing:.065em;gap:.45rem;margin-top:1rem}
 }
 @media(max-height:740px) and (min-width:601px){
   .portada-centro{padding:1rem 0}
-  .portada-urbana .heart-big{width:5.3rem;height:5.3rem;font-size:2.8rem;margin:.8rem 0 .3rem}
-  .portada-urbana .portada-subtitulo{margin-top:.7rem}
+  .portada-urbana .heart-big{font-size:6.3rem;margin:.55rem 0 .2rem}
+  .portada-urbana .portada-subtitulo{margin-top:.65rem}
 }
 @media(prefers-reduced-motion:reduce){
-  .portada-urbana:after,.portada-urbana .heart-big,.portada-marcas .marca{animation:none!important}
-  .portada-urbana .portada-juego-link,.portada-urbana .portada-calendario-link{transition:none}
-}
-
-
-/* Ajuste de coherencia visual: sin marco, sin burbujas y corazón original */
-body.portada-inicio{
-  background:
-    radial-gradient(ellipse at 14% 12%,rgba(92,35,73,.62),transparent 34%),
-    radial-gradient(ellipse at 88% 70%,rgba(18,75,72,.45),transparent 29%),
-    linear-gradient(135deg,#100d17 0%,#201323 52%,#0c1619 100%);
-}
-body.portada-inicio .sky .glow--1{background:radial-gradient(circle,#e8498b55,transparent 70%)}
-body.portada-inicio .sky .glow--2{background:radial-gradient(circle,#21b8a955,transparent 70%)}
-.portada-urbana:before{display:none!important}
-.portada-urbana:after{
-  background:
-    radial-gradient(ellipse at 50% 38%,rgba(232,73,139,.15),transparent 36%),
-    radial-gradient(ellipse at 10% 75%,rgba(216,240,120,.055),transparent 27%),
-    radial-gradient(ellipse at 92% 18%,rgba(33,184,169,.10),transparent 28%);
-}
-.portada-urbana .heart-big{
-  display:block;
-  width:auto;
-  height:auto;
-  padding:0;
-  margin:1rem 0 .5rem;
-  border:0;
-  border-radius:0;
-  background:none;
-  box-shadow:none;
-  color:#f17eae;
-  font-size:clamp(6rem,25vw,10rem);
-  line-height:1;
-  filter:drop-shadow(0 0 16px rgba(232,73,139,.45)) drop-shadow(0 0 38px rgba(232,73,139,.2));
-  animation:latido-urbano 2.1s cubic-bezier(.45,0,.55,1) infinite;
-}
-.portada-marcas .marca{
-  display:block;
-  width:auto;
-  height:auto;
-  aspect-ratio:auto;
-  border:0;
-  border-radius:0;
-  background:none;
-  box-shadow:none;
-  color:#d8f078;
-  opacity:.7;
-  font-size:clamp(1.35rem,3vw,2.2rem);
-  text-shadow:2px 2px 0 rgba(232,73,139,.5),0 0 18px rgba(33,184,169,.16);
-}
-.portada-marcas .marca--dos,.portada-marcas .marca--cuatro,.portada-marcas .marca--cinco{color:#e8498b}
-.portada-marcas .marca--cuatro{font-size:clamp(1.15rem,2.4vw,1.7rem)}
-.portada-marcas .marca--seis{color:#21b8a9}
-.portada-urbana .portada-juego-link{
-  border:1px solid rgba(232,73,139,.58);
-  background:linear-gradient(135deg,rgba(232,73,139,.13),rgba(16,13,23,.83));
-  box-shadow:4px 4px 0 rgba(232,73,139,.22);
-}
-.portada-urbana .portada-calendario-link{
-  border:1px solid rgba(216,240,120,.36);
-  background:linear-gradient(135deg,rgba(33,184,169,.08),rgba(16,13,23,.86));
-}
-.portada-urbana .acceso-icono{
-  border-radius:4px;
-  background:#e8498b;
-  color:#170c17;
-}
-.portada-urbana .portada-calendario-link .acceso-icono{background:#d8f078}
-.portada-urbana .acceso-texto small,.portada-urbana .portada-edicion{color:#d8f078}
-.portada-urbana .portada-juego-link>b,.portada-urbana .portada-calendario-link>b{color:#21b8a9}
-.portada-urbana .portada-juego-link:hover,.portada-urbana .portada-calendario-link:hover{
-  border-color:#d8f078;
-  box-shadow:4px 4px 0 rgba(33,184,169,.28);
-}
-@media(max-width:600px){
-  .portada-marcas .marca{width:auto;height:auto;font-size:1.45rem}
-  .portada-urbana .heart-big{width:auto;height:auto;font-size:clamp(6rem,25vw,8rem)}
+  .portada-urbana .heart-big,.portada-marcas .marca{animation:none!important}
+  .portada-urbana .portada-juego-link{transition:none}
 }
