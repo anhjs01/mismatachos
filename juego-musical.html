@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#24121f">
+<meta name="description" content="Un pequeño rincón musical para descubrir canciones, mover portadas y escuchar a tu ritmo.">
+<title>El rincón de vinilos de Aleja</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;1,600&family=Cormorant+Garamond:wght@0,400;0,500;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="juego-musical.css">
+</head>
+<body class="juego-body">
+<div class="juego-fondo" aria-hidden="true"><span>✿</span><span>♫</span><span>✧</span><span>❀</span><span>♡</span></div>
+<header class="juego-top">
+  <a class="juego-volver" href="index.html">← Volver a la portada</a>
+  <span class="juego-sello">hecho con cariño · para Aleja</span>
+</header>
+<main class="juego-shell">
+  <section class="juego-intro">
+    <p class="juego-eyebrow">TU PEQUEÑA COLECCIÓN MUSICAL</p>
+    <h1>El rincón de los <em>sonidos</em></h1>
+    <p class="juego-sub">Mueve las portadas, lánzalas al centro y descubre qué canción te espera. Como revolver una caja de discos en una tarde tranquila.</p>
+  </section>
+  <section class="juego-mesa" id="mesa" aria-label="Portadas musicales para mover">
+    <div class="mesa-nota mesa-nota--uno">elige la que te llame ♡</div>
+    <div class="mesa-nota mesa-nota--dos">un poquito de música, un poquito de magia</div>
+    <div class="portadas" id="portadas"></div>
+    <div class="reproductor-fijo" id="reproductorFijo" aria-live="polite">
+      <button class="reproductor-cerrar" id="cerrarReproductor" aria-label="Cerrar reproductor">×</button>
+      <div class="reproductor-portada" id="reproductorPortada"></div>
+      <div class="reproductor-texto"><span class="reproductor-etiqueta">SONANDO EN ESTE RINCÓN</span><h2 id="cancionTitulo">Elige una portada</h2><p id="cancionArtista">Tu próxima canción puede estar aquí.</p></div>
+      <button class="reproductor-accion" id="abrirCancion">Escuchar canción ↗</button>
+    </div>
+  </section>
+  <div class="juego-controles">
+    <button class="juego-btn juego-btn--principal" id="mezclar">✦ Sacudir la colección</button>
+    <button class="juego-btn" id="otraRonda">Traer nuevas portadas ↻</button>
+  </div>
+  <p class="juego-ayuda" id="ayuda">Toca una portada para fijarla y abrir su canción. También puedes arrastrarla y soltarla en el centro.</p>
+  <footer class="juego-footer"><a href="calendario.html">Volver al calendario</a><span>flores, música y pequeñas sorpresas ✿</span></footer>
+</main>
+<div class="yt-audio" id="ytAudio" aria-hidden="true"></div>
+<script src="catalogo-canciones.js"></script>
+<script src="juego-musical.js"></script>
+</body>
+</html>
