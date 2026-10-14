@@ -20,7 +20,7 @@
   if (typeof CALENDARIO === "undefined" || !Array.isArray(CALENDARIO) || CALENDARIO.length === 0) {
     mostrarErrorCarga(
       "No se pudo leer el contenido del calendario.",
-      "Revisa que el archivo <code>contenido-calendario.js</code> esté en la misma carpeta que <code>calendario.html</code>, que no lo hayas renombrado, y que se haya copiado completo (son 77 días, revisa que el archivo esté completo)."
+      "Revisa que el archivo <code>contenido-calendario.js</code> esté en la misma carpeta que <code>calendario.html</code>, que no lo hayas renombrado, y que se haya copiado completo (son 78 días, revisa que el archivo esté completo)."
     );
     return;
   }
