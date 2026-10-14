@@ -1647,7 +1647,7 @@ const CALENDARIO = [
     },
     "buenosDias": "Buenos días, Aleja. Ojalá hoy el cariño que recibas sea claro: de esos que no te obligan a interpretar cada mensaje ni a preguntarte constantemente qué lugar ocupas.",
     "poema": [
-      "La tranquilidad en una relación no significa que nunca haya dudas o desacuerdos. Significa que se pueden hablar sin castigos, que un error se puede reconocer y que las palabras no se usan para mantener a alguien adivinando. El cariño también necesita honestidad y consistencia.",
+      "La tranquilidad al conocer a alguien no significa que nunca haya dudas o desacuerdos. Significa poder hablar con respeto, reconocer un error y no convertir cada silencio en una prueba que la otra persona tenga que descifrar.",
       "Y cuando apenas estás conociendo a alguien, no hace falta ponerle un nombre a todo para disfrutarlo. Puede bastar con conversar, coquetear un poquito, ver si la curiosidad es mutua y dejar que la confianza crezca al ritmo que ambos quieran."
     ],
     "detalle": "Si alguien te interesa, una pregunta sincera o una broma suave pueden abrir una conversación sin presionar a nadie. Lo bonito también puede ir despacio.",
