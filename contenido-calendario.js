@@ -12,13 +12,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Antes de que el día se llene de pendientes, quería dejarte una idea amable. esa bienvenida mañanera que hace que el día empiece con movimiento. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días, Aleja. Quería que empezaras con una idea sencilla: a veces el cariño se nota en quien se acuerda de tus pequeñas cosas. Ojalá hoy tengas un rato para disfrutar, no solo para cumplir.",
     "poema": [
-      "Hay algo bonito en la perrita que te busca: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
-      "esa bienvenida mañanera que hace que el día empiece con movimiento. Me gustaría que este día te deje la sensación de que tus gustos, tus gestos y tu forma de hacer las cosas sí tienen un lugar aquí."
+          "Hay algo bonito en la perrita que te busca: nos recuerda que conocer a alguien no consiste en memorizar datos, sino en prestar atención a las pequeñas cosas que le hacen bien.",
+          "Me gusta la idea de que alguien aprenda tus pequeños gustos y les haga espacio sin convertirlos en una lista. Ojalá este rincón se parezca un poquito a eso."
     ],
-    "detalle": "Un detalle para hoy: esa bienvenida mañanera que hace que el día empiece con movimiento.",
-    "buenasNoches": "Y cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. esa bienvenida mañanera que hace que el día empiece con movimiento. Descansa a tu ritmo; no tienes que ganarte una pausa.",
+    "detalle": "Si hoy ves una perrita buscando a su persona, acuérdate de ese cariño que acompaña sin pedir explicaciones.",
+    "buenasNoches": "Cuando llegue la noche, no tienes que dejar todo resuelto para merecer descanso. Deja que el día termine despacio y date permiso de parar.",
     "cancionTitulo": "Hecha Pa' Mí",
     "cancionArtista": "Grupo Frontera",
     "youtubeId": "IbE7peGTpmc"
@@ -587,13 +587,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Que tengas una mañana amable. Si todo empieza rápido, acuérdate de respirar un poquito. esa bienvenida mañanera que hace que el día empiece con movimiento. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Que tengas una mañana amable. Si todo empieza rápido, acuérdate de respirar un poquito. Hasta los días llenos pueden guardar un momento sencillo para ti.",
     "poema": [
-      "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe la perrita que te busca, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
-      "esa bienvenida mañanera que hace que el día empiece con movimiento. Que hoy tengas un espacio, por pequeño que sea, para hacer algo que te guste de verdad. No todo tiene que ser productivo para ser valioso."
+          "Hay días para hacer mucho y días para mirar las cosas con más calma. En cualquiera de los dos cabe la perrita que te busca, porque disfrutar algo no siempre necesita tiempo extra ni una ocasión especial.",
+          "La perrita que te busca tiene esa forma directa de recordar lo importante: estar cerca, celebrar el regreso y hacer especial lo cotidiano."
     ],
-    "detalle": "Un guiño a una de tus cosas favoritas: esa bienvenida mañanera que hace que el día empiece con movimiento.",
-    "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. esa bienvenida mañanera que hace que el día empiece con movimiento. Que el descanso también encuentre un lugar entre todas las cosas que haces.",
+    "detalle": "Un guiño a esa alegría sencilla de llegar a casa y encontrar una compañía que se alegra de verte.",
+    "buenasNoches": "Si hoy fue largo, que al menos termine con calma y con algo que te guste cerca. No hace falta resolverlo todo esta noche; mañana habrá otro momento.",
     "cancionTitulo": "Tú Sí Sabes Quererme",
     "cancionArtista": "Natalia Lafourcade",
     "youtubeId": "qTd2P94Qhp8"
@@ -1162,13 +1162,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buen día. No necesitas que todo salga perfecto para que hoy tenga algo bueno. esa bienvenida mañanera que hace que el día empiece con movimiento. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buen día. No necesitas que todo salga perfecto para que hoy tenga algo bueno. A veces basta con una pausa, una canción que te guste o una pequeña sorpresa.",
     "poema": [
-      "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en la perrita que te busca, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
-      "esa bienvenida mañanera que hace que el día empiece con movimiento. Que hoy puedas encontrar belleza en lo que te gusta, sin tener que explicarlo ni justificarlo. Tus pequeñas preferencias también merecen su espacio."
+          "No todo lo que vale la pena llega envuelto en una gran sorpresa. A veces aparece en la perrita que te busca, en una costumbre que te representa o en un detalle que a otra persona podría pasarle inadvertido.",
+          "También hay belleza en lo que no todo el mundo nota: las cosas que eliges, lo que te hace reír y esos detalles que hablan de ti sin necesidad de explicarlos."
     ],
-    "detalle": "Para acordarte de algo bonito: esa bienvenida mañanera que hace que el día empiece con movimiento.",
-    "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. esa bienvenida mañanera que hace que el día empiece con movimiento. Que mañana te encuentre con nuevas ganas y un poco de espacio para ti.",
+    "detalle": "Hoy, un pequeño recordatorio: lo que te hace feliz no tiene que parecer importante para nadie más.",
+    "buenasNoches": "Al terminar el día, quédate con lo que te hizo bien y deja lo demás para cuando tengas más energía. No todo merece acompañarte hasta la almohada.",
     "cancionTitulo": "Cali Pachanguero",
     "cancionArtista": "Grupo Niche",
     "youtubeId": "7KxkMLAZlzw"
@@ -1737,13 +1737,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días. Espero que hoy algo pequeño te haga sonreír antes de que te des cuenta. esa bienvenida mañanera que hace que el día empiece con movimiento. Que hoy te quede espacio para disfrutar, no solo para cumplir.",
+    "buenosDias": "Buenos días. Espero que hoy algo pequeño te haga sonreír antes de que te des cuenta. Que puedas guardar un ratito para algo que disfrutes, sin sentir que tienes que aprovechar cada minuto.",
     "poema": [
-      "Si tuviera que escoger una imagen para este día, sería la perrita que te busca. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
-      "esa bienvenida mañanera que hace que el día empiece con movimiento. Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
+          "Si tuviera que escoger una imagen para este día, sería la perrita que te busca. Tiene algo de esas cosas que se vuelven memorables no por ser extraordinarias, sino porque encajan con la persona que las vive.",
+          "Ojalá hoy te sientas libre de ser como eres: activa cuando tengas ganas, tranquila cuando lo necesites y siempre dueña de tus propios gustos."
     ],
-    "detalle": "Para ponerle una pausa amable al día: esa bienvenida mañanera que hace que el día empiece con movimiento.",
-    "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. esa bienvenida mañanera que hace que el día empiece con movimiento. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
+    "detalle": "Para ponerle una pausa amable al día: piensa en una cosa pequeña que te gustaría repetir antes de que termine el año.",
+    "buenasNoches": "Ya habrá tiempo mañana para seguir creando, ordenando, pensando y haciendo mil cosas. Si te apetece, deja que una canción suave sea lo último que acompañe el día.",
     "cancionTitulo": "Kilómetros",
     "cancionArtista": "Sin Bandera",
     "youtubeId": "oR5rpFzaBaA"
