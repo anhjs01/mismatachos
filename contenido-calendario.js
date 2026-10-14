@@ -1776,7 +1776,7 @@ const CALENDARIO = [
     "fecha": "2027-01-01",
     "fechaTexto": "vie, 1 de ene",
     "categoria": "Un año nuevo, a tu manera",
-    "icono": "🎆",
+    "icono": "🌅",
     "tono": "amor",
     "color": {
       "principal": "#d5a8e8",
