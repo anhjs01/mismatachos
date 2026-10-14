@@ -1,35 +1,66 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Un rincón para Aleja</title>
-<meta name="theme-color" content="#07030b">
-<meta name="color-scheme" content="dark">
-<meta name="description" content="Un rincón hecho a mano para Aleja: música, arte urbano, mensajes y pequeños detalles.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,600&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#100914">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="Un rincón hecho a mano para Aleja: música, arte, mensajes y pequeños detalles.">
+  <title>Un rincón para Aleja</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,600;1,700&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
 </head>
-<body>
-
+<body class="portada-inicio">
   <div class="sky" aria-hidden="true">
     <div class="glow glow--1"></div>
     <div class="glow glow--2"></div>
     <div class="glow glow--3"></div>
     <div id="stars" class="stars"></div>
-  </div><main class="portada-scene portada-urbana">\n    <div class="portada-marcas" aria-hidden="true"><span class="marca marca--uno">✳</span><span class="marca marca--dos">♫</span><span class="marca marca--tres">✎</span><span class="marca marca--cuatro">🍓</span><span class="marca marca--cinco">★</span><span class="marca marca--seis">◉</span></div>\n    <p class="portada-sello">EDICIÓN ÚNICA · HECHO A MANO</p>
-    <p class="portada-titulo">Para <span>Aleja</span></p>\n    <p class="portada-subtitulo">un pequeño universo entre pintura, música y tú</p>
+  </div>
 
-    <button type="button" id="heartBtn" class="heart-big" aria-label="Tocar el corazón">❤</button>
+  <main class="portada-scene portada-urbana">
+    <div class="portada-cabecera">
+      <span class="portada-edicion">UN UNIVERSO HECHO A MANO</span>
+      <span class="portada-folio">A · 001</span>
+    </div>
 
-    <p class="portada-hint" id="hint">Toca el corazón y abre tu primera sorpresa</p>
+    <div class="portada-marcas" aria-hidden="true">
+      <span class="marca marca--uno">✳</span>
+      <span class="marca marca--dos">♫</span>
+      <span class="marca marca--tres">✎</span>
+      <span class="marca marca--cuatro">🍓</span>
+      <span class="marca marca--cinco">✦</span>
+      <span class="marca marca--seis">◉</span>
+    </div>
 
-    <div class="portada-accesos"><a class="portada-juego-link" href="juego-musical.html"><span>♫</span><span><small>EXPLORAR</small> El rincón musical</span><b>↗</b></a><a class="portada-calendario-link" href="calendario.html"><span>✦</span> Ir al calendario <b>↗</b></a></div>\n    <p class="portada-pie">CERO PRISA · MUCHOS DETALLES · SOLO PARA TI</p>
+    <section class="portada-centro" aria-labelledby="titulo-portada">
+      <p class="portada-sello">HECHO CON CALMA · PENSADO PARA TI</p>
+      <h1 class="portada-titulo" id="titulo-portada">Para <span>Aleja</span><i aria-hidden="true">.</i></h1>
+      <p class="portada-subtitulo">Un pequeño universo entre pintura,<br class="salto-escritorio"> música y tú.</p>
+      <button type="button" id="heartBtn" class="heart-big" aria-label="Tocar el corazón para abrir una sorpresa">♥</button>
+      <p class="portada-hint" id="hint">Hay algo bonito esperándote. Toca el corazón.</p>
+    </section>
+
+    <nav class="portada-accesos" aria-label="Explorar el rincón">
+      <a class="portada-juego-link" href="juego-musical.html">
+        <span class="acceso-icono" aria-hidden="true">♫</span>
+        <span class="acceso-texto"><small>01 / ESCUCHA</small><strong>El rincón musical</strong><em>Canciones para perderse un rato</em></span>
+        <b aria-hidden="true">↗</b>
+      </a>
+      <a class="portada-calendario-link" href="calendario.html">
+        <span class="acceso-icono" aria-hidden="true">✦</span>
+        <span class="acceso-texto"><small>02 / DESCUBRE</small><strong>El calendario</strong><em>Un detalle para cada día</em></span>
+        <b aria-hidden="true">↗</b>
+      </a>
+    </nav>
+
+    <footer class="portada-pie">
+      <span>HECHO CON CARIÑO</span><span class="pie-estrella" aria-hidden="true">✳</span><span>CERO PRISA, MUCHOS DETALLES</span>
+    </footer>
   </main>
 
-  <!-- Modal -->
   <div id="modalOverlay" class="modal-overlay" aria-hidden="true">
     <div class="modal-card" id="modalCard" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
       <button type="button" class="modal-close" id="modalClose" aria-label="Cerrar">✕</button>
