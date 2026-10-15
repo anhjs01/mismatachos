@@ -125,3 +125,10 @@ Criterios aplicados: arte y manualidades con acompañamiento instrumental/indie 
 - Se mantuvo la mención a Suguru Geto en el día 68.
 - Se mantuvieron los 78 días, fechas, estructura de los mensajes centrales, detalles y buenas noches; la revisión de poemas completos y de todos los enlaces incrustados continúa como auditoría separada.
 - Importante: las canciones pueden repetirse si el motivo temático lo justifica; en la siguiente pasada hay que revisar la variedad global para evitar que los mismos títulos aparezcan demasiado a menudo.
+
+
+## Revisión editorial adicional — cierre del calendario (15 de octubre de 2026)
+- Día 77 (31 de diciembre): corregí la categoría que todavía decía “El café que empieza la mañana” y eliminé una broma sobre llegar tarde/desayunar que no correspondía al texto de cierre de año. Ahora el detalle y las buenas noches invitan a conservar lo bueno y soltar parte de lo que pesó, sin exigir un balance perfecto.
+- Día 78 (1 de enero): cambié “Three Little Birds” por “Freedom” de Pharrell Williams para dar al comienzo del año un cierre musical distinto y más expansivo. El título, artista e ID se tomaron de la ficha ya existente del catálogo.
+- La auditoría de repeticiones detecta todavía varios títulos repetidos entre días: “Put Your Records On” (7), “Show Me How” (7), “Don't Know Why” (6), “By Your Side” (6), “Three Little Birds” (4 tras el cambio del día 78), “I'll Be Seeing You” (4), “Kiss Of Life” (4) y “Best Part” (4), entre otros. Reducirlas requiere reasignar cuidadosamente canciones ya incluidas en el catálogo y validar que el tono de la letra no contradiga el texto; no se hará por simple aleatoriedad.
+- El contenido está actualizado, pero todavía no se declara final la revisión de los 78 días: queda la pasada de variedad musical y la lectura editorial completa de cada buenos días, poema, detalle y buenas noches. La comprobación técnica de reproducción dentro del reproductor también sigue pendiente.
