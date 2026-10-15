@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#100d17">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="Una imagen especial, una canción y unas palabras para Aleja.">
+  <title>Un detalle para Aleja</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,600;1,700&family=Cormorant+Garamond:wght@400;500;600;700;1,500;1,600&display=swap" rel="stylesheet">
+  <style>
+    *{box-sizing:border-box}
+    :root{color-scheme:dark;--pink:#f19bc1;--lime:#d8f078;--teal:#21b8a9;--ink:#fff5f8;--muted:#d7c7d5}
+    html{min-height:100%;background:#100d17}
+    body{margin:0;min-height:100svh;color:var(--ink);font-family:"Cormorant Garamond",Georgia,serif;background:radial-gradient(ellipse at 12% 12%,rgba(92,35,73,.72),transparent 35%),radial-gradient(ellipse at 90% 80%,rgba(18,75,72,.48),transparent 32%),linear-gradient(135deg,#100d17,#201323 54%,#0c1619);overflow-x:hidden}
+    .sky{position:fixed;inset:0;pointer-events:none;overflow:hidden;z-index:0}
+    .star{position:absolute;width:2px;height:2px;border-radius:50%;background:#fff;opacity:.65;animation:twinkle 3s ease-in-out infinite alternate}
+    @keyframes twinkle{to{opacity:.18;transform:scale(.7)}}
+    .page{position:relative;z-index:1;width:min(1080px,100%);margin:auto;padding:clamp(1.1rem,4vw,2.7rem) clamp(1rem,5vw,3.8rem) 2rem}
+    .topline{display:flex;justify-content:space-between;align-items:center;gap:1rem;font:500 .62rem/1.5 "DM Mono",monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--lime)}
+    .topline span:last-child{color:#bda9ba;text-align:right}
+    .intro{text-align:center;max-width:760px;margin:clamp(2rem,6vh,4rem) auto 2rem}
+    .eyebrow{margin:0 0 .9rem;color:var(--lime);font:500 .62rem "DM Mono",monospace;letter-spacing:.18em;text-transform:uppercase}
+    h1{margin:0;font:700 clamp(2.7rem,8vw,5.5rem)/.98 "Playfair Display",Georgia,serif;letter-spacing:-.055em}
+    h1 span{color:var(--pink);font-style:italic}
+    .lead{margin:1rem auto 0;max-width:34rem;color:var(--muted);font-size:clamp(1.2rem,3vw,1.55rem);line-height:1.4}
+    .composition{display:grid;grid-template-columns:minmax(0,1.12fr) minmax(250px,.88fr);align-items:center;gap:clamp(1.3rem,4vw,3.5rem);margin:2rem auto 2.5rem}
+    .photo-frame{position:relative;margin:0;padding:.7rem;background:linear-gradient(135deg,rgba(241,155,193,.95),rgba(33,184,169,.8) 55%,rgba(216,240,120,.9));box-shadow:9px 9px 0 rgba(232,73,139,.22),0 24px 65px rgba(0,0,0,.35)}
+    .photo-frame:before{content:"";position:absolute;inset:10px;border:1px solid rgba(255,255,255,.5);pointer-events:none;z-index:1}
+    .photo-frame img{display:block;width:100%;height:auto;max-height:70vh;object-fit:contain;background:#171019}
+    .photo-caption{display:flex;justify-content:space-between;gap:1rem;margin:.75rem .15rem .1rem;color:#e8d9e6;font:500 .55rem "DM Mono",monospace;letter-spacing:.11em;text-transform:uppercase}
+    .letter{position:relative;padding:clamp(1.4rem,4vw,2.4rem);border:1px solid rgba(241,155,193,.35);background:linear-gradient(145deg,rgba(35,20,38,.88),rgba(9,15,18,.84));box-shadow:6px 6px 0 rgba(33,184,169,.13)}
+    .letter-mark{font-size:2rem;color:var(--pink);line-height:1}
+    .letter h2{margin:.75rem 0 1rem;font:600 clamp(1.5rem,3.5vw,2rem)/1.12 "Playfair Display",Georgia,serif}
+    .letter p{margin:0 0 1rem;color:#e6d8e4;font-size:clamp(1.08rem,2.3vw,1.24rem);line-height:1.68}
+    .signature{margin-top:1.4rem!important;text-align:right;color:var(--pink)!important;font-style:italic;font-size:1.22rem!important}
+    .music{display:flex;align-items:center;gap:1rem;margin-top:1.4rem;padding-top:1.2rem;border-top:1px solid rgba(216,240,120,.22)}
+    .music-icon{flex:0 0 2.7rem;height:2.7rem;display:grid;place-items:center;background:var(--lime);color:#171019;font-size:1.4rem}
+    .music-copy{min-width:0;flex:1}
+    .music-copy strong{display:block;font:600 1.05rem "Playfair Display",serif}
+    .music-copy span{display:block;margin-top:.2rem;color:#c9b8c9;font-size:1rem}
+    .music-btn{border:1px solid rgba(216,240,120,.55);background:rgba(216,240,120,.1);color:var(--ink);padding:.65rem .9rem;font:500 .85rem "DM Mono",monospace;cursor:pointer;white-space:nowrap}
+    .music-btn:hover{background:rgba(216,240,120,.2)}
+    .music-status{min-height:1.2em;margin:.7rem 0 0;color:#bfaebe;font-size:.94rem;font-style:italic}
+    .back{display:inline-flex;align-items:center;gap:.5rem;margin-top:1.2rem;color:var(--lime);text-decoration:none;border-bottom:1px dashed rgba(216,240,120,.45);padding-bottom:.25rem;font-size:1.08rem}
+    .back:hover{color:#fff}
+    .foot{margin:2rem 0 0;text-align:center;color:#a995a7;font:500 .53rem/1.7 "DM Mono",monospace;letter-spacing:.13em;text-transform:uppercase}
+    .yt-host{position:fixed;width:1px;height:1px;left:-10px;bottom:0;overflow:hidden;opacity:.001;pointer-events:none}
+    @media(max-width:760px){.composition{grid-template-columns:1fr;max-width:600px}.photo-frame{max-width:100%}.photo-frame img{max-height:none}.letter{order:2}.intro{margin-top:2.5rem}.topline{font-size:.52rem}}
+    @media(max-width:420px){.music{align-items:flex-start;flex-wrap:wrap}.music-btn{margin-left:3.7rem}.photo-caption{font-size:.48rem}.page{padding-inline:.9rem}}
+    @media(prefers-reduced-motion:reduce){.star{animation:none}}
+  </style>
+</head>
+<body>
+  <div class="sky" id="sky" aria-hidden="true"></div>
+  <main class="page">
+    <header class="topline"><span>Un universo hecho a mano</span><span>Un detalle para Aleja · 02</span></header>
+    <section class="intro">
+      <p class="eyebrow">Una imagen · una canción · un pequeño recuerdo</p>
+      <h1>Este espacio es <span>para ti.</span></h1>
+      <p class="lead">Hay detalles que merecen su propio lugar, sin apuro y sin necesidad de decir demasiado.</p>
+    </section>
+    <section class="composition" aria-label="Foto y dedicatoria para Aleja">
+      <figure class="photo-frame">
+        <img src="https://raw.githubusercontent.com/anhjs01/mismatachos/main/aleja/foto%20final.png" alt="Fotografía especial de Aleja" fetchpriority="high">
+        <figcaption class="photo-caption"><span>Guardado con cariño</span><span>✳ A · 002</span></figcaption>
+      </figure>
+      <article class="letter">
+        <span class="letter-mark" aria-hidden="true">✳</span>
+        <h2>Para que tengas un rincón solo tuyo</h2>
+        <p>Quería que esta foto tuviera un lugar propio, uno hecho con calma y cuidado, donde pudiera acompañarla una canción y unas palabras sencillas.</p>
+        <p>Ojalá cuando vuelvas por aquí encuentres un momento de tranquilidad, algo que te saque una sonrisa y el recordatorio de que los detalles pequeños también pueden guardar mucho cariño.</p>
+        <p>No tienes que hacer nada especial para merecerlos. Este espacio está aquí para que lo disfrutes a tu manera, cuando te apetezca.</p>
+        <p class="signature">Con cariño, para Aleja. ♡</p>
+        <div class="music">
+          <span class="music-icon" aria-hidden="true">♫</span>
+          <div class="music-copy"><strong>butterflies.</strong><span>Brent Faiyaz</span></div>
+          <button type="button" class="music-btn" id="musicToggle">▶ Reproducir</button>
+        </div>
+        <p class="music-status" id="musicStatus" role="status" aria-live="polite">Intentando iniciar la canción… Si el navegador la bloquea, pulsa «Reproducir».</p>
+      </article>
+    </section>
+    <a class="back" href="index.html">← Volver al inicio</a>
+    <p class="foot">Hecho con calma · pensado para ti · cero prisa, muchos detalles</p>
+  </main>
+  <div class="yt-host" id="ytHost" aria-hidden="true"></div>
+  <script>
+    (function(){
+      "use strict";
+      const sky=document.getElementById("sky");
+      for(let i=0;i<85;i++){const s=document.createElement("span");s.className="star";s.style.left=(Math.random()*100)+"%";s.style.top=(Math.random()*100)+"%";s.style.animationDelay=(Math.random()*4)+"s";sky.appendChild(s);}
+      const button=document.getElementById("musicToggle");
+      const status=document.getElementById("musicStatus");
+      let player=null,playing=false,apiReady=false;
+      function setState(isPlaying){playing=isPlaying;button.textContent=playing?"Ⅱ Pausar":"▶ Reproducir";status.textContent=playing?"Sonando ahora: butterflies. · Brent Faiyaz":"La canción está en pausa. Puedes retomarla cuando quieras.";}
+      function loadApi(){
+        if(window.YT&&window.YT.Player){makePlayer();return;}
+        window.onYouTubeIframeAPIReady=function(){makePlayer();};
+        const script=document.createElement("script");script.src="https://www.youtube.com/iframe_api";document.head.appendChild(script);
+      }
+      function makePlayer(){
+        if(player||!window.YT||!window.YT.Player)return;
+        player=new YT.Player("ytHost",{height:"1",width:"1",videoId:"P4GnrzUACmU",playerVars:{autoplay:1,controls:0,playsinline:1,loop:1,playlist:"P4GnrzUACmU"},events:{
+          onReady:function(){apiReady=true;player.mute();player.playVideo();status.textContent="Preparando butterflies.… Si no empieza con sonido, pulsa «Reproducir».";},
+          onStateChange:function(e){if(e.data===YT.PlayerState.PLAYING){if(!player.isMuted())setState(true);else{playing=false;button.textContent="▶ Reproducir";}}else if(e.data===YT.PlayerState.PAUSED){setState(false);}}
+        }});
+      }
+      button.addEventListener("click",function(){if(!apiReady||!player){status.textContent="La canción aún se está preparando; inténtalo de nuevo en un momento.";return;}if(playing){player.pauseVideo();return;}player.unMute();player.setVolume(70);player.playVideo();setState(true);});
+      loadApi();
+    })();
+  </script>
+</body>
+</html>
