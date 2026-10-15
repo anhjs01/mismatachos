@@ -29,7 +29,12 @@ const CATALOGO_CANCIONES = {
     { titulo: "Algo Anda Mal", artista: "Clan Hueso Duro", youtubeId: "nFCFxtW8Fww" },
     { titulo: "Qué Hay Pa' Hacer", artista: "Granuja", youtubeId: "M6CG-CU07n4" },
     { titulo: "No Está en Venta", artista: "Alcolirykoz", youtubeId: "Se6Cd4sW3ks" },
-    { titulo: "Tararea", artista: "Alcolirykoz", youtubeId: "nmFdyBUAsfQ" }
+    { titulo: "Tararea", artista: "Alcolirykoz", youtubeId: "nmFdyBUAsfQ" },
+    { titulo: "Discúlpame", artista: "Ali Aka Mind", youtubeId: "sqzdMYQKCdU" },
+    { titulo: "Falsedades", artista: "Tres Coronas", youtubeId: "n1dgZ5xnQWY" },
+    { titulo: "Envidias", artista: "Tres Coronas", youtubeId: "KRS0wPv9esQ" },
+    { titulo: "El Imaginario", artista: "Alcolirykoz", youtubeId: "VBnufgtjtxU" },
+    { titulo: "Coctel Espacial", artista: "Lianna; Gambeta", youtubeId: "McpW-vn070k" }
   ],
   hot: [],
   ambiente: [
