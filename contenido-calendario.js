@@ -410,9 +410,9 @@ const CALENDARIO = [
     ],
     "detalle": "Cuando alguien te cuente algo, escucha a tu manera: con atención, con preguntas y con esa sensibilidad para notar lo que a veces queda entre líneas. Y recuerda que tú también mereces que te escuchen así.",
     "buenasNoches": "Buenas noches, corazón. Ojalá también tengas cerca a alguien que te escuche con la misma atención que tú sabes regalar. No siempre tienes que ser quien sostiene la conversación.",
-    "cancionTitulo": "Vivir Mi Vida",
-    "cancionArtista": "Marc Anthony",
-    "youtubeId": "YXnjy5YlDwk"
+    "cancionTitulo": "Best Part",
+    "cancionArtista": "Daniel Caesar feat. H.E.R.",
+    "youtubeId": "vBy7FaapGRo"
   },
   {
     "dia": 19,
