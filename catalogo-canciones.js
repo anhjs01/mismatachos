@@ -354,11 +354,6 @@ const CATALOGO_CANCIONES = {
       "youtubeId": "RS6CRP_OoQA"
     },
     {
-      "titulo": "Tú Sí Sabes Quererme",
-      "artista": "Natalia Lafourcade; Los Macorinos",
-      "youtubeId": "a8eDeLKWx74"
-    },
-    {
       "titulo": "Nunca Es Suficiente",
       "artista": "Natalia Lafourcade; Los Ángeles Azules",
       "youtubeId": "k76BgIb89-s"
@@ -367,6 +362,21 @@ const CATALOGO_CANCIONES = {
       "titulo": "Es Por Ti",
       "artista": "Juanes",
       "youtubeId": "9hI7Qk5Z4v8"
+    },
+    {
+      "titulo": "Tú Sí Sabes Quererme",
+      "artista": "Natalia Lafourcade; Los Macorinos",
+      "youtubeId": "ABLT6hdgEek"
+    },
+    {
+      "titulo": "Rayando el Sol",
+      "artista": "Maná",
+      "youtubeId": "8lbsQyMhMT8"
+    },
+    {
+      "titulo": "Te Vi",
+      "artista": "Piso 21; Micro TDH",
+      "youtubeId": "0yruvXjYoUo"
     }
   ],
   "filosofica": [
@@ -1189,6 +1199,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Sólo le pido a Dios",
       "artista": "Mercedes Sosa",
       "youtubeId": "vzQIwFPyEc4"
+    },
+    {
+      "titulo": "Tu Falta de Querer",
+      "artista": "Mon Laferte",
+      "youtubeId": "WT-VE9OyAJk"
+    },
+    {
+      "titulo": "Que Vuelvas",
+      "artista": "Carín León; Grupo Frontera",
+      "youtubeId": "gG3516BF5_w"
     }
   ],
   "hot": [
