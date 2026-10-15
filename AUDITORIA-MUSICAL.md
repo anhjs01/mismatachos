@@ -132,3 +132,14 @@ Criterios aplicados: arte y manualidades con acompañamiento instrumental/indie 
 - Día 78 (1 de enero): cambié “Three Little Birds” por “Freedom” de Pharrell Williams para dar al comienzo del año un cierre musical distinto y más expansivo. El título, artista e ID se tomaron de la ficha ya existente del catálogo.
 - La auditoría de repeticiones detecta todavía varios títulos repetidos entre días: “Put Your Records On” (7), “Show Me How” (7), “Don't Know Why” (6), “By Your Side” (6), “Three Little Birds” (4 tras el cambio del día 78), “I'll Be Seeing You” (4), “Kiss Of Life” (4) y “Best Part” (4), entre otros. Reducirlas requiere reasignar cuidadosamente canciones ya incluidas en el catálogo y validar que el tono de la letra no contradiga el texto; no se hará por simple aleatoriedad.
 - El contenido está actualizado, pero todavía no se declara final la revisión de los 78 días: queda la pasada de variedad musical y la lectura editorial completa de cada buenos días, poema, detalle y buenas noches. La comprobación técnica de reproducción dentro del reproductor también sigue pendiente.
+
+
+## Continuación de variedad musical — 15 de octubre de 2026
+- Se sustituyeron cuatro repeticiones por canciones distintas que ya estaban en el catálogo y se copiaron título, artista e ID de la ficha correspondiente:
+  - Día 6 (pintura al óleo y pausa creativa): “I Gotta Find Peace of Mind - Live” — Ms. Lauryn Hill.
+  - Día 17 (comida cotidiana, tono juguetón): “Ride Wit Me” — Nelly; City Spud.
+  - Día 27 (café sin azúcar y bajar la prisa): “Keep Your Worries” — Guru; Angie Stone.
+  - Día 36 (antojo de mora, tono ligero): “Ring My Bell” — Anita Ward.
+- La estructura del calendario sigue siendo de 78 días y el archivo vuelve a analizarse como JavaScript sin error.
+- Las canciones indicadas se tomaron del catálogo; este cambio no certifica reproducción real ni reemplaza la revisión de la letra completa y del reproductor integrado.
+- La variedad global sigue pendiente: todavía hay varios títulos que aparecen entre 3 y 7 veces. Se seguirá reduciendo con cambios temáticos selectivos, sin reasignaciones al azar.
