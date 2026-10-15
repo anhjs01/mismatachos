@@ -1020,6 +1020,11 @@ const CATALOGO_CANCIONES = {
       "artista": "Charles Ans",
       "youtubeId": "pD9y7gqK9wQ"
     },
+    {
+      "titulo": "November Has Come",
+      "artista": "Gorillaz; MF DOOM",
+      "youtubeId": "uGgUoA443_A"
+    },
   ],
   "hot": [
     {
