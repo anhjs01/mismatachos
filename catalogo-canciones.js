@@ -1289,6 +1289,26 @@ const CATALOGO_CANCIONES = {
       "titulo": "Breakeven",
       "artista": "The Script",
       "youtubeId": "k5PRxE4yJpw"
+    },
+    {
+      "titulo": "Nothing",
+      "artista": "The Script",
+      "youtubeId": "KMihKmoYfe8"
+    },
+    {
+      "titulo": "Six Degrees of Separation",
+      "artista": "The Script",
+      "youtubeId": "FCT6Mu-pOeE"
+    },
+    {
+      "titulo": "If You Could See Me Now",
+      "artista": "The Script",
+      "youtubeId": "SGlkwKA-t_4"
+    },
+    {
+      "titulo": "Man on a Wire",
+      "artista": "The Script",
+      "youtubeId": "QV62YRpIeUA"
     }
   ],
   "hot": [
@@ -1783,6 +1803,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Hall of Fame",
       "artista": "The Script; will.i.am",
       "youtubeId": "mk48xRzuNvA"
+    },
+    {
+      "titulo": "Superheroes",
+      "artista": "The Script",
+      "youtubeId": "WIm1GgfRz6M"
     }
   ]
 };
