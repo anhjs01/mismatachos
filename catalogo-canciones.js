@@ -180,6 +180,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "BACKUP PLAN",
       "artista": "GIVĒON",
       "youtubeId": "lAiZ_nWYOI0"
+    },
+    {
+      "titulo": "AVALANCHE",
+      "artista": "GIVĒON",
+      "youtubeId": "u7ZjjFPF9wY"
     }
   ],
   "filosofica": [
