@@ -884,6 +884,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "La Vida en el Guetto",
       "artista": "La Etnnia",
       "youtubeId": "HCyZeteZoXg"
+    },
+    {
+      "titulo": "Rap Sexo y Saxofón",
+      "artista": "Alcolirykoz",
+      "youtubeId": "-aHrPD5EJZI"
+    },
+    {
+      "titulo": "Acrobacias - Remix",
+      "artista": "Alcolirykoz",
+      "youtubeId": "PdbrcupFYmc"
     }
   ],
   "hot": [
