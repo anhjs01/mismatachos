@@ -1756,8 +1756,56 @@ const CATALOGO_CANCIONES = {
       "titulo": "Tomorrow",
       "artista": "Jorja Smith",
       "youtubeId": "zMC5-M15je0"
+    },
+    {
+      "titulo": "Best Part (feat. H.E.R.)",
+      "artista": "Daniel Caesar; H.E.R.",
+      "youtubeId": "vBy7FaapGRo"
+    },
+    {
+      "titulo": "I Want You Around",
+      "artista": "Snoh Aalegra",
+      "youtubeId": "4976Fgvf5Ps"
+    },
+    {
+      "titulo": "By Your Side",
+      "artista": "Sade",
+      "youtubeId": "C8QJmI_V3j4"
+    },
+    {
+      "titulo": "Kiss Of Life",
+      "artista": "Sade",
+      "youtubeId": "MmOau-PMWJk"
+    },
+    {
+      "titulo": "Show Me How",
+      "artista": "Men I Trust",
+      "youtubeId": "OZRYzH0Q0pU"
+    },
+    {
+      "titulo": "Apocalypse",
+      "artista": "Cigarettes After Sex",
+      "youtubeId": "sElE_BfQ67s"
+    },
+    {
+      "titulo": "I'll Be Seeing You",
+      "artista": "Billie Holiday",
+      "youtubeId": "3C5zYKIuoxg"
+    },
+    {
+      "titulo": "Three Little Birds",
+      "artista": "Bob Marley & The Wailers",
+      "youtubeId": "HNBCVM4KbUM"
+    },
+    {
+      "titulo": "Don't Know Why",
+      "artista": "Norah Jones",
+      "youtubeId": "tO4dxvguQDk"
+    },
+    {
+      "titulo": "Put Your Records On",
+      "artista": "Corinne Bailey Rae",
+      "youtubeId": "oWQl00LWEwE"
     }
   ]
 };
-
-if (typeof module !== "undefined") module.exports = CATALOGO_CANCIONES;
