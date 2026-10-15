@@ -171,3 +171,5 @@ Criterios aplicados: arte y manualidades con acompañamiento instrumental/indie 
 - Las tres fichas se copiaron del catálogo y se actualizaron título, artista e ID juntos. Se mantiene la estructura de 78 días.
 
 - Ajuste final de variedad de esta tanda: día 60 → “Virtual Insanity - Remastered 2006” — Jamiroquai, y día 71 → “Aero-Soul” — Alcolirykoz. Ambas fichas proceden del catálogo; se evitó que las sustituciones introdujeran nuevas repeticiones innecesarias.
+
+- Revisión de coherencia posterior: día 60 queda con “good denim” — jalen chords. Se priorizó la afinidad clara con el tema de ropa cómoda sobre repetir “Virtual Insanity”; el tema “good denim” también acompaña el día 35, que trata del estilo cómodo, por lo que esta repetición puntual sí tiene motivo temático.
