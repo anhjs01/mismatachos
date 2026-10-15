@@ -13,7 +13,8 @@
 const CATALOGO_CANCIONES = {
   amor: [
     { titulo: "Moment Of Your Life (feat. Coco Jones)", artista: "Brent Faiyaz; Coco Jones", youtubeId: "Jv17JsayCSI", nota: "canción de entrada que se conserva por petición expresa" },
-    { titulo: "Dilemma", artista: "Nelly; Kelly Rowland", youtubeId: "8WYHDfJDPDc" }
+    { titulo: "Dilemma", artista: "Nelly; Kelly Rowland", youtubeId: "8WYHDfJDPDc" },
+    { titulo: "I Think I Love You Again", artista: "Aaron Taylor", youtubeId: "diAiHP1K-g0" }
   ],
   filosofica: [
     { titulo: "Otra Canción Larga", artista: "Alcolirykoz", youtubeId: "aAwXhAV3LPE" },
@@ -55,7 +56,8 @@ const CATALOGO_CANCIONES = {
   hot: [],
   ambiente: [
     { titulo: "La Noche y Tú", artista: "Barbaro el Urbano Vargas", youtubeId: "XSN_8UblItk" },
-    { titulo: "Déjame Entrar", artista: "Cultura Profética", youtubeId: "IAhVESdwvIU" }
+    { titulo: "Déjame Entrar", artista: "Cultura Profética", youtubeId: "IAhVESdwvIU" },
+    { titulo: "good denim", artista: "jalen chords", youtubeId: "_2Lnj5N9lCM" }
   ]
 };
 
