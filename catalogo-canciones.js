@@ -929,6 +929,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Hip Hop Hooray",
       "artista": "Naughty By Nature",
       "youtubeId": "2JhvpQWJgfA"
+    },
+    {
+      "titulo": "They Want EFX",
+      "artista": "Das EFX",
+      "youtubeId": "1PU22-fsGA0"
     }
   ],
   "hot": [
@@ -1121,6 +1126,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Children's Story",
       "artista": "Slick Rick",
       "youtubeId": "HjNTu8jdukA"
+    },
+    {
+      "titulo": "Flava in Ya Ear",
+      "artista": "Craig Mack",
+      "youtubeId": "GNFqMx0gY7I"
+    },
+    {
+      "titulo": "How I Could Just Kill a Man",
+      "artista": "Cypress Hill",
+      "youtubeId": "Yg-RIOATCbU"
     }
   ],
   "ambiente": [
