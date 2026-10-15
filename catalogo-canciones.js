@@ -1232,6 +1232,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "La Utopía en Que Vivimos",
       "artista": "Rupatrupa",
       "youtubeId": "pX0KGGAcpJc"
+    },
+    {
+      "titulo": "Buckwylyn",
+      "artista": "Shyheim",
+      "youtubeId": "TCB_BFFnqfQ"
     }
   ],
   "hot": [
