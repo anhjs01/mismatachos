@@ -231,7 +231,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Hail Mary",
       "artista": "2Pac",
-      "youtubeId": "K1u7l5tXnVw"
+      "youtubeId": "nkJA6SYwa94"
     },
     {
       "titulo": "You Got Me",
@@ -246,7 +246,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Cleanin' Out My Closet",
       "artista": "Eminem",
-      "youtubeId": "YVkUvmDQ3HY"
+      "youtubeId": "RQ9_TKayu9s"
     },
     {
       "titulo": "Let Me Blow Ya Mind",
@@ -257,11 +257,6 @@ const CATALOGO_CANCIONES = {
       "titulo": "What's The Difference",
       "artista": "Dr. Dre; Eminem; Xzibit",
       "youtubeId": "-Ubyt7iWJ8Q"
-    },
-    {
-      "titulo": "Drop It Like It's Hot",
-      "artista": "Snoop Dogg; Pharrell Williams",
-      "youtubeId": "wQV7jNOVRtY"
     },
     {
       "titulo": "a lot",
@@ -1295,6 +1290,11 @@ const CATALOGO_CANCIONES = {
     }
   ],
   "hot": [
+    {
+      "titulo": "Drop It Like It's Hot",
+      "artista": "Snoop Dogg; Pharrell Williams",
+      "youtubeId": "GtUVQei3nX4"
+    },
     {
       "titulo": "Get Low",
       "artista": "Lil Jon & The East Side Boyz; Ying Yang Twins",
