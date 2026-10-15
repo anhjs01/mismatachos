@@ -117,11 +117,6 @@ const CATALOGO_CANCIONES = {
       "youtubeId": "GJY5N0stFyU"
     },
     {
-      "titulo": "Camino de Tu Ombligo",
-      "artista": "Rupatrupa",
-      "youtubeId": "ekfybvh0TRo"
-    },
-    {
       "titulo": "February 3rd",
       "artista": "Jorja Smith",
       "youtubeId": "DI5fYHCk318"
@@ -1574,6 +1569,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Streiht Up Menace",
       "artista": "Compton's Most Wanted",
       "youtubeId": "j4x2Y2QvQ4A"
+    },
+    {
+      "titulo": "Camino de Tu Ombligo",
+      "artista": "Rupatrupa",
+      "youtubeId": "ekfybvh0TRo"
     }
   ],
   "ambiente": [
