@@ -944,6 +944,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "They Reminisce Over You (T.R.O.Y.)",
       "artista": "Pete Rock & C.L. Smooth",
       "youtubeId": "qs0ou8b9GS8"
+    },
+    {
+      "titulo": "Follow The Leader",
+      "artista": "Eric B. & Rakim",
+      "youtubeId": "95gP3m-uBHA"
+    },
+    {
+      "titulo": "Nappy Heads - Remix",
+      "artista": "Fugees;Salaam Remi",
+      "youtubeId": "Eg2mF0gKtYw"
     }
   ],
   "hot": [
@@ -1156,6 +1166,26 @@ const CATALOGO_CANCIONES = {
       "titulo": "Whirlwind Thru Cities",
       "artista": "Afu-Ra",
       "youtubeId": "Q3nMnBvjcAg"
+    },
+    {
+      "titulo": "What They Do",
+      "artista": "The Roots",
+      "youtubeId": "_qzacv8dtb4"
+    },
+    {
+      "titulo": "Got Your Money (feat. Kelis)",
+      "artista": "Ol' Dirty Bastard;Kelis",
+      "youtubeId": "XXTzm5GtqVo"
+    },
+    {
+      "titulo": "1st of Tha Month",
+      "artista": "Bone Thugs-N-Harmony",
+      "youtubeId": "PArF9k2SbQk"
+    },
+    {
+      "titulo": "Gotta Get Mine",
+      "artista": "MC Breed",
+      "youtubeId": "2Tr3fM8vkX4"
     }
   ],
   "ambiente": [
