@@ -72,3 +72,9 @@ Los errores de apertura/consulta no se consideran prueba de que una canción est
 - Día 17: se precisó que el arroz con huevo debe ir sin sal.
 - Día 19: se personalizó el detalle con su preferencia por Merlot.
 - Día 25: se suavizó el plan de cocina/película para que suene cercano sin asumir que son pareja.
+
+## Revisión de coherencia musical — bloque 1 (días 1–40)
+Se ajustaron las canciones de los días 1, 2, 3, 4, 5, 6, 8, 11, 12, 17, 19, 24, 25, 29, 30, 31, 32, 36 y 37 para que el ambiente acompañe mejor el texto. En especial, se incorporaron más soul/R&B y canciones cálidas para los días de café, fruta, creación, flores y conversaciones tranquilas; se evitó que algunas elecciones de rap más duro interrumpieran un mensaje contemplativo.
+## Revisión de coherencia musical — bloque 2 (días 41–78)
+Se ajustaron las canciones de los días 42, 43, 49, 50, 53, 55, 57, 58, 61, 62, 69, 70, 74, 75, 77 y 78, favoreciendo soul, R&B, reggae y melodías cálidas para comida, flores, creatividad, atardeceres y cierre de año.
+Nota: las canciones se seleccionaron por afinidad de ambiente y tema general; las sustituciones no constituyen por sí solas una verificación de que todos los videos estén disponibles o reproduzcan en el reproductor integrado. Algunos títulos se repiten porque el catálogo es una lista curada, pero conviene reducir repeticiones si se quiere una banda sonora de 78 días totalmente distinta.
