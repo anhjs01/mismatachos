@@ -874,6 +874,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Sound of da Police",
       "artista": "KRS-One",
       "youtubeId": "9ZrAYxWPN6c"
+    },
+    {
+      "titulo": "De Memoria",
+      "artista": "Métricas Frías;Doble Porcion",
+      "youtubeId": "WnvhpmplGNs"
     }
   ],
   "hot": [
