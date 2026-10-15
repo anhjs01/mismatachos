@@ -417,6 +417,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "The Reason",
       "artista": "Hoobastank",
       "youtubeId": "fV4DiAyExN0"
+    },
+    {
+      "titulo": "The Man Who Can't Be Moved",
+      "artista": "The Script",
+      "youtubeId": "gS9o1FAszdk"
+    },
+    {
+      "titulo": "For the First Time",
+      "artista": "The Script",
+      "youtubeId": "4fndeDfaWCg"
     }
   ],
   "filosofica": [
@@ -1768,6 +1778,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Over My Head (Cable Car)",
       "artista": "The Fray",
       "youtubeId": "fFRkpvvop3I"
+    },
+    {
+      "titulo": "Hall of Fame",
+      "artista": "The Script; will.i.am",
+      "youtubeId": "mk48xRzuNvA"
     }
   ]
 };
