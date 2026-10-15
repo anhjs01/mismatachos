@@ -1164,6 +1164,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "La Hoguera",
       "artista": "Rupatrupa",
       "youtubeId": "B21QN-ocC3s"
+    },
+    {
+      "titulo": "Poetas en un Mundo Equivocado",
+      "artista": "Rupatrupa",
+      "youtubeId": "AKFI_UM6T6k"
     }
   ],
   "hot": [
@@ -1613,6 +1618,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Perro de Calle",
       "artista": "Rupatrupa",
       "youtubeId": "DteEAv3qIuc"
+    },
+    {
+      "titulo": "La Terrera",
+      "artista": "Rupatrupa",
+      "youtubeId": "2BW92cCp0T4"
     }
   ]
 };
