@@ -302,6 +302,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Me Rehúso",
       "artista": "Danny Ocean",
       "youtubeId": "aDCcLQto5BM"
+    },
+    {
+      "titulo": "Limón y Sal",
+      "artista": "Julieta Venegas",
+      "youtubeId": "tIpzfs5tBJU"
     }
   ],
   "filosofica": [
@@ -1528,6 +1533,21 @@ const CATALOGO_CANCIONES = {
       "titulo": "Bailando",
       "artista": "Enrique Iglesias; Descemer Bueno; Gente de Zona",
       "youtubeId": "NUsoVlDFqZg"
+    },
+    {
+      "titulo": "Vivir Mi Vida",
+      "artista": "Marc Anthony",
+      "youtubeId": "YXnjy5YlDwk"
+    },
+    {
+      "titulo": "La Flaca",
+      "artista": "Jarabe de Palo",
+      "youtubeId": "R2rP8ZU52gU"
+    },
+    {
+      "titulo": "Corazón Espinado",
+      "artista": "Santana; Maná",
+      "youtubeId": "t6omUxqhG78"
     }
   ]
 };
