@@ -157,6 +157,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "STRANGERS",
       "artista": "GIVĒON",
       "youtubeId": "lBw9WXJmdsU"
+    },
+    {
+      "titulo": "Me Manché de Tango",
+      "artista": "Rupatrupa",
+      "youtubeId": "VY2nUJQ-SWM"
     }
   ],
   "filosofica": [
