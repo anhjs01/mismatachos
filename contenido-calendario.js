@@ -1714,13 +1714,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, corazón. Para cuando tengas ganas, dejo sobre la mesa este plan: cocinar algo rico, poner música, acurrucarse en el sofá y discutir por una película que ninguno decide rápido.",
+    "buenosDias": "Buenos días, corazón. Para cuando tengas ganas, dejo sobre la mesa este plan sencillo: cocinar algo rico, poner música, acomodarse en el sofá y discutir por una película que ninguno decide rápido.",
     "poema": [
-      "A mí esos planes me gustan porque no intentan impresionar a nadie. Solo estar a gusto, comer algo que provoca y tener tiempo para conversar incluso cuando la película ya empezó.",
-      "Cuando te provoque, amor. Tú eliges qué cocinamos y yo me encargo de ayudar… y de preguntar si ya se puede probar cada tres minutos."
+      "A mí esos planes me gustan porque no intentan impresionar a nadie. Solo comer algo que provoca, conversar y tener tiempo para reírse incluso cuando la película ya empezó.",
+      "Cuando te provoque, tú eliges qué cocinamos y yo ayudo… y de paso pregunto si ya se puede probar cada tres minutos."
     ],
-    "detalle": "Si hoy se puede elegir, que el plan sea de casa: cocinar algo, acomodarse sin ceremonia y buscar una película. Si nos perdemos media trama hablando, siempre podemos decir que era una película experimental.",
-    "buenasNoches": "Buenas noches, amor. Ojalá el día te haya dejado con ganas de repetir algo bonito: una charla, una comida, una película o una risa compartida.",
+    "detalle": "Si hoy se puede elegir, que el plan sea de casa: cocinar algo, ponerse cómodo y buscar una película. Si nos perdemos media trama hablando, siempre podemos decir que era una película experimental.",
+    "buenasNoches": "Buenas noches, bonita. Ojalá el día te haya dejado con ganas de repetir algo bonito: una charla, una comida, una película o una risa compartida.",
     "cancionTitulo": "Kiss Of Life",
     "cancionArtista": "Sade",
     "youtubeId": "MmOau-PMWJk"
