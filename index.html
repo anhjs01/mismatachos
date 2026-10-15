@@ -11,6 +11,14 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,600;1,700&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
+
+  <style>
+    .portada-urbana .portada-accesos{flex-direction:column;gap:.8rem}
+    .portada-urbana .acceso-icono--detalle{background:#21b8a9!important;color:#100d17!important}
+    .portada-urbana .portada-detalle-link{border-color:rgba(33,184,169,.5);background:linear-gradient(112deg,rgba(33,184,169,.11),rgba(16,13,23,.84) 70%);box-shadow:4px 4px 0 rgba(33,184,169,.17)}
+    .portada-urbana .portada-detalle-link:hover{border-color:#d8f078;box-shadow:4px 4px 0 rgba(232,73,139,.26)}
+  </style>
+
 </head>
 <body class="portada-inicio">
   <div class="sky" aria-hidden="true">
@@ -67,6 +75,11 @@
       <a class="portada-juego-link" href="juego-musical.html">
         <span class="acceso-icono" aria-hidden="true">♫</span>
         <span class="acceso-texto"><small>01 / ESCUCHA</small><strong>El rincón musical</strong><em>Canciones para perderse un rato</em></span>
+        <b aria-hidden="true">↗</b>
+      </a>
+      <a class="portada-juego-link portada-detalle-link" href="detalle-aleja.html">
+        <span class="acceso-icono acceso-icono--detalle" aria-hidden="true">✿</span>
+        <span class="acceso-texto"><small>02 / UN DETALLE</small><strong>Una foto, una canción y algo para ti</strong><em>Un espacio pequeño hecho pensando en ti</em></span>
         <b aria-hidden="true">↗</b>
       </a>
     </nav>
