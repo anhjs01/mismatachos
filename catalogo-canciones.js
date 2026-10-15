@@ -88,6 +88,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "Todo Bien Todo Bien", artista: "JHT", youtubeId: "YKP-wTi6zAI" },
     { titulo: "Síndrome de Estocolmo", artista: "Zof Ziro; ZetaZeta; Gambeta", youtubeId: "cqBtc0KN6RM" },
     { titulo: "Punto Rojo", artista: "Granuja; Mañas Ru-Fino", youtubeId: "_LxBM6wpgLU" },
+    { titulo: "C.R.E.A.M. (Cash Rules Everything Around Me)", artista: "Wu-Tang Clan", youtubeId: "4yNQ7_7I5aE" },
+    { titulo: "It Was A Good Day", artista: "Ice Cube", youtubeId: "h4UqMyldS7Q" },
     { titulo: "6 30", artista: "Métricas Frías; Doble Porción", youtubeId: "vcdt4RdTc1g" },
     { titulo: "Mil y una Vez", artista: "Métricas Frías; Doble Porción", youtubeId: "dwyeCQjNDcQ" },
     { titulo: "Antes del Meridiano", artista: "Alcolirykoz", youtubeId: "Y4pCA91F4Uw" },
