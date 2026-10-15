@@ -144,6 +144,12 @@ const CATALOGO_CANCIONES = {
     { titulo: "If I Ain't Got You", artista: "Alicia Keys", youtubeId: "Ju8Hr50Ckwk" },
     { titulo: "Ms. Jackson", artista: "Outkast", youtubeId: "MYxAiK6VnXw" },
     { titulo: "Where Is The Love?", artista: "Black Eyed Peas", youtubeId: "WpYeekQkAdc" },
+    { titulo: "Still D.R.E.", artista: "Dr. Dre; Snoop Dogg", youtubeId: "_CL6n0FJZpk" },
+    { titulo: "Family Affair", artista: "Mary J. Blige", youtubeId: "znlFu_lemsU" },
+    { titulo: "Fallin'", artista: "Alicia Keys", youtubeId: "Urdlvw0SSEc" },
+    { titulo: "Redbone", artista: "Childish Gambino", youtubeId: "Kp7eSUU9oy8" },
+    { titulo: "Big Poppa - 2005 Remaster", artista: "The Notorious B.I.G.", youtubeId: "phaJXp_zMYM" },
+    { titulo: "Is This Love", artista: "Bob Marley & The Wailers", youtubeId: "CHekNnySAfM" },
   ],
   hot: [
     { titulo: "Las Tetas D.", artista: "Crack Family", youtubeId: "LQhERHd-k0E" },
