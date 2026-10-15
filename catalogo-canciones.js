@@ -969,7 +969,7 @@ const CATALOGO_CANCIONES = {
       "titulo": "Roger Federer",
       "artista": "Luis7Lunes; Afterclass; Vic Deal; Fa-Zeta",
       "youtubeId": "ZjQjB1Bg5_Q"
-    }
+    },
     {
       "titulo": "¿Quién No?",
       "artista": "Alcolirykoz; Jannyval; MC Julo; MC Mago Real",
