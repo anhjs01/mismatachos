@@ -175,6 +175,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "SIX:THIRTY",
       "artista": "GIVĒON",
       "youtubeId": "JIlpbuUp1uw"
+    },
+    {
+      "titulo": "BACKUP PLAN",
+      "artista": "GIVĒON",
+      "youtubeId": "lAiZ_nWYOI0"
     }
   ],
   "filosofica": [
