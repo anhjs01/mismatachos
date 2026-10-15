@@ -45,7 +45,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
     { titulo: "Trabajo Sucio", artista: "Lianna", youtubeId: "eKGrgYjeCNM" },
     { titulo: "Esta Va", artista: "Realidad Mental", youtubeId: "JVEN7Quzpeg" },
-    { titulo: "A Veces", artista: "Al2 El Aldeano", youtubeId: "LQYOZFO5aB4" }
+    { titulo: "A Veces", artista: "Al2 El Aldeano", youtubeId: "LQYOZFO5aB4" },
+    { titulo: "Qué Tú Quieres?", artista: "Mabiland", youtubeId: "7C4t_d898_Q" }
   ],
   hot: [],
   ambiente: [
