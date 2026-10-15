@@ -190,6 +190,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "GOOD BAD UGLY",
       "artista": "GIVĒON",
       "youtubeId": "uYV5MWwZgTE"
+    },
+    {
+      "titulo": "BLEEDING",
+      "artista": "GIVĒON",
+      "youtubeId": "q2j8vC1T2xM"
     }
   ],
   "filosofica": [
