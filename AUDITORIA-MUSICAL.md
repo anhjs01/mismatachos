@@ -164,3 +164,8 @@ Criterios aplicados: arte y manualidades con acompañamiento instrumental/indie 
 - Día 69: “You Got Me” — The Roots; Tariq Trotter; Erykah Badu; Eve (conversación y confianza).
 - Día 71: “Virtual Insanity - Remastered 2006” — Jamiroquai (improvisación y creatividad).
 - Los 78 días, fechas y textos se conservaron; se modificaron únicamente título, artista e ID musical de los días listados. Cada asignación se copió directamente de la ficha de catálogo. Los IDs aún requieren prueba de reproducción dentro del reproductor integrado.
+
+
+### Corrección de unicidad de la segunda tanda
+- En una comprobación posterior se detectó que tres sustituciones coincidían con canciones que ya estaban asignadas a otros días. Para no trasladar el problema, se corrigieron: día 49 → “Is This Love” — Bob Marley & The Wailers; día 60 → “Redbone” — Childish Gambino; día 69 → “Fui Silencio” — Sofía Gabanna; Jazzmind.
+- Las tres fichas se copiaron del catálogo y se actualizaron título, artista e ID juntos. Se mantiene la estructura de 78 días.
