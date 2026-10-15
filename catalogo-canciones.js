@@ -127,6 +127,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Goodbyes",
       "artista": "Jorja Smith",
       "youtubeId": "GJY5N0stFyU"
+    },
+    {
+      "titulo": "Camino de Tu Ombligo",
+      "artista": "Rupatrupa",
+      "youtubeId": "ekfybvh0TRo"
     }
   ],
   "filosofica": [
@@ -1119,6 +1124,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Lifeboats (Freestyle)",
       "artista": "Jorja Smith",
       "youtubeId": "90k8MvVphOw"
+    },
+    {
+      "titulo": "Las Pastillas del Doctor",
+      "artista": "Rupatrupa",
+      "youtubeId": "YtlicWCRYyQ"
     }
   ],
   "hot": [
@@ -1553,6 +1563,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Blue Lights",
       "artista": "Jorja Smith",
       "youtubeId": "R8YwnQMQuJI"
+    },
+    {
+      "titulo": "Humo",
+      "artista": "Rupatrupa",
+      "youtubeId": "Gxar3fueK2U"
     }
   ]
 };
