@@ -1045,6 +1045,11 @@ const CATALOGO_CANCIONES = {
       "artista": "Gona",
       "youtubeId": "EXf-igoSsIs"
     },
+    {
+      "titulo": "Súbele al Volumen",
+      "artista": "Askoman, Mad One",
+      "youtubeId": "K_01C9yqszQ"
+    },
   ],
   "hot": [
     {
