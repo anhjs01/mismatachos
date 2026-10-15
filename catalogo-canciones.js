@@ -205,6 +205,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Wandering Romance",
       "artista": "Jorja Smith",
       "youtubeId": "azjOefV3jik"
+    },
+    {
+      "titulo": "DON'T LEAVE",
+      "artista": "GIVĒON",
+      "youtubeId": ""
     }
   ],
   "filosofica": [
@@ -1254,7 +1259,7 @@ const CATALOGO_CANCIONES = {
       "youtubeId": ""
     },
     {
-      "titulo": "Never Say Never (Interlude)",
+      "titulo": "Never Say Never",
       "artista": "Shyheim",
       "youtubeId": ""
     },
