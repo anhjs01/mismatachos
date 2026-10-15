@@ -137,6 +137,51 @@ const CATALOGO_CANCIONES = {
       "titulo": "Beautiful",
       "artista": "Snoop Dogg; Pharrell Williams; Charlie Wilson",
       "youtubeId": "_FE194VN6c4"
+    },
+    {
+      "titulo": "Ex-Factor",
+      "artista": "Ms. Lauryn Hill",
+      "youtubeId": "cE-bnWqLqxE"
+    },
+    {
+      "titulo": "telepatía",
+      "artista": "Kali Uchis",
+      "youtubeId": "bn_p95HbHoQ"
+    },
+    {
+      "titulo": "Yellow",
+      "artista": "Coldplay",
+      "youtubeId": "yKNxeF4KMsY"
+    },
+    {
+      "titulo": "Thinkin Bout You",
+      "artista": "Frank Ocean",
+      "youtubeId": "6JHu3b-pbh8"
+    },
+    {
+      "titulo": "Leave the Door Open",
+      "artista": "Silk Sonic; Bruno Mars; Anderson .Paak",
+      "youtubeId": "adY7vQ3Y9Kw"
+    },
+    {
+      "titulo": "Three Little Birds",
+      "artista": "Bob Marley & The Wailers",
+      "youtubeId": "LanCLS_hIo4"
+    },
+    {
+      "titulo": "A Dios le Pido",
+      "artista": "Juanes",
+      "youtubeId": "9j5t5L9W9M0"
+    },
+    {
+      "titulo": "No Ordinary Love",
+      "artista": "Sade",
+      "youtubeId": "3T1c7GkzRQQ"
+    },
+    {
+      "titulo": "The Sweetest Taboo",
+      "artista": "Sade",
+      "youtubeId": "kcPc18SG6uA"
     }
   ],
   "filosofica": [
@@ -946,6 +991,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Ain't Shit",
       "artista": "Doja Cat",
       "youtubeId": "13MvatpPQv4"
+    },
+    {
+      "titulo": "Needed Me",
+      "artista": "Rihanna",
+      "youtubeId": "6BdUCcZwb8U"
     }
   ],
   "ambiente": [
@@ -1118,6 +1168,51 @@ const CATALOGO_CANCIONES = {
       "titulo": "Return of the Mack",
       "artista": "Mark Morrison",
       "youtubeId": "uB1D9wWxd2w"
+    },
+    {
+      "titulo": "Smooth Operator",
+      "artista": "Sade",
+      "youtubeId": "4TYv2PhG89A"
+    },
+    {
+      "titulo": "Whenever, Wherever",
+      "artista": "Shakira",
+      "youtubeId": "weRHyjj34ZE"
+    },
+    {
+      "titulo": "Blinding Lights",
+      "artista": "The Weeknd",
+      "youtubeId": "4NRXx6U8ABQ"
+    },
+    {
+      "titulo": "Feel Good Inc.",
+      "artista": "Gorillaz",
+      "youtubeId": "HyHNuVaZJ-k"
+    },
+    {
+      "titulo": "Get Lucky",
+      "artista": "Daft Punk; Pharrell Williams; Nile Rodgers",
+      "youtubeId": "5NV6Rdv1a3I"
+    },
+    {
+      "titulo": "Treasure",
+      "artista": "Bruno Mars",
+      "youtubeId": "nPvuNsRccVw"
+    },
+    {
+      "titulo": "Roses",
+      "artista": "Outkast",
+      "youtubeId": "gWju37TZfo0"
+    },
+    {
+      "titulo": "Get Busy",
+      "artista": "Sean Paul",
+      "youtubeId": "oPQ3o14najg"
+    },
+    {
+      "titulo": "Todo de Ti",
+      "artista": "Rauw Alejandro",
+      "youtubeId": "GUcz2y6e6yM"
     }
   ]
 };
