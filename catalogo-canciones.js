@@ -1065,6 +1065,32 @@ const CATALOGO_CANCIONES = {
       "artista": "N.W.A.",
       "youtubeId": "A0xHuA4jmgs"
     },
+    ,
+    {
+      "titulo": "I Juswanna Chill",
+      "artista": "Large Professor",
+      "youtubeId": "-k1A0qXUYpA"
+    },
+    {
+      "titulo": "Tic Toc",
+      "artista": "Lords Of The Underground",
+      "youtubeId": "YfNzoJwbrmI"
+    },
+    {
+      "titulo": "Gangsta Nation",
+      "artista": "Westside Connection",
+      "youtubeId": "2NOaBqo-GnI"
+    },
+    {
+      "titulo": "High As Hell",
+      "artista": "Keith Murray",
+      "youtubeId": "kqXA_cACF5c"
+    },
+    {
+      "titulo": "Keep It Real",
+      "artista": "Jamal",
+      "youtubeId": "_gmmvFBGkjc"
+    }
   ],
   "hot": [
     {
