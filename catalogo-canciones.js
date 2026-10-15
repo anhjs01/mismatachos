@@ -127,6 +127,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "El Remate", artista: "Alcolirykoz; Armando Hernandez", youtubeId: "91MpFsZI9VA" },
     { titulo: "Los Legendarios", artista: "Alcolirykoz; Laberinto ELC", youtubeId: "vKd_CIhzoCY" },
     { titulo: "Suero Casero", artista: "Alcolirykoz", youtubeId: "_5Ypj8L7faU" },
+    { titulo: "Round 30", artista: "Pielroja; Alcolirykoz", youtubeId: "UpCpadNeY0M" },
   ],
   hot: [
     { titulo: "Las Tetas D.", artista: "Crack Family", youtubeId: "LQhERHd-k0E" },
