@@ -1,7 +1,7 @@
 /* =======================================================================
    CATALOGO-CANCIONES.JS — CATALOGO MUSICAL DE LA PLAYLIST DE ALEJA
    -----------------------------------------------------------------------
-   Fuente de canciones: 1caciones.csv.
+   Fuente de canciones: M.csv (álbumes y canciones aportados por la usuaria; lista en proceso de incorporación).
    Las canciones ajenas a esa lista se eliminan; no se mezclan catálogos.
    Cada entrada publicada aquí tiene una ID de un video de YouTube identificado.
    No se usan enlaces ni reproductores de Spotify o archivos de audio locales.
@@ -107,6 +107,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Beautiful",
       "artista": "Snoop Dogg; Pharrell Williams; Charlie Wilson",
       "youtubeId": "_FE194VN6c4"
+    },
+    {
+      "titulo": "Teenage Fantasy",
+      "artista": "Jorja Smith",
+      "youtubeId": "YpQ_RO5zbvE"
+    },
+    {
+      "titulo": "The One",
+      "artista": "Jorja Smith",
+      "youtubeId": "80J2YroXH3g"
     }
   ],
   "filosofica": [
@@ -1089,6 +1099,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Keep It Real",
       "artista": "Jamal",
       "youtubeId": "_gmmvFBGkjc"
+    },
+    {
+      "titulo": "Where Did I Go?",
+      "artista": "Jorja Smith",
+      "youtubeId": "meP1neJrguw"
+    },
+    {
+      "titulo": "Lifeboats (Freestyle)",
+      "artista": "Jorja Smith",
+      "youtubeId": "90k8MvVphOw"
     }
   ],
   "hot": [
@@ -1518,8 +1538,13 @@ const CATALOGO_CANCIONES = {
       "titulo": "ROXANNE",
       "artista": "Arizona Zervas",
       "youtubeId": "16YnOUnbE6s"
+    },
+    {
+      "titulo": "Blue Lights",
+      "artista": "Jorja Smith",
+      "youtubeId": "R8YwnQMQuJI"
     }
   ]
 };
 
-if (typeof window !== "undefined") window.CATALOGO_CANCIONES = CATALOGO_CANCIONES;
+if (typeof module !== "undefined") module.exports = CATALOGO_CANCIONES;
