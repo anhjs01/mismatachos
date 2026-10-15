@@ -162,6 +162,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Me Manché de Tango",
       "artista": "Rupatrupa",
       "youtubeId": "VY2nUJQ-SWM"
+    },
+    {
+      "titulo": "MUD",
+      "artista": "GIVĒON",
+      "youtubeId": "ePMLtiZmalg"
     }
   ],
   "filosofica": [
