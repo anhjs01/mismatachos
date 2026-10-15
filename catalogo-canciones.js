@@ -12,6 +12,7 @@
 
 const CATALOGO_CANCIONES = {
   amor: [
+    { titulo: "Love", artista: "Keyshia Cole", youtubeId: "9PBZy9j3H3I" },
     { titulo: "Moment Of Your Life (feat. Coco Jones)", artista: "Brent Faiyaz; Coco Jones", youtubeId: "Jv17JsayCSI", nota: "canción de entrada que se conserva por petición expresa" },
     { titulo: "Dilemma", artista: "Nelly; Kelly Rowland", youtubeId: "8WYHDfJDPDc" },
     { titulo: "I Think I Love You Again", artista: "Aaron Taylor", youtubeId: "diAiHP1K-g0" },
@@ -158,6 +159,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "Loose", artista: "Daniel Caesar", youtubeId: "gRL_PCOPF-A" },
   ],
   hot: [
+    { titulo: "Get Low", artista: "Lil Jon & The East Side Boyz; Ying Yang Twins", youtubeId: "yUZeZNxiD-M" },
     { titulo: "Las Tetas D.", artista: "Crack Family", youtubeId: "LQhERHd-k0E" },
     { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
     { titulo: "Queen Tings (Santi Remix)", artista: "Masego; Cruel Santino; Santi", youtubeId: "UntyHH7Pfs0" },
@@ -165,6 +167,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "Boombastic", artista: "Shaggy", youtubeId: "f0sVDGFoIOI"  },
   ],
   ambiente: [
+    { titulo: "Japanese Denim", artista: "Daniel Caesar", youtubeId: "6OkneaH-eTA" },
     { titulo: "La Noche y Tú", artista: "Barbaro el Urbano Vargas", youtubeId: "XSN_8UblItk" },
     { titulo: "Déjame Entrar", artista: "Cultura Profética", youtubeId: "IAhVESdwvIU" },
     { titulo: "good denim", artista: "jalen chords", youtubeId: "_2Lnj5N9lCM" },
