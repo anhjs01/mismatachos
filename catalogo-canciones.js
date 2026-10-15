@@ -61,12 +61,14 @@ const CATALOGO_CANCIONES = {
     { titulo: "El Día de Mi Suerte", artista: "El Redcode", youtubeId: "ApqRPZ8xO6g" },
     { titulo: "Rifo los Lunes", artista: "Alcolirykoz; Gordo Sarkasmus", youtubeId: "Z6vTjCPva5Q" },
     { titulo: "Clapzz", artista: "Alcolirykoz", youtubeId: "W486I2dtYA8" },
-    { titulo: "Aguanilé", artista: "Alcolirykoz", youtubeId: "983zfhMym8Q" }
+    { titulo: "Aguanilé", artista: "Alcolirykoz", youtubeId: "983zfhMym8Q" },
+    { titulo: "I Get Money", artista: "50 Cent", youtubeId: "GO22Z0T3qPE" }
   ],
   hot: [
     { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
     { titulo: "Queen Tings (Santi Remix)", artista: "Masego; Cruel Santino; Santi", youtubeId: "UntyHH7Pfs0" },
-    { titulo: "Between the Sheets", artista: "The Isley Brothers", youtubeId: "TNDb8qKZEX8" }
+    { titulo: "Between the Sheets", artista: "The Isley Brothers", youtubeId: "TNDb8qKZEX8" },
+    { titulo: "Boombastic", artista: "Shaggy", youtubeId: "f0sVDGFoIOI" }
   ],
   ambiente: [
     { titulo: "La Noche y Tú", artista: "Barbaro el Urbano Vargas", youtubeId: "XSN_8UblItk" },
