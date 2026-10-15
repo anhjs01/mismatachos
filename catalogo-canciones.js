@@ -7,7 +7,7 @@
    No se usan enlaces ni reproductores de Spotify o archivos de audio locales.
 
    Para añadir una canción:
-   { titulo: "Título exacto", artista: "Artista", youtubeId: "ID_VERIFICADA" }
+   { titulo: "Título exacto", artista: "Artista", youtubeId: "ID_VERIFICADA"  },
    ======================================================================= */
 
 const CATALOGO_CANCIONES = {
@@ -19,7 +19,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "No quiero acostumbrarme", artista: "A.C.O", youtubeId: "iJy6xE17h-g" },
     { titulo: "The Way I Love You", artista: "Jorja Smith", youtubeId: "R25qYkkv_t8" },
     { titulo: "Antes de Morir (Scratches Dj Pho)", artista: "LosPetitFellas; Denise Gutiérrez; Dj Pho", youtubeId: "2vdIWr1TCBI" },
-    { titulo: "Solo Tú", artista: "Macha y el Bloque Depresivo; Álvaro Henríquez", youtubeId: "lxPDvuV9Z88" }
+    { titulo: "Solo Tú", artista: "Macha y el Bloque Depresivo; Álvaro Henríquez", youtubeId: "lxPDvuV9Z88"  },
   ],
   filosofica: [
     { titulo: "Otra Canción Larga", artista: "Alcolirykoz", youtubeId: "aAwXhAV3LPE" },
@@ -66,13 +66,13 @@ const CATALOGO_CANCIONES = {
     { titulo: "Tuyo", artista: "Credo V Daniels", youtubeId: "8onYUmsBMxs" },
     { titulo: "Partículas", artista: "Granuja", youtubeId: "E6oZorQDiN0" },
     { titulo: "Aguanilé", artista: "Alcolirykoz", youtubeId: "983zfhMym8Q" },
-    { titulo: "I Get Money", artista: "50 Cent", youtubeId: "GO22Z0T3qPE" }
+    { titulo: "I Get Money", artista: "50 Cent", youtubeId: "GO22Z0T3qPE"  },
   ],
   hot: [
     { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
     { titulo: "Queen Tings (Santi Remix)", artista: "Masego; Cruel Santino; Santi", youtubeId: "UntyHH7Pfs0" },
     { titulo: "Between the Sheets", artista: "The Isley Brothers", youtubeId: "TNDb8qKZEX8" },
-    { titulo: "Boombastic", artista: "Shaggy", youtubeId: "f0sVDGFoIOI" }
+    { titulo: "Boombastic", artista: "Shaggy", youtubeId: "f0sVDGFoIOI"  },
   ],
   ambiente: [
     { titulo: "La Noche y Tú", artista: "Barbaro el Urbano Vargas", youtubeId: "XSN_8UblItk" },
@@ -80,7 +80,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "good denim", artista: "jalen chords", youtubeId: "_2Lnj5N9lCM" },
     { titulo: "Antonia", artista: "Gondwana", youtubeId: "exxkGyu3G1Q" },
     { titulo: "Fui Silencio", artista: "Sofía Gabanna; Jazzmind", youtubeId: "KV2ECDqPyuY" },
-    { titulo: "Keep Your Worries", artista: "Guru; Angie Stone", youtubeId: "7R0D6ryRUqQ" }
+    { titulo: "Keep Your Worries", artista: "Guru; Angie Stone", youtubeId: "7R0D6ryRUqQ"  },
   ]
 };
 
