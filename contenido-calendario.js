@@ -1123,9 +1123,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy una margarita acompaña tus materiales, deja que esté ahí como una pequeña visita. Me gusta imaginar un espacio tuyo donde convivan las ideas, los colores y algún detalle que te haga sonreír.",
     "buenasNoches": "Buenas noches, artista. Ojalá tu espacio te haya dado un poco de alegría hoy, aunque solo fuera por una flor, un color o una idea que te hizo ilusión.",
-    "cancionTitulo": "Will I See You Again?",
-    "cancionArtista": "Thee Sacred Souls",
-    "youtubeId": "IGgb10A_2c8"
+    "cancionTitulo": "Is This Love",
+    "cancionArtista": "Bob Marley & The Wailers",
+    "youtubeId": "CHekNnySAfM"
   },
   {
     "dia": 50,
@@ -1376,9 +1376,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy te pones una prenda grande y cómoda, que sea porque te gusta y punto. No tienes que justificar tu uniforme favorito ante un comité imaginario de moda.",
     "buenasNoches": "Que descanses, amor. Mañana puedes volver a elegir tu ropa favorita y seguir siendo tú, sin explicaciones ni permisos.",
-    "cancionTitulo": "good denim",
-    "cancionArtista": "jalen chords",
-    "youtubeId": "_2Lnj5N9lCM"
+    "cancionTitulo": "Redbone",
+    "cancionArtista": "Childish Gambino",
+    "youtubeId": "Kp7eSUU9oy8"
   },
   {
     "dia": 61,
@@ -1583,9 +1583,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si una charla se pone seria, puedes ser tierna sin dejar de decir lo que piensas. Me gusta esa combinación: palabras cuidadosas, pero una idea clara que no se esconde detrás de adornos.",
     "buenasNoches": "Buenas noches, corazón. Ojalá hoy hayas podido decir lo que pensabas sin tener que esconderlo y también hayas encontrado a alguien que supiera escucharte.",
-    "cancionTitulo": "You Got Me",
-    "cancionArtista": "The Roots; Tariq Trotter; Erykah Badu; Eve",
-    "youtubeId": "MJCHeEQV454"
+    "cancionTitulo": "Fui Silencio",
+    "cancionArtista": "Sofía Gabanna; Jazzmind",
+    "youtubeId": "KV2ECDqPyuY"
   },
   {
     "dia": 70,
