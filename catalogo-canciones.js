@@ -172,6 +172,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "NUMB",
       "artista": "GIVĒON",
       "youtubeId": "3p2H-B_nqPI"
+    },
+    {
+      "titulo": "I CAN TELL",
+      "artista": "GIVĒON",
+      "youtubeId": "4UpUGBWlCb4"
     }
   ],
   "filosofica": [
