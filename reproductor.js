@@ -93,17 +93,15 @@
      ----------------------------------------------------------------- */
   function precargarPorAdelantado() {
     if (typeof CATALOGO_CANCIONES === "undefined" || !player || !player.loadVideoById) return;
-    // en la portada lo primero que suena es "ambiente"; en el calendario,
-    // la mayoria de los dias son "amor" — precargamos la que mas
-    // probablemente coincida con el primer toque real de cada página
+    // La canción de entrada se mantiene fija: Moment Of Your Life.
+    // La reproducción con sonido comienza tras una interacción del usuario,
+    // como exigen los navegadores modernos.
     const esPortada = !!document.getElementById("heartBtn");
-    const categoriaPreferida = esPortada ? "ambiente" : "amor";
-    const lista = (CATALOGO_CANCIONES[categoriaPreferida] || []).filter((c) => c.youtubeId);
-    if (lista.length === 0) return;
-    const elegida = lista[Math.floor(Math.random() * lista.length)];
-    precargada = { titulo: elegida.titulo, artista: elegida.artista, youtubeId: elegida.youtubeId, categoria: categoriaPreferida };
+    const videoId = esPortada ? "Jv17JsayCSI" : ((CATALOGO_CANCIONES.amor || []).find(c => c.youtubeId)?.youtubeId);
+    if (!videoId) return;
+    precargada = { titulo: "Moment Of Your Life (feat. Coco Jones)", artista: "Brent Faiyaz & Coco Jones", youtubeId: videoId, categoria: "amor" };
     player.mute();
-    player.loadVideoById(elegida.youtubeId);
+    player.loadVideoById(videoId);
     player.pauseVideo();
   }
 
@@ -152,7 +150,7 @@
 
   function reproducirDia(dia) {
     if (!dia) return;
-    if (!dia.youtubeId) { reproducirCategoria(dia.tono || "amor"); return; }
+    if (!dia.youtubeId) { console.warn("Este día no tiene youtubeId; no se cambiará a una canción aleatoria."); return; }
     let encontrada = null;
     let categoriaEncontrada = null;
     if (typeof CATALOGO_CANCIONES !== "undefined") {
