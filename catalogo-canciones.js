@@ -37,7 +37,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "Nrs In Da Area", artista: "No Rules Clan; Ignorancia Sofisticada", youtubeId: "O4pIfDuLk_k" },
     { titulo: "De Pe a Pa", artista: "Granuja", youtubeId: "auAIsRn0mPM" },
     { titulo: "Quien Va", artista: "No Rules Clan; Alcolirykoz; El Arkeologo", youtubeId: "mF_8BMwhH5A" },
-    { titulo: "Las Tetas D.", artista: "Crack Family", youtubeId: "LQhERHd-k0E" },
+
     { titulo: "Murderah", artista: "Rap Bang Club; Norick", youtubeId: "6Xw1_Kuv9ac" },
     { titulo: "La Jungla", artista: "Flaco Flow y Melanina", youtubeId: "NcUvzYvGO2U" },
     { titulo: "Bogotá Mi Barrio", artista: "Todo Copas", youtubeId: "jj8ZIUfWCMM" },
@@ -103,6 +103,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "Artes Verbales", artista: "Alcolirykoz", youtubeId: "JlzEDJrOjLI" },
     { titulo: "Changó", artista: "Alcolirykoz", youtubeId: "C2_WOBYxweE" },
     { titulo: "Los Genios de la Botella - Remix Gambeta", artista: "Alcolirykoz; Gambeta", youtubeId: "9BcpsAIRYyQ" },
+    { titulo: "93 'Til Infinity", artista: "Souls of Mischief", youtubeId: "fXJc2NYwHjw" },
+    { titulo: "Electric Relaxation", artista: "A Tribe Called Quest", youtubeId: "WHRnvjCkTsw" },
     { titulo: "Venganza", artista: "Doble Porción; Métricas Frías; Mañas Ru-Fino; Granuja", youtubeId: "kl7n-qCrunU" },
     { titulo: "Mientras Duermen", artista: "Rapper School; Samurai; Negro Gonzáles; Bman", youtubeId: "ZDmn487A_Dk" },
     { titulo: "Reina", artista: "Cejaz Negraz", youtubeId: "7OPEvfL4Wes" },
@@ -114,6 +116,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "I Get Money", artista: "50 Cent", youtubeId: "GO22Z0T3qPE"  },
   ],
   hot: [
+    { titulo: "Las Tetas D.", artista: "Crack Family", youtubeId: "LQhERHd-k0E" },
     { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
     { titulo: "Queen Tings (Santi Remix)", artista: "Masego; Cruel Santino; Santi", youtubeId: "UntyHH7Pfs0" },
     { titulo: "Between the Sheets", artista: "The Isley Brothers", youtubeId: "TNDb8qKZEX8" },
