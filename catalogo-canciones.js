@@ -44,7 +44,6 @@ const CATALOGO_CANCIONES = {
     { titulo: "Laura Ronda", artista: "Alcolirykoz", youtubeId: "1v14wNlGjdM" },
     { titulo: "El Tour de Sing Sing", artista: "Alcolirykoz; ToteKing", youtubeId: "b05PzMJqiaw" },
     { titulo: "Música para Planchar", artista: "Alcolirykoz; Sadat X", youtubeId: "t9mtMVfD6u4" },
-    { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
     { titulo: "Trabajo Sucio", artista: "Lianna", youtubeId: "eKGrgYjeCNM" },
     { titulo: "Esta Va", artista: "Realidad Mental", youtubeId: "JVEN7Quzpeg" },
     { titulo: "A Veces", artista: "Al2 El Aldeano", youtubeId: "LQYOZFO5aB4" },
@@ -53,11 +52,15 @@ const CATALOGO_CANCIONES = {
     { titulo: "Vital (Téngase)", artista: "Crudo Means Raw", youtubeId: "cgJvtgZ7rBk" },
     { titulo: "Malpensante", artista: "Noiseferatu", youtubeId: "rThYUXZyTeA" }
   ],
-  hot: [],
+  hot: [
+    { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
+    { titulo: "Queen Tings (Santi Remix)", artista: "Masego; Cruel Santino; Santi", youtubeId: "UntyHH7Pfs0" }
+  ],
   ambiente: [
     { titulo: "La Noche y Tú", artista: "Barbaro el Urbano Vargas", youtubeId: "XSN_8UblItk" },
     { titulo: "Déjame Entrar", artista: "Cultura Profética", youtubeId: "IAhVESdwvIU" },
-    { titulo: "good denim", artista: "jalen chords", youtubeId: "_2Lnj5N9lCM" }
+    { titulo: "good denim", artista: "jalen chords", youtubeId: "_2Lnj5N9lCM" },
+    { titulo: "Antonia", artista: "Gondwana", youtubeId: "exxkGyu3G1Q" }
   ]
 };
 
