@@ -985,6 +985,16 @@ const CATALOGO_CANCIONES = {
       "artista": "Noiseferatu",
       "youtubeId": "6597F_WdRW8"
     },
+    {
+      "titulo": "Still Not a Player (feat. Joe) - Radio Version",
+      "artista": "Big Pun; Joe",
+      "youtubeId": "7Xue-dOOLiY"
+    },
+    {
+      "titulo": "Comprendes, Mendes?",
+      "artista": "Control Machete",
+      "youtubeId": "lestFaZIl7A"
+    },
   ],
   "hot": [
     {
