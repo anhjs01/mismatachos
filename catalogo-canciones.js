@@ -104,6 +104,7 @@ const CATALOGO_CANCIONES = {
   ],
 
   filosofica: [
+    { titulo: "¿Qué Tú Quieres?", artista: "Mabiland", youtubeId: "7C4t_d898_Q", nota: "video oficial de Mabiland" },
     { titulo: "Algo Anda Mal", artista: "Clan Hueso Duro", youtubeId: "nFCFxtW8Fww", nota: "audio oficial del canal de Clan Hueso Duro" },
     { titulo: "Quién Va", artista: "No Rules Clan feat. Alcolirykoz", youtubeId: "mF_8BMwhH5A", nota: "video oficial de No Rules Clan" },
     { titulo: "La Jungla", artista: "Flaco Flow y Melanina", youtubeId: "NcUvzYvGO2U", nota: "video oficial de Audio Lírica" },
