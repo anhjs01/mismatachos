@@ -549,9 +549,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si te cruzas con una flor mientras trabajas, imagina una junto a tus pinceles o tus materiales. No para decorar una escena perfecta, sino para recordarte que lo cotidiano también puede tener un detalle bonito.",
     "buenasNoches": "Que duermas rico, amor. Espero que algún detalle sencillo te haya recordado hoy que no todo lo bonito necesita una gran explicación.",
-    "cancionTitulo": "Stupid Love Story",
-    "cancionArtista": "Canserbero; Apache",
-    "youtubeId": "wmef2TEPGgo"
+    "cancionTitulo": "No Hay Flores en Venus",
+    "cancionArtista": "Alcolirykoz; Lianna",
+    "youtubeId": "LyhNWGcSVew"
   },
   {
     "dia": 25,
