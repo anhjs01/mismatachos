@@ -112,6 +112,26 @@ const CATALOGO_CANCIONES = {
       "titulo": "Hold Up",
       "artista": "Sasha Keable",
       "youtubeId": "Igk6n0j1GBQ"
+    },
+    {
+      "titulo": "I Need Your Love",
+      "artista": "Calvin Harris; Ellie Goulding",
+      "youtubeId": "AtKZKl7Bgu0"
+    },
+    {
+      "titulo": "Say My Name",
+      "artista": "Destiny's Child",
+      "youtubeId": "sQgd6MccwZc"
+    },
+    {
+      "titulo": "U Remind Me",
+      "artista": "USHER",
+      "youtubeId": "Bxau9B3jOHM"
+    },
+    {
+      "titulo": "No Letting Go",
+      "artista": "Wayne Wonder",
+      "youtubeId": "7g3gV4H6j4c"
     }
   ],
   "filosofica": [
@@ -854,6 +874,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Mmhmm",
       "artista": "BigXthaPlug",
       "youtubeId": "x_WayannFys"
+    },
+    {
+      "titulo": "Doo Wop (That Thing)",
+      "artista": "Ms. Lauryn Hill",
+      "youtubeId": "T6QKqFPRZSA"
     }
   ],
   "hot": [
@@ -1038,6 +1063,31 @@ const CATALOGO_CANCIONES = {
       "titulo": "ROXANNE",
       "artista": "Arizona Zervas",
       "youtubeId": "16YnOUnbE6s"
+    },
+    {
+      "titulo": "Temperature",
+      "artista": "Sean Paul",
+      "youtubeId": "dW2MmuA1nI4"
+    },
+    {
+      "titulo": "It Wasn't Me",
+      "artista": "Shaggy; Rik Rok",
+      "youtubeId": "2g5Hz17C4is"
+    },
+    {
+      "titulo": "No Scrubs",
+      "artista": "TLC",
+      "youtubeId": "FrLequ6dUfE"
+    },
+    {
+      "titulo": "Rock the Boat",
+      "artista": "Aaliyah",
+      "youtubeId": "3HSJU5fDg0I"
+    },
+    {
+      "titulo": "Return of the Mack",
+      "artista": "Mark Morrison",
+      "youtubeId": "uB1D9wWxd2w"
     }
   ]
 };
