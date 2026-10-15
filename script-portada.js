@@ -95,7 +95,7 @@
 
       try {
         if (window.SorpresaReproductor && typeof window.SorpresaReproductor.reproducirCategoria === "function") {
-          window.SorpresaReproductor.reproducirCategoria("ambiente");
+          window.SorpresaReproductor.reproducirDia({ titulo: "Moment Of Your Life (feat. Coco Jones)", artista: "Brent Faiyaz & Coco Jones", youtubeId: "Jv17JsayCSI", tono: "amor" });
         }
       } catch (error) {
         console.warn("No se pudo iniciar la música ambiental:", error);
