@@ -996,6 +996,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Chief Rocka",
       "artista": "Lords Of The Underground",
       "youtubeId": "YFbLRZCExBk"
+    },
+    {
+      "titulo": "Bucktown",
+      "artista": "Smif-N-Wessun",
+      "youtubeId": "CwQSq5iZdpQ"
+    },
+    {
+      "titulo": "Leflaur Leflah Eshkoshka",
+      "artista": "Heltah Skeltah",
+      "youtubeId": "SGiBau7CJqA"
     }
   ],
   "ambiente": [
