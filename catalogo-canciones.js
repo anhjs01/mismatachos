@@ -1011,6 +1011,21 @@ const CATALOGO_CANCIONES = {
       "titulo": "Shimmy Shimmy Ya",
       "artista": "Ol' Dirty Bastard",
       "youtubeId": "h2zgB93KANE"
+    },
+    {
+      "titulo": "Ms. Fat Booty",
+      "artista": "Mos Def",
+      "youtubeId": "NAHuQSPE4Wk"
+    },
+    {
+      "titulo": "Who Got Da Props",
+      "artista": "Black Moon;Smif-N-Wessun",
+      "youtubeId": "KfCaacYKN6s"
+    },
+    {
+      "titulo": "Wrong Side of da Tracks",
+      "artista": "Artifacts",
+      "youtubeId": "jRZFWhRQFzQ"
     }
   ],
   "ambiente": [
