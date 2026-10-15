@@ -74,6 +74,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "El Sexto Sentido", artista: "Alcolirykoz", youtubeId: "tjHgj-p_XiI" },
     { titulo: "La Revancha de los Timidos", artista: "Alcolirykoz; Jannyval", youtubeId: "SFMtkR0iSj0" },
     { titulo: "Let My People", artista: "Alcolirykoz", youtubeId: "Kjbc9C9ZQAA" },
+    { titulo: "El Toque Personal", artista: "Alcolirykoz", youtubeId: "Ml_6S52AEFc" },
     { titulo: "Me Volví Loco", artista: "King Kong Click; Bubaseta; Subwoffer", youtubeId: "MsnJzE8Cbw0" },
     { titulo: "Tuyo", artista: "Credo V Daniels", youtubeId: "8onYUmsBMxs" },
     { titulo: "Partículas", artista: "Granuja", youtubeId: "E6oZorQDiN0" },
