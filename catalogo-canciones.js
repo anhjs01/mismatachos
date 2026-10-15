@@ -132,6 +132,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "No Letting Go",
       "artista": "Wayne Wonder",
       "youtubeId": "7g3gV4H6j4c"
+    },
+    {
+      "titulo": "Beautiful",
+      "artista": "Snoop Dogg; Pharrell Williams; Charlie Wilson",
+      "youtubeId": "_FE194VN6c4"
     }
   ],
   "filosofica": [
@@ -926,6 +931,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "POP DAT THANG",
       "artista": "DaBaby",
       "youtubeId": "syc4SzrubKY"
+    },
+    {
+      "titulo": "Pony",
+      "artista": "Ginuwine",
+      "youtubeId": "lbnoG2dsUk0"
     }
   ],
   "ambiente": [
