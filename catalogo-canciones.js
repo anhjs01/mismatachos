@@ -1006,6 +1006,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Leflaur Leflah Eshkoshka",
       "artista": "Heltah Skeltah",
       "youtubeId": "SGiBau7CJqA"
+    },
+    {
+      "titulo": "Shimmy Shimmy Ya",
+      "artista": "Ol' Dirty Bastard",
+      "youtubeId": "h2zgB93KANE"
     }
   ],
   "ambiente": [
