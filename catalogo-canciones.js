@@ -1129,6 +1129,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Las Pastillas del Doctor",
       "artista": "Rupatrupa",
       "youtubeId": "YtlicWCRYyQ"
+    },
+    {
+      "titulo": "One's 4 Da Money",
+      "artista": "Shyheim",
+      "youtubeId": "d_DG1zR6UWQ"
     }
   ],
   "hot": [
