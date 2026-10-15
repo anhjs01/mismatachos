@@ -83,6 +83,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "Fatality", artista: "Zof Ziro; ZetaZeta", youtubeId: "_14iDOtdS7M" },
     { titulo: "El Show Debe Continuar", artista: "Alcolirykoz", youtubeId: "yCYQY7sObG8" },
     { titulo: "Comediantes de Velorio", artista: "Alcolirykoz", youtubeId: "eP7W_YwWN28" },
+    { titulo: "La Danza del Miedo", artista: "Alcolirykoz", youtubeId: "kR-rKKZuLl8" },
+    { titulo: "Ultraresistente", artista: "Alcolirykoz", youtubeId: "K7SkeVKW7uA" },
     { titulo: "Me Volví Loco", artista: "King Kong Click; Bubaseta; Subwoffer", youtubeId: "MsnJzE8Cbw0" },
     { titulo: "Tuyo", artista: "Credo V Daniels", youtubeId: "8onYUmsBMxs" },
     { titulo: "Partículas", artista: "Granuja", youtubeId: "E6oZorQDiN0" },
