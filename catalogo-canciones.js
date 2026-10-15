@@ -879,6 +879,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "De Memoria",
       "artista": "Métricas Frías;Doble Porcion",
       "youtubeId": "WnvhpmplGNs"
+    },
+    {
+      "titulo": "La Vida en el Guetto",
+      "artista": "La Etnnia",
+      "youtubeId": "HCyZeteZoXg"
     }
   ],
   "hot": [
