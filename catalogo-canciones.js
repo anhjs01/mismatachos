@@ -42,6 +42,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "Algo Anda Mal", artista: "Clan Hueso Duro", youtubeId: "nFCFxtW8Fww" },
     { titulo: "Qué Hay Pa' Hacer", artista: "Granuja", youtubeId: "M6CG-CU07n4" },
     { titulo: "No Está en Venta", artista: "Alcolirykoz", youtubeId: "Se6Cd4sW3ks" },
+    { titulo: "Balada para No Dormir - Bonus Track", artista: "Alcolirykoz", youtubeId: "h1p0N9s5YJw" },
+    { titulo: "En Tono Sepia", artista: "No Rules Clan", youtubeId: "y6Uf9bi_Mtk" },
     { titulo: "Tararea", artista: "Alcolirykoz", youtubeId: "nmFdyBUAsfQ" },
     { titulo: "Discúlpame", artista: "Ali Aka Mind", youtubeId: "sqzdMYQKCdU" },
     { titulo: "Falsedades", artista: "Tres Coronas", youtubeId: "n1dgZ5xnQWY" },
