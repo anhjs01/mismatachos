@@ -92,6 +92,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "It Was A Good Day", artista: "Ice Cube", youtubeId: "h4UqMyldS7Q" },
     { titulo: "Gangsta's Paradise", artista: "Coolio; L.V.", youtubeId: "SQCSxqScSVQ" },
     { titulo: "Regulate", artista: "Warren G; Nate Dogg", youtubeId: "1plPyJdXKIY" },
+    { titulo: "Can I Kick It?", artista: "A Tribe Called Quest", youtubeId: "O3pyCGnZzYA" },
+    { titulo: "Juicy - 2005 Remaster", artista: "The Notorious B.I.G.", youtubeId: "_JZom_gVfuw" },
     { titulo: "6 30", artista: "Métricas Frías; Doble Porción", youtubeId: "vcdt4RdTc1g" },
     { titulo: "Mil y una Vez", artista: "Métricas Frías; Doble Porción", youtubeId: "dwyeCQjNDcQ" },
     { titulo: "Antes del Meridiano", artista: "Alcolirykoz", youtubeId: "Y4pCA91F4Uw" },
