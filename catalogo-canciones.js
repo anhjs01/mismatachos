@@ -274,39 +274,29 @@ const CATALOGO_CANCIONES = {
       "youtubeId": "Mtau4v6foHA"
     },
     {
-      "titulo": "Una Lady Como Tú",
-      "artista": "Manuel Turizo",
-      "youtubeId": "VQqS7K5Y3oA"
-    },
-    {
       "titulo": "Secreto",
       "artista": "Anuel AA; KAROL G",
-      "youtubeId": "zABLecsR5UE"
+      "youtubeId": "gFZfwWZV074"
     },
     {
-      "titulo": "Mañana",
-      "artista": "Andy Rivera; KAROL G",
-      "youtubeId": "0hM3T8u2L2g"
+      "titulo": "Tusa",
+      "artista": "KAROL G; Nicki Minaj",
+      "youtubeId": "tbneQDc2H3I"
     },
     {
-      "titulo": "Tienes La Magia",
-      "artista": "Lil Silvio; El Vega",
-      "youtubeId": "KXv6J0r2x0E"
+      "titulo": "Cómo Te Atreves",
+      "artista": "Morat",
+      "youtubeId": "_gm5piKnrS4"
     },
     {
-      "titulo": "Vuelve",
-      "artista": "Nanpa Básico; Teo LB",
-      "youtubeId": "6x7a2Z0wqKQ"
+      "titulo": "Ocean",
+      "artista": "KAROL G",
+      "youtubeId": "eK4i2oN7Q7Q"
     },
     {
-      "titulo": "Dibújame",
-      "artista": "Nanpa Básico; Samantha Barrón",
-      "youtubeId": "u0n8q2d6kYg"
-    },
-    {
-      "titulo": "PERO TÚ",
-      "artista": "KAROL G; Quevedo",
-      "youtubeId": "8mYg6v8tYwA"
+      "titulo": "No Hay Nadie Más",
+      "artista": "Sebastián Yatra",
+      "youtubeId": "V8v5p7v8J9k"
     }
   ],
   "filosofica": [
@@ -1490,29 +1480,39 @@ const CATALOGO_CANCIONES = {
       "youtubeId": "o3mP3mJDL2k"
     },
     {
-      "titulo": "Djadja (Remix)",
-      "artista": "Aya Nakamura; Maluma",
-      "youtubeId": "iPGgnzc34tY"
-    },
-    {
-      "titulo": "Mocca",
-      "artista": "Lalo Ebratt; Trapical",
-      "youtubeId": "2j1w8v5g6Zs"
-    },
-    {
-      "titulo": "Brillo",
-      "artista": "ROSALÍA; J Balvin",
-      "youtubeId": "1x8Y0eY6q5Q"
-    },
-    {
-      "titulo": "Corazón",
-      "artista": "Maluma; Nego do Borel",
-      "youtubeId": "XhQ3qcVEPDg"
-    },
-    {
       "titulo": "X (Spanglish Version)",
       "artista": "Nicky Jam; J Balvin",
       "youtubeId": "_I_D_8Z4sJE"
+    },
+    {
+      "titulo": "Waka Waka (This Time for Africa)",
+      "artista": "Shakira; Freshlyground",
+      "youtubeId": "pRpeEdMmmQ0"
+    },
+    {
+      "titulo": "La Tortura",
+      "artista": "Shakira; Alejandro Sanz",
+      "youtubeId": "Dsp_8Lm1eSk"
+    },
+    {
+      "titulo": "Chantaje",
+      "artista": "Shakira; Maluma",
+      "youtubeId": "6Mgqbai3fKo"
+    },
+    {
+      "titulo": "Mi Gente",
+      "artista": "J Balvin; Willy William",
+      "youtubeId": "wnj6luufpmo"
+    },
+    {
+      "titulo": "Traicionera",
+      "artista": "Sebastián Yatra",
+      "youtubeId": "NE3IkFadCHM"
+    },
+    {
+      "titulo": "Fruta Fresca",
+      "artista": "Carlos Vives",
+      "youtubeId": "q8Gg1u3x2qk"
     }
   ]
 };
