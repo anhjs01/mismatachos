@@ -1247,6 +1247,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "The Rugged Onez",
       "artista": "Shyheim",
       "youtubeId": "FMYzJekIS8k"
+    },
+    {
+      "titulo": "Little Rascals",
+      "artista": "Shyheim",
+      "youtubeId": "3LlzGLebU639V8rP0OoGlL"
     }
   ],
   "hot": [
