@@ -971,6 +971,21 @@ const CATALOGO_CANCIONES = {
       "titulo": "Da Joint",
       "artista": "EPMD",
       "youtubeId": "Ze2A4g-sTT8"
+    },
+    {
+      "titulo": "Runnin'",
+      "artista": "The Pharcyde",
+      "youtubeId": "jQ-RrGCSa2M"
+    },
+    {
+      "titulo": "MC's Act Like They Don't Know",
+      "artista": "KRS-One",
+      "youtubeId": "xnI8JEW7Ty4"
+    },
+    {
+      "titulo": "Above The Clouds",
+      "artista": "Gang Starr;Inspectah Deck",
+      "youtubeId": "NqhNTA2VHqk"
     }
   ],
   "ambiente": [
