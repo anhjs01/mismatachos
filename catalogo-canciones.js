@@ -16,7 +16,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "Dilemma", artista: "Nelly; Kelly Rowland", youtubeId: "8WYHDfJDPDc" },
     { titulo: "I Think I Love You Again", artista: "Aaron Taylor", youtubeId: "diAiHP1K-g0" },
     { titulo: "Trato de Olvidarte", artista: "Gonzalo Genek; Micro TDH; Lui5", youtubeId: "Z66Bv_N55zQ" },
-    { titulo: "No quiero acostumbrarme", artista: "A.C.O", youtubeId: "iJy6xE17h-g" }
+    { titulo: "No quiero acostumbrarme", artista: "A.C.O", youtubeId: "iJy6xE17h-g" },
+    { titulo: "Solo Tú", artista: "Macha y el Bloque Depresivo; Álvaro Henríquez", youtubeId: "lxPDvuV9Z88" }
   ],
   filosofica: [
     { titulo: "Otra Canción Larga", artista: "Alcolirykoz", youtubeId: "aAwXhAV3LPE" },
@@ -66,7 +67,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "La Noche y Tú", artista: "Barbaro el Urbano Vargas", youtubeId: "XSN_8UblItk" },
     { titulo: "Déjame Entrar", artista: "Cultura Profética", youtubeId: "IAhVESdwvIU" },
     { titulo: "good denim", artista: "jalen chords", youtubeId: "_2Lnj5N9lCM" },
-    { titulo: "Antonia", artista: "Gondwana", youtubeId: "exxkGyu3G1Q" }
+    { titulo: "Antonia", artista: "Gondwana", youtubeId: "exxkGyu3G1Q" },
+    { titulo: "Fui Silencio", artista: "Sofía Gabanna; Jazzmind", youtubeId: "KV2ECDqPyuY" }
   ]
 };
 
