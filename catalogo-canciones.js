@@ -185,6 +185,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "AVALANCHE",
       "artista": "GIVĒON",
       "youtubeId": "u7ZjjFPF9wY"
+    },
+    {
+      "titulo": "GOOD BAD UGLY",
+      "artista": "GIVĒON",
+      "youtubeId": "uYV5MWwZgTE"
     }
   ],
   "filosofica": [
