@@ -85,3 +85,10 @@ Nota: las canciones se seleccionaron por afinidad de ambiente y tema general; la
 - La lista todavía contiene canciones repetidas entre días. Se dejan señaladas para una pasada posterior de variedad: Kiss Of Life (5); Show Me How (4); Best Part (feat. H.E.R.) (4); Three Little Birds (3); Don't Know Why (3); By Your Side (3); I Want You Around (3); Apocalypse (3); Put Your Records On (2); I'll Be Seeing You (2).
 - Esta auditoría es editorial y estructural. No certifica que los 78 videos reproduzcan en cada dispositivo ni que el ID de cada video se haya abierto y probado en el reproductor incrustado.
 - Para la próxima pasada: reemplazar repeticiones innecesarias por canciones diferentes ya presentes en el catálogo, comprobar título/artista/ID en lotes y ajustar con especial cuidado las canciones de los días de mensajes más íntimos para no subir la intensidad romántica por encima de una conexión cercana que todavía no es de pareja.
+
+
+## Revisión musical adicional — variedad y coherencia
+- Se redujeron repeticiones en días con temas parecidos, procurando no usar una canción nueva dos veces en el calendario.
+- Cambios aplicados: día 29: By Your Side → If I Ain't Got You; día 30: Show Me How → Tomorrow; día 36: I Want You Around → Redbone; día 37: Kiss Of Life → Baby, I Love Your Way; día 42: Don't Know Why → Antonia; día 50: Kiss Of Life → You Rock My World; día 55: Best Part (feat. H.E.R.) → Rara Bien.
+- Criterio: los días de creación, flores, café, comida, mascotas y atardeceres necesitan acompañamiento cálido y atmosférico, no solo una coincidencia por título. Las canciones más explícitamente románticas se reservan para mensajes de afecto, cuidando que el texto no prometa una relación.
+- Pendiente: completar la comprobación de título/artista/ID de cada canción y probar reproducción real dentro del reproductor. La afinidad editorial no equivale a una prueba técnica del video.
