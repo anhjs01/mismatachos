@@ -167,7 +167,14 @@
     // avance automático sigan funcionando aunque el tono del día sea distinto.
     cancionActual.categoria = categoriaEncontrada ||
       (typeof CATALOGO_CANCIONES !== "undefined" && CATALOGO_CANCIONES[dia.tono] ? dia.tono : "amor");
-    reproducirId(dia.youtubeId, false); precargada = null; sonando = true; actualizarUI();
+    if (precargada && precargada.youtubeId === dia.youtubeId && player && apiLista) {
+      // Reutiliza la precarga silenciosa cuando el usuario elige la canción inicial.
+      player.unMute();
+      player.playVideo();
+    } else {
+      reproducirId(dia.youtubeId, false);
+    }
+    precargada = null; sonando = true; actualizarUI();
   }
   function pausarOReanudar() {
     if (!player) return;
