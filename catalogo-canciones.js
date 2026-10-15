@@ -170,6 +170,9 @@ const CATALOGO_CANCIONES = {
     { titulo: "Keep Your Worries", artista: "Guru; Angie Stone", youtubeId: "7R0D6ryRUqQ"  },
     { titulo: "I Gotta Find Peace of Mind - Live", artista: "Ms. Lauryn Hill", youtubeId: "b2IbsMCgz4A" },
     { titulo: "Ella", artista: "Kafu Banton; Almirante", youtubeId: "quToM5By41k" },
+    { titulo: "Escapism.", artista: "RAYE; 070 Shake", youtubeId: "Dll6VJ2C7wo" },
+    { titulo: "Ride Wit Me", artista: "Nelly; City Spud", youtubeId: "RtSDWq6HsJE" },
+    { titulo: "Not Afraid", artista: "Eminem", youtubeId: "j5-yKhDd64s" },
     { titulo: "Baby, I Love Your Way", artista: "Big Mountain", youtubeId: "utXwIqQj7oE" },
   ]
 };
