@@ -287,16 +287,6 @@ const CATALOGO_CANCIONES = {
       "titulo": "Cómo Te Atreves",
       "artista": "Morat",
       "youtubeId": "_gm5piKnrS4"
-    },
-    {
-      "titulo": "Ocean",
-      "artista": "KAROL G",
-      "youtubeId": "eK4i2oN7Q7Q"
-    },
-    {
-      "titulo": "No Hay Nadie Más",
-      "artista": "Sebastián Yatra",
-      "youtubeId": "V8v5p7v8J9k"
     }
   ],
   "filosofica": [
@@ -1510,9 +1500,19 @@ const CATALOGO_CANCIONES = {
       "youtubeId": "NE3IkFadCHM"
     },
     {
-      "titulo": "Fruta Fresca",
-      "artista": "Carlos Vives",
-      "youtubeId": "q8Gg1u3x2qk"
+      "titulo": "Danza Kuduro",
+      "artista": "Don Omar; Lucenzo",
+      "youtubeId": "7zp1TbLFPp8"
+    },
+    {
+      "titulo": "Despacito",
+      "artista": "Luis Fonsi; Daddy Yankee",
+      "youtubeId": "kJQP7kiw5Fk"
+    },
+    {
+      "titulo": "Bailando",
+      "artista": "Enrique Iglesias; Descemer Bueno; Gente de Zona",
+      "youtubeId": "NUsoVlDFqZg"
     }
   ]
 };
