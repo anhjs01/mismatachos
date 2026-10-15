@@ -1169,6 +1169,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Poetas en un Mundo Equivocado",
       "artista": "Rupatrupa",
       "youtubeId": "AKFI_UM6T6k"
+    },
+    {
+      "titulo": "Pass It Off",
+      "artista": "Shyheim; Rubbabandz; Down Low Recka; K-Tez",
+      "youtubeId": "0rvirkTyJ8k"
     }
   ],
   "hot": [
