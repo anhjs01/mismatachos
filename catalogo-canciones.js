@@ -152,7 +152,10 @@ const CATALOGO_CANCIONES = {
     { titulo: "Is This Love", artista: "Bob Marley & The Wailers", youtubeId: "CHekNnySAfM" },
     { titulo: "Can't Tell Me Nothing", artista: "Kanye West", youtubeId: "hqvcww4ydh8" },
     { titulo: "Just Can’t Get Enough", artista: "Black Eyed Peas", youtubeId: "OrTyD7rjBpw" },
-    { titulo: "Do For Love", artista: "2Pac", youtubeId: "VjJpf_5FFJo" }
+    { titulo: "Do For Love", artista: "2Pac", youtubeId: "VjJpf_5FFJo" },
+    { titulo: "All Eyez On Me (ft. Big Syke)", artista: "2Pac; Big Syke", youtubeId: "zgZ52M4a_R0" },
+    { titulo: "Money Trees", artista: "Kendrick Lamar; Jay Rock", youtubeId: "bBNpSXAYteM" },
+    { titulo: "Loose", artista: "Daniel Caesar", youtubeId: "gRL_PCOPF-A" },
   ],
   hot: [
     { titulo: "Las Tetas D.", artista: "Crack Family", youtubeId: "LQhERHd-k0E" },
