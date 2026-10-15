@@ -1005,6 +1005,11 @@ const CATALOGO_CANCIONES = {
       "artista": "Crudo Means Raw",
       "youtubeId": "9Yl_w0MytpM"
     },
+    {
+      "titulo": "OLIMPO",
+      "artista": "Milo j",
+      "youtubeId": "qLsFWXJmKU8"
+    },
   ],
   "hot": [
     {
