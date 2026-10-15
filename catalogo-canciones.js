@@ -12,6 +12,9 @@
 
 const CATALOGO_CANCIONES = {
   amor: [
+    { titulo: "I Know What You Want (feat. Flipmode Squad)", artista: "Busta Rhymes; Mariah Carey; Flipmode Squad", youtubeId: "WDaNJW_jEBo" },
+    { titulo: "TWENTIES", artista: "GIVĒON", youtubeId: "Tot_8TrFIEQ" },
+    { titulo: "Stuck On You", artista: "GIVĒON", youtubeId: "UlIgAGotomM" },
     { titulo: "Be Without You", artista: "Mary J. Blige", youtubeId: "8XNaPX6MKlU" },
     { titulo: "Get You", artista: "Daniel Caesar; Kali Uchis", youtubeId: "uQFVqltOXRg" },
     { titulo: "Love", artista: "Keyshia Cole", youtubeId: "9PBZy9j3H3I" },
@@ -31,6 +34,10 @@ const CATALOGO_CANCIONES = {
     { titulo: "Hold Up", artista: "Sasha Keable", youtubeId: "Igk6n0j1GBQ" },
   ],
   filosofica: [
+    { titulo: "ATLiens", artista: "Outkast", youtubeId: "ktc9hsSfUck" },
+    { titulo: "Straight Outta Compton", artista: "N.W.A.", youtubeId: "TMZi25Pq3T8" },
+    { titulo: "Keep Ya Head Up", artista: "2Pac", youtubeId: "HfXwmDGJAB8" },
+    { titulo: "Hail Mary", artista: "2Pac", youtubeId: "K1u7l5tXnVw" },
     { titulo: "You Got Me", artista: "The Roots; Tariq Trotter; Erykah Badu; Eve", youtubeId: "MJCHeEQV454" },
     { titulo: "Insane in the Brain", artista: "Cypress Hill", youtubeId: "RijB8wnJCN0" },
     { titulo: "Cleanin' Out My Closet", artista: "Eminem", youtubeId: "YVkUvmDQ3HY" },
@@ -183,6 +190,12 @@ const CATALOGO_CANCIONES = {
     { titulo: "Boombastic", artista: "Shaggy", youtubeId: "f0sVDGFoIOI"  },
   ],
   ambiente: [
+    { titulo: "Will I See You Again?", artista: "Thee Sacred Souls", youtubeId: "IGgb10A_2c8" },
+    { titulo: "You Rock My World", artista: "Michael Jackson", youtubeId: "1-7ABIM2qjU" },
+    { titulo: "Bills, Bills, Bills", artista: "Destiny's Child", youtubeId: "NiF6-0UTqtc" },
+    { titulo: "On & On", artista: "Erykah Badu", youtubeId: "-CPCs7vVz6s" },
+    { titulo: "Shoop", artista: "Salt-N-Pepa", youtubeId: "4vaN01VLYSQ" },
+    { titulo: "Give It Up to Me", artista: "Sean Paul", youtubeId: "kdzGENHQ-rk" },
     { titulo: "Shut Up", artista: "Black Eyed Peas", youtubeId: "KRzMtlZjXpU" },
     { titulo: "Ring My Bell", artista: "Anita Ward", youtubeId: "URAqnM1PP5E" },
     { titulo: "Freedom", artista: "Pharrell Williams", youtubeId: "LlY90lG_Fuw" },
