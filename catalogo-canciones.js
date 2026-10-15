@@ -1319,6 +1319,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Man on a Wire",
       "artista": "The Script",
       "youtubeId": "QV62YRpIeUA"
+    },
+    {
+      "titulo": "Universos Paralelos",
+      "artista": "Jorge Drexler; Ana Tijoux",
+      "youtubeId": "PCeRWYvvPtg"
     }
   ],
   "hot": [
@@ -1823,6 +1828,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Eres Para Mí",
       "artista": "Julieta Venegas; Anita Tijoux",
       "youtubeId": "pj2ntDiXJCk"
+    },
+    {
+      "titulo": "To My Love (Tainy Remix)",
+      "artista": "Bomba Estéreo; Tainy",
+      "youtubeId": "THBP1tq49wk"
+    },
+    {
+      "titulo": "La Tierra del Olvido (2015)",
+      "artista": "Carlos Vives; Fanny Lu; Fonseca; Maluma; Andrea Echeverri y otros",
+      "youtubeId": "KqbwljI3Qo"
     }
   ]
 };
