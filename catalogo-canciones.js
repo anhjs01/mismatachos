@@ -914,6 +914,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Luchini AKA This Is It",
       "artista": "Camp Lo",
       "youtubeId": "WvAqy1i2hEA"
+    },
+    {
+      "titulo": "It's Been A Long Time",
+      "artista": "Rakim",
+      "youtubeId": "qWPmRSYq-f8"
     }
   ],
   "hot": [
@@ -1066,6 +1071,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Wrong Side of da Tracks",
       "artista": "Artifacts",
       "youtubeId": "jRZFWhRQFzQ"
+    },
+    {
+      "titulo": "Me Or The Papes",
+      "artista": "Jeru The Damaja",
+      "youtubeId": "g9S_sfBfIUA"
+    },
+    {
+      "titulo": "Boyz-N-The-Hood",
+      "artista": "Eazy-E",
+      "youtubeId": "64mx7TiCbuY"
     }
   ],
   "ambiente": [
