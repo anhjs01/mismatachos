@@ -20,6 +20,9 @@ const CATALOGO_CANCIONES = {
     { titulo: "The Way I Love You", artista: "Jorja Smith", youtubeId: "R25qYkkv_t8" },
     { titulo: "Antes de Morir (Scratches Dj Pho)", artista: "LosPetitFellas; Denise Gutiérrez; Dj Pho", youtubeId: "2vdIWr1TCBI" },
     { titulo: "Solo Tú", artista: "Macha y el Bloque Depresivo; Álvaro Henríquez", youtubeId: "lxPDvuV9Z88"  },
+    { titulo: "My Boo", artista: "USHER; Alicia Keys", youtubeId: "fPgf2meEX1w" },
+    { titulo: "Like I Want You", artista: "GIVĒON", youtubeId: "yNNMKN9BUmU" },
+    { titulo: "Try Me", artista: "Jorja Smith", youtubeId: "gUn6i9bfdRA" },
   ],
   filosofica: [
     { titulo: "Otra Canción Larga", artista: "Alcolirykoz", youtubeId: "aAwXhAV3LPE" },
@@ -143,6 +146,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "Antonia", artista: "Gondwana", youtubeId: "exxkGyu3G1Q" },
     { titulo: "Fui Silencio", artista: "Sofía Gabanna; Jazzmind", youtubeId: "KV2ECDqPyuY" },
     { titulo: "Keep Your Worries", artista: "Guru; Angie Stone", youtubeId: "7R0D6ryRUqQ"  },
+    { titulo: "I Gotta Find Peace of Mind - Live", artista: "Ms. Lauryn Hill", youtubeId: "b2IbsMCgz4A" },
   ]
 };
 
