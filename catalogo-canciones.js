@@ -195,6 +195,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "BLEEDING",
       "artista": "GIVĒON",
       "youtubeId": "q2j8vC1T2xM"
+    },
+    {
+      "titulo": "KEEPER",
+      "artista": "GIVĒON",
+      "youtubeId": "2cuDp5ENoao"
     }
   ],
   "filosofica": [
