@@ -402,6 +402,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Bubbly",
       "artista": "Colbie Caillat",
       "youtubeId": "AWGqoCNbsvM"
+    },
+    {
+      "titulo": "Chasing Cars",
+      "artista": "Snow Patrol",
+      "youtubeId": "GemKqzILV4w"
+    },
+    {
+      "titulo": "Look After You",
+      "artista": "The Fray",
+      "youtubeId": "c0W4tQvV6xQ"
     }
   ],
   "filosofica": [
@@ -1254,6 +1264,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Ode to My Family",
       "artista": "The Cranberries",
       "youtubeId": "Zz-DJr1Qs54"
+    },
+    {
+      "titulo": "How to Save a Life",
+      "artista": "The Fray",
+      "youtubeId": "cjVQ36NhbMk"
+    },
+    {
+      "titulo": "You Found Me",
+      "artista": "The Fray",
+      "youtubeId": "z6H7n3n9d8s"
     }
   ],
   "hot": [
@@ -1733,6 +1753,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Everybody Talks",
       "artista": "Neon Trees",
       "youtubeId": "X5G9tIe84lE"
+    },
+    {
+      "titulo": "Put Your Records On",
+      "artista": "Corinne Bailey Rae",
+      "youtubeId": "rjOhZZyn30k"
+    },
+    {
+      "titulo": "Over My Head (Cable Car)",
+      "artista": "The Fray",
+      "youtubeId": "fFRkpvvop3I"
     }
   ]
 };
