@@ -90,6 +90,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "Punto Rojo", artista: "Granuja; Mañas Ru-Fino", youtubeId: "_LxBM6wpgLU" },
     { titulo: "C.R.E.A.M. (Cash Rules Everything Around Me)", artista: "Wu-Tang Clan", youtubeId: "4yNQ7_7I5aE" },
     { titulo: "It Was A Good Day", artista: "Ice Cube", youtubeId: "h4UqMyldS7Q" },
+    { titulo: "Gangsta's Paradise", artista: "Coolio; L.V.", youtubeId: "SQCSxqScSVQ" },
+    { titulo: "Regulate", artista: "Warren G; Nate Dogg", youtubeId: "1plPyJdXKIY" },
     { titulo: "6 30", artista: "Métricas Frías; Doble Porción", youtubeId: "vcdt4RdTc1g" },
     { titulo: "Mil y una Vez", artista: "Métricas Frías; Doble Porción", youtubeId: "dwyeCQjNDcQ" },
     { titulo: "Antes del Meridiano", artista: "Alcolirykoz", youtubeId: "Y4pCA91F4Uw" },
