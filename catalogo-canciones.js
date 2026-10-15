@@ -117,6 +117,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "The One",
       "artista": "Jorja Smith",
       "youtubeId": "80J2YroXH3g"
+    },
+    {
+      "titulo": "On Your Own",
+      "artista": "Jorja Smith",
+      "youtubeId": "iXPygS94LME"
+    },
+    {
+      "titulo": "Goodbyes",
+      "artista": "Jorja Smith",
+      "youtubeId": "GJY5N0stFyU"
     }
   ],
   "filosofica": [
