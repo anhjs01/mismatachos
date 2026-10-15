@@ -48,7 +48,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "A Veces", artista: "Al2 El Aldeano", youtubeId: "LQYOZFO5aB4" },
     { titulo: "Qué Tú Quieres?", artista: "Mabiland", youtubeId: "7C4t_d898_Q" },
     { titulo: "Bacatá", artista: "1703; El Kalvo; $trasse", youtubeId: "QF2M5IWCJNQ" },
-    { titulo: "Vital (Téngase)", artista: "Crudo Means Raw", youtubeId: "cgJvtgZ7rBk" }
+    { titulo: "Vital (Téngase)", artista: "Crudo Means Raw", youtubeId: "cgJvtgZ7rBk" },
+    { titulo: "Malpensante", artista: "Noiseferatu", youtubeId: "rThYUXZyTeA" }
   ],
   hot: [],
   ambiente: [
