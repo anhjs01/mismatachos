@@ -1096,6 +1096,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Time's Up",
       "artista": "O.C.",
       "youtubeId": "6gNmCGQRpcc"
+    },
+    {
+      "titulo": "Born 2 Live",
+      "artista": "O.C.",
+      "youtubeId": "Gf68J5iqK6g"
     }
   ],
   "ambiente": [
