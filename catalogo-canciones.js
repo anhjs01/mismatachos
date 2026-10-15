@@ -34,7 +34,11 @@ const CATALOGO_CANCIONES = {
     { titulo: "Falsedades", artista: "Tres Coronas", youtubeId: "n1dgZ5xnQWY" },
     { titulo: "Envidias", artista: "Tres Coronas", youtubeId: "KRS0wPv9esQ" },
     { titulo: "El Imaginario", artista: "Alcolirykoz", youtubeId: "VBnufgtjtxU" },
-    { titulo: "Coctel Espacial", artista: "Lianna; Gambeta", youtubeId: "McpW-vn070k" }
+    { titulo: "Coctel Espacial", artista: "Lianna; Gambeta", youtubeId: "McpW-vn070k" },
+    { titulo: "Mi Barrio Es Mi Estado", artista: "Alcolirykoz", youtubeId: "UFmV2yg6Oao" },
+    { titulo: "El Barman y el Chef", artista: "Alcolirykoz", youtubeId: "2fGU7PJCTpk" },
+    { titulo: "La Eterna - Remix", artista: "Alcolirykoz", youtubeId: "SBOcJT0BeJA" },
+    { titulo: "Házmelo Rap", artista: "Alcolirykoz", youtubeId: "P1qamoOHLYM" }
   ],
   hot: [],
   ambiente: [
