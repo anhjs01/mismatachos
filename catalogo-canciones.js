@@ -1623,6 +1623,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "La Terrera",
       "artista": "Rupatrupa",
       "youtubeId": "2BW92cCp0T4"
+    },
+    {
+      "titulo": "Here Come The Hits",
+      "artista": "Shyheim",
+      "youtubeId": "jwaRqNDAh-8"
     }
   ]
 };
