@@ -437,6 +437,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Vámonos a Marte",
       "artista": "Kevin Kaarl",
       "youtubeId": "er2upfZf_cg"
+    },
+    {
+      "titulo": "Riptide",
+      "artista": "Vance Joy",
+      "youtubeId": "uJ_1HMAGb4k"
     }
   ],
   "filosofica": [
@@ -1853,6 +1858,31 @@ const CATALOGO_CANCIONES = {
       "titulo": "Paradise",
       "artista": "Coldplay",
       "youtubeId": "J6ZWlDks0nQ"
+    },
+    {
+      "titulo": "Viva la Vida",
+      "artista": "Coldplay",
+      "youtubeId": "dvgZkm1xWPE"
+    },
+    {
+      "titulo": "The Nights",
+      "artista": "Avicii",
+      "youtubeId": "UtF6Jej8yb4"
+    },
+    {
+      "titulo": "Pompeii",
+      "artista": "Bastille",
+      "youtubeId": "F90Cw4l-8NY"
+    },
+    {
+      "titulo": "Counting Stars",
+      "artista": "OneRepublic",
+      "youtubeId": "hT_nvWreIhg"
+    },
+    {
+      "titulo": "Adventure of a Lifetime",
+      "artista": "Coldplay",
+      "youtubeId": "QtXby3twMmI"
     }
   ]
 };
