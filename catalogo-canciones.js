@@ -1025,6 +1025,11 @@ const CATALOGO_CANCIONES = {
       "artista": "Gorillaz; MF DOOM",
       "youtubeId": "uGgUoA443_A"
     },
+    {
+      "titulo": "La Prolé",
+      "artista": "Coffeeling Prole, Logan MVP, Keenwan, Blackmen",
+      "youtubeId": "fYA6Eu5r6GA"
+    },
   ],
   "hot": [
     {
