@@ -179,3 +179,10 @@ Criterios aplicados: arte y manualidades con acompañamiento instrumental/indie 
 - Día 49: se sustituyó el segundo/tercer enfoque repetido de margaritas y materiales creativos por un tema distinto, el descanso y dormir sin culpa, que también forma parte de los gustos conocidos de Aleja. Se mantuvieron los demás días sin cambios para evitar una reescritura innecesaria.
 - Día 49 canción: “La Noche y Tú” — Barbaro el Urbano Vargas, tomada de `catalogo-canciones.js`, para una atmósfera nocturna más coherente con la pausa y el descanso. Título, artista e ID se actualizaron juntos desde la ficha del catálogo.
 - Se mantiene pendiente la revisión de las 14 agrupaciones de canciones repetidas y la comprobación real de reproducción en el reproductor integrado. Esta pasada no certifica la letra de cada canción.
+
+
+## Revisión conservadora — segunda pasada, 15 de octubre de 2026
+- Día 59: se cambió “Freedom” por “Lost & Found” — Jorja Smith. El texto habla de una canción que acompaña sin exigir atención; se prefirió una opción más introspectiva y menos himno/celebración. La asignación se copió del catálogo.
+- Día 65: se cambió la repetición de “Put Your Records On” por “Let's Get It Started - Spike Mix” — Black Eyed Peas. El día se centra en la risa espontánea y la energía; el cambio busca darle un ritmo más animado. Se mantienen “Put Your Records On” en días donde encaja mejor con la luz, la fruta o escuchar una canción en bucle.
+- Día 67: se eliminó la repetición directa del debate entre pasta y arroz con huevo. Ahora trata de respetar gustos propios y expresar preferencias con tranquilidad; se conservaron los detalles personales sin inventar escenas concretas.
+- No se tocaron las repeticiones que todavía tienen una función temática clara (por ejemplo, “I'll Be Seeing You” al cerrar el año, o “Three Little Birds” en mensajes de tranquilidad y bienvenida de las mascotas).
