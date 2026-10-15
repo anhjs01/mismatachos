@@ -869,6 +869,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Círculo Vicioso",
       "artista": "Granuja",
       "youtubeId": "23xU8aPP2D8"
+    },
+    {
+      "titulo": "Sound of da Police",
+      "artista": "KRS-One",
+      "youtubeId": "9ZrAYxWPN6c"
     }
   ],
   "hot": [
@@ -951,6 +956,21 @@ const CATALOGO_CANCIONES = {
       "titulo": "Real Muthaphuckkin' G's",
       "artista": "Eazy-E",
       "youtubeId": "trDFi_zSttQ"
+    },
+    {
+      "titulo": "Flava in Ya Ear Remix (feat. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage)",
+      "artista": "Craig Mack;Busta Rhymes;LL COOL J;Rampage;The Notorious B.I.G.",
+      "youtubeId": "PMbELEUfmIA"
+    },
+    {
+      "titulo": "I Get Around",
+      "artista": "2Pac;Digital Underground",
+      "youtubeId": "YqJAnQTwmJs"
+    },
+    {
+      "titulo": "Da Joint",
+      "artista": "EPMD",
+      "youtubeId": "Ze2A4g-sTT8"
     }
   ],
   "ambiente": [
