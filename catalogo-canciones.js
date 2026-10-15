@@ -104,6 +104,9 @@ const CATALOGO_CANCIONES = {
   ],
 
   filosofica: [
+    { titulo: "Quién Va", artista: "No Rules Clan feat. Alcolirykoz", youtubeId: "mF_8BMwhH5A", nota: "video oficial de No Rules Clan" },
+    { titulo: "La Jungla", artista: "Flaco Flow y Melanina", youtubeId: "NcUvzYvGO2U", nota: "video oficial de Audio Lírica" },
+    { titulo: "Bogotá Mi Barrio", artista: "Todo Copas", youtubeId: "jj8ZIUfWCMM", nota: "video oficial del canal de Todo Copas" },
     { titulo: "Otra Canción Larga", artista: "Alcolirykoz", youtubeId: "QAN3hBN5tzE", nota: "video oficial del canal de Alcolirykoz" },
     { titulo: "El Despilfarro", artista: "Alcolirykoz", youtubeId: "iKvJo5Vs244", nota: "video oficial del canal de Alcolirykoz" },
     { titulo: "Tararea", artista: "Alcolirykoz", youtubeId: "gU6HGs32_0M", nota: "versión sinfónica del canal oficial de Alcolirykoz" },
