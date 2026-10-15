@@ -879,6 +879,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Doo Wop (That Thing)",
       "artista": "Ms. Lauryn Hill",
       "youtubeId": "T6QKqFPRZSA"
+    },
+    {
+      "titulo": "Bang Bang",
+      "artista": "K'NAAN; Adam Levine",
+      "youtubeId": "bFoFN9Sbk2w"
+    },
+    {
+      "titulo": "Ambitionz Az A Ridah",
+      "artista": "2Pac",
+      "youtubeId": "6glk4oMbgKE"
     }
   ],
   "hot": [
