@@ -90,6 +90,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "Punto Rojo", artista: "Granuja; Mañas Ru-Fino", youtubeId: "_LxBM6wpgLU" },
     { titulo: "6 30", artista: "Métricas Frías; Doble Porción", youtubeId: "vcdt4RdTc1g" },
     { titulo: "Mil y una Vez", artista: "Métricas Frías; Doble Porción", youtubeId: "dwyeCQjNDcQ" },
+    { titulo: "Antes del Meridiano", artista: "Alcolirykoz", youtubeId: "Y4pCA91F4Uw" },
+    { titulo: "La Típica (2.018)", artista: "Alcolirykoz", youtubeId: "LqoVJPFAbf4" },
     { titulo: "Me Volví Loco", artista: "King Kong Click; Bubaseta; Subwoffer", youtubeId: "MsnJzE8Cbw0" },
     { titulo: "Tuyo", artista: "Credo V Daniels", youtubeId: "8onYUmsBMxs" },
     { titulo: "Partículas", artista: "Granuja", youtubeId: "E6oZorQDiN0" },
