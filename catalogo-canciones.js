@@ -152,6 +152,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "RATHER BE",
       "artista": "GIVĒON",
       "youtubeId": "Yd1smtHpxaY"
+    },
+    {
+      "titulo": "STRANGERS",
+      "artista": "GIVĒON",
+      "youtubeId": "lBw9WXJmdsU"
     }
   ],
   "filosofica": [
