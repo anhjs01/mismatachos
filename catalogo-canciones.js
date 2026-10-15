@@ -209,7 +209,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "DON'T LEAVE",
       "artista": "GIVĒON",
-      "youtubeId": ""
+      "youtubeId": "yQJjN0Kd5EI"
     }
   ],
   "filosofica": [
@@ -1256,10 +1256,10 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Little Rascals",
       "artista": "Shyheim",
-      "youtubeId": ""
+      "youtubeId": "K1Fesbboyqg"
     },
     {
-      "titulo": "Never Say Never",
+      "titulo": "Never Say Never (Interlude)",
       "artista": "Shyheim",
       "youtubeId": ""
     },
@@ -1286,7 +1286,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Party's Goin' On",
       "artista": "Shyheim",
-      "youtubeId": ""
+      "youtubeId": "2A-ePsv8_SE"
     },
     {
       "titulo": "Shouts On The Outs (Interlude)",
