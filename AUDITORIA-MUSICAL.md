@@ -115,3 +115,6 @@ Se ajustaron las asignaciones siguientes usando canciones que ya existen en el c
 - Día 72: “Like I Want You” → “Where Is The Love?” (Black Eyed Peas).
 
 Criterios aplicados: arte y manualidades con acompañamiento instrumental/indie cálido; café y comida con canciones relajadas; flores y mascotas con energía amable; días sobre el amor claro con temas de cariño universal en lugar de elevar el mensaje a una declaración de pareja. La canción puede acompañar la atmósfera aunque su letra no nombre literalmente el objeto del día.
+
+- Día 75: se ajustó el plan casero para mantener la cercanía sin incluir lenguaje de acurrucarse ni dar por sentada una dinámica de pareja.
+- Revisión editorial completada para los 78 días: se comprobaron las asignaciones de canciones contra el catálogo y se corrigieron 17 casos con afinidad temática débil o intensidad romántica excesiva. La prueba de reproducción incrustada queda pendiente de validación en navegador.
