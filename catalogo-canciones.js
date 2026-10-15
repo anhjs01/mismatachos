@@ -1,15 +1,3 @@
-/* =======================================================================
-   CATALOGO-CANCIONES.JS — CATALOGO MUSICAL DE LA PLAYLIST DE ALEJA
-   -----------------------------------------------------------------------
-   Fuente de canciones: M.csv (álbumes y canciones aportados por la usuaria; lista en proceso de incorporación).
-   Las canciones ajenas a esa lista se eliminan; no se mezclan catálogos.
-   Cada entrada publicada aquí tiene una ID de un video de YouTube identificado.
-   No se usan enlaces ni reproductores de Spotify o archivos de audio locales.
-
-   Para añadir una canción:
-   { titulo: "Título exacto", artista: "Artista", youtubeId: "ID_VERIFICADA"  },
-   ======================================================================= */
-
 const CATALOGO_CANCIONES = {
   "amor": [
     {
@@ -177,6 +165,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "I CAN TELL",
       "artista": "GIVĒON",
       "youtubeId": "4UpUGBWlCb4"
+    },
+    {
+      "titulo": "DIAMONDS FOR YOUR PAIN",
+      "artista": "GIVĒON",
+      "youtubeId": "L2dmZSHkFPs"
     }
   ],
   "filosofica": [
