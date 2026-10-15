@@ -932,16 +932,16 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días, corazón. Ojalá hoy encuentres esa canción que pones otra vez porque todavía no te quieres salir de lo que te hizo sentir.",
+    "buenosDias": "Si hoy encuentras una canción que te haga volver al principio apenas termina, disfrútala sin justificar la repetición. Algunas melodías necesitan más de una vuelta para decir lo que uno sintió la primera vez.",
     "poema": [
       "A veces el estribillo llega justo cuando uno lo necesita, aunque no estuviera buscando nada en particular. Me da curiosidad qué parte de una canción te hace volver una y otra vez.",
       "Mándame una de esas canciones, mi vida. Quiero conocer ese pedacito de música al que vuelves cuando nadie te está recomendando nada."
     ],
     "detalle": "Pon otra vez esa canción si todavía te acompaña por dentro. No todo lo repetido se vuelve aburrido; algunas cosas se quedan porque todavía nos hacen sentir algo.",
     "buenasNoches": "Que descanses, amor. Puedes escuchar esa canción una última vez si te hace bien, pero no hagas tratos imposibles con el botón de repetir cuando ya te estés quedando dormida.",
-    "cancionTitulo": "Full Clip",
-    "cancionArtista": "Gang Starr",
-    "youtubeId": "qmj1q67NDAk"
+    "cancionTitulo": "Put Your Records On",
+    "cancionArtista": "Corinne Bailey Rae",
+    "youtubeId": "oWQl00LWEwE"
   },
   {
     "dia": 42,
@@ -955,16 +955,16 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, amor. Hoy vuelvo con la pregunta más importante del menú: ¿arroz con huevo o pasta? Las dos tienen su momento, pero no son intercambiables y yo ya aprendí la lección.",
+    "buenosDias": "Pregunta gastronómica del día: ¿pasta o arroz con huevo? No hay respuesta incorrecta, pero sí una regla importante: nada de sal añadida y nada de discutirle el antojo a la protagonista.",
     "poema": [
       "Podemos discutir sobre salsas, puntos de cocción y cuál queda mejor un domingo perezoso, pero la decisión final la tiene quien se va a comer el plato. Es decir, tú.",
       "Si algún día cocinamos, corazón, yo me encargo de ayudar y de probar la pasta con una seriedad de jurado gastronómico. No prometo que mis críticas sean útiles."
     ],
     "detalle": "Si toca elegir entre pasta o arroz con huevo, no hay necesidad de enfrentar a los dos platos como si solo uno pudiera existir. Cada antojo tiene su día, y ambos merecen su oportunidad.",
     "buenasNoches": "Buenas noches, mi vida. Mañana decides cuál antojo gana; esta noche no hace falta convocar una cumbre entre la pasta y el arroz con huevo.",
-    "cancionTitulo": "Three Little Birds",
-    "cancionArtista": "Bob Marley & The Wailers",
-    "youtubeId": "HNBCVM4KbUM"
+    "cancionTitulo": "Don't Know Why",
+    "cancionArtista": "Norah Jones",
+    "youtubeId": "tO4dxvguQDk"
   },
   {
     "dia": 43,
@@ -978,16 +978,16 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, mi vida. Ojalá hoy alguien recuerde un detalle tuyo sin que tengas que repetirlo. Es bonito sentir que lo que cuentas se queda con alguien.",
+    "buenosDias": "Hoy vale la pena prestar atención a una cosa pequeña: algo que alguien recuerde de ti, o un detalle tuyo que puedas devolverle a otra persona sin hacer ruido.",
     "poema": [
       "No hace falta que el gesto sea enorme. A veces basta con que te guarden el último pedazo que te gusta, te manden una canción que te recuerda a algo o te pregunten por ese proyecto que mencionaste hace días.",
       "Y si hoy eres tú quien nota algo pequeño de alguien, díselo. Los detalles también pueden ser una manera de decir «te presto atención»."
     ],
     "detalle": "Si alguien tiene un gesto bonito contigo, permítete recibirlo sin minimizarlo. No tienes que decir ‘no era necesario’ tres veces; puedes sonreír y dejar que el cariño llegue.",
     "buenasNoches": "Que duermas rico, corazón. No subestimes el efecto de un detalle recordado; a veces alguien demuestra cariño sin hacer ningún anuncio.",
-    "cancionTitulo": "Three Little Birds",
-    "cancionArtista": "Bob Marley & The Wailers",
-    "youtubeId": "HNBCVM4KbUM"
+    "cancionTitulo": "Best Part (feat. H.E.R.)",
+    "cancionArtista": "Daniel Caesar; H.E.R.",
+    "youtubeId": "vBy7FaapGRo"
   },
   {
     "dia": 44,
@@ -1001,16 +1001,16 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buenos días, corazón. Ojalá hoy tengas una conversación que empiece por cualquier bobada y termine con un «¿ya es tan tarde?» que salga de verdad sorprendido.",
+    "buenosDias": "Ojalá hoy te encuentres en una conversación que empiece con una bobada y termine tocando temas que no tenías pensado contar. Las buenas charlas suelen tomar sus propias rutas.",
     "poema": [
       "Me gustan las charlas que se permiten cambiar de tema sin avisar: un chisme, una canción, una idea absurda, algo serio y otra vez una risa. Ahí es donde uno se va conociendo sin hacer entrevista.",
       "Si hoy te pasa, quédate un poquito más, amor. Y si no, aquí queda la invitación a una conversación sin guion cuando te provoque."
     ],
     "detalle": "Si la conversación se alarga y de pronto ya pasó la hora, no siempre es tiempo perdido. A veces encontrarse con alguien con quien hablar sin estar mirando el reloj es un regalo raro.",
     "buenasNoches": "Buenas noches, amor. Si la conversación de hoy se alargó sin que miraras la hora, quizá fue una buena manera de perder un poquito el tiempo.",
-    "cancionTitulo": "Dilemma",
-    "cancionArtista": "Nelly; Kelly Rowland",
-    "youtubeId": "8WYHDfJDPDc"
+    "cancionTitulo": "By Your Side",
+    "cancionArtista": "Sade",
+    "youtubeId": "C8QJmI_V3j4"
   },
   {
     "dia": 45,
@@ -1047,16 +1047,16 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Buenos días, amor. Hoy tienes permiso de hacer algo solo por ver qué pasa, aunque no sirva para nada y no termine en una obra digna de exposición.",
+    "buenosDias": "Hoy puedes probar algo sin convertirlo en un proyecto perfecto. Una mezcla de colores, una idea manual o cualquier ocurrencia que te dé curiosidad ya cuenta como un buen comienzo.",
     "poema": [
       "La curiosidad también merece espacio sin convertirse en productividad. Probar una cosa, reírse si sale mal y aprender algo que no estaba en el plan puede ser suficiente.",
       "Así que improvisa un poquito, mi vida. Y si haces un experimento extraño, necesito una foto o por lo menos una explicación con todo el drama."
     ],
     "detalle": "Prueba hoy algo sin planear cada resultado. No porque todo tenga que salir bien, sino porque a veces lo inesperado también merece un espacio en tu día.",
     "buenasNoches": "Que tengas una noche suave, mi vida. Ojalá mañana te permitas probar algo sin exigirte saber desde el comienzo cómo va a salir.",
-    "cancionTitulo": "Clapzz",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "W486I2dtYA8"
+    "cancionTitulo": "Show Me How",
+    "cancionArtista": "Men I Trust",
+    "youtubeId": "OZRYzH0Q0pU"
   },
   {
     "dia": 47,
@@ -1070,7 +1070,7 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, corazón. Te deseo palabras que se sostengan con hechos y personas que no te hagan sentir que pedir claridad es pedir demasiado.",
+    "buenosDias": "Te deseo vínculos donde las palabras no sean acertijos y los actos no contradigan lo que se dice. La claridad también puede ser tierna; no tiene que llegar en forma de discusión.",
     "poema": [
       "El cariño bonito no debería ser una adivinanza eterna. Puede tener nervios, dudas y días complicados, claro, pero también tiene que saber hablar y escuchar sin jugar con lo que el otro siente.",
       "No olvides eso, Aleja: mereces tranquilidad, respeto y un interés que se note. No tienes que conformarte con señales confusas para demostrar que sabes querer."
@@ -1093,7 +1093,7 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días, mi vida. Que tu café salga fuerte y sin azúcar, como debe ser según la experta. Yo solo vengo a desearte una mañana un poquito más amable.",
+    "buenosDias": "Que tu tinto salga fuerte y sin azúcar, pero que el día no tenga que saber igual. Si la mañana se tuerce, ve resolviendo una cosa a la vez y no le exijas dulzura a la taza.",
     "poema": [
       "Me imagino el primer sorbo, el silencio de antes de que arranque el día y tú mirando la taza como si todavía estuvieras negociando con el sueño.",
       "Si pudiera dejarte una nota al lado, diría: «corazón, no tienes que correr desde el primer minuto». Y probablemente dibujaría un café pequeño que me quedaría bastante mal."
@@ -1116,16 +1116,16 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, amor. Me imaginé una margarita cerca de tus pinceles, entre los colores y las pequeñas manchas que aparecen cuando una idea empieza a tomar forma.",
+    "buenosDias": "Una margarita junto a tus materiales, un color que te guste y un rato para crear sin interrupciones: a veces un espacio se siente más tuyo por una sola cosa bien puesta.",
     "poema": [
       "Me gusta la idea de un detalle que no interrumpa lo que haces, sino que se quede ahí acompañándote mientras creas. Como decirte «me acordé de ti» sin pedirte que dejes de pintar para contestar.",
       "Ojalá hoy tengas algo bonito a la vista, mi vida. Una flor, un color nuevo o una idea que te haga sonreír sin darte cuenta."
     ],
     "detalle": "Si hoy una margarita acompaña tus materiales, deja que esté ahí como una pequeña visita. Me gusta imaginar un espacio tuyo donde convivan las ideas, los colores y algún detalle que te haga sonreír.",
     "buenasNoches": "Buenas noches, artista. Ojalá tu espacio te haya dado un poco de alegría hoy, aunque solo fuera por una flor, un color o una idea que te hizo ilusión.",
-    "cancionTitulo": "Show Me How",
-    "cancionArtista": "Men I Trust",
-    "youtubeId": "OZRYzH0Q0pU"
+    "cancionTitulo": "Kiss Of Life",
+    "cancionArtista": "Sade",
+    "youtubeId": "MmOau-PMWJk"
   },
   {
     "dia": 50,
@@ -1139,16 +1139,16 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, corazón. Plan ideal: algo rico en la cocina, música de fondo, una película elegida después de una negociación larguísima y un sofá que no invite a levantarse.",
+    "buenosDias": "Plan imaginario, cero logística: cocinar algo rico, poner música y pasar demasiado tiempo escogiendo una película. Sin necesidad de salir ni de convertirlo en una gran ocasión.",
     "poema": [
       "No hace falta una reserva ni un lugar elegante. A veces lo mejor es cocinar juntos, probar la salsa cada dos minutos y acabar viendo una película que uno de los dos ya se sabe de memoria.",
       "Te dejo la idea por aquí, amor. Tú escoges qué comemos y yo acepto el trabajo de probarlo todo, que es una responsabilidad que estoy dispuesto a asumir."
     ],
     "detalle": "Si el plan ideal resulta ser cocinar algo sencillo y quedarse en casa viendo una película, defiéndelo con orgullo. No todas las citas necesitan reserva, tacones ni una logística digna de una excursión.",
     "buenasNoches": "Descansa, mi vida. Un plan bonito también puede ser no salir, cocinar algo rico y compartir el sofá. No todo lo especial necesita luces de ciudad.",
-    "cancionTitulo": "You Rock My World",
-    "cancionArtista": "Michael Jackson",
-    "youtubeId": "1-7ABIM2qjU"
+    "cancionTitulo": "By Your Side",
+    "cancionArtista": "Sade",
+    "youtubeId": "C8QJmI_V3j4"
   },
   {
     "dia": 51,
@@ -1185,16 +1185,16 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días, amor. Hoy no te voy a mandar una lista de cosas que tienes que lograr. Solo quiero que tu café llegue a tiempo y que puedas despertar sin pelearte con el reloj.",
+    "buenosDias": "Que la mañana te deje despertar a tu ritmo, con el tinto sin azúcar y unos minutos antes de que empiecen las obligaciones. No todo tiene que arrancar con prisa.",
     "poema": [
       "Hay mañanas que necesitan menos consejos y más calma: una taza caliente, la ropa cómoda y unos minutos antes de que el mundo empiece a pedir respuestas.",
       "Así que ve despacio si puedes, mi vida. Que el día tenga cosas pendientes no significa que debas empezar corriendo."
     ],
     "detalle": "Si puedes empezar la mañana sin correr, hazlo. Y si no puedes, al menos que el café te acompañe en la negociación con el día.",
     "buenasNoches": "Que duermas rico, amor. Ojalá mañana el día empiece con menos afán y más espacio para hacer las cosas a tu ritmo.",
-    "cancionTitulo": "On & On",
-    "cancionArtista": "Erykah Badu",
-    "youtubeId": "-CPCs7vVz6s"
+    "cancionTitulo": "I'll Be Seeing You",
+    "cancionArtista": "Billie Holiday",
+    "youtubeId": "3C5zYKIuoxg"
   },
   {
     "dia": 53,
@@ -1231,16 +1231,16 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, mi vida. Si hoy algo no te sale a la primera, respira antes de declararlo un desastre. Tú sabes mejor que nadie cuánto se aprende probando.",
+    "buenosDias": "Si hoy algo no sale como esperabas, no lo declares perdido a la primera. A veces hace falta mirar de nuevo, cambiar un detalle y darte la misma paciencia que le darías a una pieza que estás creando.",
     "poema": [
       "Quisiera que te hablaras con la misma paciencia que le das a una pieza cuando todavía está a medio hacer. No la juzgas por no estar terminada; le das tiempo, la miras y sigues.",
       "Date ese mismo trato, corazón. No tienes que resolverlo todo hoy, y mucho menos hacerlo perfecto para merecer sentirte orgullosa."
     ],
     "detalle": "Si alguien te ayuda porque quiere que algo te salga bien, no pases por alto ese gesto. El cariño también aparece en quien presta atención, se acuerda y hace un poquito más fácil el camino.",
     "buenasNoches": "Descansa, corazón. Que mañana alguien te haga sentir acompañada sin que tengas que pedirlo y que tú también puedas dejarte cuidar.",
-    "cancionTitulo": "Keep Ya Head Up",
-    "cancionArtista": "2Pac",
-    "youtubeId": "HfXwmDGJAB8"
+    "cancionTitulo": "Three Little Birds",
+    "cancionArtista": "Bob Marley & The Wailers",
+    "youtubeId": "HNBCVM4KbUM"
   },
   {
     "dia": 55,
@@ -1254,16 +1254,16 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días, amor. Me gusta pensar que las cosas hechas a mano se quedan con un poquito de quien las hizo: el tiempo, las decisiones, hasta las marcas que no estaban planeadas.",
+    "buenosDias": "Lo hecho a mano lleva marcas del proceso: una curva imperfecta, una textura inesperada, una decisión que cambiaste a mitad de camino. Eso también cuenta la historia de quien lo hizo.",
     "poema": [
       "Una pieza de cerámica nunca es solo barro después de pasar por tus manos. Y una pintura no es solo color cuando sabes cuántas pruebas hubo detrás. Eso me parece lindo de tu mundo creativo.",
       "Ojalá hoy te acuerdes de valorar también el proceso, mi vida. A veces lo mejor de algo no se ve en la foto final, sino en todo lo que tuviste que descubrir para llegar ahí."
     ],
     "detalle": "Ten paciencia con lo que estás creando. El barro enseña que apretar demasiado no siempre arregla las cosas; a veces toca soltar, volver a dar forma y confiar en las manos.",
     "buenasNoches": "Buenas noches, bonita. El barro y la paciencia pueden esperar hasta mañana; por hoy, suelta todo lo que tengas entre las manos y descansa.",
-    "cancionTitulo": "Rara Bien",
-    "cancionArtista": "Rupatrupa",
-    "youtubeId": "15ws-oAh3G0"
+    "cancionTitulo": "Show Me How",
+    "cancionArtista": "Men I Trust",
+    "youtubeId": "OZRYzH0Q0pU"
   },
   {
     "dia": 56,
@@ -1277,7 +1277,7 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, corazón. Que hoy una mancha inesperada no te arruine el plan; quizá termine siendo justo el color que faltaba.",
+    "buenosDias": "Si una mancha cambia el rumbo de tu idea, mírala dos veces antes de borrarla. Puede que no funcione, claro, pero también puede abrir una posibilidad que no habías imaginado.",
     "poema": [
       "Me gusta que en el arte a veces el error se convierte en otra puerta. Primero uno se molesta, después mira mejor y de pronto aparece una idea que no habría llegado siguiendo las instrucciones.",
       "Si hoy te pasa, dale una segunda mirada antes de borrarlo todo, amor. Y si definitivamente queda horrible, siempre puedes decir que era una exploración conceptual."
@@ -1300,7 +1300,7 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, mi vida. Ojalá el atardecer de hoy parezca una pintura que alguien dejó secando en el cielo, con colores que no combinaban en teoría y quedaron perfectos en la práctica.",
+    "buenosDias": "Si el cielo se pinta bonito esta tarde, regálate un minuto para mirarlo. Tú que te fijas en los colores sabes que hay tonos que duran poco y aun así se quedan en la memoria.",
     "poema": [
       "Tú seguramente encontrarías el tono exacto para describirlo, mientras yo diría algo como «naranja rosado» y tú me mirarías con decepción artística.",
       "Si hoy ves uno bonito, corazón, me gustaría saber cómo lo describirías. Me fío más de tu ojo para los colores que del mío."
@@ -1323,7 +1323,7 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buenos días, amor. Hoy toca bolero y saxofón, porque a veces una canción sabe ser coqueta sin tener que decir las cosas de frente.",
+    "buenosDias": "Hoy le toca al bolero: una melodía con espacio para respirar y, si aparece el saxofón, mejor. Hay canciones que coquetean sin levantar la voz.",
     "poema": [
       "Me pregunto qué letra te haría sonreír de ladito, como cuando alguien dice algo bonito y tú intentas actuar como si no te hubiera gustado tanto.",
       "Pon tu bolero favorito, mi vida. Y si el saxofón entra justo en el momento indicado, imagina que te estoy dedicando esa parte desde algún rincón, haciéndome el misterioso sin mucho éxito."
@@ -1438,16 +1438,16 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, amor. Deja un huequito en el día para algo que no esté en la agenda: una charla, una canción, una siesta o mirar el cielo sin hacer nada más.",
+    "buenosDias": "No llenes cada espacio libre por costumbre. Si aparece una pausa, puedes dejarla ser una pausa: mirar el cielo, escuchar una canción o simplemente no hacer nada por unos minutos.",
     "poema": [
       "No todo lo bueno llega con cita previa. A veces lo mejor de la tarde es lo que aparece cuando uno deja de llenar cada minuto con pendientes.",
       "Ojalá hoy te sorprenda algo bonito, mi vida. Y si no, que al menos tengas un rato tranquilo que sea completamente tuyo."
     ],
     "detalle": "Deja un poquito de espacio para cambiar de idea. No todo lo que viene necesita una respuesta inmediata, y no tienes que tener resuelto el siguiente capítulo para disfrutar este.",
     "buenasNoches": "Buenas noches, corazón. No tienes que tener todos los planes resueltos; deja un poco de espacio para que la vida te sorprenda.",
-    "cancionTitulo": "Todo Bien Todo Bien",
-    "cancionArtista": "JHT",
-    "youtubeId": "YKP-wTi6zAI"
+    "cancionTitulo": "Three Little Birds",
+    "cancionArtista": "Bob Marley & The Wailers",
+    "youtubeId": "HNBCVM4KbUM"
   },
   {
     "dia": 64,
@@ -1461,16 +1461,16 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, corazón. Si tienes una idea rondándote la cabeza, empieza por algo pequeño hoy. No esperes a tener el escenario perfecto para darle una oportunidad.",
+    "buenosDias": "Si llevas una idea dando vueltas, prueba con un primer paso pequeño. No tienes que tener todo resuelto para empezar, y tampoco tienes que convertir cada entusiasmo en una obligación.",
     "poema": [
       "Sé que cuando algo te entusiasma puedes imaginar mil detalles de una vez. Pero también vale empezar con lo que tienes a mano y descubrir el resto sobre la marcha.",
       "Me cuentas qué estás pensando, amor. Me gusta escucharte cuando algo te emociona, porque hasta la forma en que lo explicas cambia cuando de verdad te importa."
     ],
     "detalle": "Si tienes ganas de empezar algo, da un primer paso pequeño. No necesitas sentirte lista al cien por ciento; a veces la confianza llega después de comenzar.",
     "buenasNoches": "Descansa, amor. Si hoy te quedó una idea rondando la cabeza, mañana puedes darle una oportunidad. Esta noche no tienes que perseguirla por toda la habitación.",
-    "cancionTitulo": "Can't Tell Me Nothing",
-    "cancionArtista": "Kanye West",
-    "youtubeId": "hqvcww4ydh8"
+    "cancionTitulo": "Show Me How",
+    "cancionArtista": "Men I Trust",
+    "youtubeId": "OZRYzH0Q0pU"
   },
   {
     "dia": 65,
@@ -1484,16 +1484,16 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buenos días, mi vida. Ojalá hoy te dé un ataque de risa en el momento menos oportuno, de esos en que intentas parar y solo empeoras las cosas.",
+    "buenosDias": "Ojalá hoy te dé una risa de esas que te cambian la cara antes de que alcances a disimularla. Si intentas ponerte seria y te vuelve a dar, ya está: perdiste esa batalla.",
     "poema": [
       "Hay algo contagioso en la risa sincera, especialmente cuando no se puede explicar por qué empezó. Me imagino tus ojos cafés achinándose un poquito y las pecas apareciendo como invitadas que nunca faltan.",
       "Si hoy te pasa, disfrútalo, corazón. La vida ya se pone seria demasiadas veces como para no aprovechar una tontería bien graciosa."
     ],
     "detalle": "Si hoy te sale una carcajada inesperada, ojalá nadie te pida que la bajes. Esas risas que desarman la seriedad hacen falta más de lo que uno cree.",
     "buenasNoches": "Buenas noches, mi vida. Ojalá hoy te hayas reído con ganas; una risa genuina a veces es lo mejor que uno se lleva del día.",
-    "cancionTitulo": "Just Can’t Get Enough",
-    "cancionArtista": "Black Eyed Peas",
-    "youtubeId": "OrTyD7rjBpw"
+    "cancionTitulo": "Put Your Records On",
+    "cancionArtista": "Corinne Bailey Rae",
+    "youtubeId": "oWQl00LWEwE"
   },
   {
     "dia": 66,
@@ -1507,16 +1507,16 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días, amor. ¿Tienes una canción que ya sientas tuya, aunque nadie más entienda por qué la escuchas tanto? Esas son las que más curiosidad me dan.",
+    "buenosDias": "¿Hay una canción que repites tanto que ya parece tener un lugar reservado en tu día? Si te nace, compártemela; me da curiosidad saber qué tiene para que siempre vuelvas a ella.",
     "poema": [
       "Una canción puede quedarse pegada a una persona, a un lugar o a una época de la vida. Después suenan dos notas y uno vuelve ahí sin pedir permiso.",
       "Compárteme una de esas, mi vida. Quiero conocer qué canciones guardas cerca del corazón y qué tienen para que siempre termines regresando a ellas."
     ],
     "detalle": "Si una canción ya se siente tuya, guárdala cerca. Hay melodías que terminan asociadas a un momento, a una persona o a una versión de uno mismo que da gusto recordar.",
     "buenasNoches": "Que descanses, corazón. Hay canciones que se vuelven parte de nuestros recuerdos sin avisar. Quizá alguna de las tuyas esté guardando uno bonito para más adelante.",
-    "cancionTitulo": "Mi Barrio Es Mi Estado",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "UFmV2yg6Oao"
+    "cancionTitulo": "I Want You Around",
+    "cancionArtista": "Snoh Aalegra",
+    "youtubeId": "4976Fgvf5Ps"
   },
   {
     "dia": 67,
@@ -1530,16 +1530,16 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Buenos días, corazón. Te propongo una elección sin trampas: arroz con huevo o pasta. Dos gustos distintos, ambos válidos, y nada de convertir uno en el otro.",
+    "buenosDias": "Hoy el menú no necesita debate: pasta cuando te provoque pasta, arroz con huevo cuando gane ese antojo. Y, por supuesto, sin añadirle sal a algo que ya sabes cómo te gusta.",
     "poema": [
       "Me imagino preguntándote qué quieres comer y escuchando una respuesta muy segura. Después yo intentaría proponer una salsa o un acompañamiento y tú decidirías si mi sugerencia merece ser tomada en serio.",
       "Cuando toque cocinar, amor, tú eliges el antojo y yo ayudo con lo demás. Prometo no llamar pasta al arroz con huevo ni cometer semejante falta de respeto gastronómico."
     ],
     "detalle": "Hoy no mezclemos tus antojos como si fueran lo mismo: pasta cuando provoca pasta, arroz con huevo cuando gana el clásico. La vida ya tiene suficientes confusiones; el almuerzo no tiene por qué sumarse.",
     "buenasNoches": "Buenas noches, amor. Mañana elige el plato que de verdad te provoque, sin debates innecesarios ni jueces de cocina.",
-    "cancionTitulo": "Family Affair",
-    "cancionArtista": "Mary J. Blige",
-    "youtubeId": "znlFu_lemsU"
+    "cancionTitulo": "Don't Know Why",
+    "cancionArtista": "Norah Jones",
+    "youtubeId": "tO4dxvguQDk"
   },
   {
     "dia": 68,
@@ -1553,16 +1553,16 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, mi vida. A veces el cariño está en recordar una diferencia que para los demás parece mínima, pero para ti significa que alguien sí prestó atención.",
+    "buenosDias": "Hay detalles que uno recuerda porque escuchó de verdad, no porque estuviera intentando memorizar una lista. También me acordé de Geto, uno de tus personajes favoritos de Jujutsu Kaisen; me da curiosidad qué parte de su historia te interesa más.",
     "poema": [
       "Quiero seguir aprendiendo tus pequeños detalles sin dar por hecho que ya lo sé todo de ti. Las personas cambian de antojo, de canción favorita y de opinión; lo bonito es seguir preguntando.",
       "Así que cuéntame, corazón, corrígeme y sorpréndeme. Conocerte no debería sentirse como terminar una tarea, sino como abrir un libro que todavía tiene páginas nuevas."
     ],
     "detalle": "Cuando alguien te cuente algo importante, intenta recordar ese detalle después. También me acordé de Geto, uno de tus personajes favoritos de Jujutsu Kaisen; me da curiosidad qué parte de su historia te gusta más. A veces, preguntar por algo que le importa a alguien es otra forma de escuchar de verdad.",
     "buenasNoches": "Que duermas tranquila, mi vida. Acordarte de lo que alguien te cuenta es una manera preciosa de cuidar; y dejar que también se acuerden de ti lo es igual.",
-    "cancionTitulo": "Where Is The Love?",
-    "cancionArtista": "Black Eyed Peas",
-    "youtubeId": "WpYeekQkAdc"
+    "cancionTitulo": "Best Part (feat. H.E.R.)",
+    "cancionArtista": "Daniel Caesar; H.E.R.",
+    "youtubeId": "vBy7FaapGRo"
   },
   {
     "dia": 69,
@@ -1576,7 +1576,7 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días, bonita. Ojalá hoy tengas una conversación de esas que encuentran su propio camino y no necesitan que nadie esté pensando qué decir después.",
+    "buenosDias": "Ojalá hoy tengas una conversación donde puedas hablar como eres: con tus gestos, tus cambios de tema, tus risas y también tus opiniones firmes. No necesitas editarte para caer bien.",
     "poema": [
       "A veces el silencio también cae bien cuando no hay presión por llenarlo. Puedes estar hablando de cualquier cosa, mirar por la ventana un momento y volver al tema como si nada.",
       "Me gustan esas charlas, amor. Las que no se sienten como una entrevista ni como una obligación, sino como un lugarcito donde da gusto quedarse."
@@ -1599,7 +1599,7 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, corazón. Hoy no voy a fingir que no me he fijado: tus ojos cafés tienen algo que cambia con la luz y tu sonrisa hace que las pecas se te noten todavía más.",
+    "buenosDias": "Hoy me fijé en un detalle muy tuyo: tus ojos cafés, las pecas que se notan más cuando sonríes y esa expresión espontánea que hace difícil no sonreír también. Solo quería dejarte el cumplido, sin pedirte nada a cambio.",
     "poema": [
       "Es un detalle precioso, mi vida. No porque tengas que verte de cierta forma, sino porque cuando sonríes aparece una versión de tu cara que se siente muy tuya, espontánea y difícil de olvidar.",
       "Guárdate este piropo para cuando el día esté medio gris: tienes una sonrisa que merece salir muchas veces y unas pecas que parecen esperar justo ese momento para hacerse notar."
@@ -1622,16 +1622,16 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, amor. Ojalá hoy te dejes mezclar ideas sin preguntarles primero si combinan. A veces el resultado aparece cuando uno se atreve a probar.",
+    "buenosDias": "Crear también es dejar que una idea cambie. Puedes empezar con un color, una forma o un pedazo de barro y descubrir después qué querías hacer; no todo tiene que aparecer claro desde el principio.",
     "poema": [
       "Me imagino tu mesa llena de cosas, una idea que cambia a mitad de camino y tú descubriendo que el plan nuevo te gusta más que el original. Eso también es parte de crear.",
       "Dale permiso a la improvisación, corazón. No todo tiene que salir de una imagen perfecta en la cabeza; a veces lo bonito aparece cuando empiezas."
     ],
     "detalle": "Prueba una idea nueva aunque todavía no sepas cómo llamarla. Tú puedes empezar con una mancha, un trozo de barro o una ocurrencia y encontrar el camino mientras avanzas.",
     "buenasNoches": "Buenas noches, artista. No hace falta que todas tus ideas tengan nombre antes de dormir. Algunas pueden quedarse en borrador y seguir siendo buenas.",
-    "cancionTitulo": "Partículas",
-    "cancionArtista": "Granuja",
-    "youtubeId": "E6oZorQDiN0"
+    "cancionTitulo": "Show Me How",
+    "cancionArtista": "Men I Trust",
+    "youtubeId": "OZRYzH0Q0pU"
   },
   {
     "dia": 72,
@@ -1645,16 +1645,16 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buenos días, mi vida. Ojalá hoy recibas cariño sin tener que descifrarlo. Que las palabras sean claras, los gestos sinceros y las dudas se puedan hablar sin miedo.",
+    "buenosDias": "Te deseo cariño claro: palabras que se sostengan con hechos y espacio para decir lo que piensas sin juegos. La ternura y el carácter no se contradicen; pueden vivir perfectamente en la misma persona.",
     "poema": [
       "No tienes que adivinar lo que alguien siente todo el tiempo. Una conexión bonita también deja espacio para preguntar, reírse de los nervios y decir las cosas con calma.",
       "Y si algo te gusta, corazón, puedes demostrarlo a tu manera, sin apurarte ni prometer más de lo que sientes. Lo bonito no necesita correr para ser real."
     ],
     "detalle": "Si quieres a alguien, que se note en los gestos que sí puedes ofrecer; y si algo te importa, dilo con claridad. La ternura no pierde su encanto por tener carácter, corazón.",
     "buenasNoches": "Que descanses, amor. Ser cariñosa no significa callarte lo que importa; tu ternura y tu firmeza pueden ir de la mano.",
-    "cancionTitulo": "Where Is The Love?",
-    "cancionArtista": "Black Eyed Peas",
-    "youtubeId": "WpYeekQkAdc"
+    "cancionTitulo": "No Está en Venta",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "Se6Cd4sW3ks"
   },
   {
     "dia": 73,
@@ -1668,16 +1668,16 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días, amor. Tu café sin azúcar, una mañana que no empiece gritando y un ratito para volver a ti: ese es mi deseo para hoy.",
+    "buenosDias": "Que el tinto salga a tu gusto y que tengas aunque sea un minuto para respirar antes de que el día te pida cosas. El café puede ser amargo; la jornada no tiene por qué serlo.",
     "poema": [
       "Me imagino la taza calentándote las manos mientras el sueño se va despidiendo poco a poco. No hay que convertir cada mañana en una carrera para que el día valga la pena.",
       "Ve a tu ritmo, corazón. Ojalá entre todo lo que tengas que hacer encuentres algo que te dé gusto, aunque sea pequeño."
     ],
     "detalle": "Date permiso de tomar el café despacio si el día te lo permite. Y si no, al menos no te exijas ser una máquina desde que abres los ojos; las máquinas ni siquiera disfrutan el café.",
     "buenasNoches": "Buenas noches, corazón. Si mañana toca café y correr, ojalá por lo menos tengas un minuto para respirar antes de que empiece la aventura.",
-    "cancionTitulo": "I Gotta Find Peace of Mind - Live",
-    "cancionArtista": "Ms. Lauryn Hill",
-    "youtubeId": "b2IbsMCgz4A"
+    "cancionTitulo": "Don't Know Why",
+    "cancionArtista": "Norah Jones",
+    "youtubeId": "tO4dxvguQDk"
   },
   {
     "dia": 74,
@@ -1691,16 +1691,16 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Buenos días, mi vida. Me imaginé una margarita al lado de tus pinceles, como si alguien hubiera querido dejarte un poquito de primavera en medio de tus colores.",
+    "buenosDias": "Una margarita cerca de tus pinceles no tiene que cambiarte el día entero. Basta con que levantes la mirada, la veas ahí y te acuerdes de que alguien pensó en una cosa que te gusta.",
     "poema": [
       "Hay detalles que encajan con una persona porque parecen escogidos mirando su mundo, no buscando cualquier cosa bonita en una tienda. Una flor junto a tus materiales tendría ese sentido.",
       "Si hoy estás creando, espero que algo te inspire y que no te falte una canción de fondo. Y si te da por cambiar todo el cuadro a mitad de camino, yo quiero el chisme completo."
     ],
     "detalle": "Si una margarita se queda cerca de tus pinceles, que no sea para que todo se vea perfecto. Que sea solo una cosita bonita en tu espacio, de esas que te hacen levantar la mirada y sonreír.",
     "buenasNoches": "Descansa, mi vida. Que mañana encuentres un detalle bonito en tu espacio y que te recuerde que no todo tiene que ser grande para alegrarte.",
-    "cancionTitulo": "Show Me How",
-    "cancionArtista": "Men I Trust",
-    "youtubeId": "OZRYzH0Q0pU"
+    "cancionTitulo": "Kiss Of Life",
+    "cancionArtista": "Sade",
+    "youtubeId": "MmOau-PMWJk"
   },
   {
     "dia": 75,
@@ -1714,16 +1714,16 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, corazón. Para cuando tengas ganas, dejo sobre la mesa este plan sencillo: cocinar algo rico, poner música, acomodarse en el sofá y discutir por una película que ninguno decide rápido.",
+    "buenosDias": "Te dejo un plan sin presión para cuando te provoque: algo rico de comer, ropa cómoda, música de fondo y una película que probablemente termine pausada porque la conversación se puso mejor.",
     "poema": [
       "A mí esos planes me gustan porque no intentan impresionar a nadie. Solo comer algo que provoca, conversar y tener tiempo para reírse incluso cuando la película ya empezó.",
       "Cuando te provoque, tú eliges qué cocinamos y yo ayudo… y de paso pregunto si ya se puede probar cada tres minutos."
     ],
     "detalle": "Si hoy se puede elegir, que el plan sea de casa: cocinar algo, ponerse cómodo y buscar una película. Si nos perdemos media trama hablando, siempre podemos decir que era una película experimental.",
     "buenasNoches": "Buenas noches, bonita. Ojalá el día te haya dejado con ganas de repetir algo bonito: una charla, una comida, una película o una risa compartida.",
-    "cancionTitulo": "Kiss Of Life",
+    "cancionTitulo": "By Your Side",
     "cancionArtista": "Sade",
-    "youtubeId": "MmOau-PMWJk"
+    "youtubeId": "C8QJmI_V3j4"
   },
   {
     "dia": 76,
@@ -1737,16 +1737,16 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días, bonita. Ojalá hoy tus mascotas te reciban como si hubieras vuelto de una expedición larguísima, aunque solo hayas salido un momento.",
+    "buenosDias": "Ojalá hoy tus mascotas te reciban con esa alegría exagerada que no necesita explicación. Hay saludos que duran unos segundos y aun así consiguen hacer que una llegada se sienta especial.",
     "poema": [
       "No sé cómo hacen los animales para convertir una llegada en una celebración. Debe ser esa forma tan honesta de quererte: sin discursos, sin pose, sin guardar la alegría para después.",
       "Dales cariño de mi parte, mi vida. Y si te sacan una sonrisa, ya hicieron su trabajo; aunque sospecho que tú también tienes bastante talento para alegrarles el día."
     ],
     "detalle": "Si tus mascotas se emocionan al verte, disfruta esa bienvenida sin tratar de hacerte la seria. Aunque vengas cansada, aunque haya sido un día largo, ese recibimiento merece una sonrisa genuina.",
     "buenasNoches": "Que descanses, corazón. Si mañana tus mascotas te reciben como si fueras la persona más importante del planeta, no discutas con ellas: por una vez, el drama está justificado.",
-    "cancionTitulo": "Is This Love",
+    "cancionTitulo": "Three Little Birds",
     "cancionArtista": "Bob Marley & The Wailers",
-    "youtubeId": "CHekNnySAfM"
+    "youtubeId": "HNBCVM4KbUM"
   },
   {
     "dia": 77,
@@ -1760,16 +1760,16 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, corazón. Último día del año, y yo solo quiero desearte una mañana tranquila, un café sin azúcar y un momento para mirar todo lo que has vivido sin exigirte tenerlo resuelto.",
+    "buenosDias": "Para cerrar el año, no hace falta hacer un inventario perfecto de lo que lograste. Ojalá puedas reconocer lo que aprendiste, lo que te hizo reír y los momentos en que fuiste fiel a ti misma.",
     "poema": [
       "Ojalá el año que termina te deje recuerdos que quieras guardar, ideas nuevas para crear y personas que te hagan sentir querida sin que tengas que pedirlo una y otra vez.",
       "Y para cerrar, mi vida, quédate con esto: no necesitas convertirte en otra persona para merecer cosas bonitas. Sigue siendo tú, con tus colores, tus canciones, tus ocurrencias y esa sonrisa que hace que las pecas se roben la escena."
     ],
     "detalle": "Y si hoy vuelves a llegar tarde al trabajo pero encuentras tiempo para desayunar, espero que al menos el desayuno haya valido la negociación con el reloj. No te estoy juzgando, mi vida; solo quiero saber si el pan ganó por goleada.",
     "buenasNoches": "Y si mañana vuelves a llegar tarde pero alcanzas a desayunar, espero que el desayuno haya sido espectacular para justificar semejante maniobra logística. Buenas noches, mi vida; el reloj y yo hablaremos con calma mañana.",
-    "cancionTitulo": "Don't Know Why",
-    "cancionArtista": "Norah Jones",
-    "youtubeId": "tO4dxvguQDk"
+    "cancionTitulo": "I'll Be Seeing You",
+    "cancionArtista": "Billie Holiday",
+    "youtubeId": "3C5zYKIuoxg"
   },
   {
     "dia": 78,
@@ -1783,7 +1783,7 @@ const CALENDARIO = [
       "suave": "#f0dff8",
       "oscuro": "#291633"
     },
-    "buenosDias": "Buenos días, mi vida. Feliz año nuevo. Ojalá este primero de enero te encuentre con calma, algo rico para desayunar y ganas de seguir haciendo las cosas a tu manera. No tienes que empezar el año con una lista enorme de propósitos; también vale empezar despacito y darte crédito por todo lo que ya eres.",
+    "buenosDias": "Feliz año nuevo, Aleja. Ojalá este año te deje crear mucho, reírte con ganas, escuchar canciones hasta cansarte de ellas y sentirte querida sin tener que dejar de ser tú. Que lleguen cosas buenas, pero que también tengas calma para disfrutarlas.",
     "poema": [
       "Corazón, deseo que este año te traiga momentos que te emocionen de verdad: ideas que te den ganas de pintar hasta perder la noción de la hora, canciones que encuentren justo el ánimo que tienes y personas que te cuiden con la misma ternura con la que tú sabes cuidar a los tuyos.",
       "Y ojalá no te falten razones para esa sonrisa tan genuina tuya. Que haya días tranquilos, otros llenos de historias para contar y muchos detalles pequeños que te hagan pensar: «qué bonito que esto me pasó». Feliz año, Aleja; que puedas vivirlo sin dejar de ser tú."
