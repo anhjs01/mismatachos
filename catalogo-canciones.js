@@ -911,6 +911,31 @@ const CATALOGO_CANCIONES = {
       "titulo": "Ain't Shit",
       "artista": "Doja Cat",
       "youtubeId": "13MvatpPQv4"
+    },
+    {
+      "titulo": "Quién Pidió Pollo",
+      "artista": "Granuja;Doble Porcion",
+      "youtubeId": "hctMB2pQkyY"
+    },
+    {
+      "titulo": "Nas Is Like",
+      "artista": "Nas",
+      "youtubeId": "VC4ORS5n9Hg"
+    },
+    {
+      "titulo": "Real Hip-Hop",
+      "artista": "Das EFX",
+      "youtubeId": "LvNOVqaz75c"
+    },
+    {
+      "titulo": "Hip 2 Da Game",
+      "artista": "Lord Finesse",
+      "youtubeId": "ihZXuUDUYho"
+    },
+    {
+      "titulo": "Shadowboxin'",
+      "artista": "GZA;Method Man",
+      "youtubeId": "-IZE7JSLJU0"
     }
   ],
   "ambiente": [
