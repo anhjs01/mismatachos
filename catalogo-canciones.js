@@ -182,6 +182,46 @@ const CATALOGO_CANCIONES = {
       "titulo": "The Sweetest Taboo",
       "artista": "Sade",
       "youtubeId": "kcPc18SG6uA"
+    },
+    {
+      "titulo": "Always Be My Baby",
+      "artista": "Mariah Carey",
+      "youtubeId": "LfRNRymrv9k"
+    },
+    {
+      "titulo": "You Don't Know My Name",
+      "artista": "Alicia Keys",
+      "youtubeId": "_ST6ZRbhGiA"
+    },
+    {
+      "titulo": "No One",
+      "artista": "Alicia Keys",
+      "youtubeId": "rywUS-ohqeE"
+    },
+    {
+      "titulo": "Versace on the Floor",
+      "artista": "Bruno Mars",
+      "youtubeId": "-FyjEnoIgTM"
+    },
+    {
+      "titulo": "Burn",
+      "artista": "USHER",
+      "youtubeId": "4I2GmRDL4pE"
+    },
+    {
+      "titulo": "Irreplaceable",
+      "artista": "Beyoncé",
+      "youtubeId": "2EwViQxSJJQ"
+    },
+    {
+      "titulo": "Love on Top",
+      "artista": "Beyoncé",
+      "youtubeId": "Ob7vObnFUJc"
+    },
+    {
+      "titulo": "Un-thinkable (I'm Ready)",
+      "artista": "Alicia Keys",
+      "youtubeId": "HhuGQUZJot8"
     }
   ],
   "filosofica": [
@@ -944,6 +984,36 @@ const CATALOGO_CANCIONES = {
       "titulo": "Gil",
       "artista": "Milo j; Trueno",
       "youtubeId": "2ezVj9wLr5U"
+    },
+    {
+      "titulo": "Everything Is Everything",
+      "artista": "Ms. Lauryn Hill",
+      "youtubeId": "i3_dOWYHS7I"
+    },
+    {
+      "titulo": "Waterfalls",
+      "artista": "TLC",
+      "youtubeId": "8WEtxJ4-sh4"
+    },
+    {
+      "titulo": "Back to Black",
+      "artista": "Amy Winehouse",
+      "youtubeId": "TJAfLE39ZZ8"
+    },
+    {
+      "titulo": "Survivor",
+      "artista": "Destiny's Child",
+      "youtubeId": "Wmc8bQoL-J0"
+    },
+    {
+      "titulo": "Cry Me a River",
+      "artista": "Justin Timberlake",
+      "youtubeId": "DksSPZTZES0"
+    },
+    {
+      "titulo": "Rehab",
+      "artista": "Amy Winehouse",
+      "youtubeId": "KUmZp8pR1uc"
     }
   ],
   "hot": [
@@ -1213,6 +1283,36 @@ const CATALOGO_CANCIONES = {
       "titulo": "Todo de Ti",
       "artista": "Rauw Alejandro",
       "youtubeId": "GUcz2y6e6yM"
+    },
+    {
+      "titulo": "Rock Your Body",
+      "artista": "Justin Timberlake",
+      "youtubeId": "TSVHoHyErBQ"
+    },
+    {
+      "titulo": "Sorry",
+      "artista": "Justin Bieber",
+      "youtubeId": "fRh_vgS2dFE"
+    },
+    {
+      "titulo": "Say It Right",
+      "artista": "Nelly Furtado",
+      "youtubeId": "6JnGBs88sL0"
+    },
+    {
+      "titulo": "Like I Love You",
+      "artista": "Justin Timberlake",
+      "youtubeId": "FQ3slUz7Jo8"
+    },
+    {
+      "titulo": "Crazy in Love",
+      "artista": "Beyoncé; Jay-Z",
+      "youtubeId": "ViwtNLUqkMY"
+    },
+    {
+      "titulo": "Umbrella",
+      "artista": "Rihanna; JAY-Z",
+      "youtubeId": "CvBfHwUxHIk"
     }
   ]
 };
