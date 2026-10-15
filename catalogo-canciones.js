@@ -302,61 +302,6 @@ const CATALOGO_CANCIONES = {
       "titulo": "Me Rehúso",
       "artista": "Danny Ocean",
       "youtubeId": "aDCcLQto5BM"
-    },
-    {
-      "titulo": "Isn't She Lovely",
-      "artista": "Stevie Wonder",
-      "youtubeId": "b8o9y6Z9l9c"
-    },
-    {
-      "titulo": "Vivir Sin Aire",
-      "artista": "Maná",
-      "youtubeId": "n5a6G6F3y2I"
-    },
-    {
-      "titulo": "Rayando el Sol",
-      "artista": "Maná",
-      "youtubeId": "0j0R3v1f8K0"
-    },
-    {
-      "titulo": "Limón y Sal",
-      "artista": "Julieta Venegas",
-      "youtubeId": "tIpzfs5tBJU"
-    },
-    {
-      "titulo": "Andar Conmigo",
-      "artista": "Julieta Venegas",
-      "youtubeId": "v6r2z9k4p1A"
-    },
-    {
-      "titulo": "Rosas",
-      "artista": "La Oreja de Van Gogh",
-      "youtubeId": "nyn8W6v1p3M"
-    },
-    {
-      "titulo": "Fotografía",
-      "artista": "Juanes; Nelly Furtado",
-      "youtubeId": "4Z2L0yY6J5M"
-    },
-    {
-      "titulo": "Me Enamora",
-      "artista": "Juanes",
-      "youtubeId": "8W9x5f5r7pA"
-    },
-    {
-      "titulo": "Bajo el Agua",
-      "artista": "Manuel Medrano",
-      "youtubeId": "6L9t5v3w8cA"
-    },
-    {
-      "titulo": "Besos en Guerra",
-      "artista": "Morat; Juanes",
-      "youtubeId": "1oeD2m2UQAI"
-    },
-    {
-      "titulo": "A dónde vamos",
-      "artista": "Morat",
-      "youtubeId": "Qw4g9s4c4vA"
     }
   ],
   "filosofica": [
@@ -1583,36 +1528,6 @@ const CATALOGO_CANCIONES = {
       "titulo": "Bailando",
       "artista": "Enrique Iglesias; Descemer Bueno; Gente de Zona",
       "youtubeId": "NUsoVlDFqZg"
-    },
-    {
-      "titulo": "Vivir Mi Vida",
-      "artista": "Marc Anthony",
-      "youtubeId": "YXnjy5YlDwk"
-    },
-    {
-      "titulo": "La Camisa Negra",
-      "artista": "Juanes",
-      "youtubeId": "kA0x8uYcXqQ"
-    },
-    {
-      "titulo": "La Flaca",
-      "artista": "Jarabe de Palo",
-      "youtubeId": "z3JY8Wv8v1Q"
-    },
-    {
-      "titulo": "Clavado en un Bar",
-      "artista": "Maná",
-      "youtubeId": "9Kq0n3M2f8Y"
-    },
-    {
-      "titulo": "Corazón Espinado",
-      "artista": "Santana; Maná",
-      "youtubeId": "t6omUxqhG78"
-    },
-    {
-      "titulo": "Oye Mi Amor",
-      "artista": "Maná",
-      "youtubeId": "uB7p2Y2v5bA"
     }
   ]
 };
