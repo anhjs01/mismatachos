@@ -970,6 +970,16 @@ const CATALOGO_CANCIONES = {
       "artista": "Luis7Lunes; Afterclass; Vic Deal; Fa-Zeta",
       "youtubeId": "ZjQjB1Bg5_Q"
     }
+    {
+      "titulo": "¿Quién No?",
+      "artista": "Alcolirykoz; Jannyval; MC Julo; MC Mago Real",
+      "youtubeId": "zxLefh9MHDo"
+    },
+    {
+      "titulo": "Meridiano Psicotrópico",
+      "artista": "Gordo Sarkasmus; ZetaZeta; Granuja; Moebiuz",
+      "youtubeId": "4H8QggL5w_g"
+    },
   ],
   "hot": [
     {
