@@ -1376,9 +1376,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy te pones una prenda grande y cómoda, que sea porque te gusta y punto. No tienes que justificar tu uniforme favorito ante un comité imaginario de moda.",
     "buenasNoches": "Que descanses, amor. Mañana puedes volver a elegir tu ropa favorita y seguir siendo tú, sin explicaciones ni permisos.",
-    "cancionTitulo": "Redbone",
-    "cancionArtista": "Childish Gambino",
-    "youtubeId": "Kp7eSUU9oy8"
+    "cancionTitulo": "Virtual Insanity - Remastered 2006",
+    "cancionArtista": "Jamiroquai",
+    "youtubeId": "4JkIs37a2JE"
   },
   {
     "dia": 61,
@@ -1629,9 +1629,9 @@ const CALENDARIO = [
     ],
     "detalle": "Prueba una idea nueva aunque todavía no sepas cómo llamarla. Tú puedes empezar con una mancha, un trozo de barro o una ocurrencia y encontrar el camino mientras avanzas.",
     "buenasNoches": "Buenas noches, artista. No hace falta que todas tus ideas tengan nombre antes de dormir. Algunas pueden quedarse en borrador y seguir siendo buenas.",
-    "cancionTitulo": "Virtual Insanity - Remastered 2006",
-    "cancionArtista": "Jamiroquai",
-    "youtubeId": "4JkIs37a2JE"
+    "cancionTitulo": "Aero-Soul",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "jk9S5ca0Oh0"
   },
   {
     "dia": 72,
