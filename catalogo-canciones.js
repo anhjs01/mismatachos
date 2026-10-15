@@ -442,6 +442,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Riptide",
       "artista": "Vance Joy",
       "youtubeId": "uJ_1HMAGb4k"
+    },
+    {
+      "titulo": "El Sol No Regresa",
+      "artista": "La Quinta Estación",
+      "youtubeId": "0mSNnobHcYQ"
     }
   ],
   "filosofica": [
