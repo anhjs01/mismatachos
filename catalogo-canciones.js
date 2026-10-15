@@ -54,7 +54,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "Vital (Téngase)", artista: "Crudo Means Raw", youtubeId: "cgJvtgZ7rBk" },
     { titulo: "Malpensante", artista: "Noiseferatu", youtubeId: "rThYUXZyTeA" },
     { titulo: "De la Cuna al Ataud", artista: "La Etnnia; Full Nelson", youtubeId: "iNL9MXulJCY" },
-    { titulo: "Jaula de Oro - Original", artista: "Laberinto ELC", youtubeId: "BNLL8DJgkfI" }
+    { titulo: "Jaula de Oro - Original", artista: "Laberinto ELC", youtubeId: "BNLL8DJgkfI" },
+    { titulo: "El Día de Mi Suerte", artista: "El Redcode", youtubeId: "ApqRPZ8xO6g" }
   ],
   hot: [
     { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
