@@ -29,6 +29,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "Es Épico", artista: "Canserbero", youtubeId: "bB8MTYLR1_w" },
     { titulo: "Stupid Love Story", artista: "Canserbero; Apache", youtubeId: "wmef2TEPGgo" },
     { titulo: "Mama Dejame Fumar", artista: "Asilo 38", youtubeId: "i3dCS-s0LBQ" },
+    { titulo: "Retina Floja", artista: "Bubaseta; Movimiento Original", youtubeId: "tdah2a4aKQ8" },
     { titulo: "Anestesia Local - Episodio 2", artista: "Alcolirykoz", youtubeId: "MRyZ6faVKWQ" },
     { titulo: "El Despilfarro", artista: "Alcolirykoz", youtubeId: "iKvJo5Vs244" },
     { titulo: "Noicanicula", artista: "La Etnnia", youtubeId: "z3ru8GXgHJE" },
