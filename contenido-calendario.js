@@ -1,5 +1,6 @@
 /* Calendario de Aleja · 78 días del 16 de octubre de 2026 al 1 de enero de 2027. Mensajes personalizados con voz cercana y romántica. */
 const CALENDARIO = [
+
   {
     "dia": 1,
     "fecha": "2026-10-16",
@@ -1284,9 +1285,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si una mancha de color cambia por completo tu idea, dale una oportunidad antes de borrarla. Quizá termine siendo justo lo que le faltaba, y eso también cuenta como saber crear.",
     "buenasNoches": "Que la noche te dé permiso de no arreglar lo que hoy salió distinto a lo esperado. A veces la sorpresa termina teniendo su propia belleza.",
-    "cancionTitulo": "Agacha",
+    "cancionTitulo": "Comediantes de Velorio",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "Kc0a1tuPOwg"
+    "youtubeId": "eP7W_YwWN28"
   },
   {
     "dia": 57,
@@ -1445,9 +1446,9 @@ const CALENDARIO = [
     ],
     "detalle": "Deja un poquito de espacio para cambiar de idea. No todo lo que viene necesita una respuesta inmediata, y no tienes que tener resuelto el siguiente capítulo para disfrutar este.",
     "buenasNoches": "Buenas noches, corazón. No tienes que tener todos los planes resueltos; deja un poco de espacio para que la vida te sorprenda.",
-    "cancionTitulo": "No Nos Trajo la Cigüeña",
+    "cancionTitulo": "La Danza del Miedo",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "-ST0PzOpkJc"
+    "youtubeId": "kR-rKKZuLl8"
   },
   {
     "dia": 64,
@@ -1794,4 +1795,5 @@ const CALENDARIO = [
     "cancionArtista": "No Rules Clan; Alcolirykoz; El Arkeologo",
     "youtubeId": "mF_8BMwhH5A"
   }
+
 ];
