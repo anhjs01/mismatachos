@@ -86,6 +86,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "La Danza del Miedo", artista: "Alcolirykoz", youtubeId: "kR-rKKZuLl8" },
     { titulo: "Ultraresistente", artista: "Alcolirykoz", youtubeId: "K7SkeVKW7uA" },
     { titulo: "Ateo", artista: "Granuja", youtubeId: "wCeWcWCC0vA" },
+    { titulo: "Los Genios de la Botella - Remix Kaztro", artista: "Alcolirykoz; Kaztro", youtubeId: "kfKJQaJ5O9w" },
     { titulo: "Me Volví Loco", artista: "King Kong Click; Bubaseta; Subwoffer", youtubeId: "MsnJzE8Cbw0" },
     { titulo: "Tuyo", artista: "Credo V Daniels", youtubeId: "8onYUmsBMxs" },
     { titulo: "Partículas", artista: "Granuja", youtubeId: "E6oZorQDiN0" },
