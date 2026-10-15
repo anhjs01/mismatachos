@@ -407,11 +407,6 @@ const CATALOGO_CANCIONES = {
       "titulo": "Chasing Cars",
       "artista": "Snow Patrol",
       "youtubeId": "GemKqzILV4w"
-    },
-    {
-      "titulo": "Look After You",
-      "artista": "The Fray",
-      "youtubeId": "c0W4tQvV6xQ"
     }
   ],
   "filosofica": [
@@ -1269,11 +1264,6 @@ const CATALOGO_CANCIONES = {
       "titulo": "How to Save a Life",
       "artista": "The Fray",
       "youtubeId": "cjVQ36NhbMk"
-    },
-    {
-      "titulo": "You Found Me",
-      "artista": "The Fray",
-      "youtubeId": "z6H7n3n9d8s"
     }
   ],
   "hot": [
