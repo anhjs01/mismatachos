@@ -406,7 +406,17 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Chasing Cars",
       "artista": "Snow Patrol",
-      "youtubeId": "GemKqzILV4w"
+      "youtubeId": "GrpSjXo6ah0"
+    },
+    {
+      "titulo": "Iris",
+      "artista": "The Goo Goo Dolls",
+      "youtubeId": "NdYWuo9OFAw"
+    },
+    {
+      "titulo": "The Reason",
+      "artista": "Hoobastank",
+      "youtubeId": "fV4DiAyExN0"
     }
   ],
   "filosofica": [
@@ -1264,6 +1274,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "How to Save a Life",
       "artista": "The Fray",
       "youtubeId": "cjVQ36NhbMk"
+    },
+    {
+      "titulo": "Breakeven",
+      "artista": "The Script",
+      "youtubeId": "k5PRxE4yJpw"
     }
   ],
   "hot": [
