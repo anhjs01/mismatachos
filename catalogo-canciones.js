@@ -357,6 +357,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Tú Sí Sabes Quererme",
       "artista": "Natalia Lafourcade; Los Macorinos",
       "youtubeId": "a8eDeLKWx74"
+    },
+    {
+      "titulo": "Nunca Es Suficiente",
+      "artista": "Natalia Lafourcade; Los Ángeles Azules",
+      "youtubeId": "k76BgIb89-s"
+    },
+    {
+      "titulo": "Es Por Ti",
+      "artista": "Juanes",
+      "youtubeId": "9hI7Qk5Z4v8"
     }
   ],
   "filosofica": [
@@ -1628,6 +1638,21 @@ const CATALOGO_CANCIONES = {
       "titulo": "A Sky Full of Stars",
       "artista": "Coldplay",
       "youtubeId": "VPRjCeoBqrI"
+    },
+    {
+      "titulo": "Everybody's Changing",
+      "artista": "Keane",
+      "youtubeId": "Zx4Hjq6KwO0"
+    },
+    {
+      "titulo": "Dreams",
+      "artista": "The Cranberries",
+      "youtubeId": "Yam5uK6e-bQ"
+    },
+    {
+      "titulo": "Cuando Nadie Ve",
+      "artista": "Morat",
+      "youtubeId": "K9V8b9d9wYQ"
     }
   ]
 };
