@@ -137,6 +137,9 @@ const CATALOGO_CANCIONES = {
     { titulo: "Nothin'", artista: "N.O.R.E.", youtubeId: "sul16s0VSzs" },
     { titulo: "La Salsa", artista: "McKlopedia; Rapsusklei; Zxmyr", youtubeId: "yonwHLj58Wc" },
     { titulo: "Coming Home (feat. Ms. Lauryn Hill)", artista: "Pusha T; Ms. Lauryn Hill", youtubeId: "9bx_r7H7eF8" },
+    { titulo: "Dele la Cara (Bendiciones)", artista: "Crudo Means Raw", youtubeId: "7v5r61PK_4c" },
+    { titulo: "Horas Extras", artista: "Crudo Means Raw; DJ Dmoe", youtubeId: "R5mHN8suqV8" },
+    { titulo: "El Estrén - Versión álbum", artista: "Crudo Means Raw", youtubeId: "xrQBpf_yfTc" },
   ],
   hot: [
     { titulo: "Las Tetas D.", artista: "Crack Family", youtubeId: "LQhERHd-k0E" },
