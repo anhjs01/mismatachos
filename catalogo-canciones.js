@@ -73,7 +73,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "Déjame Entrar", artista: "Cultura Profética", youtubeId: "IAhVESdwvIU" },
     { titulo: "good denim", artista: "jalen chords", youtubeId: "_2Lnj5N9lCM" },
     { titulo: "Antonia", artista: "Gondwana", youtubeId: "exxkGyu3G1Q" },
-    { titulo: "Fui Silencio", artista: "Sofía Gabanna; Jazzmind", youtubeId: "KV2ECDqPyuY" }
+    { titulo: "Fui Silencio", artista: "Sofía Gabanna; Jazzmind", youtubeId: "KV2ECDqPyuY" },
+    { titulo: "Keep Your Worries", artista: "Guru; Angie Stone", youtubeId: "7R0D6ryRUqQ" }
   ]
 };
 
