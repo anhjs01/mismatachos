@@ -1201,6 +1201,41 @@ const CATALOGO_CANCIONES = {
       "titulo": "Simon Says",
       "artista": "Pharoahe Monch",
       "youtubeId": "cKsMMoc_oOA"
+    },
+    {
+      "titulo": "Definition",
+      "artista": "Black Star",
+      "youtubeId": "EuJaStSL0xM"
+    },
+    {
+      "titulo": "You Never Knew",
+      "artista": "Hieroglyphics",
+      "youtubeId": "QWveXdj6oZU"
+    },
+    {
+      "titulo": "Come Clean - E New Y Radio",
+      "artista": "Jeru The Damaja",
+      "youtubeId": "M48nlk-1X9o"
+    },
+    {
+      "titulo": "Fall In Love",
+      "artista": "Slum Village",
+      "youtubeId": "s7p0Qm0z3Y8"
+    },
+    {
+      "titulo": "Street Talkin'",
+      "artista": "Slick Rick;Outkast",
+      "youtubeId": "eU2gDqf8pWQ"
+    },
+    {
+      "titulo": "Word Iz Life",
+      "artista": "Poor Righteous Teachers",
+      "youtubeId": "g9n8z2V6vJQ"
+    },
+    {
+      "titulo": "Streiht Up Menace",
+      "artista": "Compton's Most Wanted",
+      "youtubeId": "j4x2Y2QvQ4A"
     }
   ],
   "ambiente": [
