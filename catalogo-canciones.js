@@ -23,6 +23,8 @@ const CATALOGO_CANCIONES = {
   ],
   filosofica: [
     { titulo: "Otra Canción Larga", artista: "Alcolirykoz", youtubeId: "aAwXhAV3LPE" },
+    { titulo: "Centro de Acopio", artista: "Anyone/Cualkiera; Rapiphero", youtubeId: "iN4JYAXgqzY" },
+    { titulo: "Es Épico", artista: "Canserbero", youtubeId: "bB8MTYLR1_w" },
     { titulo: "Anestesia Local - Episodio 2", artista: "Alcolirykoz", youtubeId: "MRyZ6faVKWQ" },
     { titulo: "El Despilfarro", artista: "Alcolirykoz", youtubeId: "iKvJo5Vs244" },
     { titulo: "Noicanicula", artista: "La Etnnia", youtubeId: "z3ru8GXgHJE" },
