@@ -25,6 +25,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "Try Me", artista: "Jorja Smith", youtubeId: "gUn6i9bfdRA" },
     { titulo: "Are You That Somebody?", artista: "Aaliyah", youtubeId: "uTMuqL0qx08" },
     { titulo: "Dime Si Valio la Pena", artista: "Gonzalo Genek; Don-J HH; A.C.O", youtubeId: "Ar6VVj4FUPQ" },
+    { titulo: "Hold Up", artista: "Sasha Keable", youtubeId: "Igk6n0j1GBQ" },
   ],
   filosofica: [
     { titulo: "Otra Canción Larga", artista: "Alcolirykoz", youtubeId: "aAwXhAV3LPE" },
@@ -153,6 +154,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "Keep Your Worries", artista: "Guru; Angie Stone", youtubeId: "7R0D6ryRUqQ"  },
     { titulo: "I Gotta Find Peace of Mind - Live", artista: "Ms. Lauryn Hill", youtubeId: "b2IbsMCgz4A" },
     { titulo: "Ella", artista: "Kafu Banton; Almirante", youtubeId: "quToM5By41k" },
+    { titulo: "Baby, I Love Your Way", artista: "Big Mountain", youtubeId: "utXwIqQj7oE" },
   ]
 };
 
