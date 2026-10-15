@@ -934,6 +934,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "They Want EFX",
       "artista": "Das EFX",
       "youtubeId": "1PU22-fsGA0"
+    },
+    {
+      "titulo": "Resurrection",
+      "artista": "Common",
+      "youtubeId": "HmOd0GKuztE"
+    },
+    {
+      "titulo": "They Reminisce Over You (T.R.O.Y.)",
+      "artista": "Pete Rock & C.L. Smooth",
+      "youtubeId": "qs0ou8b9GS8"
     }
   ],
   "hot": [
