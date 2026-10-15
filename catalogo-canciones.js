@@ -1848,6 +1848,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Sweet Disposition",
       "artista": "The Temper Trap",
       "youtubeId": "vN7HQrgakZU"
+    },
+    {
+      "titulo": "Paradise",
+      "artista": "Coldplay",
+      "youtubeId": "J6ZWlDks0nQ"
     }
   ]
 };
