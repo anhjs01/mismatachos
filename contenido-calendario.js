@@ -86,7 +86,7 @@ const CALENDARIO = [
       "Me gustaría verte en ese momento en que algo por fin te sale como querías: primero la concentración, luego esa pequeña sonrisa de satisfacción y las pecas haciendo su aparición especial.",
       "No sé si te distraería o me quedaría quieto mirando. Probablemente intentaría hacerme el serio y me descubrirías enseguida. Tú sigue creando, mi vida; yo solo quería dejarte este pensamiento."
     ],
-    "detalle": "Cuando estés concentrada en algo, no te apures por terminar solo para pasar a lo siguiente. A veces lo bonito es verte metida en tu mundo, con esa expresión de ‘espera, que ya casi’ que seguro merece su propia fotografía.",
+    "detalle": "Cuando estés concentrada en algo, no te apures por terminar solo para pasar a lo siguiente. Y si se te escapa una muequita o ese «jum» que haces cuando una idea te cuadra, que sepas que hasta esos gestos pequeños tienen encanto.",
     "buenasNoches": "Apaga un rato las exigencias y deja que la cabeza descanse. Me gusta imaginarte tranquila, sin tener que demostrar nada ni resolverlo todo antes de dormir.",
     "cancionTitulo": "Trabajo Sucio",
     "cancionArtista": "Lianna",
@@ -385,7 +385,7 @@ const CALENDARIO = [
       "Me parece bonito que hasta los antojos tengan su propio lugar: el arroz con huevo por un lado, la pasta con todas sus posibilidades por otro. No hay que mezclarlos para entender que ambos pueden hacer feliz a alguien.",
       "Si algún día cocinamos, tú eliges cuál se te antoja y yo ayudo. Eso sí, me reservo el derecho de probar antes de servir y decir que solo estaba comprobando la sazón."
     ],
-    "detalle": "Si hoy te provoca arroz con huevo, disfrútalo sin que nadie venga a convertir el almuerzo en una competencia gastronómica. Los clásicos no necesitan una presentación con espuma y pinzas.",
+    "detalle": "Si hoy te provoca arroz con huevo, disfrútalo sin que nadie venga a convertir el almuerzo en una competencia gastronómica. Y que no se nos ocurra echarle sal: si no te gusta, se respeta, sin debate ni negociación.",
     "buenasNoches": "Descansa, mi vida. Mañana habrá más cosas que hacer, pero no necesitas adelantarte a todas desde la cama. Por ahora, el arroz con huevo puede esperar y tú también.",
     "cancionTitulo": "Suero Casero",
     "cancionArtista": "Alcolirykoz",
@@ -431,7 +431,7 @@ const CALENDARIO = [
       "Me gustan las conversaciones donde nadie está intentando parecer interesante y, sin darse cuenta, termina contando algo que no le cuenta a todo el mundo. Las que van de una canción a una historia de infancia y de ahí a cualquier disparate.",
       "Si hoy te pasa, quédate un rato más. Y si te falta tema, siempre puedes preguntarme algo raro; prometo responder con honestidad, aunque no garantizo que la respuesta sea normal."
     ],
-    "detalle": "Si se da una charla bonita, no te preocupes por tener un tema brillante a cada minuto. A veces una conversación se vuelve especial porque nadie está pendiente de cómo se ve desde fuera.",
+    "detalle": "Si esa charla viene con una copa de Merlot, mejor todavía; y si no hay vino, una conversación buena tampoco necesita adornos. No hace falta tener un tema brillante a cada minuto: a veces lo especial es que nadie está pendiente de cómo se ve desde fuera.",
     "buenasNoches": "Que la noche te deje el corazón liviano. Y si hoy una charla te hizo bien, guárdala como quien guarda una nota pequeña en el bolsillo.",
     "cancionTitulo": "Antes de Morir (Scratches Dj Pho)",
     "cancionArtista": "LosPetitFellas; Denise Gutiérrez; Dj Pho",
@@ -472,7 +472,7 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, amor. Ojalá hoy te dejes experimentar sin tener que saber de antemano cómo va a quedar todo. A veces una idea bonita empieza siendo un intento medio torcido.",
+    "buenosDias": "Hoy te propongo algo: experimentar sin tener que saber de antemano cómo va a quedar todo. A veces una idea bonita empieza siendo un intento medio torcido.",
     "poema": [
       "Crear también es cambiar de opinión, borrar, mezclar colores y descubrir que el plan original ya no era tan interesante. Me gusta que tengas ese mundo tuyo donde puedes probar caminos distintos.",
       "No te exijas que cada cosa salga perfecta, corazón. Déjate jugar un poquito. Las mejores historias también suelen tener una parte improvisada."
@@ -495,7 +495,7 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, mi vida. Te deseo un cariño tranquilo y claro: de esos que no te ponen a descifrar mensajes ni a preguntarte si molestaste por sentir algo.",
+    "buenosDias": "Una cosa sí te deseo: un cariño tranquilo y claro, de esos que no te ponen a descifrar mensajes ni a preguntarte si molestaste por sentir algo.",
     "poema": [
       "No todo lo bonito tiene que llegar con fuegos artificiales. A veces se nota en alguien que pregunta cómo estás y espera la respuesta, que recuerda lo que le contaste y que no desaparece cuando la conversación deja de ser divertida.",
       "Tú mereces esa clase de atención, Aleja. Y mientras llega cada cosa a su ritmo, no olvides que tus sentimientos no son un problema que tengas que esconder."
@@ -518,7 +518,7 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buenos días, corazón. Que tu café salga fuerte y sin azúcar, y que al menos los primeros minutos del día no te pidan correr ni resolver nada.",
+    "buenosDias": "Que tu café salga fuerte y sin azúcar, y que al menos los primeros minutos del día no te pidan correr ni resolver nada.",
     "poema": [
       "Me imagino esa primera taza, el aroma llenando la cocina y tú despertando a tu manera. Hay mañanas que se arreglan un poquito cuando uno no tiene que hablar con nadie hasta después del primer sorbo.",
       "Si pudiera dejarte algo junto al café, sería una nota chiquita que dijera: «tómate tu tiempo, bonita; el mundo puede esperar cinco minutos»."
@@ -541,7 +541,7 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días, amor. Me imaginé una margarita al lado de tus pinceles, entre colores y materiales, como si alguien hubiera querido dejarte un pedacito de jardín en tu rincón creativo.",
+    "buenosDias": "Imagínate una margarita al lado de tus pinceles, entre colores y materiales, como si alguien hubiera querido dejarte un pedacito de jardín en tu rincón creativo.",
     "poema": [
       "A veces los detalles más lindos no son los más grandes, sino los que encuentran su sitio justo donde uno pasa tiempo. Una flor junto a lo que te gusta hacer puede decir «me acordé de ti» sin interrumpirte.",
       "Ojalá hoy tengas algo así: un detalle que te alegre sin pedirte nada a cambio. Y si no aparece, al menos ya tienes una margarita imaginaria haciendo compañía."
@@ -564,12 +564,12 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Buenos días, mi vida. Se me ocurrió un plan bastante bueno: cocinar algo rico, picar un poquito mientras se hace, poner música y después pasar media hora decidiendo qué película ver.",
+    "buenosDias": "Plan sencillo para un día cualquiera: cocinar algo rico, picar un poquito mientras se hace, poner música y después pasar media hora decidiendo qué película ver.",
     "poema": [
       "Lo mejor de esos planes es que no tienen que salir perfectos. Puede quemarse un poquito algo, podemos cambiar de película tres veces y aun así terminar riéndonos de cualquier cosa en el sofá.",
       "Queda hecha la invitación para cuando te provoque, corazón. Tú eliges la comida; yo llevo hambre, disposición para ayudar y opiniones innecesarias sobre las películas."
     ],
-    "detalle": "Si algún día cocinamos juntos, tú eliges qué se prepara y yo me encargo de ayudar sin estorbar demasiado. Después buscamos una película y fingimos que vamos a verla completa sin hablar encima de las mejores escenas.",
+    "detalle": "Si alguna vez coincidimos cocinando, tú eliges qué se prepara y yo ayudo sin estorbar demasiado. Después buscamos una película y fingimos que vamos a verla completa sin hablar encima de las mejores escenas.",
     "buenasNoches": "Descansa, bonita. Algún día habrá cocina compartida, una película elegida entre los dos y una discusión seria sobre quién escogió mejor. Por ahora te dejo dormir sin spoilers.",
     "cancionTitulo": "Tuyo",
     "cancionArtista": "Credo V Daniels",
@@ -587,7 +587,7 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, amor. Ojalá hoy tus mascotas te regalen uno de esos momentos absurdamente tiernos que hacen que uno saque el celular para grabar y termine riéndose tanto que no graba nada.",
+    "buenosDias": "Ojalá hoy tus mascotas te regalen uno de esos momentos absurdamente tiernos que hacen que uno saque el celular para grabar y termine riéndose tanto que no graba nada.",
     "poema": [
       "Los animales tienen una forma muy suya de demostrar cariño: se emocionan, se acomodan a tu lado o aparecen justo cuando creen que necesitas compañía. No saben escribir mensajes, pero a veces sus maneras de estar dicen muchísimo.",
       "Dales una caricia de mi parte, mi vida. Y si hacen alguna travesura, no olvides que probablemente ellos ya olvidaron el delito mientras tú sigues buscando qué pasó."
@@ -610,7 +610,7 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días, corazón. Tu café sin azúcar tiene más carácter que mucha gente, y aun así tú consigues que la mañana se sienta amable. Qué combinación tan tuya.",
+    "buenosDias": "Primera regla de la mañana: el café va sin azúcar y a tu manera. Y si todavía tienes sueño, no voy a juzgarte; bastante valiente es negociar con el despertador.",
     "poema": [
       "Me gusta imaginarte con la taza entre las manos, todavía medio dormida, el pelo como haya querido amanecer y cero ganas de que alguien te dé instrucciones antes de tiempo.",
       "Despierta a tu ritmo, bonita. Hoy no tienes que ganarte el derecho a descansar ni demostrar nada antes de tomarte el café."
@@ -633,7 +633,7 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, mi vida. Si hoy aparece una fresa bonita o un durazno en su punto, considéralo una pequeña victoria del día. A veces el gusto está en cosas así de simples.",
+    "buenosDias": "Si hoy te cruzas con una fresa bonita o un durazno en su punto, considéralo una pequeña victoria del día. A veces el gusto está en cosas así de simples.",
     "poema": [
       "Me gusta la idea de compartir fruta sin ceremonia, elegir el pedazo más rico y fingir que no estamos discutiendo por el último. Aunque contigo seguramente terminaría cediendo… o pidiendo la mitad con mucha dignidad.",
       "Que hoy tengas algo rico, amor, y una conversación que te deje el mismo saborcito dulce que queda después de reírse mucho."
@@ -679,7 +679,7 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buenos días, amor. Ojalá hoy tus manos puedan hacer algo bonito, aunque sea una pieza pequeña, una prueba de color o algo que no tenías planeado.",
+    "buenosDias": "Manos a la obra, artista: ojalá hoy puedas hacer algo bonito, aunque sea una pieza pequeña, una prueba de color o algo que no tenías planeado.",
     "poema": [
       "Me imagino tus manos trabajando y tú mirando la pieza desde todos los ángulos para decidir qué le falta. A veces quisiera ver el proceso completo, no solo el resultado, porque seguro hay muchas ideas tuyas escondidas entre un intento y otro.",
       "Y si hoy algo no sale, no pasa nada, mi vida. No todo lo que haces tiene que convertirse en una obra maestra; también puedes crear por el puro gusto de hacerlo."
@@ -702,7 +702,7 @@ const CALENDARIO = [
       "suave": "#dcf7f4",
       "oscuro": "#12343b"
     },
-    "buenosDias": "Buenos días, corazón. Ojalá hoy mezcles dos colores y aparezca uno que no estabas buscando, pero que te guste tanto que cambies todo el plan por él.",
+    "buenosDias": "Me gusta pensar en los colores como en las ideas: mezclas dos y, de pronto, aparece uno que no estabas buscando, pero que te gusta tanto que cambias todo el plan por él.",
     "poema": [
       "Me parece que crear tiene algo de magia y algo de terquedad: probar, mirar, mover un poquito más y de repente descubrir que la idea estaba esperando en otro lugar.",
       "Si hoy encuentras un color así, guárdalo. Y luego me cuentas cómo lo llamarías, porque seguro tú le pondrías un nombre más bonito que «ese azul raro que salió»."
@@ -725,7 +725,7 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Buenos días, mi vida. Que el cielo te regale uno de esos atardeceres que parecen pintados con una paleta que ni siquiera sabías que existía.",
+    "buenosDias": "Que el cielo te regale uno de esos atardeceres que parecen pintados con una paleta que ni siquiera sabías que existía.",
     "poema": [
       "Me imagino señalando una nube y tú diciéndome que ese color no es naranja sino otra cosa mucho más precisa. Yo discutiría por molestar, tú defenderías tu punto y el cielo seguiría cambiando sin esperar nuestro veredicto.",
       "Si hoy ves uno bonito, corazón, quédate un minuto. Y si te acuerdas de mí, me doy por afortunado."
@@ -748,7 +748,7 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, amor. Ojalá hoy una canción te encuentre en el momento exacto y te haga sentir que alguien entendió algo que no sabías explicar.",
+    "buenosDias": "Si una melodía te encuentra en el momento exacto, ojalá te haga sentir que alguien entendió algo que no sabías explicar.",
     "poema": [
       "Hay melodías que se quedan pegadas a un recuerdo, a una tarde o a una persona. Después basta con escuchar los primeros segundos para que la cabeza vuelva ahí, incluso cuando uno está haciendo cualquier otra cosa.",
       "Me gustaría conocer esas canciones tuyas que no cambiarías por nada. No para juzgar tus gustos, bonita; bueno, quizá para molestarte un poquito si me sorprendes, pero sobre todo para escucharte hablar de lo que te gusta."
@@ -771,7 +771,7 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días, corazón. Que hoy el R&B te acompañe como esa persona que no te exige conversación: está ahí, suena bonito y deja que respires.",
+    "buenosDias": "Para una tarde sin tanta prisa, que el R&B te acompañe como una presencia tranquila: está ahí, suena bonito y deja que respires.",
     "poema": [
       "A veces uno no necesita consejos, solo una canción que le haga compañía y un rato sin tener que explicar el ánimo que trae. Espero que encuentres esos minutos para ti.",
       "Y si hoy te provoca compartir música, mándame una. Me gusta descubrir qué escuchas cuando quieres bajar el ruido del mundo."
@@ -794,7 +794,7 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, bonita. Ojalá hoy puedas usar tu ropa más cómoda, esa que te deja existir sin estar acomodándote cada cinco segundos.",
+    "buenosDias": "El código de vestuario de hoy es fácil: ponte esa ropa amplia que te deja existir sin estar acomodándote cada cinco segundos.",
     "poema": [
       "Hay algo atractivo en la gente que se siente a gusto siendo ella misma. Tú tienes ese estilo relajado que parece decir «estoy bien así» y, sinceramente, le queda muy bien a tu manera de ser.",
       "Ponte lo que te dé la gana, mi vida. Y si hoy te miras al espejo y te gusta lo que ves, no dejes que una voz quisquillosa te arruine el momento."
@@ -817,7 +817,7 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, amor. Hoy me acordé de esa mora con cobertura amarga que te gusta. No sé quién inventó esa combinación, pero merece una felicitación formal.",
+    "buenosDias": "Ese antojo de mora con cobertura amarga merece una felicitación formal. No sé quién inventó esa combinación, pero claramente sabía lo que hacía.",
     "poema": [
       "Hay algo bonito en que alguien recuerde un antojo tan específico. No porque sea una gran hazaña, sino porque en medio de tantas cosas del día queda un espacio para pensar: «esto le gusta a ella».",
       "Ojalá hoy te encuentres con algo que se te antoje de verdad, corazón. Y si no, queda pendiente la misión de conseguir esa combinación como debe ser."
@@ -840,7 +840,7 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buenos días, mi vida. Te mando una flor imaginaria por ahora: puede ser un tulipán o una margarita, tú escoges. La idea es que te llegue sin necesitar una fecha especial.",
+    "buenosDias": "No se necesita una fecha especial para mandar una flor imaginaria: puede ser un tulipán o una margarita, tú escoges.",
     "poema": [
       "Me gustan las flores que no vienen a resolver nada, solo a alegrar un rincón y recordarte que alguien pensó en ti un momento. A veces eso basta para cambiarle el tono a una tarde.",
       "Si hoy pudieras elegir una para tener cerca, ¿cuál sería, corazón? Quiero saber si gana el tulipán elegante o la margarita que parece sonreír."
@@ -863,7 +863,7 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días, corazón. Si hoy todo parece desordenado, no tienes que resolverlo de una vez. Empieza por algo pequeño y luego respira.",
+    "buenosDias": "Si hoy todo parece desordenado, no tienes que resolverlo de una vez. Empieza por algo pequeño y luego respira.",
     "poema": [
       "A veces nos exigimos tanto que hasta descansar parece otra tarea pendiente. Ojalá hoy puedas dejar una cosa para después sin sentir que estás fallando por eso.",
       "Cuídate un poquito, mi vida. No tienes que poder con todo al mismo tiempo para seguir siendo esa persona capaz y bonita que eres."
@@ -886,7 +886,7 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Buenos días, Aleja. Ojalá hoy te llegue una idea que te encienda la mirada y te haga querer levantarte a probarla antes de que se te olvide.",
+    "buenosDias": "A veces una idea llega con tanta fuerza que te dan ganas de levantarte a probarla antes de que se te olvide. Ojalá hoy te visite una de esas.",
     "poema": [
       "Me gusta imaginarte con ese brillo de cuando algo te emociona de verdad. Es como si por un momento todo lo demás bajara el volumen y solo existiera lo que estás pensando hacer.",
       "Hazle caso a esa chispa, corazón. Aunque solo puedas empezar un poquito, me encantará saber qué se te ocurrió esta vez."
@@ -909,7 +909,7 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, mi vida. Necesito que hoy te rías por algo ridículo, de esas tonterías que no se pueden explicar sin que pierdan la gracia.",
+    "buenosDias": "Reto de hoy: encontrar algo ridículo que te haga reír de verdad, de esas tonterías que no se pueden explicar sin que pierdan la gracia.",
     "poema": [
       "Hay sonrisas bonitas y luego está esa que intentas esconder y no te sale. Las pecas aparecen, los ojos se te iluminan y quien esté cerca termina queriendo saber qué fue lo que pasó.",
       "Si hoy te pasa, no la escondas, amor. Y si te ríes leyendo esto, por favor imagíname intentando hacerme el interesante y fallando con bastante dignidad."
