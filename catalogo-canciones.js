@@ -137,6 +137,21 @@ const CATALOGO_CANCIONES = {
       "titulo": "February 3rd",
       "artista": "Jorja Smith",
       "youtubeId": "DI5fYHCk318"
+    },
+    {
+      "titulo": "Lost & Found",
+      "artista": "Jorja Smith",
+      "youtubeId": "9xZ6P4Sinvw"
+    },
+    {
+      "titulo": "Don't Watch Me Cry",
+      "artista": "Jorja Smith",
+      "youtubeId": "_iU1_WhMVjY"
+    },
+    {
+      "titulo": "RATHER BE",
+      "artista": "GIVĒON",
+      "youtubeId": "Yd1smtHpxaY"
     }
   ],
   "filosofica": [
