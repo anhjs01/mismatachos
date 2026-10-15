@@ -427,6 +427,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "For the First Time",
       "artista": "The Script",
       "youtubeId": "4fndeDfaWCg"
+    },
+    {
+      "titulo": "Brillas",
+      "artista": "León Larregui",
+      "youtubeId": "Mcj75l2gJcY"
+    },
+    {
+      "titulo": "Vámonos a Marte",
+      "artista": "Kevin Kaarl",
+      "youtubeId": "er2upfZf_cg"
     }
   ],
   "filosofica": [
@@ -1812,7 +1822,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Eres Para Mí",
       "artista": "Julieta Venegas; Anita Tijoux",
-      "youtubeId": "5p4Uy5K4W4w"
+      "youtubeId": "pj2ntDiXJCk"
     }
   ]
 };
