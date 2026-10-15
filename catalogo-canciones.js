@@ -1251,7 +1251,42 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Little Rascals",
       "artista": "Shyheim",
-      "youtubeId": "3LlzGLebU639V8rP0OoGlL"
+      "youtubeId": ""
+    },
+    {
+      "titulo": "Never Say Never (Interlude)",
+      "artista": "Shyheim",
+      "youtubeId": ""
+    },
+    {
+      "titulo": "Here I Am",
+      "artista": "Shyheim",
+      "youtubeId": ""
+    },
+    {
+      "titulo": "You The Man",
+      "artista": "Shyheim",
+      "youtubeId": ""
+    },
+    {
+      "titulo": "Napsack",
+      "artista": "Shyheim",
+      "youtubeId": ""
+    },
+    {
+      "titulo": "4 The Headpiece (Interlude)",
+      "artista": "Shyheim",
+      "youtubeId": ""
+    },
+    {
+      "titulo": "Party's Goin' On",
+      "artista": "Shyheim",
+      "youtubeId": ""
+    },
+    {
+      "titulo": "Shouts On The Outs (Interlude)",
+      "artista": "Shyheim",
+      "youtubeId": ""
     }
   ],
   "hot": [
