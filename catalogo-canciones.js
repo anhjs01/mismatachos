@@ -919,6 +919,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "It's Been A Long Time",
       "artista": "Rakim",
       "youtubeId": "qWPmRSYq-f8"
+    },
+    {
+      "titulo": "Don't Sweat The Technique",
+      "artista": "Eric B. & Rakim",
+      "youtubeId": "mAgK_qOduIQ"
+    },
+    {
+      "titulo": "Hip Hop Hooray",
+      "artista": "Naughty By Nature",
+      "youtubeId": "2JhvpQWJgfA"
     }
   ],
   "hot": [
@@ -1101,6 +1111,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Born 2 Live",
       "artista": "O.C.",
       "youtubeId": "Gf68J5iqK6g"
+    },
+    {
+      "titulo": "Mama Said Knock You Out",
+      "artista": "LL COOL J",
+      "youtubeId": "vimZj8HW0Kg"
+    },
+    {
+      "titulo": "Children's Story",
+      "artista": "Slick Rick",
+      "youtubeId": "HjNTu8jdukA"
     }
   ],
   "ambiente": [
