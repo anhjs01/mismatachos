@@ -170,6 +170,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "DIAMONDS FOR YOUR PAIN",
       "artista": "GIVĒON",
       "youtubeId": "L2dmZSHkFPs"
+    },
+    {
+      "titulo": "SIX:THIRTY",
+      "artista": "GIVĒON",
+      "youtubeId": "JIlpbuUp1uw"
     }
   ],
   "filosofica": [
