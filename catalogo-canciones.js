@@ -1179,6 +1179,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Pass It Off",
       "artista": "Shyheim; Rubbabandz; Down Low Recka; K-Tez",
       "youtubeId": "0rvirkTyJ8k"
+    },
+    {
+      "titulo": "La Utopía en Que Vivimos",
+      "artista": "Rupatrupa",
+      "youtubeId": "pX0KGGAcpJc"
     }
   ],
   "hot": [
