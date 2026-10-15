@@ -135,9 +135,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si te llega ese olor a pintura que tanto te gusta, ojalá te regale un ratito de paz. Me gusta imaginarte encontrando colores y posibilidades donde otros solo verían manchas en una mesa.",
     "buenasNoches": "Espero que termines el día con esa sensación de haber tenido un momento para ti. Y si no lo tuviste, que al menos la noche te lo regale.",
-    "cancionTitulo": "Házmelo Rap",
+    "cancionTitulo": "Aero-Soul",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "P1qamoOHLYM"
+    "youtubeId": "jk9S5ca0Oh0"
   },
   {
     "dia": 7,
@@ -365,9 +365,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si una canción te gusta, repítela sin pedir disculpas. Hay gente que escucha una vez y sigue; tú puedes darle otra vuelta hasta que la canción ya parezca parte del día.",
     "buenasNoches": "Que tengas una noche tranquila, amor. Si hay una canción que todavía quieres escuchar otra vez, escúchala; no todo lo que te hace bien tiene que ser productivo.",
-    "cancionTitulo": "Keep Your Worries",
-    "cancionArtista": "Guru; Angie Stone",
-    "youtubeId": "7R0D6ryRUqQ"
+    "cancionTitulo": "Otra Canción Larga",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "aAwXhAV3LPE"
   },
   {
     "dia": 17,
@@ -687,9 +687,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si una pieza de cerámica no queda como la imaginabas, no la declares perdida enseguida. Quizá solo está encontrando una forma que no tenías planeada, como tantas cosas buenas.",
     "buenasNoches": "Buenas noches, artista. No todas las piezas tienen que quedar listas hoy, ni todas las ideas tienen que convertirse enseguida en algo concreto. Deja que el proceso respire.",
-    "cancionTitulo": "Aero-Soul",
+    "cancionTitulo": "Házmelo Rap",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "jk9S5ca0Oh0"
+    "youtubeId": "P1qamoOHLYM"
   },
   {
     "dia": 31,
@@ -1147,9 +1147,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si el plan ideal resulta ser cocinar algo sencillo y quedarse en casa viendo una película, defiéndelo con orgullo. No todas las citas necesitan reserva, tacones ni una logística digna de una excursión.",
     "buenasNoches": "Descansa, mi vida. Un plan bonito también puede ser no salir, cocinar algo rico y compartir el sofá. No todo lo especial necesita luces de ciudad.",
-    "cancionTitulo": "Otra Canción Larga",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "aAwXhAV3LPE"
+    "cancionTitulo": "Keep Your Worries",
+    "cancionArtista": "Guru; Angie Stone",
+    "youtubeId": "7R0D6ryRUqQ"
   },
   {
     "dia": 51,
