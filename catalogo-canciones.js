@@ -1040,6 +1040,11 @@ const CATALOGO_CANCIONES = {
       "artista": "Granuja, Rapiphero",
       "youtubeId": "qZzq4DP8b-4"
     },
+    {
+      "titulo": "Interludio de Sentimientos",
+      "artista": "Gona",
+      "youtubeId": "EXf-igoSsIs"
+    },
   ],
   "hot": [
     {
