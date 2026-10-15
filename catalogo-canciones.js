@@ -307,6 +307,26 @@ const CATALOGO_CANCIONES = {
       "titulo": "Limón y Sal",
       "artista": "Julieta Venegas",
       "youtubeId": "tIpzfs5tBJU"
+    },
+    {
+      "titulo": "Linger",
+      "artista": "The Cranberries",
+      "youtubeId": "G6Kspj3OO0s"
+    },
+    {
+      "titulo": "Antología",
+      "artista": "Shakira",
+      "youtubeId": "pWgVRK_Ggww"
+    },
+    {
+      "titulo": "Make You Feel My Love",
+      "artista": "Adele",
+      "youtubeId": "0put0_a--Ng"
+    },
+    {
+      "titulo": "The Scientist",
+      "artista": "Coldplay",
+      "youtubeId": "RB-RcX5DS5A"
     }
   ],
   "filosofica": [
@@ -1548,6 +1568,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Corazón Espinado",
       "artista": "Santana; Maná",
       "youtubeId": "t6omUxqhG78"
+    },
+    {
+      "titulo": "Mr. Brightside",
+      "artista": "The Killers",
+      "youtubeId": "gGdGFtwCNBE"
     }
   ]
 };
