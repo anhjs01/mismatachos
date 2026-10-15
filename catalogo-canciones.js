@@ -222,6 +222,51 @@ const CATALOGO_CANCIONES = {
       "titulo": "Un-thinkable (I'm Ready)",
       "artista": "Alicia Keys",
       "youtubeId": "HhuGQUZJot8"
+    },
+    {
+      "titulo": "Love Galore",
+      "artista": "SZA; Travis Scott",
+      "youtubeId": "hHXfCOjb3fk"
+    },
+    {
+      "titulo": "Good Days",
+      "artista": "SZA",
+      "youtubeId": "2p3zZoraK9g"
+    },
+    {
+      "titulo": "Damage",
+      "artista": "H.E.R.",
+      "youtubeId": "EDZ25mol6tY"
+    },
+    {
+      "titulo": "Best Part",
+      "artista": "Daniel Caesar; H.E.R.",
+      "youtubeId": "vBy7FaapGRo"
+    },
+    {
+      "titulo": "Ascension (Don't Ever Wonder)",
+      "artista": "Maxwell",
+      "youtubeId": "D7rm9t5S4uE"
+    },
+    {
+      "titulo": "Just the Two of Us",
+      "artista": "Grover Washington, Jr.; Bill Withers",
+      "youtubeId": "6POZlJAZsok"
+    },
+    {
+      "titulo": "Let's Stay Together",
+      "artista": "Al Green",
+      "youtubeId": "COiIC3A0ROM"
+    },
+    {
+      "titulo": "Careless Whisper",
+      "artista": "George Michael",
+      "youtubeId": "izGwDsrQ1eQ"
+    },
+    {
+      "titulo": "Just the Way You Are",
+      "artista": "Bruno Mars",
+      "youtubeId": "LjhCEhWiKXk"
     }
   ],
   "filosofica": [
@@ -1014,6 +1059,21 @@ const CATALOGO_CANCIONES = {
       "titulo": "Rehab",
       "artista": "Amy Winehouse",
       "youtubeId": "KUmZp8pR1uc"
+    },
+    {
+      "titulo": "Everybody Wants to Rule the World",
+      "artista": "Tears for Fears",
+      "youtubeId": "aGCdLKXNF3w"
+    },
+    {
+      "titulo": "Crazy",
+      "artista": "Gnarls Barkley",
+      "youtubeId": "bd2B6SjMh_w"
+    },
+    {
+      "titulo": "Love Yourself",
+      "artista": "Justin Bieber",
+      "youtubeId": "oyEuk8j8imI"
     }
   ],
   "hot": [
@@ -1313,6 +1373,46 @@ const CATALOGO_CANCIONES = {
       "titulo": "Umbrella",
       "artista": "Rihanna; JAY-Z",
       "youtubeId": "CvBfHwUxHIk"
+    },
+    {
+      "titulo": "Love Like This",
+      "artista": "Faith Evans",
+      "youtubeId": "w1QzBQKYbag"
+    },
+    {
+      "titulo": "September",
+      "artista": "Earth, Wind & Fire",
+      "youtubeId": "Gs069dndIYk"
+    },
+    {
+      "titulo": "Smooth",
+      "artista": "Santana; Rob Thomas",
+      "youtubeId": "6Whgn_iE5uc"
+    },
+    {
+      "titulo": "Locked Out of Heaven",
+      "artista": "Bruno Mars",
+      "youtubeId": "e-fA-gBCkj0"
+    },
+    {
+      "titulo": "24K Magic",
+      "artista": "Bruno Mars",
+      "youtubeId": "UqyT8IEBkvY"
+    },
+    {
+      "titulo": "Shape of You",
+      "artista": "Ed Sheeran",
+      "youtubeId": "JGwWNGJdvx8"
+    },
+    {
+      "titulo": "Watermelon Sugar",
+      "artista": "Harry Styles",
+      "youtubeId": "E07s5ZYygMg"
+    },
+    {
+      "titulo": "Can't Feel My Face",
+      "artista": "The Weeknd",
+      "youtubeId": "KEI4qSrkPAs"
     }
   ]
 };
