@@ -1752,7 +1752,7 @@ const CALENDARIO = [
     "dia": 77,
     "fecha": "2026-12-31",
     "fechaTexto": "jue, 31 de dic",
-    "categoria": "El café que empieza la mañana",
+    "categoria": "Lo que este año te enseñó",
     "icono": "🎆",
     "tono": "amor",
     "color": {
@@ -1765,8 +1765,8 @@ const CALENDARIO = [
       "Ojalá el año que termina te deje recuerdos que quieras guardar, ideas nuevas para crear y personas que te hagan sentir querida sin que tengas que pedirlo una y otra vez.",
       "Y para cerrar, mi vida, quédate con esto: no necesitas convertirte en otra persona para merecer cosas bonitas. Sigue siendo tú, con tus colores, tus canciones, tus ocurrencias y esa sonrisa que hace que las pecas se roben la escena."
     ],
-    "detalle": "Y si hoy vuelves a llegar tarde al trabajo pero encuentras tiempo para desayunar, espero que al menos el desayuno haya valido la negociación con el reloj. No te estoy juzgando, mi vida; solo quiero saber si el pan ganó por goleada.",
-    "buenasNoches": "Y si mañana vuelves a llegar tarde pero alcanzas a desayunar, espero que el desayuno haya sido espectacular para justificar semejante maniobra logística. Buenas noches, mi vida; el reloj y yo hablaremos con calma mañana.",
+    "detalle": "Antes de que termine el año, quédate un momento con lo que sí vale la pena guardar: una risa inesperada, algo que aprendiste, una idea que te emocionó o una persona que te hizo bien. No hace falta que todo haya salido perfecto para que haya habido cosas bonitas.",
+    "buenasNoches": "Buenas noches, Aleja. Que el año que se va no te obligue a hacer cuentas demasiado duras contigo misma. Guarda lo que te hizo bien, suelta un poco lo que pesó y date permiso de recibir el año nuevo sin tener que tenerlo todo resuelto.",
     "cancionTitulo": "I'll Be Seeing You",
     "cancionArtista": "Billie Holiday",
     "youtubeId": "3C5zYKIuoxg"
@@ -1790,8 +1790,8 @@ const CALENDARIO = [
     ],
     "detalle": "Hoy no toca exigirte una versión nueva de ti como si fueras un proyecto pendiente. Come algo rico, abraza a tus mascotas si las tienes cerca, habla con tu gente y date permiso de comenzar el año a tu ritmo. Los propósitos pueden esperar hasta después del desayuno; ya sabes que esa negociación con el reloj tiene antecedentes.",
     "buenasNoches": "Buenas noches, corazón, y feliz primer día del año. Ojalá hoy hayas tenido un momento bonito, una risa sincera o una conversación que te haya hecho sentir cerca de tu gente. Que este año te dé espacio para crear, descansar, querer y dejarte querer. No hace falta que el primer día sea perfecto para que el año tenga cosas buenas por delante.",
-    "cancionTitulo": "Three Little Birds",
-    "cancionArtista": "Bob Marley & The Wailers",
-    "youtubeId": "HNBCVM4KbUM"
+    "cancionTitulo": "Freedom",
+    "cancionArtista": "Pharrell Williams",
+    "youtubeId": "LlY90lG_Fuw"
   }
 ];
