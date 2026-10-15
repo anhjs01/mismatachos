@@ -849,6 +849,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Keep Their Heads Ringin'",
       "artista": "Dr. Dre",
       "youtubeId": "TE891IHxyV8"
+    },
+    {
+      "titulo": "Mmhmm",
+      "artista": "BigXthaPlug",
+      "youtubeId": "x_WayannFys"
     }
   ],
   "hot": [
@@ -881,6 +886,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Boombastic",
       "artista": "Shaggy",
       "youtubeId": "f0sVDGFoIOI"
+    },
+    {
+      "titulo": "POP DAT THANG",
+      "artista": "DaBaby",
+      "youtubeId": "syc4SzrubKY"
     }
   ],
   "ambiente": [
