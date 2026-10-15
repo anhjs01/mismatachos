@@ -24,6 +24,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "Like I Want You", artista: "GIVĒON", youtubeId: "yNNMKN9BUmU" },
     { titulo: "Try Me", artista: "Jorja Smith", youtubeId: "gUn6i9bfdRA" },
     { titulo: "Are You That Somebody?", artista: "Aaliyah", youtubeId: "uTMuqL0qx08" },
+    { titulo: "Dime Si Valio la Pena", artista: "Gonzalo Genek; Don-J HH; A.C.O", youtubeId: "Ar6VVj4FUPQ" },
   ],
   filosofica: [
     { titulo: "Otra Canción Larga", artista: "Alcolirykoz", youtubeId: "aAwXhAV3LPE" },
@@ -134,6 +135,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "Round 30", artista: "Pielroja; Alcolirykoz", youtubeId: "UpCpadNeY0M" },
     { titulo: "Nothin'", artista: "N.O.R.E.", youtubeId: "sul16s0VSzs" },
     { titulo: "La Salsa", artista: "McKlopedia; Rapsusklei; Zxmyr", youtubeId: "yonwHLj58Wc" },
+    { titulo: "Coming Home (feat. Ms. Lauryn Hill)", artista: "Pusha T; Ms. Lauryn Hill", youtubeId: "9bx_r7H7eF8" },
   ],
   hot: [
     { titulo: "Las Tetas D.", artista: "Crack Family", youtubeId: "LQhERHd-k0E" },
