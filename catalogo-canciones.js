@@ -954,6 +954,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Nappy Heads - Remix",
       "artista": "Fugees;Salaam Remi",
       "youtubeId": "Eg2mF0gKtYw"
+    },
+    {
+      "titulo": "Arde Roma",
+      "artista": "Luis7Lunes; Afterclass; Vic Deal",
+      "youtubeId": "UwzzGqTR45s"
+    },
+    {
+      "titulo": "I Like It (I Wanna Be Where You Are)",
+      "artista": "Grand Puba",
+      "youtubeId": "yn7KoADZlRk"
     }
   ],
   "hot": [
