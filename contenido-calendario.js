@@ -1,6 +1,5 @@
 /* Calendario de Aleja · 78 días del 16 de octubre de 2026 al 1 de enero de 2027. Mensajes personalizados con voz cercana y romántica. */
 const CALENDARIO = [
-[
   {
     "dia": 1,
     "fecha": "2026-10-16",
@@ -1795,5 +1794,4 @@ const CALENDARIO = [
     "cancionArtista": "No Rules Clan; Alcolirykoz; El Arkeologo",
     "youtubeId": "mF_8BMwhH5A"
   }
-]
 ];
