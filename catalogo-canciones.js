@@ -200,6 +200,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "KEEPER",
       "artista": "GIVĒON",
       "youtubeId": "2cuDp5ENoao"
+    },
+    {
+      "titulo": "Wandering Romance",
+      "artista": "Jorja Smith",
+      "youtubeId": "azjOefV3jik"
     }
   ],
   "filosofica": [
@@ -1686,6 +1691,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Here Come The Hits",
       "artista": "Shyheim",
       "youtubeId": "jwaRqNDAh-8"
+    },
+    {
+      "titulo": "Tomorrow",
+      "artista": "Jorja Smith",
+      "youtubeId": "zMC5-M15je0"
     }
   ]
 };
