@@ -76,6 +76,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "Let My People", artista: "Alcolirykoz", youtubeId: "Kjbc9C9ZQAA" },
     { titulo: "El Toque Personal", artista: "Alcolirykoz", youtubeId: "Ml_6S52AEFc" },
     { titulo: "Aero-Soul", artista: "Alcolirykoz", youtubeId: "jk9S5ca0Oh0" },
+    { titulo: "Agacha", artista: "Alcolirykoz", youtubeId: "Kc0a1tuPOwg" },
+    { titulo: "El Show Debe Continuar", artista: "Alcolirykoz", youtubeId: "yCYQY7sObG8" },
     { titulo: "Me Volví Loco", artista: "King Kong Click; Bubaseta; Subwoffer", youtubeId: "MsnJzE8Cbw0" },
     { titulo: "Tuyo", artista: "Credo V Daniels", youtubeId: "8onYUmsBMxs" },
     { titulo: "Partículas", artista: "Granuja", youtubeId: "E6oZorQDiN0" },
