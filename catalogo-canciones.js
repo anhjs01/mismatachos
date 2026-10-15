@@ -1186,6 +1186,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Gotta Get Mine",
       "artista": "MC Breed",
       "youtubeId": "2Tr3fM8vkX4"
+    },
+    {
+      "titulo": "Mass Appeal",
+      "artista": "Gang Starr",
+      "youtubeId": "y9lNbNGbo24"
     }
   ],
   "ambiente": [
