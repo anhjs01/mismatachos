@@ -63,8 +63,9 @@
           apiLista = true;
           player.mute();
           if (pendiente) {
-            reproducirId(pendiente, true);
+            const solicitud = pendiente;
             pendiente = null;
+            reproducirId(solicitud.videoId, solicitud.silencioso);
           } else {
             precargarPorAdelantado();
           }
@@ -111,7 +112,7 @@
   function reproducirId(videoId, silencioso) {
     if (!videoId || !player) return;
     if (!apiLista || !player.loadVideoById) {
-      pendiente = videoId;
+      pendiente = { videoId: videoId, silencioso: !!silencioso };
       return;
     }
     player.loadVideoById(videoId);
