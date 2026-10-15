@@ -143,3 +143,24 @@ Criterios aplicados: arte y manualidades con acompañamiento instrumental/indie 
 - La estructura del calendario sigue siendo de 78 días y el archivo vuelve a analizarse como JavaScript sin error.
 - Las canciones indicadas se tomaron del catálogo; este cambio no certifica reproducción real ni reemplaza la revisión de la letra completa y del reproductor integrado.
 - La variedad global sigue pendiente: todavía hay varios títulos que aparecen entre 3 y 7 veces. Se seguirá reduciendo con cambios temáticos selectivos, sin reasignaciones al azar.
+
+
+## Continuación de variedad musical — 15 de octubre de 2026 (segunda tanda)
+- Se cambiaron 16 asignaciones repetidas por canciones distintas que ya estaban en `catalogo-canciones.js`; no se añadieron canciones externas ni se inventaron IDs.
+- Día 2: “On & On” — Erykah Badu (café y mañana a su ritmo).
+- Día 8: “Solo Tú” — Macha y el Bloque Depresivo; Álvaro Henríquez (ambiente de bolero).
+- Día 20: “The One” — Jorja Smith (cumplido sobre sus ojos y sonrisa).
+- Día 24: “Humo” — Rupatrupa (flor y rincón creativo).
+- Día 28: “You Rock My World” — Michael Jackson (fruta y tono juguetón).
+- Día 42: “Feel So Good” — Mase (día de antojos, tono cotidiano).
+- Día 46: “Déjame Entrar” — Cultura Profética (probar algo nuevo, con un ambiente reggae suave).
+- Día 48: “Antonia” — Gondwana (pausa de café con reggae).
+- Día 49: “Will I See You Again?” — Thee Sacred Souls (detalle floral y ambiente soul cálido).
+- Día 50: “Moment Of Your Life (feat. Coco Jones)” — Brent Faiyaz; Coco Jones (plan casero con R&B).
+- Día 55: “La Terrera” — Rupatrupa (paciencia y proceso creativo).
+- Día 60: “good denim” — jalen chords (ropa cómoda, ambiente relajado).
+- Día 64: “Tomorrow” — Jorja Smith (dar el primer paso).
+- Día 67: “You Know How We Do It” — Ice Cube (tono cotidiano y desenfadado).
+- Día 69: “You Got Me” — The Roots; Tariq Trotter; Erykah Badu; Eve (conversación y confianza).
+- Día 71: “Virtual Insanity - Remastered 2006” — Jamiroquai (improvisación y creatividad).
+- Los 78 días, fechas y textos se conservaron; se modificaron únicamente título, artista e ID musical de los días listados. Cada asignación se copió directamente de la ficha de catálogo. Los IDs aún requieren prueba de reproducción dentro del reproductor integrado.
