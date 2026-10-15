@@ -57,7 +57,9 @@ const CATALOGO_CANCIONES = {
     { titulo: "Malpensante", artista: "Noiseferatu", youtubeId: "rThYUXZyTeA" },
     { titulo: "De la Cuna al Ataud", artista: "La Etnnia; Full Nelson", youtubeId: "iNL9MXulJCY" },
     { titulo: "Jaula de Oro - Original", artista: "Laberinto ELC", youtubeId: "BNLL8DJgkfI" },
-    { titulo: "El Día de Mi Suerte", artista: "El Redcode", youtubeId: "ApqRPZ8xO6g" }
+    { titulo: "El Día de Mi Suerte", artista: "El Redcode", youtubeId: "ApqRPZ8xO6g" },
+    { titulo: "Rifo los Lunes", artista: "Alcolirykoz; Gordo Sarkasmus", youtubeId: "Z6vTjCPva5Q" },
+    { titulo: "Clapzz", artista: "Alcolirykoz", youtubeId: "W486I2dtYA8" }
   ],
   hot: [
     { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
