@@ -1683,7 +1683,7 @@ const CALENDARIO = [
     "dia": 74,
     "fecha": "2026-12-28",
     "fechaTexto": "lun, 28 de dic",
-    "categoria": "Una margarita junto a tus pinceles",
+    "categoria": "El turquesa que te encuentra por sorpresa",
     "icono": "🪻",
     "tono": "amor",
     "color": {
@@ -1691,13 +1691,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Una margarita cerca de tus pinceles no tiene que cambiarte el día entero. Basta con que levantes la mirada, la veas ahí y te acuerdes de que alguien pensó en una cosa que te gusta.",
+    "buenosDias": "Ojalá hoy te cruces con ese azul turquesa que llama la atención sin pedir permiso. A veces un color basta para despertar una idea, cambiar el ánimo o hacer que uno mire dos veces algo que antes habría pasado por alto.",
     "poema": [
-      "Hay detalles que encajan con una persona porque parecen escogidos mirando su mundo, no buscando cualquier cosa bonita en una tienda. Una flor junto a tus materiales tendría ese sentido.",
-      "Si hoy estás creando, espero que algo te inspire y que no te falte una canción de fondo. Y si te da por cambiar todo el cuadro a mitad de camino, yo quiero el chisme completo."
+      "Me gusta imaginarte encontrando un tono que te guste y pensando dónde podría quedar bien: en una pieza, en un dibujo o en algún detalle que todavía no sabes cómo usar. No tienes que convertir cada inspiración en un proyecto; a veces basta con guardarla para después.",
+      "Y si terminas mezclando colores hasta conseguir uno distinto al que tenías en mente, tampoco pasa nada. Hay descubrimientos que empiezan por curiosidad y se quedan porque, sin planearlo, resultaron más bonitos."
     ],
-    "detalle": "Si una margarita se queda cerca de tus pinceles, que no sea para que todo se vea perfecto. Que sea solo una cosita bonita en tu espacio, de esas que te hacen levantar la mirada y sonreír.",
-    "buenasNoches": "Descansa, mi vida. Que mañana encuentres un detalle bonito en tu espacio y que te recuerde que no todo tiene que ser grande para alegrarte.",
+    "detalle": "Si hoy ves un azul turquesa que te guste, fíjate en qué tiene de especial: si es claro, intenso, verdoso o casi azul cielo. Puedes guardarlo en una foto o simplemente recordarlo como una idea para cuando te den ganas de crear.",
+    "buenasNoches": "Buenas noches, artista. Ojalá hoy algún color te haya regalado una idea, aunque todavía no sepas qué hacer con ella. No todas las inspiraciones tienen que convertirse en algo esta misma noche.",
     "cancionTitulo": "Kiss Of Life",
     "cancionArtista": "Sade",
     "youtubeId": "MmOau-PMWJk"
