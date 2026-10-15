@@ -779,9 +779,9 @@ const CALENDARIO = [
     ],
     "detalle": "Busca una canción que te acompañe sin exigirte nada. Que esté de fondo mientras haces lo tuyo y no te quite espacio en la cabeza; la música también puede ser una buena compañía silenciosa.",
     "buenasNoches": "Descansa, amor. No tienes que ponerle palabras a todo lo que sientes ni explicarle a nadie por qué una canción te toca. A veces basta con sentirla.",
-    "cancionTitulo": "Las Tetas D.",
-    "cancionArtista": "Crack Family",
-    "youtubeId": "LQhERHd-k0E"
+    "cancionTitulo": "Electric Relaxation",
+    "cancionArtista": "A Tribe Called Quest",
+    "youtubeId": "WHRnvjCkTsw"
   },
   {
     "dia": 35,
