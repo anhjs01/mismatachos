@@ -1353,9 +1353,9 @@ const CALENDARIO = [
     ],
     "detalle": "Elige música que te deje estar en paz contigo misma. No todos los días necesitan una banda sonora épica; algunos solo necesitan un ritmo amable y que nadie te pregunte cinco cosas a la vez.",
     "buenasNoches": "Buenas noches, corazón. Ojalá la música de mañana te encuentre de buen ánimo, pero si no, también puede acompañarte en los días más silenciosos.",
-    "cancionTitulo": "Freedom",
-    "cancionArtista": "Pharrell Williams",
-    "youtubeId": "LlY90lG_Fuw"
+    "cancionTitulo": "Lost & Found",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "9xZ6P4Sinvw"
   },
   {
     "dia": 60,
@@ -1491,9 +1491,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy te sale una carcajada inesperada, ojalá nadie te pida que la bajes. Esas risas que desarman la seriedad hacen falta más de lo que uno cree.",
     "buenasNoches": "Buenas noches, mi vida. Ojalá hoy te hayas reído con ganas; una risa genuina a veces es lo mejor que uno se lleva del día.",
-    "cancionTitulo": "Put Your Records On",
-    "cancionArtista": "Corinne Bailey Rae",
-    "youtubeId": "oWQl00LWEwE"
+    "cancionTitulo": "Let's Get It Started - Spike Mix",
+    "cancionArtista": "Black Eyed Peas",
+    "youtubeId": "mRaQAdynxto"
   },
   {
     "dia": 66,
@@ -1522,7 +1522,7 @@ const CALENDARIO = [
     "dia": 67,
     "fecha": "2026-12-21",
     "fechaTexto": "lun, 21 de dic",
-    "categoria": "Arroz con huevo y pasta: dos antojos distintos",
+    "categoria": "Saber lo que te gusta también cuenta",
     "icono": "🍜",
     "tono": "amor",
     "color": {
@@ -1530,13 +1530,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hoy el menú no necesita debate: pasta cuando te provoque pasta, arroz con huevo cuando gane ese antojo. Y, por supuesto, sin añadirle sal a algo que ya sabes cómo te gusta.",
+    "buenosDias": "Hay algo muy tuyo en saber qué te gusta y decirlo sin demasiadas vueltas. Ojalá hoy puedas elegir lo que te hace bien sin tener que convertir cada preferencia en una explicación larga.",
     "poema": [
-      "Me imagino preguntándote qué quieres comer y escuchando una respuesta muy segura. Después yo intentaría proponer una salsa o un acompañamiento y tú decidirías si mi sugerencia merece ser tomada en serio.",
-      "Cuando toque cocinar, amor, tú eliges el antojo y yo ayudo con lo demás. Prometo no llamar pasta al arroz con huevo ni cometer semejante falta de respeto gastronómico."
+      "No todo gusto necesita convencer a un jurado. A veces sabes qué te provoca, qué te incomoda o cómo prefieres las cosas, y eso basta para empezar. Escucharte también es una forma de tratarte con cariño.",
+      "Me gusta la idea de que puedas decir «así me gusta» con tranquilidad, sin sentir que tienes que disculparte por cada detalle. Y si alguien propone otra cosa, siempre se puede conversar; lo importante es que tu voz también tenga sitio."
     ],
-    "detalle": "Hoy no mezclemos tus antojos como si fueran lo mismo: pasta cuando provoca pasta, arroz con huevo cuando gana el clásico. La vida ya tiene suficientes confusiones; el almuerzo no tiene por qué sumarse.",
-    "buenasNoches": "Buenas noches, amor. Mañana elige el plato que de verdad te provoque, sin debates innecesarios ni jueces de cocina.",
+    "detalle": "Hoy fíjate en una preferencia pequeña que suelas defender: cómo te gusta el café, qué ropa te resulta cómoda o qué detalle te hace sentir a gusto. No tienes que justificarla ante nadie; conocer lo que te gusta también te ayuda a cuidar tu propio espacio.",
+    "buenasNoches": "Buenas noches, bonita. Ojalá hoy hayas podido elegir al menos una cosa a tu manera. No hace falta que todos entiendan cada gusto tuyo para que sea válido; basta con que tú puedas disfrutarlo en paz.",
     "cancionTitulo": "You Know How We Do It",
     "cancionArtista": "Ice Cube",
     "youtubeId": "FXTh4XLm2VE"
