@@ -23,6 +23,7 @@ const CATALOGO_CANCIONES = {
   ],
   filosofica: [
     { titulo: "Otra Canción Larga", artista: "Alcolirykoz", youtubeId: "aAwXhAV3LPE" },
+    { titulo: "Feliz Si Es Raro", artista: "Alcolirykoz", youtubeId: "rTv5pNLz9IU" },
     { titulo: "Centro de Acopio", artista: "Anyone/Cualkiera; Rapiphero", youtubeId: "iN4JYAXgqzY" },
     { titulo: "Ojos de Diablo", artista: "Zof Ziro; ZetaZeta", youtubeId: "DnETeFkRvHk" },
     { titulo: "No Copio", artista: "Crudo Means Raw", youtubeId: "OV4hbqYxRh0" },
