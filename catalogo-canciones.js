@@ -140,6 +140,10 @@ const CATALOGO_CANCIONES = {
     { titulo: "Dele la Cara (Bendiciones)", artista: "Crudo Means Raw", youtubeId: "7v5r61PK_4c" },
     { titulo: "Horas Extras", artista: "Crudo Means Raw; DJ Dmoe", youtubeId: "R5mHN8suqV8" },
     { titulo: "El Estrén - Versión álbum", artista: "Crudo Means Raw", youtubeId: "xrQBpf_yfTc" },
+    { titulo: "See You Again (feat. Kali Uchis)", artista: "Tyler, The Creator; Kali Uchis", youtubeId: "TGgcC5xg9YI" },
+    { titulo: "If I Ain't Got You", artista: "Alicia Keys", youtubeId: "Ju8Hr50Ckwk" },
+    { titulo: "Ms. Jackson", artista: "Outkast", youtubeId: "MYxAiK6VnXw" },
+    { titulo: "Where Is The Love?", artista: "Black Eyed Peas", youtubeId: "WpYeekQkAdc" },
   ],
   hot: [
     { titulo: "Las Tetas D.", artista: "Crack Family", youtubeId: "LQhERHd-k0E" },
