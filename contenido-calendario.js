@@ -663,9 +663,9 @@ const CALENDARIO = [
     ],
     "detalle": "Hoy presta atención a un detalle pequeño: alguien que se acuerda de algo que dijiste, una canción que llega justo a tiempo o un mensaje inesperado. A veces eso dice ‘te tengo presente’ sin escribirlo literalmente.",
     "buenasNoches": "Descansa, amor. Si hoy alguien se acordó de un detalle que le contaste, ojalá hayas sentido lo bonito que es que te escuchen de verdad.",
-    "cancionTitulo": "By Your Side",
-    "cancionArtista": "Sade",
-    "youtubeId": "C8QJmI_V3j4"
+    "cancionTitulo": "If I Ain't Got You",
+    "cancionArtista": "Alicia Keys",
+    "youtubeId": "Ju8Hr50Ckwk"
   },
   {
     "dia": 30,
@@ -686,9 +686,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si una pieza de cerámica no queda como la imaginabas, no la declares perdida enseguida. Quizá solo está encontrando una forma que no tenías planeada, como tantas cosas buenas.",
     "buenasNoches": "Buenas noches, artista. No todas las piezas tienen que quedar listas hoy, ni todas las ideas tienen que convertirse enseguida en algo concreto. Deja que el proceso respire.",
-    "cancionTitulo": "Show Me How",
-    "cancionArtista": "Men I Trust",
-    "youtubeId": "OZRYzH0Q0pU"
+    "cancionTitulo": "Tomorrow",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "zMC5-M15je0"
   },
   {
     "dia": 31,
@@ -824,9 +824,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si aparece esa mora con cubierta amarga que te gusta, disfrútala despacito. Me causa gracia que algo tan pequeño pueda tener una combinación tan específica; supongo que los gustos también tienen su carácter.",
     "buenasNoches": "Que descanses, corazón. Espero que mañana puedas darte ese gusto que te encanta, con su mezcla exacta y sin que nadie intente corregirte la receta.",
-    "cancionTitulo": "I Want You Around",
-    "cancionArtista": "Snoh Aalegra",
-    "youtubeId": "4976Fgvf5Ps"
+    "cancionTitulo": "Redbone",
+    "cancionArtista": "Childish Gambino",
+    "youtubeId": "Kp7eSUU9oy8"
   },
   {
     "dia": 37,
@@ -847,9 +847,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy alguien te regala una flor sin motivo, espero que te emociones con toda la libertad del mundo. No hace falta fingir que es algo pequeño si para ti se siente especial.",
     "buenasNoches": "Buenas noches, amor. Si hoy no hubo flores, no pasa nada; ojalá al menos alguien haya tenido un gesto que te hiciera sentir presente en su pensamiento.",
-    "cancionTitulo": "Kiss Of Life",
-    "cancionArtista": "Sade",
-    "youtubeId": "MmOau-PMWJk"
+    "cancionTitulo": "Baby, I Love Your Way",
+    "cancionArtista": "Big Mountain",
+    "youtubeId": "utXwIqQj7oE"
   },
   {
     "dia": 38,
@@ -962,9 +962,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si toca elegir entre pasta o arroz con huevo, no hay necesidad de enfrentar a los dos platos como si solo uno pudiera existir. Cada antojo tiene su día, y ambos merecen su oportunidad.",
     "buenasNoches": "Buenas noches, mi vida. Mañana decides cuál antojo gana; esta noche no hace falta convocar una cumbre entre la pasta y el arroz con huevo.",
-    "cancionTitulo": "Don't Know Why",
-    "cancionArtista": "Norah Jones",
-    "youtubeId": "tO4dxvguQDk"
+    "cancionTitulo": "Antonia",
+    "cancionArtista": "Gondwana",
+    "youtubeId": "exxkGyu3G1Q"
   },
   {
     "dia": 43,
@@ -1146,9 +1146,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si el plan ideal resulta ser cocinar algo sencillo y quedarse en casa viendo una película, defiéndelo con orgullo. No todas las citas necesitan reserva, tacones ni una logística digna de una excursión.",
     "buenasNoches": "Descansa, mi vida. Un plan bonito también puede ser no salir, cocinar algo rico y compartir el sofá. No todo lo especial necesita luces de ciudad.",
-    "cancionTitulo": "Kiss Of Life",
-    "cancionArtista": "Sade",
-    "youtubeId": "MmOau-PMWJk"
+    "cancionTitulo": "You Rock My World",
+    "cancionArtista": "Michael Jackson",
+    "youtubeId": "1-7ABIM2qjU"
   },
   {
     "dia": 51,
@@ -1261,9 +1261,9 @@ const CALENDARIO = [
     ],
     "detalle": "Ten paciencia con lo que estás creando. El barro enseña que apretar demasiado no siempre arregla las cosas; a veces toca soltar, volver a dar forma y confiar en las manos.",
     "buenasNoches": "Buenas noches, bonita. El barro y la paciencia pueden esperar hasta mañana; por hoy, suelta todo lo que tengas entre las manos y descansa.",
-    "cancionTitulo": "Best Part (feat. H.E.R.)",
-    "cancionArtista": "Daniel Caesar; H.E.R.",
-    "youtubeId": "vBy7FaapGRo"
+    "cancionTitulo": "Rara Bien",
+    "cancionArtista": "Rupatrupa",
+    "youtubeId": "15ws-oAh3G0"
   },
   {
     "dia": 56,
