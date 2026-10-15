@@ -122,6 +122,11 @@ const CATALOGO_CANCIONES = {
     { titulo: "Partículas", artista: "Granuja", youtubeId: "E6oZorQDiN0" },
     { titulo: "Aguanilé", artista: "Alcolirykoz", youtubeId: "983zfhMym8Q" },
     { titulo: "I Get Money", artista: "50 Cent", youtubeId: "GO22Z0T3qPE"  },
+    { titulo: "Síntomas de Popeye", artista: "Alcolirykoz; Titó; DJ Skizz", youtubeId: "PuIsNyrutFk" },
+    { titulo: "Efectos Secundarios", artista: "Alcolirykoz", youtubeId: "MCynfdfmFSM" },
+    { titulo: "El Remate", artista: "Alcolirykoz; Armando Hernandez", youtubeId: "91MpFsZI9VA" },
+    { titulo: "Los Legendarios", artista: "Alcolirykoz; Laberinto ELC", youtubeId: "vKd_CIhzoCY" },
+    { titulo: "Suero Casero", artista: "Alcolirykoz", youtubeId: "_5Ypj8L7faU" },
   ],
   hot: [
     { titulo: "Las Tetas D.", artista: "Crack Family", youtubeId: "LQhERHd-k0E" },
