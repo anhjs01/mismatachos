@@ -1065,7 +1065,6 @@ const CATALOGO_CANCIONES = {
       "artista": "N.W.A.",
       "youtubeId": "A0xHuA4jmgs"
     },
-    ,
     {
       "titulo": "I Juswanna Chill",
       "artista": "Large Professor",
