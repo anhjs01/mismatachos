@@ -267,6 +267,46 @@ const CATALOGO_CANCIONES = {
       "titulo": "Just the Way You Are",
       "artista": "Bruno Mars",
       "youtubeId": "LjhCEhWiKXk"
+    },
+    {
+      "titulo": "Robarte un Beso",
+      "artista": "Carlos Vives; Sebastián Yatra",
+      "youtubeId": "Mtau4v6foHA"
+    },
+    {
+      "titulo": "Una Lady Como Tú",
+      "artista": "Manuel Turizo",
+      "youtubeId": "VQqS7K5Y3oA"
+    },
+    {
+      "titulo": "Secreto",
+      "artista": "Anuel AA; KAROL G",
+      "youtubeId": "zABLecsR5UE"
+    },
+    {
+      "titulo": "Mañana",
+      "artista": "Andy Rivera; KAROL G",
+      "youtubeId": "0hM3T8u2L2g"
+    },
+    {
+      "titulo": "Tienes La Magia",
+      "artista": "Lil Silvio; El Vega",
+      "youtubeId": "KXv6J0r2x0E"
+    },
+    {
+      "titulo": "Vuelve",
+      "artista": "Nanpa Básico; Teo LB",
+      "youtubeId": "6x7a2Z0wqKQ"
+    },
+    {
+      "titulo": "Dibújame",
+      "artista": "Nanpa Básico; Samantha Barrón",
+      "youtubeId": "u0n8q2d6kYg"
+    },
+    {
+      "titulo": "PERO TÚ",
+      "artista": "KAROL G; Quevedo",
+      "youtubeId": "8mYg6v8tYwA"
     }
   ],
   "filosofica": [
@@ -1413,6 +1453,66 @@ const CATALOGO_CANCIONES = {
       "titulo": "Can't Feel My Face",
       "artista": "The Weeknd",
       "youtubeId": "KEI4qSrkPAs"
+    },
+    {
+      "titulo": "Hips Don't Lie",
+      "artista": "Shakira; Wyclef Jean",
+      "youtubeId": "DUT5rEU6pqM"
+    },
+    {
+      "titulo": "Beautiful Liar",
+      "artista": "Beyoncé; Shakira",
+      "youtubeId": "QrOe2h9RtWI"
+    },
+    {
+      "titulo": "La Bicicleta",
+      "artista": "Carlos Vives; Shakira",
+      "youtubeId": "-UV0QGLmYys"
+    },
+    {
+      "titulo": "Provenza",
+      "artista": "KAROL G",
+      "youtubeId": "ca48oMV59LU"
+    },
+    {
+      "titulo": "Ay Vamos",
+      "artista": "J Balvin",
+      "youtubeId": "TapXs54Ah3E"
+    },
+    {
+      "titulo": "China",
+      "artista": "Anuel AA; Daddy Yankee; KAROL G; Ozuna; J Balvin",
+      "youtubeId": "0VR3dfZf9Yg"
+    },
+    {
+      "titulo": "Can't Remember to Forget You",
+      "artista": "Shakira; Rihanna",
+      "youtubeId": "o3mP3mJDL2k"
+    },
+    {
+      "titulo": "Djadja (Remix)",
+      "artista": "Aya Nakamura; Maluma",
+      "youtubeId": "iPGgnzc34tY"
+    },
+    {
+      "titulo": "Mocca",
+      "artista": "Lalo Ebratt; Trapical",
+      "youtubeId": "2j1w8v5g6Zs"
+    },
+    {
+      "titulo": "Brillo",
+      "artista": "ROSALÍA; J Balvin",
+      "youtubeId": "1x8Y0eY6q5Q"
+    },
+    {
+      "titulo": "Corazón",
+      "artista": "Maluma; Nego do Borel",
+      "youtubeId": "XhQ3qcVEPDg"
+    },
+    {
+      "titulo": "X (Spanglish Version)",
+      "artista": "Nicky Jam; J Balvin",
+      "youtubeId": "_I_D_8Z4sJE"
     }
   ]
 };
