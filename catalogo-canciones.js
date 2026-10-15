@@ -1015,6 +1015,11 @@ const CATALOGO_CANCIONES = {
       "artista": "Mase",
       "youtubeId": "rIvEiTrq9kk"
     },
+    {
+      "titulo": "Pétalos",
+      "artista": "Charles Ans",
+      "youtubeId": "pD9y7gqK9wQ"
+    },
   ],
   "hot": [
     {
