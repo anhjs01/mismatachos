@@ -43,7 +43,9 @@ const CATALOGO_CANCIONES = {
     { titulo: "El Tour de Sing Sing", artista: "Alcolirykoz; ToteKing", youtubeId: "b05PzMJqiaw" },
     { titulo: "Música para Planchar", artista: "Alcolirykoz; Sadat X", youtubeId: "t9mtMVfD6u4" },
     { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
-    { titulo: "Trabajo Sucio", artista: "Lianna", youtubeId: "eKGrgYjeCNM" }
+    { titulo: "Trabajo Sucio", artista: "Lianna", youtubeId: "eKGrgYjeCNM" },
+    { titulo: "Esta Va", artista: "Realidad Mental", youtubeId: "JVEN7Quzpeg" },
+    { titulo: "A Veces", artista: "Al2 El Aldeano", youtubeId: "LQYOZFO5aB4" }
   ],
   hot: [],
   ambiente: [
