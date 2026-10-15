@@ -158,9 +158,9 @@ const CALENDARIO = [
     ],
     "detalle": "Busca un instante para mirar el cielo, aunque sea entre una cosa y otra. No tienes que hacer una pausa dramática ni resolver la vida mirando las nubes; con levantar la vista un momento ya cuenta.",
     "buenasNoches": "Descansa, corazón. El cielo va a seguir ahí mañana, por si hoy no te alcanzó el tiempo para mirarlo. No tienes que encontrar belleza en todo; con encontrar un ratito de calma basta.",
-    "cancionTitulo": "good denim",
-    "cancionArtista": "jalen chords",
-    "youtubeId": "_2Lnj5N9lCM"
+    "cancionTitulo": "Antes del Meridiano",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "Y4pCA91F4Uw"
   },
   {
     "dia": 8,
@@ -227,9 +227,9 @@ const CALENDARIO = [
     ],
     "detalle": "Vístete cómoda y como te dé la gana. No tienes que convertir cada día en un desfile, aunque admito que tienes esa habilidad sospechosa de hacer que lo sencillo te quede con personalidad.",
     "buenasNoches": "Descansa cómoda, a tu manera y sin pedir permiso. Ojalá mañana te despiertes sintiéndote tan tú como cuando eliges ponerte lo que te gusta.",
-    "cancionTitulo": "Laura Ronda",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "1v14wNlGjdM"
+    "cancionTitulo": "good denim",
+    "cancionArtista": "jalen chords",
+    "youtubeId": "_2Lnj5N9lCM"
   },
   {
     "dia": 11,
