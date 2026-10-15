@@ -377,6 +377,21 @@ const CATALOGO_CANCIONES = {
       "titulo": "Te Vi",
       "artista": "Piso 21; Micro TDH",
       "youtubeId": "0yruvXjYoUo"
+    },
+    {
+      "titulo": "Andar Conmigo",
+      "artista": "Julieta Venegas",
+      "youtubeId": "wtpTCWF2fjk"
+    },
+    {
+      "titulo": "Tacones Rojos",
+      "artista": "Sebastián Yatra",
+      "youtubeId": "Qz9gmiLBVFA"
+    },
+    {
+      "titulo": "No Se Va",
+      "artista": "Morat",
+      "youtubeId": "USDX0X-d588"
     }
   ],
   "filosofica": [
@@ -1209,6 +1224,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Que Vuelvas",
       "artista": "Carín León; Grupo Frontera",
       "youtubeId": "gG3516BF5_w"
+    },
+    {
+      "titulo": "Me Voy",
+      "artista": "Julieta Venegas",
+      "youtubeId": "y8rBC6GCUjg"
     }
   ],
   "hot": [
