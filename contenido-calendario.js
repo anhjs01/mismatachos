@@ -1108,7 +1108,7 @@ const CALENDARIO = [
     "dia": 49,
     "fecha": "2026-12-03",
     "fechaTexto": "jue, 3 de dic",
-    "categoria": "Una margarita cerca de lo que creas",
+    "categoria": "Dormir sin negociar con el reloj",
     "icono": "🌻",
     "tono": "amor",
     "color": {
@@ -1116,16 +1116,16 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Una margarita junto a tus materiales, un color que te guste y un rato para crear sin interrupciones: a veces un espacio se siente más tuyo por una sola cosa bien puesta.",
+    "buenosDias": "Ojalá hoy tengas permiso de dormir lo que necesitas, sin convertir el descanso en una carrera ni sentir que tienes que ganarte el derecho a parar.",
     "poema": [
-      "Me gusta la idea de un detalle que no interrumpa lo que haces, sino que se quede ahí acompañándote mientras creas. Como decirte «me acordé de ti» sin pedirte que dejes de pintar para contestar.",
-      "Ojalá hoy tengas algo bonito a la vista, mi vida. Una flor, un color nuevo o una idea que te haga sonreír sin darte cuenta."
+      "Hay algo bonito en poder cerrar los ojos y dejar que el mundo siga un rato sin ti. No todo momento tiene que convertirse en una tarea, una idea o algo que tachar de una lista.",
+      "Si hoy el sueño te gana un poquito, no lo tomes como una derrota, corazón. A veces descansar también es la manera más sensata de cuidarse; hasta las personas más inquietas necesitan apagar el ruido."
     ],
-    "detalle": "Si hoy una margarita acompaña tus materiales, deja que esté ahí como una pequeña visita. Me gusta imaginar un espacio tuyo donde convivan las ideas, los colores y algún detalle que te haga sonreír.",
-    "buenasNoches": "Buenas noches, artista. Ojalá tu espacio te haya dado un poco de alegría hoy, aunque solo fuera por una flor, un color o una idea que te hizo ilusión.",
-    "cancionTitulo": "Is This Love",
-    "cancionArtista": "Bob Marley & The Wailers",
-    "youtubeId": "CHekNnySAfM"
+    "detalle": "Si tienes un rato libre y el cuerpo te pide descansar, regálatelo sin culpa. Puedes dejar el teléfono a un lado, acomodarte como más te guste y permitir que el día espere un poco.",
+    "buenasNoches": "Buenas noches, bonita. Ojalá hoy hayas podido descansar de verdad, aunque fuera un ratito. Que la almohada esté cómoda, la cabeza baje el volumen y mañana llegue sin exigirte que resuelvas todo apenas despiertes.",
+    "cancionTitulo": "La Noche y Tú",
+    "cancionArtista": "Barbaro el Urbano Vargas",
+    "youtubeId": "XSN_8UblItk"
   },
   {
     "dia": 50,
