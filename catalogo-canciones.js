@@ -1055,6 +1055,16 @@ const CATALOGO_CANCIONES = {
       "artista": "Big L; Shyheim",
       "youtubeId": "wz81aRTqSws"
     },
+    {
+      "titulo": "Just Lose It",
+      "artista": "Eminem",
+      "youtubeId": "9dcVOmEQzKA"
+    },
+    {
+      "titulo": "Alwayz Into Somethin'",
+      "artista": "N.W.A.",
+      "youtubeId": "A0xHuA4jmgs"
+    },
   ],
   "hot": [
     {
