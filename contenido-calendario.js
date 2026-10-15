@@ -1376,9 +1376,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy te pones una prenda grande y cómoda, que sea porque te gusta y punto. No tienes que justificar tu uniforme favorito ante un comité imaginario de moda.",
     "buenasNoches": "Que descanses, amor. Mañana puedes volver a elegir tu ropa favorita y seguir siendo tú, sin explicaciones ni permisos.",
-    "cancionTitulo": "Virtual Insanity - Remastered 2006",
-    "cancionArtista": "Jamiroquai",
-    "youtubeId": "4JkIs37a2JE"
+    "cancionTitulo": "good denim",
+    "cancionArtista": "jalen chords",
+    "youtubeId": "_2Lnj5N9lCM"
   },
   {
     "dia": 61,
