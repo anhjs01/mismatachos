@@ -904,6 +904,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Maga",
       "artista": "Robert Tiamo",
       "youtubeId": "6aGodaNTOvQ"
+    },
+    {
+      "titulo": "Twinz (Deep Cover 98) (feat. Fat Joe)",
+      "artista": "Big Pun; Fat Joe",
+      "youtubeId": "AiwvPmRTv6M"
+    },
+    {
+      "titulo": "Luchini AKA This Is It",
+      "artista": "Camp Lo",
+      "youtubeId": "WvAqy1i2hEA"
     }
   ],
   "hot": [
