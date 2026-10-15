@@ -70,6 +70,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "Rifo los Lunes", artista: "Alcolirykoz; Gordo Sarkasmus", youtubeId: "Z6vTjCPva5Q" },
     { titulo: "Clapzz", artista: "Alcolirykoz", youtubeId: "W486I2dtYA8" },
     { titulo: "El Sexto Sentido", artista: "Alcolirykoz", youtubeId: "tjHgj-p_XiI" },
+    { titulo: "La Revancha de los Timidos", artista: "Alcolirykoz; Jannyval", youtubeId: "SFMtkR0iSj0" },
+    { titulo: "Let My People", artista: "Alcolirykoz", youtubeId: "Kjbc9C9ZQAA" },
     { titulo: "Me Volví Loco", artista: "King Kong Click; Bubaseta; Subwoffer", youtubeId: "MsnJzE8Cbw0" },
     { titulo: "Tuyo", artista: "Credo V Daniels", youtubeId: "8onYUmsBMxs" },
     { titulo: "Partículas", artista: "Granuja", youtubeId: "E6oZorQDiN0" },
