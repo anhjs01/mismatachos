@@ -54,7 +54,8 @@ const CATALOGO_CANCIONES = {
   ],
   hot: [
     { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
-    { titulo: "Queen Tings (Santi Remix)", artista: "Masego; Cruel Santino; Santi", youtubeId: "UntyHH7Pfs0" }
+    { titulo: "Queen Tings (Santi Remix)", artista: "Masego; Cruel Santino; Santi", youtubeId: "UntyHH7Pfs0" },
+    { titulo: "Between the Sheets", artista: "The Isley Brothers", youtubeId: "TNDb8qKZEX8" }
   ],
   ambiente: [
     { titulo: "La Noche y Tú", artista: "Barbaro el Urbano Vargas", youtubeId: "XSN_8UblItk" },
