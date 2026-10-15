@@ -118,3 +118,10 @@ Criterios aplicados: arte y manualidades con acompañamiento instrumental/indie 
 
 - Día 75: se ajustó el plan casero para mantener la cercanía sin incluir lenguaje de acurrucarse ni dar por sentada una dinámica de pareja.
 - Revisión editorial completada para los 78 días: se comprobaron las asignaciones de canciones contra el catálogo y se corrigieron 17 casos con afinidad temática débil o intensidad romántica excesiva. La prueba de reproducción incrustada queda pendiente de validación en navegador.
+
+## Revisión de coherencia del calendario — días 41–78 (15 de octubre de 2026)
+- Se revisaron y ajustaron las aperturas de 31 días del segundo tramo, priorizando voz natural, detalles concretos de Aleja y menos frases de plantilla.
+- Se alinearon varias recomendaciones musicales con el ambiente del día: canciones tranquilas para café y pausas, soul/R&B para conversación y cercanía, y canciones más ligeras para risa o momentos cotidianos.
+- Se mantuvo la mención a Suguru Geto en el día 68.
+- Se mantuvieron los 78 días, fechas, estructura de los mensajes centrales, detalles y buenas noches; la revisión de poemas completos y de todos los enlaces incrustados continúa como auditoría separada.
+- Importante: las canciones pueden repetirse si el motivo temático lo justifica; en la siguiente pasada hay que revisar la variedad global para evitar que los mismos títulos aparezcan demasiado a menudo.
