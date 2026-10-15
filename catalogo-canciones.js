@@ -41,7 +41,9 @@ const CATALOGO_CANCIONES = {
     { titulo: "Házmelo Rap", artista: "Alcolirykoz", youtubeId: "P1qamoOHLYM" },
     { titulo: "Laura Ronda", artista: "Alcolirykoz", youtubeId: "1v14wNlGjdM" },
     { titulo: "El Tour de Sing Sing", artista: "Alcolirykoz; ToteKing", youtubeId: "b05PzMJqiaw" },
-    { titulo: "Música para Planchar", artista: "Alcolirykoz; Sadat X", youtubeId: "t9mtMVfD6u4" }
+    { titulo: "Música para Planchar", artista: "Alcolirykoz; Sadat X", youtubeId: "t9mtMVfD6u4" },
+    { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
+    { titulo: "Trabajo Sucio", artista: "Lianna", youtubeId: "eKGrgYjeCNM" }
   ],
   hot: [],
   ambiente: [
