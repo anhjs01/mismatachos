@@ -111,6 +111,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "Fu-Gee-La", artista: "Fugees; Ms. Lauryn Hill; Wyclef Jean; Pras", youtubeId: "MPlb9HoOCxs" },
     { titulo: "Mind Playing Tricks on Me", artista: "Geto Boys", youtubeId: "IJtHdkyo0hc" },
     { titulo: "I Got 5 On It", artista: "Luniz; Michael Marshall", youtubeId: "agJ6zyTB5ng" },
+    { titulo: "Shook Ones, Pt. II", artista: "Mobb Deep", youtubeId: "yoYZf-lBF_U" },
     { titulo: "Venganza", artista: "Doble Porción; Métricas Frías; Mañas Ru-Fino; Granuja", youtubeId: "kl7n-qCrunU" },
     { titulo: "Mientras Duermen", artista: "Rapper School; Samurai; Negro Gonzáles; Bman", youtubeId: "ZDmn487A_Dk" },
     { titulo: "Reina", artista: "Cejaz Negraz", youtubeId: "7OPEvfL4Wes" },
