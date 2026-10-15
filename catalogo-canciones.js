@@ -1838,6 +1838,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "La Tierra del Olvido (2015)",
       "artista": "Carlos Vives; Fanny Lu; Fonseca; Maluma; Andrea Echeverri y otros",
       "youtubeId": "KqbwljI3Qo"
+    },
+    {
+      "titulo": "Dog Days Are Over",
+      "artista": "Florence + The Machine",
+      "youtubeId": "iWOyfLBYtuU"
+    },
+    {
+      "titulo": "Sweet Disposition",
+      "artista": "The Temper Trap",
+      "youtubeId": "vN7HQrgakZU"
     }
   ]
 };
