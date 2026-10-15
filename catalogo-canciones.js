@@ -899,6 +899,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Renace",
       "artista": "Frank Takuma",
       "youtubeId": "Yp3XIOGV6pU"
+    },
+    {
+      "titulo": "Maga",
+      "artista": "Robert Tiamo",
+      "youtubeId": "6aGodaNTOvQ"
     }
   ],
   "hot": [
