@@ -134,9 +134,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si te llega ese olor a pintura que tanto te gusta, ojalá te regale un ratito de paz. Me gusta imaginarte encontrando colores y posibilidades donde otros solo verían manchas en una mesa.",
     "buenasNoches": "Espero que termines el día con esa sensación de haber tenido un momento para ti. Y si no lo tuviste, que al menos la noche te lo regale.",
-    "cancionTitulo": "Show Me How",
-    "cancionArtista": "Men I Trust",
-    "youtubeId": "OZRYzH0Q0pU"
+    "cancionTitulo": "I Gotta Find Peace of Mind - Live",
+    "cancionArtista": "Ms. Lauryn Hill",
+    "youtubeId": "b2IbsMCgz4A"
   },
   {
     "dia": 7,
@@ -387,9 +387,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy te provoca arroz con huevo, disfrútalo sin que nadie venga a convertir el almuerzo en una competencia gastronómica. Y que no se nos ocurra echarle sal: si no te gusta, se respeta, sin debate ni negociación.",
     "buenasNoches": "Descansa, mi vida. Mañana habrá más cosas que hacer, pero no necesitas adelantarte a todas desde la cama. Por ahora, el arroz con huevo puede esperar y tú también.",
-    "cancionTitulo": "Put Your Records On",
-    "cancionArtista": "Corinne Bailey Rae",
-    "youtubeId": "oWQl00LWEwE"
+    "cancionTitulo": "Ride Wit Me",
+    "cancionArtista": "Nelly; City Spud",
+    "youtubeId": "RtSDWq6HsJE"
   },
   {
     "dia": 18,
@@ -617,9 +617,9 @@ const CALENDARIO = [
     ],
     "detalle": "Que el café sin azúcar te despierte a tu manera. Y si la mañana viene con sueño, no voy a juzgarte: bastante valiente es negociar con el despertador antes de haber desayunado.",
     "buenasNoches": "Que descanses, mi vida. Si la mañana te encuentra con sueño, no te declares vencida todavía: primero café, después decisiones importantes.",
-    "cancionTitulo": "Don't Know Why",
-    "cancionArtista": "Norah Jones",
-    "youtubeId": "tO4dxvguQDk"
+    "cancionTitulo": "Keep Your Worries",
+    "cancionArtista": "Guru; Angie Stone",
+    "youtubeId": "7R0D6ryRUqQ"
   },
   {
     "dia": 28,
@@ -824,9 +824,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si aparece esa mora con cubierta amarga que te gusta, disfrútala despacito. Me causa gracia que algo tan pequeño pueda tener una combinación tan específica; supongo que los gustos también tienen su carácter.",
     "buenasNoches": "Que descanses, corazón. Espero que mañana puedas darte ese gusto que te encanta, con su mezcla exacta y sin que nadie intente corregirte la receta.",
-    "cancionTitulo": "Put Your Records On",
-    "cancionArtista": "Corinne Bailey Rae",
-    "youtubeId": "oWQl00LWEwE"
+    "cancionTitulo": "Ring My Bell",
+    "cancionArtista": "Anita Ward",
+    "youtubeId": "URAqnM1PP5E"
   },
   {
     "dia": 37,
