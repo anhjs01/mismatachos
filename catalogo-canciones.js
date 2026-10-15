@@ -986,6 +986,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Above The Clouds",
       "artista": "Gang Starr;Inspectah Deck",
       "youtubeId": "NqhNTA2VHqk"
+    },
+    {
+      "titulo": "Tonight's Da Night",
+      "artista": "Redman",
+      "youtubeId": "fOUARXiVMHs"
+    },
+    {
+      "titulo": "Chief Rocka",
+      "artista": "Lords Of The Underground",
+      "youtubeId": "YFbLRZCExBk"
     }
   ],
   "ambiente": [
