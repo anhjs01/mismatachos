@@ -894,6 +894,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Acrobacias - Remix",
       "artista": "Alcolirykoz",
       "youtubeId": "PdbrcupFYmc"
+    },
+    {
+      "titulo": "Renace",
+      "artista": "Frank Takuma",
+      "youtubeId": "Yp3XIOGV6pU"
     }
   ],
   "hot": [
