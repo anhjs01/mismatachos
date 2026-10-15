@@ -397,6 +397,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Aprender A Quererte",
       "artista": "Morat",
       "youtubeId": "OukQDrJ7QRQ"
+    },
+    {
+      "titulo": "Bubbly",
+      "artista": "Colbie Caillat",
+      "youtubeId": "AWGqoCNbsvM"
     }
   ],
   "filosofica": [
@@ -1723,6 +1728,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Is It Any Wonder?",
       "artista": "Keane",
       "youtubeId": "fVe_KVzBFOo"
+    },
+    {
+      "titulo": "Everybody Talks",
+      "artista": "Neon Trees",
+      "youtubeId": "X5G9tIe84lE"
     }
   ]
 };
