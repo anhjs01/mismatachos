@@ -132,6 +132,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Camino de Tu Ombligo",
       "artista": "Rupatrupa",
       "youtubeId": "ekfybvh0TRo"
+    },
+    {
+      "titulo": "February 3rd",
+      "artista": "Jorja Smith",
+      "youtubeId": "DI5fYHCk318"
     }
   ],
   "filosofica": [
@@ -1134,6 +1139,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "One's 4 Da Money",
       "artista": "Shyheim",
       "youtubeId": "d_DG1zR6UWQ"
+    },
+    {
+      "titulo": "Sin Quemarse los Dedos",
+      "artista": "Rupatrupa",
+      "youtubeId": "YuAE6nBECXQ"
+    },
+    {
+      "titulo": "La Hoguera",
+      "artista": "Rupatrupa",
+      "youtubeId": "B21QN-ocC3s"
     }
   ],
   "hot": [
@@ -1573,6 +1588,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Humo",
       "artista": "Rupatrupa",
       "youtubeId": "Gxar3fueK2U"
+    },
+    {
+      "titulo": "Rara Bien",
+      "artista": "Rupatrupa",
+      "youtubeId": "15ws-oAh3G0"
+    },
+    {
+      "titulo": "Perro de Calle",
+      "artista": "Rupatrupa",
+      "youtubeId": "DteEAv3qIuc"
     }
   ]
 };
