@@ -131,6 +131,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "Los Legendarios", artista: "Alcolirykoz; Laberinto ELC", youtubeId: "vKd_CIhzoCY" },
     { titulo: "Suero Casero", artista: "Alcolirykoz", youtubeId: "_5Ypj8L7faU" },
     { titulo: "Round 30", artista: "Pielroja; Alcolirykoz", youtubeId: "UpCpadNeY0M" },
+    { titulo: "Nothin'", artista: "N.O.R.E.", youtubeId: "sul16s0VSzs" },
   ],
   hot: [
     { titulo: "Las Tetas D.", artista: "Crack Family", youtubeId: "LQhERHd-k0E" },
@@ -147,6 +148,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "Fui Silencio", artista: "Sofía Gabanna; Jazzmind", youtubeId: "KV2ECDqPyuY" },
     { titulo: "Keep Your Worries", artista: "Guru; Angie Stone", youtubeId: "7R0D6ryRUqQ"  },
     { titulo: "I Gotta Find Peace of Mind - Live", artista: "Ms. Lauryn Hill", youtubeId: "b2IbsMCgz4A" },
+    { titulo: "Ella", artista: "Kafu Banton; Almirante", youtubeId: "quToM5By41k" },
   ]
 };
 
