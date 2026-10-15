@@ -65,3 +65,10 @@ Los errores de apertura/consulta no se consideran prueba de que una canción est
 
 ## Revisión de clasificación
 - `Rupatrupa — Camino de Tu Ombligo` se movió de `amor` a `hot`: la letra tiene contenido sexual explícito, por lo que no debe confundirse con una canción romántica suave. No se usa en el calendario actual.
+
+## Revisión de calendario — primer bloque
+- Se variaron las aperturas de los días 1–40 para reducir la repetición de “Buenos días, mi vida/corazón/amor”, sin cambiar los 78 días ni reasignar sus canciones.
+- Día 4: se incorporaron las muecas de concentración y su “jum” cuando una idea le cuadra.
+- Día 17: se precisó que el arroz con huevo debe ir sin sal.
+- Día 19: se personalizó el detalle con su preferencia por Merlot.
+- Día 25: se suavizó el plan de cocina/película para que suene cercano sin asumir que son pareja.
