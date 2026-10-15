@@ -1030,6 +1030,11 @@ const CATALOGO_CANCIONES = {
       "artista": "Coffeeling Prole, Logan MVP, Keenwan, Blackmen",
       "youtubeId": "fYA6Eu5r6GA"
     },
+    {
+      "titulo": "El Costal",
+      "artista": "Penyair, Alka Produce, Realidad Mental",
+      "youtubeId": "R4HqzKnLffI"
+    },
   ],
   "hot": [
     {
