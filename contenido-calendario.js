@@ -42,9 +42,9 @@ const CALENDARIO = [
     ],
     "detalle": "Que el café de hoy sea exactamente como te gusta: sin azúcar y sin que nadie venga a explicarte cómo deberías tomarlo. Ya hay suficientes opiniones en el mundo, mi vida; la tuya puede empezar con un buen sorbo.",
     "buenasNoches": "Buenas noches, corazón. Que mañana el café te salga rico y el mundo te dé unos minutos antes de empezar a pedirte cosas. No es mucho pedir, ¿cierto?",
-    "cancionTitulo": "Don't Know Why",
-    "cancionArtista": "Norah Jones",
-    "youtubeId": "tO4dxvguQDk"
+    "cancionTitulo": "On & On",
+    "cancionArtista": "Erykah Badu",
+    "youtubeId": "-CPCs7vVz6s"
   },
   {
     "dia": 3,
@@ -180,9 +180,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy suena un bolero con saxofón, déjalo acompañarte sin apuro. Hay músicas que parecen hablar bajito y, aun así, dicen más que una conversación entera.",
     "buenasNoches": "Que la noche te trate suave, mi vida. Ojalá alguna melodía se te quede dando vueltas, de esas que no hacen ruido pero acompañan bonito.",
-    "cancionTitulo": "By Your Side",
-    "cancionArtista": "Sade",
-    "youtubeId": "C8QJmI_V3j4"
+    "cancionTitulo": "Solo Tú",
+    "cancionArtista": "Macha y el Bloque Depresivo; Álvaro Henríquez",
+    "youtubeId": "lxPDvuV9Z88"
   },
   {
     "dia": 9,
@@ -456,9 +456,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy alguien te mira y te sonríe, devuelve la sonrisa si te nace. Y si te ríes de verdad y se te notan las pecas, bueno… hay pequeñas distracciones que deberían venir con advertencia.",
     "buenasNoches": "Descansa, amor. Si hoy alguien te sacó esa sonrisa tuya, espero que el recuerdo te acompañe un poquito. Y si no, queda pendiente que el día siguiente haga mejor su trabajo.",
-    "cancionTitulo": "By Your Side",
-    "cancionArtista": "Sade",
-    "youtubeId": "C8QJmI_V3j4"
+    "cancionTitulo": "The One",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "80J2YroXH3g"
   },
   {
     "dia": 21,
@@ -548,9 +548,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si te cruzas con una flor mientras trabajas, imagina una junto a tus pinceles o tus materiales. No para decorar una escena perfecta, sino para recordarte que lo cotidiano también puede tener un detalle bonito.",
     "buenasNoches": "Que duermas rico, amor. Espero que algún detalle sencillo te haya recordado hoy que no todo lo bonito necesita una gran explicación.",
-    "cancionTitulo": "Show Me How",
-    "cancionArtista": "Men I Trust",
-    "youtubeId": "OZRYzH0Q0pU"
+    "cancionTitulo": "Humo",
+    "cancionArtista": "Rupatrupa",
+    "youtubeId": "Gxar3fueK2U"
   },
   {
     "dia": 25,
@@ -640,9 +640,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si te provoca fruta, elige la que te haga ilusión y no la que parezca más fotogénica. Aquí no estamos haciendo una campaña publicitaria, mi vida; estamos intentando que tengas un momento rico.",
     "buenasNoches": "Buenas noches. Que mañana encuentres algo rico que comer y un motivo sencillo para sonreír. A veces no hace falta mucho para cambiarle el tono al día.",
-    "cancionTitulo": "Put Your Records On",
-    "cancionArtista": "Corinne Bailey Rae",
-    "youtubeId": "oWQl00LWEwE"
+    "cancionTitulo": "You Rock My World",
+    "cancionArtista": "Michael Jackson",
+    "youtubeId": "1-7ABIM2qjU"
   },
   {
     "dia": 29,
@@ -962,9 +962,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si toca elegir entre pasta o arroz con huevo, no hay necesidad de enfrentar a los dos platos como si solo uno pudiera existir. Cada antojo tiene su día, y ambos merecen su oportunidad.",
     "buenasNoches": "Buenas noches, mi vida. Mañana decides cuál antojo gana; esta noche no hace falta convocar una cumbre entre la pasta y el arroz con huevo.",
-    "cancionTitulo": "Don't Know Why",
-    "cancionArtista": "Norah Jones",
-    "youtubeId": "tO4dxvguQDk"
+    "cancionTitulo": "Feel So Good",
+    "cancionArtista": "Mase",
+    "youtubeId": "rIvEiTrq9kk"
   },
   {
     "dia": 43,
@@ -1054,9 +1054,9 @@ const CALENDARIO = [
     ],
     "detalle": "Prueba hoy algo sin planear cada resultado. No porque todo tenga que salir bien, sino porque a veces lo inesperado también merece un espacio en tu día.",
     "buenasNoches": "Que tengas una noche suave, mi vida. Ojalá mañana te permitas probar algo sin exigirte saber desde el comienzo cómo va a salir.",
-    "cancionTitulo": "Show Me How",
-    "cancionArtista": "Men I Trust",
-    "youtubeId": "OZRYzH0Q0pU"
+    "cancionTitulo": "Déjame Entrar",
+    "cancionArtista": "Cultura Profética",
+    "youtubeId": "IAhVESdwvIU"
   },
   {
     "dia": 47,
@@ -1100,9 +1100,9 @@ const CALENDARIO = [
     ],
     "detalle": "Que el café no tenga azúcar no significa que el día tenga que ser amargo. Si la mañana viene torcida, ve por partes; no tienes que resolverla entera antes del primer sorbo.",
     "buenasNoches": "Que descanses, amor. El café de mañana puede esperar hasta que abras los ojos; por ahora, no necesitas ganarle ninguna carrera al día.",
-    "cancionTitulo": "Don't Know Why",
-    "cancionArtista": "Norah Jones",
-    "youtubeId": "tO4dxvguQDk"
+    "cancionTitulo": "Antonia",
+    "cancionArtista": "Gondwana",
+    "youtubeId": "exxkGyu3G1Q"
   },
   {
     "dia": 49,
@@ -1123,9 +1123,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy una margarita acompaña tus materiales, deja que esté ahí como una pequeña visita. Me gusta imaginar un espacio tuyo donde convivan las ideas, los colores y algún detalle que te haga sonreír.",
     "buenasNoches": "Buenas noches, artista. Ojalá tu espacio te haya dado un poco de alegría hoy, aunque solo fuera por una flor, un color o una idea que te hizo ilusión.",
-    "cancionTitulo": "Kiss Of Life",
-    "cancionArtista": "Sade",
-    "youtubeId": "MmOau-PMWJk"
+    "cancionTitulo": "Will I See You Again?",
+    "cancionArtista": "Thee Sacred Souls",
+    "youtubeId": "IGgb10A_2c8"
   },
   {
     "dia": 50,
@@ -1146,9 +1146,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si el plan ideal resulta ser cocinar algo sencillo y quedarse en casa viendo una película, defiéndelo con orgullo. No todas las citas necesitan reserva, tacones ni una logística digna de una excursión.",
     "buenasNoches": "Descansa, mi vida. Un plan bonito también puede ser no salir, cocinar algo rico y compartir el sofá. No todo lo especial necesita luces de ciudad.",
-    "cancionTitulo": "By Your Side",
-    "cancionArtista": "Sade",
-    "youtubeId": "C8QJmI_V3j4"
+    "cancionTitulo": "Moment Of Your Life (feat. Coco Jones)",
+    "cancionArtista": "Brent Faiyaz; Coco Jones",
+    "youtubeId": "Jv17JsayCSI"
   },
   {
     "dia": 51,
@@ -1261,9 +1261,9 @@ const CALENDARIO = [
     ],
     "detalle": "Ten paciencia con lo que estás creando. El barro enseña que apretar demasiado no siempre arregla las cosas; a veces toca soltar, volver a dar forma y confiar en las manos.",
     "buenasNoches": "Buenas noches, bonita. El barro y la paciencia pueden esperar hasta mañana; por hoy, suelta todo lo que tengas entre las manos y descansa.",
-    "cancionTitulo": "Show Me How",
-    "cancionArtista": "Men I Trust",
-    "youtubeId": "OZRYzH0Q0pU"
+    "cancionTitulo": "La Terrera",
+    "cancionArtista": "Rupatrupa",
+    "youtubeId": "2BW92cCp0T4"
   },
   {
     "dia": 56,
@@ -1376,9 +1376,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy te pones una prenda grande y cómoda, que sea porque te gusta y punto. No tienes que justificar tu uniforme favorito ante un comité imaginario de moda.",
     "buenasNoches": "Que descanses, amor. Mañana puedes volver a elegir tu ropa favorita y seguir siendo tú, sin explicaciones ni permisos.",
-    "cancionTitulo": "Japanese Denim",
-    "cancionArtista": "Daniel Caesar",
-    "youtubeId": "6OkneaH-eTA"
+    "cancionTitulo": "good denim",
+    "cancionArtista": "jalen chords",
+    "youtubeId": "_2Lnj5N9lCM"
   },
   {
     "dia": 61,
@@ -1468,9 +1468,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si tienes ganas de empezar algo, da un primer paso pequeño. No necesitas sentirte lista al cien por ciento; a veces la confianza llega después de comenzar.",
     "buenasNoches": "Descansa, amor. Si hoy te quedó una idea rondando la cabeza, mañana puedes darle una oportunidad. Esta noche no tienes que perseguirla por toda la habitación.",
-    "cancionTitulo": "Show Me How",
-    "cancionArtista": "Men I Trust",
-    "youtubeId": "OZRYzH0Q0pU"
+    "cancionTitulo": "Tomorrow",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "zMC5-M15je0"
   },
   {
     "dia": 65,
@@ -1537,9 +1537,9 @@ const CALENDARIO = [
     ],
     "detalle": "Hoy no mezclemos tus antojos como si fueran lo mismo: pasta cuando provoca pasta, arroz con huevo cuando gana el clásico. La vida ya tiene suficientes confusiones; el almuerzo no tiene por qué sumarse.",
     "buenasNoches": "Buenas noches, amor. Mañana elige el plato que de verdad te provoque, sin debates innecesarios ni jueces de cocina.",
-    "cancionTitulo": "Don't Know Why",
-    "cancionArtista": "Norah Jones",
-    "youtubeId": "tO4dxvguQDk"
+    "cancionTitulo": "You Know How We Do It",
+    "cancionArtista": "Ice Cube",
+    "youtubeId": "FXTh4XLm2VE"
   },
   {
     "dia": 68,
@@ -1583,9 +1583,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si una charla se pone seria, puedes ser tierna sin dejar de decir lo que piensas. Me gusta esa combinación: palabras cuidadosas, pero una idea clara que no se esconde detrás de adornos.",
     "buenasNoches": "Buenas noches, corazón. Ojalá hoy hayas podido decir lo que pensabas sin tener que esconderlo y también hayas encontrado a alguien que supiera escucharte.",
-    "cancionTitulo": "I'll Be Seeing You",
-    "cancionArtista": "Billie Holiday",
-    "youtubeId": "3C5zYKIuoxg"
+    "cancionTitulo": "You Got Me",
+    "cancionArtista": "The Roots; Tariq Trotter; Erykah Badu; Eve",
+    "youtubeId": "MJCHeEQV454"
   },
   {
     "dia": 70,
@@ -1629,9 +1629,9 @@ const CALENDARIO = [
     ],
     "detalle": "Prueba una idea nueva aunque todavía no sepas cómo llamarla. Tú puedes empezar con una mancha, un trozo de barro o una ocurrencia y encontrar el camino mientras avanzas.",
     "buenasNoches": "Buenas noches, artista. No hace falta que todas tus ideas tengan nombre antes de dormir. Algunas pueden quedarse en borrador y seguir siendo buenas.",
-    "cancionTitulo": "Show Me How",
-    "cancionArtista": "Men I Trust",
-    "youtubeId": "OZRYzH0Q0pU"
+    "cancionTitulo": "Virtual Insanity - Remastered 2006",
+    "cancionArtista": "Jamiroquai",
+    "youtubeId": "4JkIs37a2JE"
   },
   {
     "dia": 72,
