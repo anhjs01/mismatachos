@@ -92,3 +92,26 @@ Nota: las canciones se seleccionaron por afinidad de ambiente y tema general; la
 - Cambios aplicados: día 29: By Your Side → If I Ain't Got You; día 30: Show Me How → Tomorrow; día 36: I Want You Around → Redbone; día 37: Kiss Of Life → Baby, I Love Your Way; día 42: Don't Know Why → Antonia; día 50: Kiss Of Life → You Rock My World; día 55: Best Part (feat. H.E.R.) → Rara Bien.
 - Criterio: los días de creación, flores, café, comida, mascotas y atardeceres necesitan acompañamiento cálido y atmosférico, no solo una coincidencia por título. Las canciones más explícitamente románticas se reservan para mensajes de afecto, cuidando que el texto no prometa una relación.
 - Pendiente: completar la comprobación de título/artista/ID de cada canción y probar reproducción real dentro del reproductor. La afinidad editorial no equivale a una prueba técnica del video.
+
+
+## Revisión de coherencia musical — ajustes finales por tema
+Se ajustaron las asignaciones siguientes usando canciones que ya existen en el catálogo; cada título, artista e ID se copió de la ficha de catálogo para evitar divergencias:
+- Día 5: “Best Part (feat. H.E.R.)” → “Rara Bien” (Rupatrupa).
+- Día 6: “Kiss Of Life” → “Show Me How” (Men I Trust).
+- Día 12: “Beautiful” → “Kiss Of Life” (Sade).
+- Día 17: “Family Affair” → “Put Your Records On” (Corinne Bailey Rae).
+- Día 20: “My Boo” → “By Your Side” (Sade).
+- Día 24: “Apocalypse” → “Show Me How” (Men I Trust).
+- Día 27: “Música para Planchar” → “Don't Know Why” (Norah Jones).
+- Día 28: “Coctel Espacial” → “Put Your Records On” (Corinne Bailey Rae).
+- Día 31: “Blue Lights” → “Blue World” (Mac Miller).
+- Día 34: “The Way I Love You” → “Didn't Cha Know” (Erykah Badu).
+- Día 36: “Redbone” → “Put Your Records On” (Corinne Bailey Rae).
+- Día 37: “Baby, I Love Your Way” → “Beautiful” (Snoop Dogg; Pharrell Williams; Charlie Wilson).
+- Día 42: “Antonia” → “Three Little Birds” (Bob Marley & The Wailers).
+- Día 48: “La Jungla” → “Don't Know Why” (Norah Jones).
+- Día 60: “Así No Más” → “Japanese Denim” (Daniel Caesar).
+- Día 67: “La Típica (2.018)” → “Family Affair” (Mary J. Blige).
+- Día 72: “Like I Want You” → “Where Is The Love?” (Black Eyed Peas).
+
+Criterios aplicados: arte y manualidades con acompañamiento instrumental/indie cálido; café y comida con canciones relajadas; flores y mascotas con energía amable; días sobre el amor claro con temas de cariño universal en lugar de elevar el mensaje a una declaración de pareja. La canción puede acompañar la atmósfera aunque su letra no nombre literalmente el objeto del día.
