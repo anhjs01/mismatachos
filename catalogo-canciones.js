@@ -995,6 +995,16 @@ const CATALOGO_CANCIONES = {
       "artista": "Control Machete",
       "youtubeId": "lestFaZIl7A"
     },
+    {
+      "titulo": "Si Nunca Va a Amanecer",
+      "artista": "Charles Ans",
+      "youtubeId": "GMnEH2Q0MYU"
+    },
+    {
+      "titulo": "Novena",
+      "artista": "Crudo Means Raw",
+      "youtubeId": "9Yl_w0MytpM"
+    },
   ],
   "hot": [
     {
