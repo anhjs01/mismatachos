@@ -327,6 +327,21 @@ const CATALOGO_CANCIONES = {
       "titulo": "The Scientist",
       "artista": "Coldplay",
       "youtubeId": "RB-RcX5DS5A"
+    },
+    {
+      "titulo": "Bendita Tu Luz",
+      "artista": "Maná; Juan Luis Guerra",
+      "youtubeId": "44kityInDvM"
+    },
+    {
+      "titulo": "Stay (feat. Mikky Ekko)",
+      "artista": "Rihanna; Mikky Ekko",
+      "youtubeId": "JF8BRvqGCNs"
+    },
+    {
+      "titulo": "Hasta la Raíz",
+      "artista": "Natalia Lafourcade",
+      "youtubeId": "IKmPci5VXz0"
     }
   ],
   "filosofica": [
@@ -1134,6 +1149,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Love Yourself",
       "artista": "Justin Bieber",
       "youtubeId": "oyEuk8j8imI"
+    },
+    {
+      "titulo": "Fix You",
+      "artista": "Coldplay",
+      "youtubeId": "k4V3Mo61fJM"
     }
   ],
   "hot": [
