@@ -210,6 +210,31 @@ const CATALOGO_CANCIONES = {
       "titulo": "DON'T LEAVE",
       "artista": "GIVĒON",
       "youtubeId": "yQJjN0Kd5EI"
+    },
+    {
+      "titulo": "Redbone",
+      "artista": "Childish Gambino",
+      "youtubeId": "Kp7eSUU9oy8"
+    },
+    {
+      "titulo": "You Got Me",
+      "artista": "The Roots; Tariq Trotter; Erykah Badu; Eve",
+      "youtubeId": "MJCHeEQV454"
+    },
+    {
+      "titulo": "If I Ain't Got You",
+      "artista": "Alicia Keys",
+      "youtubeId": "Ju8Hr50Ckwk"
+    },
+    {
+      "titulo": "See You Again (feat. Kali Uchis)",
+      "artista": "Tyler, The Creator; Kali Uchis",
+      "youtubeId": "TGgcC5xg9YI"
+    },
+    {
+      "titulo": "Is This Love",
+      "artista": "Bob Marley & The Wailers",
+      "youtubeId": "CHekNnySAfM"
     }
   ],
   "filosofica": [
@@ -232,11 +257,6 @@ const CATALOGO_CANCIONES = {
       "titulo": "Hail Mary",
       "artista": "2Pac",
       "youtubeId": "nkJA6SYwa94"
-    },
-    {
-      "titulo": "You Got Me",
-      "artista": "The Roots; Tariq Trotter; Erykah Badu; Eve",
-      "youtubeId": "MJCHeEQV454"
     },
     {
       "titulo": "Insane in the Brain",
@@ -854,16 +874,6 @@ const CATALOGO_CANCIONES = {
       "youtubeId": "xrQBpf_yfTc"
     },
     {
-      "titulo": "See You Again (feat. Kali Uchis)",
-      "artista": "Tyler, The Creator; Kali Uchis",
-      "youtubeId": "TGgcC5xg9YI"
-    },
-    {
-      "titulo": "If I Ain't Got You",
-      "artista": "Alicia Keys",
-      "youtubeId": "Ju8Hr50Ckwk"
-    },
-    {
       "titulo": "Ms. Jackson",
       "artista": "Outkast",
       "youtubeId": "MYxAiK6VnXw"
@@ -889,19 +899,9 @@ const CATALOGO_CANCIONES = {
       "youtubeId": "Urdlvw0SSEc"
     },
     {
-      "titulo": "Redbone",
-      "artista": "Childish Gambino",
-      "youtubeId": "Kp7eSUU9oy8"
-    },
-    {
       "titulo": "Big Poppa - 2005 Remaster",
       "artista": "The Notorious B.I.G.",
       "youtubeId": "phaJXp_zMYM"
-    },
-    {
-      "titulo": "Is This Love",
-      "artista": "Bob Marley & The Wailers",
-      "youtubeId": "CHekNnySAfM"
     },
     {
       "titulo": "Can't Tell Me Nothing",
