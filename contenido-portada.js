@@ -3,7 +3,7 @@ const CARTA_INICIAL = {
   titulo: "Un rincón hecho para ti",
   poema: [
     "No quería hacerte otro mensaje que se leyera en unos segundos y luego se olvidara. Preferí preparar un pequeño lugar con música, detalles y palabras que tengan algo que ver contigo.",
-    "Aquí encontrarás 77 días, desde el viernes 16 de octubre hasta el jueves 31 de diciembre. Hay buenos días, mensajes para detenerte un momento, despedidas tranquilas y canciones para escuchar, repetir o cambiar cuando quieras.",
+    "Aquí encontrarás 78 días, desde el viernes 16 de octubre de 2026 hasta el viernes 1 de enero de 2027. Hay buenos días, mensajes para detenerte un momento, despedidas tranquilas y canciones para escuchar, repetir o cambiar cuando quieras.",
     "No tienes que entrar todos los días ni leerlo todo de una vez. La idea es que vuelvas cuando te provoque y encuentres algo que te haga sonreír."
   ],
   firma: "Con cariño, para Aleja."
