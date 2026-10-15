@@ -1242,6 +1242,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Move It Over Here",
       "artista": "Shyheim",
       "youtubeId": "ojCiI9qNJaA"
+    },
+    {
+      "titulo": "The Rugged Onez",
+      "artista": "Shyheim",
+      "youtubeId": "FMYzJekIS8k"
     }
   ],
   "hot": [
