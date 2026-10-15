@@ -12,6 +12,8 @@
 
 const CATALOGO_CANCIONES = {
   amor: [
+    { titulo: "Be Without You", artista: "Mary J. Blige", youtubeId: "8XNaPX6MKlU" },
+    { titulo: "Get You", artista: "Daniel Caesar; Kali Uchis", youtubeId: "uQFVqltOXRg" },
     { titulo: "Love", artista: "Keyshia Cole", youtubeId: "9PBZy9j3H3I" },
     { titulo: "Moment Of Your Life (feat. Coco Jones)", artista: "Brent Faiyaz; Coco Jones", youtubeId: "Jv17JsayCSI", nota: "canción de entrada que se conserva por petición expresa" },
     { titulo: "Dilemma", artista: "Nelly; Kelly Rowland", youtubeId: "8WYHDfJDPDc" },
