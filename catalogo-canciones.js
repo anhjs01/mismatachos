@@ -61,6 +61,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "El Día de Mi Suerte", artista: "El Redcode", youtubeId: "ApqRPZ8xO6g" },
     { titulo: "Rifo los Lunes", artista: "Alcolirykoz; Gordo Sarkasmus", youtubeId: "Z6vTjCPva5Q" },
     { titulo: "Clapzz", artista: "Alcolirykoz", youtubeId: "W486I2dtYA8" },
+    { titulo: "El Sexto Sentido", artista: "Alcolirykoz", youtubeId: "tjHgj-p_XiI" },
+    { titulo: "Partículas", artista: "Granuja", youtubeId: "E6oZorQDiN0" },
     { titulo: "Aguanilé", artista: "Alcolirykoz", youtubeId: "983zfhMym8Q" },
     { titulo: "I Get Money", artista: "50 Cent", youtubeId: "GO22Z0T3qPE" }
   ],
