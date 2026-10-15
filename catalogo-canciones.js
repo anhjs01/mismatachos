@@ -980,6 +980,11 @@ const CATALOGO_CANCIONES = {
       "artista": "Gordo Sarkasmus; ZetaZeta; Granuja; Moebiuz",
       "youtubeId": "4H8QggL5w_g"
     },
+    {
+      "titulo": "Papele$",
+      "artista": "Noiseferatu",
+      "youtubeId": "6597F_WdRW8"
+    },
   ],
   "hot": [
     {
