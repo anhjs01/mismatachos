@@ -1220,7 +1220,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Fall In Love",
       "artista": "Slum Village",
-      "youtubeId": "s7p0Qm0z3Y8"
+      "youtubeId": "s732BigTxZk"
     },
     {
       "titulo": "Street Talkin'",
@@ -1230,7 +1230,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Word Iz Life",
       "artista": "Poor Righteous Teachers",
-      "youtubeId": "g9n8z2V6vJQ"
+      "youtubeId": "aofb1GQOc5k"
     },
     {
       "titulo": "Streiht Up Menace",
