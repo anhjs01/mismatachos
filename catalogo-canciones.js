@@ -104,6 +104,8 @@ const CATALOGO_CANCIONES = {
   ],
 
   filosofica: [
+    { titulo: "Qué Hay Pa' Hacer", artista: "Granuja", youtubeId: "M6CG-CU07n4", nota: "video de Moebiuz, canal verificado" },
+    { titulo: "Balada para No Dormir - Bonus Track", artista: "Alcolirykoz", youtubeId: "h1p0N9s5YJw", nota: "video oficial del canal de Alcolirykoz" },
     { titulo: "¿Qué Tú Quieres?", artista: "Mabiland", youtubeId: "7C4t_d898_Q", nota: "video oficial de Mabiland" },
     { titulo: "Algo Anda Mal", artista: "Clan Hueso Duro", youtubeId: "nFCFxtW8Fww", nota: "audio oficial del canal de Clan Hueso Duro" },
     { titulo: "Quién Va", artista: "No Rules Clan feat. Alcolirykoz", youtubeId: "mF_8BMwhH5A", nota: "video oficial de No Rules Clan" },
