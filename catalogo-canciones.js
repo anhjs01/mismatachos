@@ -1309,6 +1309,21 @@ const CATALOGO_CANCIONES = {
       "titulo": "Man on a Wire",
       "artista": "The Script",
       "youtubeId": "QV62YRpIeUA"
+    },
+    {
+      "titulo": "Algo Está Cambiando",
+      "artista": "Julieta Venegas",
+      "youtubeId": "E2g7Q2v3G9c"
+    },
+    {
+      "titulo": "El Presente",
+      "artista": "Julieta Venegas",
+      "youtubeId": "kTqB4W3Q9Yg"
+    },
+    {
+      "titulo": "Despedida",
+      "artista": "Julieta Venegas",
+      "youtubeId": "r9Q8s6W3Y2A"
     }
   ],
   "hot": [
@@ -1808,6 +1823,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Superheroes",
       "artista": "The Script",
       "youtubeId": "WIm1GgfRz6M"
+    },
+    {
+      "titulo": "Eres Para Mí",
+      "artista": "Julieta Venegas; Anita Tijoux",
+      "youtubeId": "5p4Uy5K4W4w"
+    },
+    {
+      "titulo": "Primer Día",
+      "artista": "Julieta Venegas",
+      "youtubeId": "yXn2Q4J7s8E"
     }
   ]
 };
