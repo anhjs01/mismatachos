@@ -1249,21 +1249,6 @@ const CATALOGO_CANCIONES = {
       "titulo": "Ode to My Family",
       "artista": "The Cranberries",
       "youtubeId": "Zz-DJr1Qs54"
-    },
-    {
-      "titulo": "Nothing in My Way",
-      "artista": "Keane",
-      "youtubeId": "1VQ_3sBZEm0"
-    },
-    {
-      "titulo": "A Bad Dream",
-      "artista": "Keane",
-      "youtubeId": "9W5g8Y3x8sE"
-    },
-    {
-      "titulo": "The Lovers Are Losing",
-      "artista": "Keane",
-      "youtubeId": "n6P0SitRwy8"
     }
   ],
   "hot": [
@@ -1738,11 +1723,6 @@ const CATALOGO_CANCIONES = {
       "titulo": "Is It Any Wonder?",
       "artista": "Keane",
       "youtubeId": "fVe_KVzBFOo"
-    },
-    {
-      "titulo": "Silenced by the Night",
-      "artista": "Keane",
-      "youtubeId": "j5Dq8xY3Q5U"
     }
   ]
 };
