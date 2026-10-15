@@ -78,3 +78,10 @@ Se ajustaron las canciones de los días 1, 2, 3, 4, 5, 6, 8, 11, 12, 17, 19, 24,
 ## Revisión de coherencia musical — bloque 2 (días 41–78)
 Se ajustaron las canciones de los días 42, 43, 49, 50, 53, 55, 57, 58, 61, 62, 69, 70, 74, 75, 77 y 78, favoreciendo soul, R&B, reggae y melodías cálidas para comida, flores, creatividad, atardeceres y cierre de año.
 Nota: las canciones se seleccionaron por afinidad de ambiente y tema general; las sustituciones no constituyen por sí solas una verificación de que todos los videos estén disponibles o reproduzcan en el reproductor integrado. Algunos títulos se repiten porque el catálogo es una lista curada, pero conviene reducir repeticiones si se quiere una banda sonora de 78 días totalmente distinta.
+
+## Auditoría estructural del calendario completo (78 días)
+- Los 78 días tienen título de canción, artista e ID de YouTube asignados.
+- La revisión de coherencia ha actualizado 35 asignaciones musicales, buscando que el acompañamiento sea más cálido y atmosférico en los días de café, mascotas, flores, arte, fruta y atardeceres.
+- La lista todavía contiene canciones repetidas entre días. Se dejan señaladas para una pasada posterior de variedad: Kiss Of Life (5); Show Me How (4); Best Part (feat. H.E.R.) (4); Three Little Birds (3); Don't Know Why (3); By Your Side (3); I Want You Around (3); Apocalypse (3); Put Your Records On (2); I'll Be Seeing You (2).
+- Esta auditoría es editorial y estructural. No certifica que los 78 videos reproduzcan en cada dispositivo ni que el ID de cada video se haya abierto y probado en el reproductor incrustado.
+- Para la próxima pasada: reemplazar repeticiones innecesarias por canciones diferentes ya presentes en el catálogo, comprobar título/artista/ID en lotes y ajustar con especial cuidado las canciones de los días de mensajes más íntimos para no subir la intensidad romántica por encima de una conexión cercana que todavía no es de pareja.
