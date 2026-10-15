@@ -169,3 +169,5 @@ Criterios aplicados: arte y manualidades con acompañamiento instrumental/indie 
 ### Corrección de unicidad de la segunda tanda
 - En una comprobación posterior se detectó que tres sustituciones coincidían con canciones que ya estaban asignadas a otros días. Para no trasladar el problema, se corrigieron: día 49 → “Is This Love” — Bob Marley & The Wailers; día 60 → “Redbone” — Childish Gambino; día 69 → “Fui Silencio” — Sofía Gabanna; Jazzmind.
 - Las tres fichas se copiaron del catálogo y se actualizaron título, artista e ID juntos. Se mantiene la estructura de 78 días.
+
+- Ajuste final de variedad de esta tanda: día 60 → “Virtual Insanity - Remastered 2006” — Jamiroquai, y día 71 → “Aero-Soul” — Alcolirykoz. Ambas fichas proceden del catálogo; se evitó que las sustituciones introdujeran nuevas repeticiones innecesarias.
