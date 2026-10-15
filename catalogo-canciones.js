@@ -1050,6 +1050,11 @@ const CATALOGO_CANCIONES = {
       "artista": "Askoman, Mad One",
       "youtubeId": "K_01C9yqszQ"
     },
+    {
+      "titulo": "Furious Anger",
+      "artista": "Big L; Shyheim",
+      "youtubeId": "wz81aRTqSws"
+    },
   ],
   "hot": [
     {
