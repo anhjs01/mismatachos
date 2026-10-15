@@ -66,9 +66,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy aparece una fresa o un durazno en tu camino, date ese gusto sin convertirlo en una decisión trascendental. Y si alguien te ofrece el último pedazo, observa bien: podría ser una prueba de cariño bastante seria.",
     "buenasNoches": "Que descanses, amor. Ojalá el día te haya dejado una cosa pequeña para recordar con una sonrisa; no tiene que ser extraordinaria, solo tuya.",
-    "cancionTitulo": "Dilemma",
-    "cancionArtista": "Nelly; Kelly Rowland",
-    "youtubeId": "8WYHDfJDPDc"
+    "cancionTitulo": "Redbone",
+    "cancionArtista": "Childish Gambino",
+    "youtubeId": "Kp7eSUU9oy8"
   },
   {
     "dia": 4,
@@ -89,9 +89,9 @@ const CALENDARIO = [
     ],
     "detalle": "Cuando estés concentrada en algo, no te apures por terminar solo para pasar a lo siguiente. A veces lo bonito es verte metida en tu mundo, con esa expresión de ‘espera, que ya casi’ que seguro merece su propia fotografía.",
     "buenasNoches": "Apaga un rato las exigencias y deja que la cabeza descanse. Me gusta imaginarte tranquila, sin tener que demostrar nada ni resolverlo todo antes de dormir.",
-    "cancionTitulo": "La Eterna - Remix",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "SBOcJT0BeJA"
+    "cancionTitulo": "Trabajo Sucio",
+    "cancionArtista": "Lianna",
+    "youtubeId": "eKGrgYjeCNM"
   },
   {
     "dia": 5,
@@ -112,9 +112,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy vuelves a trabajar con barro, deja que tus manos se ensucien tranquilas. No todo tiene que salir perfecto a la primera; algunas cosas bonitas empiezan siendo un desastre pegajoso. A veces las personas también, y mira qué bien pueden terminar.",
     "buenasNoches": "Buenas noches, bonita. Que tus manos descansen de crear y tu cabeza también deje de inventarse pendientes. Lo que no se terminó hoy puede esperar un poquito.",
-    "cancionTitulo": "Déjame Entrar",
-    "cancionArtista": "Cultura Profética",
-    "youtubeId": "IAhVESdwvIU"
+    "cancionTitulo": "El Toque Personal",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "Ml_6S52AEFc"
   },
   {
     "dia": 6,
@@ -135,9 +135,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si te llega ese olor a pintura que tanto te gusta, ojalá te regale un ratito de paz. Me gusta imaginarte encontrando colores y posibilidades donde otros solo verían manchas en una mesa.",
     "buenasNoches": "Espero que termines el día con esa sensación de haber tenido un momento para ti. Y si no lo tuviste, que al menos la noche te lo regale.",
-    "cancionTitulo": "Aero-Soul",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "jk9S5ca0Oh0"
+    "cancionTitulo": "St. Chroma (feat. Daniel Caesar)",
+    "cancionArtista": "Tyler, The Creator; Daniel Caesar",
+    "youtubeId": "hCcwCv3G1FQ"
   },
   {
     "dia": 7,
@@ -158,9 +158,9 @@ const CALENDARIO = [
     ],
     "detalle": "Busca un instante para mirar el cielo, aunque sea entre una cosa y otra. No tienes que hacer una pausa dramática ni resolver la vida mirando las nubes; con levantar la vista un momento ya cuenta.",
     "buenasNoches": "Descansa, corazón. El cielo va a seguir ahí mañana, por si hoy no te alcanzó el tiempo para mirarlo. No tienes que encontrar belleza en todo; con encontrar un ratito de calma basta.",
-    "cancionTitulo": "Antes del Meridiano",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "Y4pCA91F4Uw"
+    "cancionTitulo": "Blue World",
+    "cancionArtista": "Mac Miller",
+    "youtubeId": "aIHF7u9Wwiw"
   },
   {
     "dia": 8,
@@ -181,9 +181,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy suena un bolero con saxofón, déjalo acompañarte sin apuro. Hay músicas que parecen hablar bajito y, aun así, dicen más que una conversación entera.",
     "buenasNoches": "Que la noche te trate suave, mi vida. Ojalá alguna melodía se te quede dando vueltas, de esas que no hacen ruido pero acompañan bonito.",
-    "cancionTitulo": "Antonia",
-    "cancionArtista": "Gondwana",
-    "youtubeId": "exxkGyu3G1Q"
+    "cancionTitulo": "Solo Tú",
+    "cancionArtista": "Macha y el Bloque Depresivo; Álvaro Henríquez",
+    "youtubeId": "lxPDvuV9Z88"
   },
   {
     "dia": 9,
@@ -204,9 +204,9 @@ const CALENDARIO = [
     ],
     "detalle": "Pon esa canción de R&B que te acomoda el ánimo y haz tus cosas a tu ritmo. El mundo puede esperar unos minutos; tampoco es que vaya a aprender a organizarse mientras tú no lo miras.",
     "buenasNoches": "Buenas noches. Deja que la música se apague cuando ya no la necesites y que el silencio también tenga su lugar. No tienes que llenar cada minuto de algo.",
-    "cancionTitulo": "Fui Silencio",
-    "cancionArtista": "Sofía Gabanna; Jazzmind",
-    "youtubeId": "KV2ECDqPyuY"
+    "cancionTitulo": "Didn't Cha Know",
+    "cancionArtista": "Erykah Badu",
+    "youtubeId": "b4fCymLkgOQ"
   },
   {
     "dia": 10,
@@ -227,9 +227,9 @@ const CALENDARIO = [
     ],
     "detalle": "Vístete cómoda y como te dé la gana. No tienes que convertir cada día en un desfile, aunque admito que tienes esa habilidad sospechosa de hacer que lo sencillo te quede con personalidad.",
     "buenasNoches": "Descansa cómoda, a tu manera y sin pedir permiso. Ojalá mañana te despiertes sintiéndote tan tú como cuando eliges ponerte lo que te gusta.",
-    "cancionTitulo": "good denim",
-    "cancionArtista": "jalen chords",
-    "youtubeId": "_2Lnj5N9lCM"
+    "cancionTitulo": "Japanese Denim",
+    "cancionArtista": "Daniel Caesar",
+    "youtubeId": "6OkneaH-eTA"
   },
   {
     "dia": 11,
@@ -273,9 +273,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy ves tulipanes o margaritas, piensa que no hace falta una fecha especial para que una flor le mejore el día a alguien. Lo mismo pasa con los mensajes: a veces llegan porque sí, y justo por eso se sienten tan bonitos.",
     "buenasNoches": "Buenas noches, mi vida. No hace falta que hoy haya sido una fecha especial para que merezcas un detalle bonito. Ojalá mañana alguien te sorprenda con uno.",
-    "cancionTitulo": "Trato de Olvidarte",
-    "cancionArtista": "Gonzalo Genek; Micro TDH; Lui5",
-    "youtubeId": "Z66Bv_N55zQ"
+    "cancionTitulo": "Beautiful",
+    "cancionArtista": "Snoop Dogg; Pharrell Williams; Charlie Wilson",
+    "youtubeId": "_FE194VN6c4"
   },
   {
     "dia": 13,
@@ -296,9 +296,9 @@ const CALENDARIO = [
     ],
     "detalle": "Regálate un rincón tranquilo, aunque solo sea por cinco minutos. No tienes que tener todo en orden para merecer un poco de calma, corazón.",
     "buenasNoches": "Deja el día donde pertenece, corazón: en el día. No te lleves a la almohada cada cosa que quedó a medias; también mereces descansar sin hacer inventario de pendientes.",
-    "cancionTitulo": "Trabajo Sucio",
-    "cancionArtista": "Lianna",
-    "youtubeId": "eKGrgYjeCNM"
+    "cancionTitulo": "El Sexto Sentido",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "tjHgj-p_XiI"
   },
   {
     "dia": 14,
@@ -342,9 +342,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy te sale esa sonrisa tuya que aparece de golpe, no intentes esconderla. Y si alguien consigue provocarla, que sepa que acaba de ganar un privilegio bastante bonito.",
     "buenasNoches": "Buenas noches, bonita. Ojalá hoy hayas reído de verdad, de esa forma en que se te ilumina la cara y las pecas parecen sumarse a la conversación.",
-    "cancionTitulo": "No quiero acostumbrarme",
-    "cancionArtista": "A.C.O",
-    "youtubeId": "iJy6xE17h-g"
+    "cancionTitulo": "Feliz Si Es Raro",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "rTv5pNLz9IU"
   },
   {
     "dia": 16,
@@ -388,9 +388,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy te provoca arroz con huevo, disfrútalo sin que nadie venga a convertir el almuerzo en una competencia gastronómica. Los clásicos no necesitan una presentación con espuma y pinzas.",
     "buenasNoches": "Descansa, mi vida. Mañana habrá más cosas que hacer, pero no necesitas adelantarte a todas desde la cama. Por ahora, el arroz con huevo puede esperar y tú también.",
-    "cancionTitulo": "The Way I Love You",
-    "cancionArtista": "Jorja Smith",
-    "youtubeId": "R25qYkkv_t8"
+    "cancionTitulo": "Suero Casero",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "_5Ypj8L7faU"
   },
   {
     "dia": 18,
@@ -457,9 +457,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy alguien te mira y te sonríe, devuelve la sonrisa si te nace. Y si te ríes de verdad y se te notan las pecas, bueno… hay pequeñas distracciones que deberían venir con advertencia.",
     "buenasNoches": "Descansa, amor. Si hoy alguien te sacó esa sonrisa tuya, espero que el recuerdo te acompañe un poquito. Y si no, queda pendiente que el día siguiente haga mejor su trabajo.",
-    "cancionTitulo": "Solo Tú",
-    "cancionArtista": "Macha y el Bloque Depresivo; Álvaro Henríquez",
-    "youtubeId": "lxPDvuV9Z88"
+    "cancionTitulo": "My Boo",
+    "cancionArtista": "USHER; Alicia Keys",
+    "youtubeId": "fPgf2meEX1w"
   },
   {
     "dia": 21,
@@ -480,9 +480,9 @@ const CALENDARIO = [
     ],
     "detalle": "Haz algo creativo sin preguntarte antes si va a quedar perfecto. Prueba, mezcla, cambia de idea y vuelve a empezar; no todo lo que vale la pena necesita instrucciones desde el principio.",
     "buenasNoches": "Buenas noches, artista. Suelta por hoy las herramientas, las ideas y el deseo de corregirlo todo. Mañana puedes volver a probar; esta noche te toca descansar a ti.",
-    "cancionTitulo": "Qué Tú Quieres?",
-    "cancionArtista": "Mabiland",
-    "youtubeId": "7C4t_d898_Q"
+    "cancionTitulo": "Házmelo Rap",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "P1qamoOHLYM"
   },
   {
     "dia": 22,
@@ -503,9 +503,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si alguien que quieres necesita de ti, acompáñalo como puedas, pero no olvides guardarte un poco de cuidado para ti. Tener un corazón generoso no significa tener que resolverlo todo.",
     "buenasNoches": "Que descanses, mi vida. Acuérdate de que cuidar a los demás también incluye no exigirte estar disponible para todo el mundo todo el tiempo.",
-    "cancionTitulo": "Bacatá",
-    "cancionArtista": "1703; El Kalvo; $trasse",
-    "youtubeId": "QF2M5IWCJNQ"
+    "cancionTitulo": "Love",
+    "cancionArtista": "Keyshia Cole",
+    "youtubeId": "9PBZy9j3H3I"
   },
   {
     "dia": 23,
@@ -526,9 +526,9 @@ const CALENDARIO = [
     ],
     "detalle": "Prepara tu café y deja que el primer sorbo sea una pausa de verdad. No hace falta que la mañana se convierta en una película tranquila: con que por un minuto nadie te apure, ya es ganancia.",
     "buenasNoches": "Buenas noches, corazón. Ojalá mañana el café llegue antes que las preocupaciones y puedas disfrutarlo sin mirar el reloj cada veinte segundos.",
-    "cancionTitulo": "Balada para No Dormir - Bonus Track",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "h1p0N9s5YJw"
+    "cancionTitulo": "Electric Relaxation",
+    "cancionArtista": "A Tribe Called Quest",
+    "youtubeId": "WHRnvjCkTsw"
   },
   {
     "dia": 24,
@@ -595,9 +595,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si llegas a casa y tus mascotas montan su celebración habitual, déjalas ganar. Ellas no necesitan que les expliques que solo saliste un rato; para ellas, tu regreso ya es el acontecimiento del día.",
     "buenasNoches": "Buenas noches, corazón. Ojalá tus mascotas te hagan compañía si se acercan, aunque probablemente ellas crean que la cama les pertenece por derecho propio.",
-    "cancionTitulo": "El Imaginario",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "VBnufgtjtxU"
+    "cancionTitulo": "You Got Me",
+    "cancionArtista": "The Roots; Tariq Trotter; Erykah Badu; Eve",
+    "youtubeId": "MJCHeEQV454"
   },
   {
     "dia": 27,
@@ -687,9 +687,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si una pieza de cerámica no queda como la imaginabas, no la declares perdida enseguida. Quizá solo está encontrando una forma que no tenías planeada, como tantas cosas buenas.",
     "buenasNoches": "Buenas noches, artista. No todas las piezas tienen que quedar listas hoy, ni todas las ideas tienen que convertirse enseguida en algo concreto. Deja que el proceso respire.",
-    "cancionTitulo": "Házmelo Rap",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "P1qamoOHLYM"
+    "cancionTitulo": "El Estrén - Versión álbum",
+    "cancionArtista": "Crudo Means Raw",
+    "youtubeId": "xrQBpf_yfTc"
   },
   {
     "dia": 31,
@@ -710,9 +710,9 @@ const CALENDARIO = [
     ],
     "detalle": "Mezcla colores por curiosidad, no por obligación. Si terminas con un tono inesperado, puedes llamarlo experimento artístico; si te gusta, lo llamamos genialidad y seguimos adelante.",
     "buenasNoches": "Que descanses con la tranquilidad de no tener que acertar siempre a la primera. Hasta los colores encuentran su lugar después de varias pruebas.",
-    "cancionTitulo": "Malpensante",
-    "cancionArtista": "Noiseferatu",
-    "youtubeId": "rThYUXZyTeA"
+    "cancionTitulo": "En Tono Sepia",
+    "cancionArtista": "No Rules Clan",
+    "youtubeId": "y6Uf9bi_Mtk"
   },
   {
     "dia": 32,
@@ -733,9 +733,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si el cielo se pone bonito al final del día, regálate un momento para mirarlo. No hace falta sacar una conclusión profunda de cada atardecer; a veces basta con pensar ‘qué bonito’ y ya.",
     "buenasNoches": "Buenas noches, corazón. Ojalá el cielo te haya regalado aunque sea un vistazo bonito. Si no, mañana tendrá otra oportunidad de impresionarte.",
-    "cancionTitulo": "El Toque Personal",
+    "cancionTitulo": "Antes del Meridiano",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "Ml_6S52AEFc"
+    "youtubeId": "Y4pCA91F4Uw"
   },
   {
     "dia": 33,
@@ -756,9 +756,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy te acompaña un bolero, deja que te encuentre donde estés. Me gusta que puedas disfrutar de algo con tanta historia sin tener que explicarle a nadie por qué te llega.",
     "buenasNoches": "Que tengas una noche tranquila, mi vida. Hay canciones que acompañan incluso cuando ya terminaron; quizá hoy alguna se quede contigo de esa forma.",
-    "cancionTitulo": "El Silencio Es Mio",
-    "cancionArtista": "Métricas Frías; Doble Porción",
-    "youtubeId": "HngH70vOsJs"
+    "cancionTitulo": "Tararea",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "nmFdyBUAsfQ"
   },
   {
     "dia": 34,
@@ -779,9 +779,9 @@ const CALENDARIO = [
     ],
     "detalle": "Busca una canción que te acompañe sin exigirte nada. Que esté de fondo mientras haces lo tuyo y no te quite espacio en la cabeza; la música también puede ser una buena compañía silenciosa.",
     "buenasNoches": "Descansa, amor. No tienes que ponerle palabras a todo lo que sientes ni explicarle a nadie por qué una canción te toca. A veces basta con sentirla.",
-    "cancionTitulo": "Electric Relaxation",
-    "cancionArtista": "A Tribe Called Quest",
-    "youtubeId": "WHRnvjCkTsw"
+    "cancionTitulo": "The Way I Love You",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "R25qYkkv_t8"
   },
   {
     "dia": 35,
@@ -802,9 +802,9 @@ const CALENDARIO = [
     ],
     "detalle": "Que la ropa de hoy te deje moverte, respirar y sentirte tú. La comodidad no es falta de estilo; es saber lo que te gusta y no negociar con cada tendencia que pasa por la puerta.",
     "buenasNoches": "Buenas noches, bonita. Ponte cómoda, deja el día atrás y no negocies con las opiniones imaginarias de nadie. Tu descanso no necesita aprobación.",
-    "cancionTitulo": "De la Cuna al Ataud",
-    "cancionArtista": "La Etnnia; Full Nelson",
-    "youtubeId": "iNL9MXulJCY"
+    "cancionTitulo": "good denim",
+    "cancionArtista": "jalen chords",
+    "youtubeId": "_2Lnj5N9lCM"
   },
   {
     "dia": 36,
@@ -848,9 +848,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy alguien te regala una flor sin motivo, espero que te emociones con toda la libertad del mundo. No hace falta fingir que es algo pequeño si para ti se siente especial.",
     "buenasNoches": "Buenas noches, amor. Si hoy no hubo flores, no pasa nada; ojalá al menos alguien haya tenido un gesto que te hiciera sentir presente en su pensamiento.",
-    "cancionTitulo": "Envidias",
-    "cancionArtista": "Tres Coronas",
-    "youtubeId": "KRS0wPv9esQ"
+    "cancionTitulo": "La Revancha de los Timidos",
+    "cancionArtista": "Alcolirykoz; Jannyval",
+    "youtubeId": "SFMtkR0iSj0"
   },
   {
     "dia": 38,
@@ -871,9 +871,9 @@ const CALENDARIO = [
     ],
     "detalle": "Ordena solo lo que te ayude a respirar mejor, no para cumplir una idea ajena de cómo debe verse todo. A veces despejar un rincón sirve más para la cabeza que para la fotografía.",
     "buenasNoches": "Que la noche te encuentre con menos ruido alrededor y menos ruido por dentro. No todo se ordena hoy, y no pasa nada.",
-    "cancionTitulo": "Jaula de Oro - Original",
-    "cancionArtista": "Laberinto ELC",
-    "youtubeId": "BNLL8DJgkfI"
+    "cancionTitulo": "93 'Til Infinity",
+    "cancionArtista": "Souls of Mischief",
+    "youtubeId": "fXJc2NYwHjw"
   },
   {
     "dia": 39,
@@ -917,9 +917,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy te ríes en un momento serio, intenta no pedir perdón automáticamente. A veces una risa afloja el día; y si no era el momento, siempre puedes poner esa cara tuya de ‘yo no fui’.",
     "buenasNoches": "Buenas noches, corazón. Ojalá hoy te hayas reído en un momento inesperado. Y si te salió esa cara de inocente después, me habría encantado verla.",
-    "cancionTitulo": "Discúlpame",
-    "cancionArtista": "Ali Aka Mind",
-    "youtubeId": "sqzdMYQKCdU"
+    "cancionTitulo": "Insane in the Brain",
+    "cancionArtista": "Cypress Hill",
+    "youtubeId": "RijB8wnJCN0"
   },
   {
     "dia": 41,
@@ -940,9 +940,9 @@ const CALENDARIO = [
     ],
     "detalle": "Pon otra vez esa canción si todavía te acompaña por dentro. No todo lo repetido se vuelve aburrido; algunas cosas se quedan porque todavía nos hacen sentir algo.",
     "buenasNoches": "Que descanses, amor. Puedes escuchar esa canción una última vez si te hace bien, pero no hagas tratos imposibles con el botón de repetir cuando ya te estés quedando dormida.",
-    "cancionTitulo": "Murderah",
-    "cancionArtista": "Rap Bang Club; Norick",
-    "youtubeId": "6Xw1_Kuv9ac"
+    "cancionTitulo": "Full Clip",
+    "cancionArtista": "Gang Starr",
+    "youtubeId": "qmj1q67NDAk"
   },
   {
     "dia": 42,
@@ -986,9 +986,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si alguien tiene un gesto bonito contigo, permítete recibirlo sin minimizarlo. No tienes que decir ‘no era necesario’ tres veces; puedes sonreír y dejar que el cariño llegue.",
     "buenasNoches": "Que duermas rico, corazón. No subestimes el efecto de un detalle recordado; a veces alguien demuestra cariño sin hacer ningún anuncio.",
-    "cancionTitulo": "Rifo los Lunes",
-    "cancionArtista": "Alcolirykoz; Gordo Sarkasmus",
-    "youtubeId": "Z6vTjCPva5Q"
+    "cancionTitulo": "It Was A Good Day",
+    "cancionArtista": "Ice Cube",
+    "youtubeId": "h4UqMyldS7Q"
   },
   {
     "dia": 44,
@@ -1009,9 +1009,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si la conversación se alarga y de pronto ya pasó la hora, no siempre es tiempo perdido. A veces encontrarse con alguien con quien hablar sin estar mirando el reloj es un regalo raro.",
     "buenasNoches": "Buenas noches, amor. Si la conversación de hoy se alargó sin que miraras la hora, quizá fue una buena manera de perder un poquito el tiempo.",
-    "cancionTitulo": "El Tour de Sing Sing",
-    "cancionArtista": "Alcolirykoz; ToteKing",
-    "youtubeId": "b05PzMJqiaw"
+    "cancionTitulo": "Dilemma",
+    "cancionArtista": "Nelly; Kelly Rowland",
+    "youtubeId": "8WYHDfJDPDc"
   },
   {
     "dia": 45,
@@ -1032,9 +1032,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si alguien te mira con cariño, no tienes que descifrarlo todo en el acto. Hay gestos que se entienden mejor cuando uno los deja ser, sin interrogarlos como sospechosos.",
     "buenasNoches": "Descansa, bonita. No tienes que descifrar cada mirada antes de dormir; algunas cosas pueden sentirse bonitas sin convertirse en un examen.",
-    "cancionTitulo": "La Revancha de los Timidos",
-    "cancionArtista": "Alcolirykoz; Jannyval",
-    "youtubeId": "SFMtkR0iSj0"
+    "cancionTitulo": "Stuck On You",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "UlIgAGotomM"
   },
   {
     "dia": 46,
@@ -1078,9 +1078,9 @@ const CALENDARIO = [
     ],
     "detalle": "Fíjate en quién cumple lo que dice, incluso en las cosas pequeñas. Y procura rodearte de personas con las que no tengas que adivinar si el cariño está ahí: lo bonito también puede ser claro.",
     "buenasNoches": "Buenas noches, corazón. Puedes ser cuidadosa con tus palabras y seguir siendo firme en lo que piensas. No tienes que escoger entre tu ternura y tu carácter.",
-    "cancionTitulo": "El Sexto Sentido",
+    "cancionTitulo": "No Está en Venta",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "tjHgj-p_XiI"
+    "youtubeId": "Se6Cd4sW3ks"
   },
   {
     "dia": 48,
@@ -1124,9 +1124,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy una margarita acompaña tus materiales, deja que esté ahí como una pequeña visita. Me gusta imaginar un espacio tuyo donde convivan las ideas, los colores y algún detalle que te haga sonreír.",
     "buenasNoches": "Buenas noches, artista. Ojalá tu espacio te haya dado un poco de alegría hoy, aunque solo fuera por una flor, un color o una idea que te hizo ilusión.",
-    "cancionTitulo": "Me Volví Loco",
-    "cancionArtista": "King Kong Click; Bubaseta; Subwoffer",
-    "youtubeId": "MsnJzE8Cbw0"
+    "cancionTitulo": "Maga",
+    "cancionArtista": "Robert Tiamo",
+    "youtubeId": "6aGodaNTOvQ"
   },
   {
     "dia": 50,
@@ -1170,9 +1170,9 @@ const CALENDARIO = [
     ],
     "detalle": "Cuando vuelvas a ver a alguien que quieres, disfruta ese primer segundo del reencuentro. A veces la sonrisa sale antes que el saludo y cuenta toda la historia por su cuenta.",
     "buenasNoches": "Buenas noches, corazón. Que recuerdes algún saludo bonito o una despedida que te hizo sentir importante. Esas pequeñas maneras de recibirnos y despedirnos pueden quedarse con uno todo el día.",
-    "cancionTitulo": "Feliz Si Es Raro",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "rTv5pNLz9IU"
+    "cancionTitulo": "Will I See You Again?",
+    "cancionArtista": "Thee Sacred Souls",
+    "youtubeId": "IGgb10A_2c8"
   },
   {
     "dia": 52,
@@ -1193,9 +1193,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si puedes empezar la mañana sin correr, hazlo. Y si no puedes, al menos que el café te acompañe en la negociación con el día.",
     "buenasNoches": "Que duermas rico, amor. Ojalá mañana el día empiece con menos afán y más espacio para hacer las cosas a tu ritmo.",
-    "cancionTitulo": "Bogotá Mi Barrio",
-    "cancionArtista": "Todo Copas",
-    "youtubeId": "jj8ZIUfWCMM"
+    "cancionTitulo": "On & On",
+    "cancionArtista": "Erykah Badu",
+    "youtubeId": "-CPCs7vVz6s"
   },
   {
     "dia": 53,
@@ -1239,9 +1239,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si alguien te ayuda porque quiere que algo te salga bien, no pases por alto ese gesto. El cariño también aparece en quien presta atención, se acuerda y hace un poquito más fácil el camino.",
     "buenasNoches": "Descansa, corazón. Que mañana alguien te haga sentir acompañada sin que tengas que pedirlo y que tú también puedas dejarte cuidar.",
-    "cancionTitulo": "Let My People",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "Kjbc9C9ZQAA"
+    "cancionTitulo": "Keep Ya Head Up",
+    "cancionArtista": "2Pac",
+    "youtubeId": "HfXwmDGJAB8"
   },
   {
     "dia": 55,
@@ -1262,9 +1262,9 @@ const CALENDARIO = [
     ],
     "detalle": "Ten paciencia con lo que estás creando. El barro enseña que apretar demasiado no siempre arregla las cosas; a veces toca soltar, volver a dar forma y confiar en las manos.",
     "buenasNoches": "Buenas noches, bonita. El barro y la paciencia pueden esperar hasta mañana; por hoy, suelta todo lo que tengas entre las manos y descansa.",
-    "cancionTitulo": "Algo Anda Mal",
-    "cancionArtista": "Clan Hueso Duro",
-    "youtubeId": "nFCFxtW8Fww"
+    "cancionTitulo": "Renace",
+    "cancionArtista": "Frank Takuma",
+    "youtubeId": "Yp3XIOGV6pU"
   },
   {
     "dia": 56,
@@ -1285,9 +1285,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si una mancha de color cambia por completo tu idea, dale una oportunidad antes de borrarla. Quizá termine siendo justo lo que le faltaba, y eso también cuenta como saber crear.",
     "buenasNoches": "Que la noche te dé permiso de no arreglar lo que hoy salió distinto a lo esperado. A veces la sorpresa termina teniendo su propia belleza.",
-    "cancionTitulo": "Comediantes de Velorio",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "eP7W_YwWN28"
+    "cancionTitulo": "Virtual Insanity - Remastered 2006",
+    "cancionArtista": "Jamiroquai",
+    "youtubeId": "4JkIs37a2JE"
   },
   {
     "dia": 57,
@@ -1308,9 +1308,9 @@ const CALENDARIO = [
     ],
     "detalle": "Cuando el atardecer pinte el cielo de un color inesperado, ojalá te encuentre con un minuto libre para verlo. Tú que aprecias tanto los detalles mereces no pasar de largo frente a uno de esos.",
     "buenasNoches": "Buenas noches, amor. Ojalá te hayas detenido un momento a mirar el cielo, aunque haya sido desde una ventana y con mil cosas por hacer.",
-    "cancionTitulo": "Qué Hay Pa' Hacer",
-    "cancionArtista": "Granuja",
-    "youtubeId": "M6CG-CU07n4"
+    "cancionTitulo": "Escapism.",
+    "cancionArtista": "RAYE; 070 Shake",
+    "youtubeId": "Dll6VJ2C7wo"
   },
   {
     "dia": 58,
@@ -1331,9 +1331,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy un bolero te trae una nostalgia suave, no tienes que explicársela a nadie. Hay canciones que abren una ventanita por dentro y luego se quedan acompañando sin hacer ruido.",
     "buenasNoches": "Descansa, mi vida. Si hoy una canción te movió algún recuerdo, no tienes que resolverlo esta noche. Déjalo acompañarte un momento y luego duerme.",
-    "cancionTitulo": "No Está en Venta",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "Se6Cd4sW3ks"
+    "cancionTitulo": "Baby, I Love Your Way",
+    "cancionArtista": "Big Mountain",
+    "youtubeId": "utXwIqQj7oE"
   },
   {
     "dia": 59,
@@ -1354,9 +1354,9 @@ const CALENDARIO = [
     ],
     "detalle": "Elige música que te deje estar en paz contigo misma. No todos los días necesitan una banda sonora épica; algunos solo necesitan un ritmo amable y que nadie te pregunte cinco cosas a la vez.",
     "buenasNoches": "Buenas noches, corazón. Ojalá la música de mañana te encuentre de buen ánimo, pero si no, también puede acompañarte en los días más silenciosos.",
-    "cancionTitulo": "En Tono Sepia",
-    "cancionArtista": "No Rules Clan",
-    "youtubeId": "y6Uf9bi_Mtk"
+    "cancionTitulo": "Freedom",
+    "cancionArtista": "Pharrell Williams",
+    "youtubeId": "LlY90lG_Fuw"
   },
   {
     "dia": 60,
@@ -1446,9 +1446,9 @@ const CALENDARIO = [
     ],
     "detalle": "Deja un poquito de espacio para cambiar de idea. No todo lo que viene necesita una respuesta inmediata, y no tienes que tener resuelto el siguiente capítulo para disfrutar este.",
     "buenasNoches": "Buenas noches, corazón. No tienes que tener todos los planes resueltos; deja un poco de espacio para que la vida te sorprenda.",
-    "cancionTitulo": "La Danza del Miedo",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "kR-rKKZuLl8"
+    "cancionTitulo": "Todo Bien Todo Bien",
+    "cancionArtista": "JHT",
+    "youtubeId": "YKP-wTi6zAI"
   },
   {
     "dia": 64,
@@ -1469,9 +1469,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si tienes ganas de empezar algo, da un primer paso pequeño. No necesitas sentirte lista al cien por ciento; a veces la confianza llega después de comenzar.",
     "buenasNoches": "Descansa, amor. Si hoy te quedó una idea rondando la cabeza, mañana puedes darle una oportunidad. Esta noche no tienes que perseguirla por toda la habitación.",
-    "cancionTitulo": "Fatality",
-    "cancionArtista": "Zof Ziro; ZetaZeta",
-    "youtubeId": "_14iDOtdS7M"
+    "cancionTitulo": "Can't Tell Me Nothing",
+    "cancionArtista": "Kanye West",
+    "youtubeId": "hqvcww4ydh8"
   },
   {
     "dia": 65,
@@ -1492,9 +1492,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy te sale una carcajada inesperada, ojalá nadie te pida que la bajes. Esas risas que desarman la seriedad hacen falta más de lo que uno cree.",
     "buenasNoches": "Buenas noches, mi vida. Ojalá hoy te hayas reído con ganas; una risa genuina a veces es lo mejor que uno se lleva del día.",
-    "cancionTitulo": "Es Épico",
-    "cancionArtista": "Canserbero",
-    "youtubeId": "bB8MTYLR1_w"
+    "cancionTitulo": "Just Can’t Get Enough",
+    "cancionArtista": "Black Eyed Peas",
+    "youtubeId": "OrTyD7rjBpw"
   },
   {
     "dia": 66,
@@ -1515,9 +1515,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si una canción ya se siente tuya, guárdala cerca. Hay melodías que terminan asociadas a un momento, a una persona o a una versión de uno mismo que da gusto recordar.",
     "buenasNoches": "Que descanses, corazón. Hay canciones que se vuelven parte de nuestros recuerdos sin avisar. Quizá alguna de las tuyas esté guardando uno bonito para más adelante.",
-    "cancionTitulo": "Tararea",
+    "cancionTitulo": "Mi Barrio Es Mi Estado",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "nmFdyBUAsfQ"
+    "youtubeId": "UFmV2yg6Oao"
   },
   {
     "dia": 67,
@@ -1538,9 +1538,9 @@ const CALENDARIO = [
     ],
     "detalle": "Hoy no mezclemos tus antojos como si fueran lo mismo: pasta cuando provoca pasta, arroz con huevo cuando gana el clásico. La vida ya tiene suficientes confusiones; el almuerzo no tiene por qué sumarse.",
     "buenasNoches": "Buenas noches, amor. Mañana elige el plato que de verdad te provoque, sin debates innecesarios ni jueces de cocina.",
-    "cancionTitulo": "Mama Dejame Fumar",
-    "cancionArtista": "Asilo 38",
-    "youtubeId": "i3dCS-s0LBQ"
+    "cancionTitulo": "La Típica (2.018)",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "LqoVJPFAbf4"
   },
   {
     "dia": 68,
@@ -1561,9 +1561,9 @@ const CALENDARIO = [
     ],
     "detalle": "Cuando alguien te cuente algo importante, intenta recordar ese detalle después. A veces decir ‘me acordé de lo que me contaste’ es una forma discreta y preciosa de decir ‘te estaba escuchando de verdad’.",
     "buenasNoches": "Que duermas tranquila, mi vida. Acordarte de lo que alguien te cuenta es una manera preciosa de cuidar; y dejar que también se acuerden de ti lo es igual.",
-    "cancionTitulo": "El Show Debe Continuar",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "yCYQY7sObG8"
+    "cancionTitulo": "Where Is The Love?",
+    "cancionArtista": "Black Eyed Peas",
+    "youtubeId": "WpYeekQkAdc"
   },
   {
     "dia": 69,
@@ -1584,9 +1584,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si una charla se pone seria, puedes ser tierna sin dejar de decir lo que piensas. Me gusta esa combinación: palabras cuidadosas, pero una idea clara que no se esconde detrás de adornos.",
     "buenasNoches": "Buenas noches, corazón. Ojalá hoy hayas podido decir lo que pensabas sin tener que esconderlo y también hayas encontrado a alguien que supiera escucharte.",
-    "cancionTitulo": "Retina Floja",
-    "cancionArtista": "Bubaseta; Movimiento Original",
-    "youtubeId": "tdah2a4aKQ8"
+    "cancionTitulo": "Ms. Jackson",
+    "cancionArtista": "Outkast",
+    "youtubeId": "MYxAiK6VnXw"
   },
   {
     "dia": 70,
@@ -1607,9 +1607,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy te da el sol en los ojos y se ven más cálidos, ojalá alguien tenga la suerte de notarlo. Y si sonríes y aparecen tus pecas, bueno, que esa persona intente continuar la conversación con normalidad.",
     "buenasNoches": "Descansa, bonita. Tus ojos, tu sonrisa y esas pecas pueden esperar hasta mañana; esta noche no tienes que iluminarle el día a nadie. Solo descansar.",
-    "cancionTitulo": "Anestesia Local - Episodio 2",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "MRyZ6faVKWQ"
+    "cancionTitulo": "You Rock My World",
+    "cancionArtista": "Michael Jackson",
+    "youtubeId": "1-7ABIM2qjU"
   },
   {
     "dia": 71,
@@ -1653,9 +1653,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si quieres a alguien, que se note en los gestos que sí puedes ofrecer; y si algo te importa, dilo con claridad. La ternura no pierde su encanto por tener carácter, corazón.",
     "buenasNoches": "Que descanses, amor. Ser cariñosa no significa callarte lo que importa; tu ternura y tu firmeza pueden ir de la mano.",
-    "cancionTitulo": "Aguanilé",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "983zfhMym8Q"
+    "cancionTitulo": "Like I Want You",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "yNNMKN9BUmU"
   },
   {
     "dia": 73,
@@ -1676,9 +1676,9 @@ const CALENDARIO = [
     ],
     "detalle": "Date permiso de tomar el café despacio si el día te lo permite. Y si no, al menos no te exijas ser una máquina desde que abres los ojos; las máquinas ni siquiera disfrutan el café.",
     "buenasNoches": "Buenas noches, corazón. Si mañana toca café y correr, ojalá por lo menos tengas un minuto para respirar antes de que empiece la aventura.",
-    "cancionTitulo": "Mi Barrio Es Mi Estado",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "UFmV2yg6Oao"
+    "cancionTitulo": "I Gotta Find Peace of Mind - Live",
+    "cancionArtista": "Ms. Lauryn Hill",
+    "youtubeId": "b2IbsMCgz4A"
   },
   {
     "dia": 74,
@@ -1722,9 +1722,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy se puede elegir, que el plan sea de casa: cocinar algo, acomodarse sin ceremonia y buscar una película. Si nos perdemos media trama hablando, siempre podemos decir que era una película experimental.",
     "buenasNoches": "Buenas noches, amor. Ojalá el día te haya dejado con ganas de repetir algo bonito: una charla, una comida, una película o una risa compartida.",
-    "cancionTitulo": "Noicanicula",
-    "cancionArtista": "La Etnnia",
-    "youtubeId": "z3ru8GXgHJE"
+    "cancionTitulo": "Family Affair",
+    "cancionArtista": "Mary J. Blige",
+    "youtubeId": "znlFu_lemsU"
   },
   {
     "dia": 76,
@@ -1745,9 +1745,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si tus mascotas se emocionan al verte, disfruta esa bienvenida sin tratar de hacerte la seria. Aunque vengas cansada, aunque haya sido un día largo, ese recibimiento merece una sonrisa genuina.",
     "buenasNoches": "Que descanses, corazón. Si mañana tus mascotas te reciben como si fueras la persona más importante del planeta, no discutas con ellas: por una vez, el drama está justificado.",
-    "cancionTitulo": "Nrs In Da Area",
-    "cancionArtista": "No Rules Clan; Ignorancia Sofisticada",
-    "youtubeId": "O4pIfDuLk_k"
+    "cancionTitulo": "Is This Love",
+    "cancionArtista": "Bob Marley & The Wailers",
+    "youtubeId": "CHekNnySAfM"
   },
   {
     "dia": 77,
@@ -1791,9 +1791,9 @@ const CALENDARIO = [
     ],
     "detalle": "Hoy no toca exigirte una versión nueva de ti como si fueras un proyecto pendiente. Come algo rico, abraza a tus mascotas si las tienes cerca, habla con tu gente y date permiso de comenzar el año a tu ritmo. Los propósitos pueden esperar hasta después del desayuno; ya sabes que esa negociación con el reloj tiene antecedentes.",
     "buenasNoches": "Buenas noches, corazón, y feliz primer día del año. Ojalá hoy hayas tenido un momento bonito, una risa sincera o una conversación que te haya hecho sentir cerca de tu gente. Que este año te dé espacio para crear, descansar, querer y dejarte querer. No hace falta que el primer día sea perfecto para que el año tenga cosas buenas por delante.",
-    "cancionTitulo": "Quien Va",
-    "cancionArtista": "No Rules Clan; Alcolirykoz; El Arkeologo",
-    "youtubeId": "mF_8BMwhH5A"
+    "cancionTitulo": "Not Afraid",
+    "cancionArtista": "Eminem",
+    "youtubeId": "j5-yKhDd64s"
   }
 
 ];
