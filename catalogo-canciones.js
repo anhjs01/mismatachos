@@ -18,6 +18,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "Trato de Olvidarte", artista: "Gonzalo Genek; Micro TDH; Lui5", youtubeId: "Z66Bv_N55zQ" },
     { titulo: "No quiero acostumbrarme", artista: "A.C.O", youtubeId: "iJy6xE17h-g" },
     { titulo: "The Way I Love You", artista: "Jorja Smith", youtubeId: "R25qYkkv_t8" },
+    { titulo: "Antes de Morir (Scratches Dj Pho)", artista: "LosPetitFellas; Denise Gutiérrez; Dj Pho", youtubeId: "2vdIWr1TCBI" }
     { titulo: "Solo Tú", artista: "Macha y el Bloque Depresivo; Álvaro Henríquez", youtubeId: "lxPDvuV9Z88" }
   ],
   filosofica: [
@@ -59,7 +60,8 @@ const CATALOGO_CANCIONES = {
     { titulo: "Jaula de Oro - Original", artista: "Laberinto ELC", youtubeId: "BNLL8DJgkfI" },
     { titulo: "El Día de Mi Suerte", artista: "El Redcode", youtubeId: "ApqRPZ8xO6g" },
     { titulo: "Rifo los Lunes", artista: "Alcolirykoz; Gordo Sarkasmus", youtubeId: "Z6vTjCPva5Q" },
-    { titulo: "Clapzz", artista: "Alcolirykoz", youtubeId: "W486I2dtYA8" }
+    { titulo: "Clapzz", artista: "Alcolirykoz", youtubeId: "W486I2dtYA8" },
+    { titulo: "Aguanilé", artista: "Alcolirykoz", youtubeId: "983zfhMym8Q" }
   ],
   hot: [
     { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
