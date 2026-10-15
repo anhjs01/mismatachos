@@ -111,9 +111,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy vuelves a trabajar con barro, deja que tus manos se ensucien tranquilas. No todo tiene que salir perfecto a la primera; algunas cosas bonitas empiezan siendo un desastre pegajoso. A veces las personas también, y mira qué bien pueden terminar.",
     "buenasNoches": "Buenas noches, bonita. Que tus manos descansen de crear y tu cabeza también deje de inventarse pendientes. Lo que no se terminó hoy puede esperar un poquito.",
-    "cancionTitulo": "Best Part (feat. H.E.R.)",
-    "cancionArtista": "Daniel Caesar; H.E.R.",
-    "youtubeId": "vBy7FaapGRo"
+    "cancionTitulo": "Rara Bien",
+    "cancionArtista": "Rupatrupa",
+    "youtubeId": "15ws-oAh3G0"
   },
   {
     "dia": 6,
@@ -134,9 +134,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si te llega ese olor a pintura que tanto te gusta, ojalá te regale un ratito de paz. Me gusta imaginarte encontrando colores y posibilidades donde otros solo verían manchas en una mesa.",
     "buenasNoches": "Espero que termines el día con esa sensación de haber tenido un momento para ti. Y si no lo tuviste, que al menos la noche te lo regale.",
-    "cancionTitulo": "Kiss Of Life",
-    "cancionArtista": "Sade",
-    "youtubeId": "MmOau-PMWJk"
+    "cancionTitulo": "Show Me How",
+    "cancionArtista": "Men I Trust",
+    "youtubeId": "OZRYzH0Q0pU"
   },
   {
     "dia": 7,
@@ -272,9 +272,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy ves tulipanes o margaritas, piensa que no hace falta una fecha especial para que una flor le mejore el día a alguien. Lo mismo pasa con los mensajes: a veces llegan porque sí, y justo por eso se sienten tan bonitos.",
     "buenasNoches": "Buenas noches, mi vida. No hace falta que hoy haya sido una fecha especial para que merezcas un detalle bonito. Ojalá mañana alguien te sorprenda con uno.",
-    "cancionTitulo": "Beautiful",
-    "cancionArtista": "Snoop Dogg; Pharrell Williams; Charlie Wilson",
-    "youtubeId": "_FE194VN6c4"
+    "cancionTitulo": "Kiss Of Life",
+    "cancionArtista": "Sade",
+    "youtubeId": "MmOau-PMWJk"
   },
   {
     "dia": 13,
@@ -387,9 +387,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy te provoca arroz con huevo, disfrútalo sin que nadie venga a convertir el almuerzo en una competencia gastronómica. Y que no se nos ocurra echarle sal: si no te gusta, se respeta, sin debate ni negociación.",
     "buenasNoches": "Descansa, mi vida. Mañana habrá más cosas que hacer, pero no necesitas adelantarte a todas desde la cama. Por ahora, el arroz con huevo puede esperar y tú también.",
-    "cancionTitulo": "Family Affair",
-    "cancionArtista": "Mary J. Blige",
-    "youtubeId": "znlFu_lemsU"
+    "cancionTitulo": "Put Your Records On",
+    "cancionArtista": "Corinne Bailey Rae",
+    "youtubeId": "oWQl00LWEwE"
   },
   {
     "dia": 18,
@@ -456,9 +456,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy alguien te mira y te sonríe, devuelve la sonrisa si te nace. Y si te ríes de verdad y se te notan las pecas, bueno… hay pequeñas distracciones que deberían venir con advertencia.",
     "buenasNoches": "Descansa, amor. Si hoy alguien te sacó esa sonrisa tuya, espero que el recuerdo te acompañe un poquito. Y si no, queda pendiente que el día siguiente haga mejor su trabajo.",
-    "cancionTitulo": "My Boo",
-    "cancionArtista": "USHER; Alicia Keys",
-    "youtubeId": "fPgf2meEX1w"
+    "cancionTitulo": "By Your Side",
+    "cancionArtista": "Sade",
+    "youtubeId": "C8QJmI_V3j4"
   },
   {
     "dia": 21,
@@ -548,9 +548,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si te cruzas con una flor mientras trabajas, imagina una junto a tus pinceles o tus materiales. No para decorar una escena perfecta, sino para recordarte que lo cotidiano también puede tener un detalle bonito.",
     "buenasNoches": "Que duermas rico, amor. Espero que algún detalle sencillo te haya recordado hoy que no todo lo bonito necesita una gran explicación.",
-    "cancionTitulo": "Apocalypse",
-    "cancionArtista": "Cigarettes After Sex",
-    "youtubeId": "sElE_BfQ67s"
+    "cancionTitulo": "Show Me How",
+    "cancionArtista": "Men I Trust",
+    "youtubeId": "OZRYzH0Q0pU"
   },
   {
     "dia": 25,
@@ -617,9 +617,9 @@ const CALENDARIO = [
     ],
     "detalle": "Que el café sin azúcar te despierte a tu manera. Y si la mañana viene con sueño, no voy a juzgarte: bastante valiente es negociar con el despertador antes de haber desayunado.",
     "buenasNoches": "Que descanses, mi vida. Si la mañana te encuentra con sueño, no te declares vencida todavía: primero café, después decisiones importantes.",
-    "cancionTitulo": "Música para Planchar",
-    "cancionArtista": "Alcolirykoz; Sadat X",
-    "youtubeId": "t9mtMVfD6u4"
+    "cancionTitulo": "Don't Know Why",
+    "cancionArtista": "Norah Jones",
+    "youtubeId": "tO4dxvguQDk"
   },
   {
     "dia": 28,
@@ -640,9 +640,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si te provoca fruta, elige la que te haga ilusión y no la que parezca más fotogénica. Aquí no estamos haciendo una campaña publicitaria, mi vida; estamos intentando que tengas un momento rico.",
     "buenasNoches": "Buenas noches. Que mañana encuentres algo rico que comer y un motivo sencillo para sonreír. A veces no hace falta mucho para cambiarle el tono al día.",
-    "cancionTitulo": "Coctel Espacial",
-    "cancionArtista": "Lianna; Gambeta",
-    "youtubeId": "McpW-vn070k"
+    "cancionTitulo": "Put Your Records On",
+    "cancionArtista": "Corinne Bailey Rae",
+    "youtubeId": "oWQl00LWEwE"
   },
   {
     "dia": 29,
@@ -709,9 +709,9 @@ const CALENDARIO = [
     ],
     "detalle": "Mezcla colores por curiosidad, no por obligación. Si terminas con un tono inesperado, puedes llamarlo experimento artístico; si te gusta, lo llamamos genialidad y seguimos adelante.",
     "buenasNoches": "Que descanses con la tranquilidad de no tener que acertar siempre a la primera. Hasta los colores encuentran su lugar después de varias pruebas.",
-    "cancionTitulo": "Blue Lights",
-    "cancionArtista": "Jorja Smith",
-    "youtubeId": "R8YwnQMQuJI"
+    "cancionTitulo": "Blue World",
+    "cancionArtista": "Mac Miller",
+    "youtubeId": "aIHF7u9Wwiw"
   },
   {
     "dia": 32,
@@ -778,9 +778,9 @@ const CALENDARIO = [
     ],
     "detalle": "Busca una canción que te acompañe sin exigirte nada. Que esté de fondo mientras haces lo tuyo y no te quite espacio en la cabeza; la música también puede ser una buena compañía silenciosa.",
     "buenasNoches": "Descansa, amor. No tienes que ponerle palabras a todo lo que sientes ni explicarle a nadie por qué una canción te toca. A veces basta con sentirla.",
-    "cancionTitulo": "The Way I Love You",
-    "cancionArtista": "Jorja Smith",
-    "youtubeId": "R25qYkkv_t8"
+    "cancionTitulo": "Didn't Cha Know",
+    "cancionArtista": "Erykah Badu",
+    "youtubeId": "b4fCymLkgOQ"
   },
   {
     "dia": 35,
@@ -824,9 +824,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si aparece esa mora con cubierta amarga que te gusta, disfrútala despacito. Me causa gracia que algo tan pequeño pueda tener una combinación tan específica; supongo que los gustos también tienen su carácter.",
     "buenasNoches": "Que descanses, corazón. Espero que mañana puedas darte ese gusto que te encanta, con su mezcla exacta y sin que nadie intente corregirte la receta.",
-    "cancionTitulo": "Redbone",
-    "cancionArtista": "Childish Gambino",
-    "youtubeId": "Kp7eSUU9oy8"
+    "cancionTitulo": "Put Your Records On",
+    "cancionArtista": "Corinne Bailey Rae",
+    "youtubeId": "oWQl00LWEwE"
   },
   {
     "dia": 37,
@@ -847,9 +847,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy alguien te regala una flor sin motivo, espero que te emociones con toda la libertad del mundo. No hace falta fingir que es algo pequeño si para ti se siente especial.",
     "buenasNoches": "Buenas noches, amor. Si hoy no hubo flores, no pasa nada; ojalá al menos alguien haya tenido un gesto que te hiciera sentir presente en su pensamiento.",
-    "cancionTitulo": "Baby, I Love Your Way",
-    "cancionArtista": "Big Mountain",
-    "youtubeId": "utXwIqQj7oE"
+    "cancionTitulo": "Beautiful",
+    "cancionArtista": "Snoop Dogg; Pharrell Williams; Charlie Wilson",
+    "youtubeId": "_FE194VN6c4"
   },
   {
     "dia": 38,
@@ -962,9 +962,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si toca elegir entre pasta o arroz con huevo, no hay necesidad de enfrentar a los dos platos como si solo uno pudiera existir. Cada antojo tiene su día, y ambos merecen su oportunidad.",
     "buenasNoches": "Buenas noches, mi vida. Mañana decides cuál antojo gana; esta noche no hace falta convocar una cumbre entre la pasta y el arroz con huevo.",
-    "cancionTitulo": "Antonia",
-    "cancionArtista": "Gondwana",
-    "youtubeId": "exxkGyu3G1Q"
+    "cancionTitulo": "Three Little Birds",
+    "cancionArtista": "Bob Marley & The Wailers",
+    "youtubeId": "HNBCVM4KbUM"
   },
   {
     "dia": 43,
@@ -1100,9 +1100,9 @@ const CALENDARIO = [
     ],
     "detalle": "Que el café no tenga azúcar no significa que el día tenga que ser amargo. Si la mañana viene torcida, ve por partes; no tienes que resolverla entera antes del primer sorbo.",
     "buenasNoches": "Que descanses, amor. El café de mañana puede esperar hasta que abras los ojos; por ahora, no necesitas ganarle ninguna carrera al día.",
-    "cancionTitulo": "La Jungla",
-    "cancionArtista": "Flaco Flow y Melanina",
-    "youtubeId": "NcUvzYvGO2U"
+    "cancionTitulo": "Don't Know Why",
+    "cancionArtista": "Norah Jones",
+    "youtubeId": "tO4dxvguQDk"
   },
   {
     "dia": 49,
@@ -1376,9 +1376,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy te pones una prenda grande y cómoda, que sea porque te gusta y punto. No tienes que justificar tu uniforme favorito ante un comité imaginario de moda.",
     "buenasNoches": "Que descanses, amor. Mañana puedes volver a elegir tu ropa favorita y seguir siendo tú, sin explicaciones ni permisos.",
-    "cancionTitulo": "Así No Más",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "phFWgKphgc0"
+    "cancionTitulo": "Japanese Denim",
+    "cancionArtista": "Daniel Caesar",
+    "youtubeId": "6OkneaH-eTA"
   },
   {
     "dia": 61,
@@ -1537,9 +1537,9 @@ const CALENDARIO = [
     ],
     "detalle": "Hoy no mezclemos tus antojos como si fueran lo mismo: pasta cuando provoca pasta, arroz con huevo cuando gana el clásico. La vida ya tiene suficientes confusiones; el almuerzo no tiene por qué sumarse.",
     "buenasNoches": "Buenas noches, amor. Mañana elige el plato que de verdad te provoque, sin debates innecesarios ni jueces de cocina.",
-    "cancionTitulo": "La Típica (2.018)",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "LqoVJPFAbf4"
+    "cancionTitulo": "Family Affair",
+    "cancionArtista": "Mary J. Blige",
+    "youtubeId": "znlFu_lemsU"
   },
   {
     "dia": 68,
@@ -1652,9 +1652,9 @@ const CALENDARIO = [
     ],
     "detalle": "Si quieres a alguien, que se note en los gestos que sí puedes ofrecer; y si algo te importa, dilo con claridad. La ternura no pierde su encanto por tener carácter, corazón.",
     "buenasNoches": "Que descanses, amor. Ser cariñosa no significa callarte lo que importa; tu ternura y tu firmeza pueden ir de la mano.",
-    "cancionTitulo": "Like I Want You",
-    "cancionArtista": "GIVĒON",
-    "youtubeId": "yNNMKN9BUmU"
+    "cancionTitulo": "Where Is The Love?",
+    "cancionArtista": "Black Eyed Peas",
+    "youtubeId": "WpYeekQkAdc"
   },
   {
     "dia": 73,
