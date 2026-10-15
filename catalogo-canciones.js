@@ -1239,6 +1239,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "María la Curandera",
       "artista": "Natalia Lafourcade",
       "youtubeId": "a8eDeLKWx74"
+    },
+    {
+      "titulo": "Bedshaped",
+      "artista": "Keane",
+      "youtubeId": "JugGmkvhsKQ"
+    },
+    {
+      "titulo": "Ode to My Family",
+      "artista": "The Cranberries",
+      "youtubeId": "Zz-DJr1Qs54"
     }
   ],
   "hot": [
