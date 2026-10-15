@@ -104,6 +104,12 @@ const CATALOGO_CANCIONES = {
   ],
 
   filosofica: [
+    { titulo: "Otra Canción Larga", artista: "Alcolirykoz", youtubeId: "QAN3hBN5tzE", nota: "video oficial del canal de Alcolirykoz" },
+    { titulo: "El Despilfarro", artista: "Alcolirykoz", youtubeId: "iKvJo5Vs244", nota: "video oficial del canal de Alcolirykoz" },
+    { titulo: "Tararea", artista: "Alcolirykoz", youtubeId: "gU6HGs32_0M", nota: "versión sinfónica del canal oficial de Alcolirykoz" },
+    { titulo: "De Pe a Pa", artista: "Granuja", youtubeId: "auAIsRn0mPM", nota: "video de Moebiuz, canal verificado" },
+    { titulo: "NRS In Da Area", artista: "No Rules Clan", youtubeId: "O4pIfDuLk_k", nota: "video oficial del canal de No Rules Clan" },
+    { titulo: "Noicanicula", artista: "La Etnnia", youtubeId: "z3ru8GXgHJE", nota: "video oficial del canal de La Etnnia" },
     { titulo: "River Flows in You", artista: "Yiruma", youtubeId: "fiBvOKmuWKg" },
     { titulo: "Nuvole Bianche", artista: "Ludovico Einaudi", youtubeId: "sR2W2scFS4Y" },
     { titulo: "Rayando el Sol", artista: "Maná", youtubeId: "8lbsQyMhMT8" },
