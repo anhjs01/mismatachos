@@ -1191,6 +1191,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Mass Appeal",
       "artista": "Gang Starr",
       "youtubeId": "y9lNbNGbo24"
+    },
+    {
+      "titulo": "Slam",
+      "artista": "Onyx",
+      "youtubeId": "7ADgCeYJMN4"
     }
   ],
   "ambiente": [
