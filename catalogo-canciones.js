@@ -23,6 +23,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "My Boo", artista: "USHER; Alicia Keys", youtubeId: "fPgf2meEX1w" },
     { titulo: "Like I Want You", artista: "GIVĒON", youtubeId: "yNNMKN9BUmU" },
     { titulo: "Try Me", artista: "Jorja Smith", youtubeId: "gUn6i9bfdRA" },
+    { titulo: "Are You That Somebody?", artista: "Aaliyah", youtubeId: "uTMuqL0qx08" },
   ],
   filosofica: [
     { titulo: "Otra Canción Larga", artista: "Alcolirykoz", youtubeId: "aAwXhAV3LPE" },
@@ -132,6 +133,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "Suero Casero", artista: "Alcolirykoz", youtubeId: "_5Ypj8L7faU" },
     { titulo: "Round 30", artista: "Pielroja; Alcolirykoz", youtubeId: "UpCpadNeY0M" },
     { titulo: "Nothin'", artista: "N.O.R.E.", youtubeId: "sul16s0VSzs" },
+    { titulo: "La Salsa", artista: "McKlopedia; Rapsusklei; Zxmyr", youtubeId: "yonwHLj58Wc" },
   ],
   hot: [
     { titulo: "Las Tetas D.", artista: "Crack Family", youtubeId: "LQhERHd-k0E" },
