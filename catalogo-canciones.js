@@ -1196,6 +1196,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Slam",
       "artista": "Onyx",
       "youtubeId": "7ADgCeYJMN4"
+    },
+    {
+      "titulo": "Simon Says",
+      "artista": "Pharoahe Monch",
+      "youtubeId": "cKsMMoc_oOA"
     }
   ],
   "ambiente": [
