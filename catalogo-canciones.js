@@ -150,6 +150,9 @@ const CATALOGO_CANCIONES = {
     { titulo: "Redbone", artista: "Childish Gambino", youtubeId: "Kp7eSUU9oy8" },
     { titulo: "Big Poppa - 2005 Remaster", artista: "The Notorious B.I.G.", youtubeId: "phaJXp_zMYM" },
     { titulo: "Is This Love", artista: "Bob Marley & The Wailers", youtubeId: "CHekNnySAfM" },
+    { titulo: "Can't Tell Me Nothing", artista: "Kanye West", youtubeId: "hqvcww4ydh8" },
+    { titulo: "Just Can’t Get Enough", artista: "Black Eyed Peas", youtubeId: "OrTyD7rjBpw" },
+    { titulo: "Do For Love", artista: "2Pac", youtubeId: "VjJpf_5FFJo" }
   ],
   hot: [
     { titulo: "Las Tetas D.", artista: "Crack Family", youtubeId: "LQhERHd-k0E" },
