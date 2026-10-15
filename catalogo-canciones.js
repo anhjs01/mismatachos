@@ -894,6 +894,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Ambitionz Az A Ridah",
       "artista": "2Pac",
       "youtubeId": "6glk4oMbgKE"
+    },
+    {
+      "titulo": "Gil",
+      "artista": "Milo j; Trueno",
+      "youtubeId": "2ezVj9wLr5U"
     }
   ],
   "hot": [
@@ -936,6 +941,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Pony",
       "artista": "Ginuwine",
       "youtubeId": "lbnoG2dsUk0"
+    },
+    {
+      "titulo": "Ain't Shit",
+      "artista": "Doja Cat",
+      "youtubeId": "13MvatpPQv4"
     }
   ],
   "ambiente": [
