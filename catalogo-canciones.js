@@ -167,6 +167,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "MUD",
       "artista": "GIVĒON",
       "youtubeId": "ePMLtiZmalg"
+    },
+    {
+      "titulo": "NUMB",
+      "artista": "GIVĒON",
+      "youtubeId": "3p2H-B_nqPI"
     }
   ],
   "filosofica": [
