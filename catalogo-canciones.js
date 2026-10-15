@@ -171,12 +171,12 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "A Dios le Pido",
       "artista": "Juanes",
-      "youtubeId": "9j5t5L9W9M0"
+      "youtubeId": "kMIaYXxLnUA"
     },
     {
       "titulo": "No Ordinary Love",
       "artista": "Sade",
-      "youtubeId": "3T1c7GkzRQQ"
+      "youtubeId": "_WcWHZc8s2I"
     },
     {
       "titulo": "The Sweetest Taboo",
