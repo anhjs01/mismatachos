@@ -347,6 +347,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Disfruto",
       "artista": "Carla Morrison",
       "youtubeId": "_ruEj-XK1lA"
+    },
+    {
+      "titulo": "Lo Que Construimos",
+      "artista": "Natalia Lafourcade",
+      "youtubeId": "RS6CRP_OoQA"
+    },
+    {
+      "titulo": "Tú Sí Sabes Quererme",
+      "artista": "Natalia Lafourcade; Los Macorinos",
+      "youtubeId": "a8eDeLKWx74"
     }
   ],
   "filosofica": [
@@ -1159,6 +1169,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Fix You",
       "artista": "Coldplay",
       "youtubeId": "k4V3Mo61fJM"
+    },
+    {
+      "titulo": "El Baile de los Que Sobran",
+      "artista": "Los Prisioneros",
+      "youtubeId": "OG2VEI0yPW8"
+    },
+    {
+      "titulo": "Sólo le pido a Dios",
+      "artista": "Mercedes Sosa",
+      "youtubeId": "vzQIwFPyEc4"
     }
   ],
   "hot": [
