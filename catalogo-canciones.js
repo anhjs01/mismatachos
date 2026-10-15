@@ -38,7 +38,9 @@ const CATALOGO_CANCIONES = {
     { titulo: "Mi Barrio Es Mi Estado", artista: "Alcolirykoz", youtubeId: "UFmV2yg6Oao" },
     { titulo: "El Barman y el Chef", artista: "Alcolirykoz", youtubeId: "2fGU7PJCTpk" },
     { titulo: "La Eterna - Remix", artista: "Alcolirykoz", youtubeId: "SBOcJT0BeJA" },
-    { titulo: "Házmelo Rap", artista: "Alcolirykoz", youtubeId: "P1qamoOHLYM" }
+    { titulo: "Házmelo Rap", artista: "Alcolirykoz", youtubeId: "P1qamoOHLYM" },
+    { titulo: "Laura Ronda", artista: "Alcolirykoz", youtubeId: "1v14wNlGjdM" },
+    { titulo: "El Tour de Sing Sing", artista: "Alcolirykoz; ToteKing", youtubeId: "b05PzMJqiaw" }
   ],
   hot: [],
   ambiente: [
