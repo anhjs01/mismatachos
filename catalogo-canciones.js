@@ -864,6 +864,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Gil",
       "artista": "Milo j; Trueno",
       "youtubeId": "2ezVj9wLr5U"
+    },
+    {
+      "titulo": "Círculo Vicioso",
+      "artista": "Granuja",
+      "youtubeId": "23xU8aPP2D8"
     }
   ],
   "hot": [
@@ -936,6 +941,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Shadowboxin'",
       "artista": "GZA;Method Man",
       "youtubeId": "-IZE7JSLJU0"
+    },
+    {
+      "titulo": "Hell on Earth (Front Lines)",
+      "artista": "Mobb Deep",
+      "youtubeId": "-lonWMzBKdU"
+    },
+    {
+      "titulo": "Real Muthaphuckkin' G's",
+      "artista": "Eazy-E",
+      "youtubeId": "trDFi_zSttQ"
     }
   ],
   "ambiente": [
