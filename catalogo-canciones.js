@@ -1035,6 +1035,11 @@ const CATALOGO_CANCIONES = {
       "artista": "Penyair, Alka Produce, Realidad Mental",
       "youtubeId": "R4HqzKnLffI"
     },
+    {
+      "titulo": "Ak 47",
+      "artista": "Granuja, Rapiphero",
+      "youtubeId": "qZzq4DP8b-4"
+    },
   ],
   "hot": [
     {
