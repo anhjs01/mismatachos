@@ -342,6 +342,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Hasta la Raíz",
       "artista": "Natalia Lafourcade",
       "youtubeId": "IKmPci5VXz0"
+    },
+    {
+      "titulo": "Disfruto",
+      "artista": "Carla Morrison",
+      "youtubeId": "_ruEj-XK1lA"
     }
   ],
   "filosofica": [
@@ -1593,6 +1598,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "Mr. Brightside",
       "artista": "The Killers",
       "youtubeId": "gGdGFtwCNBE"
+    },
+    {
+      "titulo": "Somewhere Only We Know",
+      "artista": "Keane",
+      "youtubeId": "Oextk-If8HQ"
+    },
+    {
+      "titulo": "A Sky Full of Stars",
+      "artista": "Coldplay",
+      "youtubeId": "VPRjCeoBqrI"
     }
   ]
 };
