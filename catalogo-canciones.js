@@ -17,6 +17,7 @@ const CATALOGO_CANCIONES = {
     { titulo: "I Think I Love You Again", artista: "Aaron Taylor", youtubeId: "diAiHP1K-g0" },
     { titulo: "Trato de Olvidarte", artista: "Gonzalo Genek; Micro TDH; Lui5", youtubeId: "Z66Bv_N55zQ" },
     { titulo: "No quiero acostumbrarme", artista: "A.C.O", youtubeId: "iJy6xE17h-g" },
+    { titulo: "The Way I Love You", artista: "Jorja Smith", youtubeId: "R25qYkkv_t8" },
     { titulo: "Solo Tú", artista: "Macha y el Bloque Depresivo; Álvaro Henríquez", youtubeId: "lxPDvuV9Z88" }
   ],
   filosofica: [
