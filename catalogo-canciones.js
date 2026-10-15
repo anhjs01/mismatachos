@@ -11,213 +11,1024 @@
    ======================================================================= */
 
 const CATALOGO_CANCIONES = {
-  amor: [
-    { titulo: "I Know What You Want (feat. Flipmode Squad)", artista: "Busta Rhymes; Mariah Carey; Flipmode Squad", youtubeId: "WDaNJW_jEBo" },
-    { titulo: "TWENTIES", artista: "GIVĒON", youtubeId: "Tot_8TrFIEQ" },
-    { titulo: "Stuck On You", artista: "GIVĒON", youtubeId: "UlIgAGotomM" },
-    { titulo: "Be Without You", artista: "Mary J. Blige", youtubeId: "8XNaPX6MKlU" },
-    { titulo: "Get You", artista: "Daniel Caesar; Kali Uchis", youtubeId: "uQFVqltOXRg" },
-    { titulo: "Love", artista: "Keyshia Cole", youtubeId: "9PBZy9j3H3I" },
-    { titulo: "Moment Of Your Life (feat. Coco Jones)", artista: "Brent Faiyaz; Coco Jones", youtubeId: "Jv17JsayCSI", nota: "canción de entrada que se conserva por petición expresa" },
-    { titulo: "Dilemma", artista: "Nelly; Kelly Rowland", youtubeId: "8WYHDfJDPDc" },
-    { titulo: "I Think I Love You Again", artista: "Aaron Taylor", youtubeId: "diAiHP1K-g0" },
-    { titulo: "Trato de Olvidarte", artista: "Gonzalo Genek; Micro TDH; Lui5", youtubeId: "Z66Bv_N55zQ" },
-    { titulo: "No quiero acostumbrarme", artista: "A.C.O", youtubeId: "iJy6xE17h-g" },
-    { titulo: "The Way I Love You", artista: "Jorja Smith", youtubeId: "R25qYkkv_t8" },
-    { titulo: "Antes de Morir (Scratches Dj Pho)", artista: "LosPetitFellas; Denise Gutiérrez; Dj Pho", youtubeId: "2vdIWr1TCBI" },
-    { titulo: "Solo Tú", artista: "Macha y el Bloque Depresivo; Álvaro Henríquez", youtubeId: "lxPDvuV9Z88"  },
-    { titulo: "My Boo", artista: "USHER; Alicia Keys", youtubeId: "fPgf2meEX1w" },
-    { titulo: "Like I Want You", artista: "GIVĒON", youtubeId: "yNNMKN9BUmU" },
-    { titulo: "Try Me", artista: "Jorja Smith", youtubeId: "gUn6i9bfdRA" },
-    { titulo: "Are You That Somebody?", artista: "Aaliyah", youtubeId: "uTMuqL0qx08" },
-    { titulo: "Dime Si Valio la Pena", artista: "Gonzalo Genek; Don-J HH; A.C.O", youtubeId: "Ar6VVj4FUPQ" },
-    { titulo: "Hold Up", artista: "Sasha Keable", youtubeId: "Igk6n0j1GBQ" },
+  "amor": [
+    {
+      "titulo": "I Know What You Want (feat. Flipmode Squad)",
+      "artista": "Busta Rhymes; Mariah Carey; Flipmode Squad",
+      "youtubeId": "WDaNJW_jEBo"
+    },
+    {
+      "titulo": "TWENTIES",
+      "artista": "GIVĒON",
+      "youtubeId": "Tot_8TrFIEQ"
+    },
+    {
+      "titulo": "Stuck On You",
+      "artista": "GIVĒON",
+      "youtubeId": "UlIgAGotomM"
+    },
+    {
+      "titulo": "Be Without You",
+      "artista": "Mary J. Blige",
+      "youtubeId": "8XNaPX6MKlU"
+    },
+    {
+      "titulo": "Get You",
+      "artista": "Daniel Caesar; Kali Uchis",
+      "youtubeId": "uQFVqltOXRg"
+    },
+    {
+      "titulo": "Love",
+      "artista": "Keyshia Cole",
+      "youtubeId": "9PBZy9j3H3I"
+    },
+    {
+      "titulo": "Moment Of Your Life (feat. Coco Jones)",
+      "artista": "Brent Faiyaz; Coco Jones",
+      "youtubeId": "Jv17JsayCSI",
+      "nota": "canción de entrada que se conserva por petición expresa"
+    },
+    {
+      "titulo": "Dilemma",
+      "artista": "Nelly; Kelly Rowland",
+      "youtubeId": "8WYHDfJDPDc"
+    },
+    {
+      "titulo": "I Think I Love You Again",
+      "artista": "Aaron Taylor",
+      "youtubeId": "diAiHP1K-g0"
+    },
+    {
+      "titulo": "Trato de Olvidarte",
+      "artista": "Gonzalo Genek; Micro TDH; Lui5",
+      "youtubeId": "Z66Bv_N55zQ"
+    },
+    {
+      "titulo": "No quiero acostumbrarme",
+      "artista": "A.C.O",
+      "youtubeId": "iJy6xE17h-g"
+    },
+    {
+      "titulo": "The Way I Love You",
+      "artista": "Jorja Smith",
+      "youtubeId": "R25qYkkv_t8"
+    },
+    {
+      "titulo": "Antes de Morir (Scratches Dj Pho)",
+      "artista": "LosPetitFellas; Denise Gutiérrez; Dj Pho",
+      "youtubeId": "2vdIWr1TCBI"
+    },
+    {
+      "titulo": "Solo Tú",
+      "artista": "Macha y el Bloque Depresivo; Álvaro Henríquez",
+      "youtubeId": "lxPDvuV9Z88"
+    },
+    {
+      "titulo": "My Boo",
+      "artista": "USHER; Alicia Keys",
+      "youtubeId": "fPgf2meEX1w"
+    },
+    {
+      "titulo": "Like I Want You",
+      "artista": "GIVĒON",
+      "youtubeId": "yNNMKN9BUmU"
+    },
+    {
+      "titulo": "Try Me",
+      "artista": "Jorja Smith",
+      "youtubeId": "gUn6i9bfdRA"
+    },
+    {
+      "titulo": "Are You That Somebody?",
+      "artista": "Aaliyah",
+      "youtubeId": "uTMuqL0qx08"
+    },
+    {
+      "titulo": "Dime Si Valio la Pena",
+      "artista": "Gonzalo Genek; Don-J HH; A.C.O",
+      "youtubeId": "Ar6VVj4FUPQ"
+    },
+    {
+      "titulo": "Hold Up",
+      "artista": "Sasha Keable",
+      "youtubeId": "Igk6n0j1GBQ"
+    }
   ],
-  filosofica: [
-    { titulo: "ATLiens", artista: "Outkast", youtubeId: "ktc9hsSfUck" },
-    { titulo: "Straight Outta Compton", artista: "N.W.A.", youtubeId: "TMZi25Pq3T8" },
-    { titulo: "Keep Ya Head Up", artista: "2Pac", youtubeId: "HfXwmDGJAB8" },
-    { titulo: "Hail Mary", artista: "2Pac", youtubeId: "K1u7l5tXnVw" },
-    { titulo: "You Got Me", artista: "The Roots; Tariq Trotter; Erykah Badu; Eve", youtubeId: "MJCHeEQV454" },
-    { titulo: "Insane in the Brain", artista: "Cypress Hill", youtubeId: "RijB8wnJCN0" },
-    { titulo: "Cleanin' Out My Closet", artista: "Eminem", youtubeId: "YVkUvmDQ3HY" },
-    { titulo: "Let Me Blow Ya Mind", artista: "Eve; Gwen Stefani", youtubeId: "Wt88GMJmVk0" },
-    { titulo: "What's The Difference", artista: "Dr. Dre; Eminem; Xzibit", youtubeId: "-Ubyt7iWJ8Q" },
-    { titulo: "Drop It Like It's Hot", artista: "Snoop Dogg; Pharrell Williams", youtubeId: "wQV7jNOVRtY" },
-    { titulo: "a lot", artista: "21 Savage", youtubeId: "DmWWqogr_r8" },
-    { titulo: "N.Y. State of Mind", artista: "Nas", youtubeId: "hl8A14Qcv68" },
-    { titulo: "Doomsday", artista: "MF DOOM; Pebbles The Invisible Girl", youtubeId: "kHBHDWpK1yo" },
-    { titulo: "St. Chroma (feat. Daniel Caesar)", artista: "Tyler, The Creator; Daniel Caesar", youtubeId: "hCcwCv3G1FQ" },
-    { titulo: "Like That", artista: "Future; Metro Boomin; Kendrick Lamar", youtubeId: "Rr1Cdli5nE8" },
-    { titulo: "Many Men (Wish Death)", artista: "50 Cent", youtubeId: "5D3crqpClPY" },
-    { titulo: "Through The Wire", artista: "Kanye West", youtubeId: "uvb-1wjAtk4" },
-    { titulo: "Hit 'Em Up - Single Version", artista: "2Pac; Outlawz", youtubeId: "fSq-4Dhwugg" },
-    { titulo: "Otra Canción Larga", artista: "Alcolirykoz", youtubeId: "aAwXhAV3LPE" },
-    { titulo: "Feliz Si Es Raro", artista: "Alcolirykoz", youtubeId: "rTv5pNLz9IU" },
-    { titulo: "Centro de Acopio", artista: "Anyone/Cualkiera; Rapiphero", youtubeId: "iN4JYAXgqzY" },
-    { titulo: "Ojos de Diablo", artista: "Zof Ziro; ZetaZeta", youtubeId: "DnETeFkRvHk" },
-    { titulo: "No Copio", artista: "Crudo Means Raw", youtubeId: "OV4hbqYxRh0" },
-    { titulo: "Es Épico", artista: "Canserbero", youtubeId: "bB8MTYLR1_w" },
-    { titulo: "Stupid Love Story", artista: "Canserbero; Apache", youtubeId: "wmef2TEPGgo" },
-    { titulo: "Mama Dejame Fumar", artista: "Asilo 38", youtubeId: "i3dCS-s0LBQ" },
-    { titulo: "Retina Floja", artista: "Bubaseta; Movimiento Original", youtubeId: "tdah2a4aKQ8" },
-    { titulo: "Anestesia Local - Episodio 2", artista: "Alcolirykoz", youtubeId: "MRyZ6faVKWQ" },
-    { titulo: "El Despilfarro", artista: "Alcolirykoz", youtubeId: "iKvJo5Vs244" },
-    { titulo: "Noicanicula", artista: "La Etnnia", youtubeId: "z3ru8GXgHJE" },
-    { titulo: "Nrs In Da Area", artista: "No Rules Clan; Ignorancia Sofisticada", youtubeId: "O4pIfDuLk_k" },
-    { titulo: "De Pe a Pa", artista: "Granuja", youtubeId: "auAIsRn0mPM" },
-    { titulo: "Quien Va", artista: "No Rules Clan; Alcolirykoz; El Arkeologo", youtubeId: "mF_8BMwhH5A" },
-
-    { titulo: "Murderah", artista: "Rap Bang Club; Norick", youtubeId: "6Xw1_Kuv9ac" },
-    { titulo: "La Jungla", artista: "Flaco Flow y Melanina", youtubeId: "NcUvzYvGO2U" },
-    { titulo: "Bogotá Mi Barrio", artista: "Todo Copas", youtubeId: "jj8ZIUfWCMM" },
-    { titulo: "Algo Anda Mal", artista: "Clan Hueso Duro", youtubeId: "nFCFxtW8Fww" },
-    { titulo: "Qué Hay Pa' Hacer", artista: "Granuja", youtubeId: "M6CG-CU07n4" },
-    { titulo: "No Está en Venta", artista: "Alcolirykoz", youtubeId: "Se6Cd4sW3ks" },
-    { titulo: "Balada para No Dormir - Bonus Track", artista: "Alcolirykoz", youtubeId: "h1p0N9s5YJw" },
-    { titulo: "En Tono Sepia", artista: "No Rules Clan", youtubeId: "y6Uf9bi_Mtk" },
-    { titulo: "Tararea", artista: "Alcolirykoz", youtubeId: "nmFdyBUAsfQ" },
-    { titulo: "Discúlpame", artista: "Ali Aka Mind", youtubeId: "sqzdMYQKCdU" },
-    { titulo: "Falsedades", artista: "Tres Coronas", youtubeId: "n1dgZ5xnQWY" },
-    { titulo: "Envidias", artista: "Tres Coronas", youtubeId: "KRS0wPv9esQ" },
-    { titulo: "El Imaginario", artista: "Alcolirykoz", youtubeId: "VBnufgtjtxU" },
-    { titulo: "Coctel Espacial", artista: "Lianna; Gambeta", youtubeId: "McpW-vn070k" },
-    { titulo: "Mi Barrio Es Mi Estado", artista: "Alcolirykoz", youtubeId: "UFmV2yg6Oao" },
-    { titulo: "El Barman y el Chef", artista: "Alcolirykoz", youtubeId: "2fGU7PJCTpk" },
-    { titulo: "La Eterna - Remix", artista: "Alcolirykoz", youtubeId: "SBOcJT0BeJA" },
-    { titulo: "Házmelo Rap", artista: "Alcolirykoz", youtubeId: "P1qamoOHLYM" },
-    { titulo: "Laura Ronda", artista: "Alcolirykoz", youtubeId: "1v14wNlGjdM" },
-    { titulo: "El Tour de Sing Sing", artista: "Alcolirykoz; ToteKing", youtubeId: "b05PzMJqiaw" },
-    { titulo: "Música para Planchar", artista: "Alcolirykoz; Sadat X", youtubeId: "t9mtMVfD6u4" },
-    { titulo: "Trabajo Sucio", artista: "Lianna", youtubeId: "eKGrgYjeCNM" },
-    { titulo: "Esta Va", artista: "Realidad Mental", youtubeId: "JVEN7Quzpeg" },
-    { titulo: "A Veces", artista: "Al2 El Aldeano", youtubeId: "LQYOZFO5aB4" },
-    { titulo: "Qué Tú Quieres?", artista: "Mabiland", youtubeId: "7C4t_d898_Q" },
-    { titulo: "Bacatá", artista: "1703; El Kalvo; $trasse", youtubeId: "QF2M5IWCJNQ" },
-    { titulo: "Vital (Téngase)", artista: "Crudo Means Raw", youtubeId: "cgJvtgZ7rBk" },
-    { titulo: "Malpensante", artista: "Noiseferatu", youtubeId: "rThYUXZyTeA" },
-    { titulo: "De la Cuna al Ataud", artista: "La Etnnia; Full Nelson", youtubeId: "iNL9MXulJCY" },
-    { titulo: "Jaula de Oro - Original", artista: "Laberinto ELC", youtubeId: "BNLL8DJgkfI" },
-    { titulo: "El Día de Mi Suerte", artista: "El Redcode", youtubeId: "ApqRPZ8xO6g" },
-    { titulo: "Rifo los Lunes", artista: "Alcolirykoz; Gordo Sarkasmus", youtubeId: "Z6vTjCPva5Q" },
-    { titulo: "Clapzz", artista: "Alcolirykoz", youtubeId: "W486I2dtYA8" },
-    { titulo: "El Sexto Sentido", artista: "Alcolirykoz", youtubeId: "tjHgj-p_XiI" },
-    { titulo: "La Revancha de los Timidos", artista: "Alcolirykoz; Jannyval", youtubeId: "SFMtkR0iSj0" },
-    { titulo: "Let My People", artista: "Alcolirykoz", youtubeId: "Kjbc9C9ZQAA" },
-    { titulo: "El Toque Personal", artista: "Alcolirykoz", youtubeId: "Ml_6S52AEFc" },
-    { titulo: "Aero-Soul", artista: "Alcolirykoz", youtubeId: "jk9S5ca0Oh0" },
-    { titulo: "Así No Más", artista: "Alcolirykoz", youtubeId: "phFWgKphgc0" },
-    { titulo: "El Silencio Es Mio", artista: "Métricas Frías; Doble Porción", youtubeId: "HngH70vOsJs" },
-    { titulo: "Fatality", artista: "Zof Ziro; ZetaZeta", youtubeId: "_14iDOtdS7M" },
-    { titulo: "El Show Debe Continuar", artista: "Alcolirykoz", youtubeId: "yCYQY7sObG8" },
-    { titulo: "Comediantes de Velorio", artista: "Alcolirykoz", youtubeId: "eP7W_YwWN28" },
-    { titulo: "La Danza del Miedo", artista: "Alcolirykoz", youtubeId: "kR-rKKZuLl8" },
-    { titulo: "Ultraresistente", artista: "Alcolirykoz", youtubeId: "K7SkeVKW7uA" },
-    { titulo: "Ateo", artista: "Granuja", youtubeId: "wCeWcWCC0vA" },
-    { titulo: "Los Genios de la Botella - Remix Kaztro", artista: "Alcolirykoz; Kaztro", youtubeId: "kfKJQaJ5O9w" },
-    { titulo: "Todo Bien Todo Bien", artista: "JHT", youtubeId: "YKP-wTi6zAI" },
-    { titulo: "Síndrome de Estocolmo", artista: "Zof Ziro; ZetaZeta; Gambeta", youtubeId: "cqBtc0KN6RM" },
-    { titulo: "Punto Rojo", artista: "Granuja; Mañas Ru-Fino", youtubeId: "_LxBM6wpgLU" },
-    { titulo: "C.R.E.A.M. (Cash Rules Everything Around Me)", artista: "Wu-Tang Clan", youtubeId: "4yNQ7_7I5aE" },
-    { titulo: "It Was A Good Day", artista: "Ice Cube", youtubeId: "h4UqMyldS7Q" },
-    { titulo: "Gangsta's Paradise", artista: "Coolio; L.V.", youtubeId: "SQCSxqScSVQ" },
-    { titulo: "Regulate", artista: "Warren G; Nate Dogg", youtubeId: "1plPyJdXKIY" },
-    { titulo: "Can I Kick It?", artista: "A Tribe Called Quest", youtubeId: "O3pyCGnZzYA" },
-    { titulo: "Juicy - 2005 Remaster", artista: "The Notorious B.I.G.", youtubeId: "_JZom_gVfuw" },
-    { titulo: "6 30", artista: "Métricas Frías; Doble Porción", youtubeId: "vcdt4RdTc1g" },
-    { titulo: "Mil y una Vez", artista: "Métricas Frías; Doble Porción", youtubeId: "dwyeCQjNDcQ" },
-    { titulo: "Antes del Meridiano", artista: "Alcolirykoz", youtubeId: "Y4pCA91F4Uw" },
-    { titulo: "La Típica (2.018)", artista: "Alcolirykoz", youtubeId: "LqoVJPFAbf4" },
-    { titulo: "Equipo de Carretera", artista: "Alcolirykoz", youtubeId: "D7EthypSEF4" },
-    { titulo: "La Penúltima Cena", artista: "Alcolirykoz; Rocca", youtubeId: "4qzlwLeYG70" },
-    { titulo: "Artes Verbales", artista: "Alcolirykoz", youtubeId: "JlzEDJrOjLI" },
-    { titulo: "Changó", artista: "Alcolirykoz", youtubeId: "C2_WOBYxweE" },
-    { titulo: "Los Genios de la Botella - Remix Gambeta", artista: "Alcolirykoz; Gambeta", youtubeId: "9BcpsAIRYyQ" },
-    { titulo: "93 'Til Infinity", artista: "Souls of Mischief", youtubeId: "fXJc2NYwHjw" },
-    { titulo: "Electric Relaxation", artista: "A Tribe Called Quest", youtubeId: "WHRnvjCkTsw" },
-    { titulo: "Put It On", artista: "Big L", youtubeId: "WWMjRMJ0dTI" },
-    { titulo: "When I B On Tha Mic", artista: "Rakim", youtubeId: "M34OelgSlKI" },
-    { titulo: "Full Clip", artista: "Gang Starr", youtubeId: "qmj1q67NDAk" },
-    { titulo: "Fu-Gee-La", artista: "Fugees; Ms. Lauryn Hill; Wyclef Jean; Pras", youtubeId: "MPlb9HoOCxs" },
-    { titulo: "Mind Playing Tricks on Me", artista: "Geto Boys", youtubeId: "IJtHdkyo0hc" },
-    { titulo: "I Got 5 On It", artista: "Luniz; Michael Marshall", youtubeId: "agJ6zyTB5ng" },
-    { titulo: "Shook Ones, Pt. II", artista: "Mobb Deep", youtubeId: "yoYZf-lBF_U" },
-    { titulo: "Hypnotize - 2014 Remaster", artista: "The Notorious B.I.G.", youtubeId: "glEiPXAYE-U" },
-    { titulo: "Venganza", artista: "Doble Porción; Métricas Frías; Mañas Ru-Fino; Granuja", youtubeId: "kl7n-qCrunU" },
-    { titulo: "Mientras Duermen", artista: "Rapper School; Samurai; Negro Gonzáles; Bman", youtubeId: "ZDmn487A_Dk" },
-    { titulo: "Reina", artista: "Cejaz Negraz", youtubeId: "7OPEvfL4Wes" },
-    { titulo: "No Hay Flores en Venus", artista: "Alcolirykoz; Lianna", youtubeId: "LyhNWGcSVew" },
-    { titulo: "Me Volví Loco", artista: "King Kong Click; Bubaseta; Subwoffer", youtubeId: "MsnJzE8Cbw0" },
-    { titulo: "Tuyo", artista: "Credo V Daniels", youtubeId: "8onYUmsBMxs" },
-    { titulo: "Partículas", artista: "Granuja", youtubeId: "E6oZorQDiN0" },
-    { titulo: "Aguanilé", artista: "Alcolirykoz", youtubeId: "983zfhMym8Q" },
-    { titulo: "I Get Money", artista: "50 Cent", youtubeId: "GO22Z0T3qPE"  },
-    { titulo: "Síntomas de Popeye", artista: "Alcolirykoz; Titó; DJ Skizz", youtubeId: "PuIsNyrutFk" },
-    { titulo: "Efectos Secundarios", artista: "Alcolirykoz", youtubeId: "MCynfdfmFSM" },
-    { titulo: "El Remate", artista: "Alcolirykoz; Armando Hernandez", youtubeId: "91MpFsZI9VA" },
-    { titulo: "Los Legendarios", artista: "Alcolirykoz; Laberinto ELC", youtubeId: "vKd_CIhzoCY" },
-    { titulo: "Suero Casero", artista: "Alcolirykoz", youtubeId: "_5Ypj8L7faU" },
-    { titulo: "Round 30", artista: "Pielroja; Alcolirykoz", youtubeId: "UpCpadNeY0M" },
-    { titulo: "Nothin'", artista: "N.O.R.E.", youtubeId: "sul16s0VSzs" },
-    { titulo: "La Salsa", artista: "McKlopedia; Rapsusklei; Zxmyr", youtubeId: "yonwHLj58Wc" },
-    { titulo: "Coming Home (feat. Ms. Lauryn Hill)", artista: "Pusha T; Ms. Lauryn Hill", youtubeId: "9bx_r7H7eF8" },
-    { titulo: "Dele la Cara (Bendiciones)", artista: "Crudo Means Raw", youtubeId: "7v5r61PK_4c" },
-    { titulo: "Horas Extras", artista: "Crudo Means Raw; DJ Dmoe", youtubeId: "R5mHN8suqV8" },
-    { titulo: "El Estrén - Versión álbum", artista: "Crudo Means Raw", youtubeId: "xrQBpf_yfTc" },
-    { titulo: "See You Again (feat. Kali Uchis)", artista: "Tyler, The Creator; Kali Uchis", youtubeId: "TGgcC5xg9YI" },
-    { titulo: "If I Ain't Got You", artista: "Alicia Keys", youtubeId: "Ju8Hr50Ckwk" },
-    { titulo: "Ms. Jackson", artista: "Outkast", youtubeId: "MYxAiK6VnXw" },
-    { titulo: "Where Is The Love?", artista: "Black Eyed Peas", youtubeId: "WpYeekQkAdc" },
-    { titulo: "Still D.R.E.", artista: "Dr. Dre; Snoop Dogg", youtubeId: "_CL6n0FJZpk" },
-    { titulo: "Family Affair", artista: "Mary J. Blige", youtubeId: "znlFu_lemsU" },
-    { titulo: "Fallin'", artista: "Alicia Keys", youtubeId: "Urdlvw0SSEc" },
-    { titulo: "Redbone", artista: "Childish Gambino", youtubeId: "Kp7eSUU9oy8" },
-    { titulo: "Big Poppa - 2005 Remaster", artista: "The Notorious B.I.G.", youtubeId: "phaJXp_zMYM" },
-    { titulo: "Is This Love", artista: "Bob Marley & The Wailers", youtubeId: "CHekNnySAfM" },
-    { titulo: "Can't Tell Me Nothing", artista: "Kanye West", youtubeId: "hqvcww4ydh8" },
-    { titulo: "Just Can’t Get Enough", artista: "Black Eyed Peas", youtubeId: "OrTyD7rjBpw" },
-    { titulo: "Do For Love", artista: "2Pac", youtubeId: "VjJpf_5FFJo" },
-    { titulo: "All Eyez On Me (ft. Big Syke)", artista: "2Pac; Big Syke", youtubeId: "zgZ52M4a_R0" },
-    { titulo: "Money Trees", artista: "Kendrick Lamar; Jay Rock", youtubeId: "bBNpSXAYteM" },
-    { titulo: "Loose", artista: "Daniel Caesar", youtubeId: "gRL_PCOPF-A" },
+  "filosofica": [
+    {
+      "titulo": "ATLiens",
+      "artista": "Outkast",
+      "youtubeId": "ktc9hsSfUck"
+    },
+    {
+      "titulo": "Straight Outta Compton",
+      "artista": "N.W.A.",
+      "youtubeId": "TMZi25Pq3T8"
+    },
+    {
+      "titulo": "Keep Ya Head Up",
+      "artista": "2Pac",
+      "youtubeId": "HfXwmDGJAB8"
+    },
+    {
+      "titulo": "Hail Mary",
+      "artista": "2Pac",
+      "youtubeId": "K1u7l5tXnVw"
+    },
+    {
+      "titulo": "You Got Me",
+      "artista": "The Roots; Tariq Trotter; Erykah Badu; Eve",
+      "youtubeId": "MJCHeEQV454"
+    },
+    {
+      "titulo": "Insane in the Brain",
+      "artista": "Cypress Hill",
+      "youtubeId": "RijB8wnJCN0"
+    },
+    {
+      "titulo": "Cleanin' Out My Closet",
+      "artista": "Eminem",
+      "youtubeId": "YVkUvmDQ3HY"
+    },
+    {
+      "titulo": "Let Me Blow Ya Mind",
+      "artista": "Eve; Gwen Stefani",
+      "youtubeId": "Wt88GMJmVk0"
+    },
+    {
+      "titulo": "What's The Difference",
+      "artista": "Dr. Dre; Eminem; Xzibit",
+      "youtubeId": "-Ubyt7iWJ8Q"
+    },
+    {
+      "titulo": "Drop It Like It's Hot",
+      "artista": "Snoop Dogg; Pharrell Williams",
+      "youtubeId": "wQV7jNOVRtY"
+    },
+    {
+      "titulo": "a lot",
+      "artista": "21 Savage",
+      "youtubeId": "DmWWqogr_r8"
+    },
+    {
+      "titulo": "N.Y. State of Mind",
+      "artista": "Nas",
+      "youtubeId": "hl8A14Qcv68"
+    },
+    {
+      "titulo": "Doomsday",
+      "artista": "MF DOOM; Pebbles The Invisible Girl",
+      "youtubeId": "kHBHDWpK1yo"
+    },
+    {
+      "titulo": "St. Chroma (feat. Daniel Caesar)",
+      "artista": "Tyler, The Creator; Daniel Caesar",
+      "youtubeId": "hCcwCv3G1FQ"
+    },
+    {
+      "titulo": "Like That",
+      "artista": "Future; Metro Boomin; Kendrick Lamar",
+      "youtubeId": "Rr1Cdli5nE8"
+    },
+    {
+      "titulo": "Many Men (Wish Death)",
+      "artista": "50 Cent",
+      "youtubeId": "5D3crqpClPY"
+    },
+    {
+      "titulo": "Through The Wire",
+      "artista": "Kanye West",
+      "youtubeId": "uvb-1wjAtk4"
+    },
+    {
+      "titulo": "Hit 'Em Up - Single Version",
+      "artista": "2Pac; Outlawz",
+      "youtubeId": "fSq-4Dhwugg"
+    },
+    {
+      "titulo": "Otra Canción Larga",
+      "artista": "Alcolirykoz",
+      "youtubeId": "aAwXhAV3LPE"
+    },
+    {
+      "titulo": "Feliz Si Es Raro",
+      "artista": "Alcolirykoz",
+      "youtubeId": "rTv5pNLz9IU"
+    },
+    {
+      "titulo": "Centro de Acopio",
+      "artista": "Anyone/Cualkiera; Rapiphero",
+      "youtubeId": "iN4JYAXgqzY"
+    },
+    {
+      "titulo": "Ojos de Diablo",
+      "artista": "Zof Ziro; ZetaZeta",
+      "youtubeId": "DnETeFkRvHk"
+    },
+    {
+      "titulo": "No Copio",
+      "artista": "Crudo Means Raw",
+      "youtubeId": "OV4hbqYxRh0"
+    },
+    {
+      "titulo": "Es Épico",
+      "artista": "Canserbero",
+      "youtubeId": "bB8MTYLR1_w"
+    },
+    {
+      "titulo": "Stupid Love Story",
+      "artista": "Canserbero; Apache",
+      "youtubeId": "wmef2TEPGgo"
+    },
+    {
+      "titulo": "Mama Dejame Fumar",
+      "artista": "Asilo 38",
+      "youtubeId": "i3dCS-s0LBQ"
+    },
+    {
+      "titulo": "Retina Floja",
+      "artista": "Bubaseta; Movimiento Original",
+      "youtubeId": "tdah2a4aKQ8"
+    },
+    {
+      "titulo": "Anestesia Local - Episodio 2",
+      "artista": "Alcolirykoz",
+      "youtubeId": "MRyZ6faVKWQ"
+    },
+    {
+      "titulo": "El Despilfarro",
+      "artista": "Alcolirykoz",
+      "youtubeId": "iKvJo5Vs244"
+    },
+    {
+      "titulo": "Noicanicula",
+      "artista": "La Etnnia",
+      "youtubeId": "z3ru8GXgHJE"
+    },
+    {
+      "titulo": "Nrs In Da Area",
+      "artista": "No Rules Clan; Ignorancia Sofisticada",
+      "youtubeId": "O4pIfDuLk_k"
+    },
+    {
+      "titulo": "De Pe a Pa",
+      "artista": "Granuja",
+      "youtubeId": "auAIsRn0mPM"
+    },
+    {
+      "titulo": "Quien Va",
+      "artista": "No Rules Clan; Alcolirykoz; El Arkeologo",
+      "youtubeId": "mF_8BMwhH5A"
+    },
+    {
+      "titulo": "Murderah",
+      "artista": "Rap Bang Club; Norick",
+      "youtubeId": "6Xw1_Kuv9ac"
+    },
+    {
+      "titulo": "La Jungla",
+      "artista": "Flaco Flow y Melanina",
+      "youtubeId": "NcUvzYvGO2U"
+    },
+    {
+      "titulo": "Bogotá Mi Barrio",
+      "artista": "Todo Copas",
+      "youtubeId": "jj8ZIUfWCMM"
+    },
+    {
+      "titulo": "Algo Anda Mal",
+      "artista": "Clan Hueso Duro",
+      "youtubeId": "nFCFxtW8Fww"
+    },
+    {
+      "titulo": "Qué Hay Pa' Hacer",
+      "artista": "Granuja",
+      "youtubeId": "M6CG-CU07n4"
+    },
+    {
+      "titulo": "No Está en Venta",
+      "artista": "Alcolirykoz",
+      "youtubeId": "Se6Cd4sW3ks"
+    },
+    {
+      "titulo": "Balada para No Dormir - Bonus Track",
+      "artista": "Alcolirykoz",
+      "youtubeId": "h1p0N9s5YJw"
+    },
+    {
+      "titulo": "En Tono Sepia",
+      "artista": "No Rules Clan",
+      "youtubeId": "y6Uf9bi_Mtk"
+    },
+    {
+      "titulo": "Tararea",
+      "artista": "Alcolirykoz",
+      "youtubeId": "nmFdyBUAsfQ"
+    },
+    {
+      "titulo": "Discúlpame",
+      "artista": "Ali Aka Mind",
+      "youtubeId": "sqzdMYQKCdU"
+    },
+    {
+      "titulo": "Falsedades",
+      "artista": "Tres Coronas",
+      "youtubeId": "n1dgZ5xnQWY"
+    },
+    {
+      "titulo": "Envidias",
+      "artista": "Tres Coronas",
+      "youtubeId": "KRS0wPv9esQ"
+    },
+    {
+      "titulo": "El Imaginario",
+      "artista": "Alcolirykoz",
+      "youtubeId": "VBnufgtjtxU"
+    },
+    {
+      "titulo": "Coctel Espacial",
+      "artista": "Lianna; Gambeta",
+      "youtubeId": "McpW-vn070k"
+    },
+    {
+      "titulo": "Mi Barrio Es Mi Estado",
+      "artista": "Alcolirykoz",
+      "youtubeId": "UFmV2yg6Oao"
+    },
+    {
+      "titulo": "El Barman y el Chef",
+      "artista": "Alcolirykoz",
+      "youtubeId": "2fGU7PJCTpk"
+    },
+    {
+      "titulo": "La Eterna - Remix",
+      "artista": "Alcolirykoz",
+      "youtubeId": "SBOcJT0BeJA"
+    },
+    {
+      "titulo": "Házmelo Rap",
+      "artista": "Alcolirykoz",
+      "youtubeId": "P1qamoOHLYM"
+    },
+    {
+      "titulo": "Laura Ronda",
+      "artista": "Alcolirykoz",
+      "youtubeId": "1v14wNlGjdM"
+    },
+    {
+      "titulo": "El Tour de Sing Sing",
+      "artista": "Alcolirykoz; ToteKing",
+      "youtubeId": "b05PzMJqiaw"
+    },
+    {
+      "titulo": "Música para Planchar",
+      "artista": "Alcolirykoz; Sadat X",
+      "youtubeId": "t9mtMVfD6u4"
+    },
+    {
+      "titulo": "Trabajo Sucio",
+      "artista": "Lianna",
+      "youtubeId": "eKGrgYjeCNM"
+    },
+    {
+      "titulo": "Esta Va",
+      "artista": "Realidad Mental",
+      "youtubeId": "JVEN7Quzpeg"
+    },
+    {
+      "titulo": "A Veces",
+      "artista": "Al2 El Aldeano",
+      "youtubeId": "LQYOZFO5aB4"
+    },
+    {
+      "titulo": "Qué Tú Quieres?",
+      "artista": "Mabiland",
+      "youtubeId": "7C4t_d898_Q"
+    },
+    {
+      "titulo": "Bacatá",
+      "artista": "1703; El Kalvo; $trasse",
+      "youtubeId": "QF2M5IWCJNQ"
+    },
+    {
+      "titulo": "Vital (Téngase)",
+      "artista": "Crudo Means Raw",
+      "youtubeId": "cgJvtgZ7rBk"
+    },
+    {
+      "titulo": "Malpensante",
+      "artista": "Noiseferatu",
+      "youtubeId": "rThYUXZyTeA"
+    },
+    {
+      "titulo": "De la Cuna al Ataud",
+      "artista": "La Etnnia; Full Nelson",
+      "youtubeId": "iNL9MXulJCY"
+    },
+    {
+      "titulo": "Jaula de Oro - Original",
+      "artista": "Laberinto ELC",
+      "youtubeId": "BNLL8DJgkfI"
+    },
+    {
+      "titulo": "El Día de Mi Suerte",
+      "artista": "El Redcode",
+      "youtubeId": "ApqRPZ8xO6g"
+    },
+    {
+      "titulo": "Rifo los Lunes",
+      "artista": "Alcolirykoz; Gordo Sarkasmus",
+      "youtubeId": "Z6vTjCPva5Q"
+    },
+    {
+      "titulo": "Clapzz",
+      "artista": "Alcolirykoz",
+      "youtubeId": "W486I2dtYA8"
+    },
+    {
+      "titulo": "El Sexto Sentido",
+      "artista": "Alcolirykoz",
+      "youtubeId": "tjHgj-p_XiI"
+    },
+    {
+      "titulo": "La Revancha de los Timidos",
+      "artista": "Alcolirykoz; Jannyval",
+      "youtubeId": "SFMtkR0iSj0"
+    },
+    {
+      "titulo": "Let My People",
+      "artista": "Alcolirykoz",
+      "youtubeId": "Kjbc9C9ZQAA"
+    },
+    {
+      "titulo": "El Toque Personal",
+      "artista": "Alcolirykoz",
+      "youtubeId": "Ml_6S52AEFc"
+    },
+    {
+      "titulo": "Aero-Soul",
+      "artista": "Alcolirykoz",
+      "youtubeId": "jk9S5ca0Oh0"
+    },
+    {
+      "titulo": "Así No Más",
+      "artista": "Alcolirykoz",
+      "youtubeId": "phFWgKphgc0"
+    },
+    {
+      "titulo": "El Silencio Es Mio",
+      "artista": "Métricas Frías; Doble Porción",
+      "youtubeId": "HngH70vOsJs"
+    },
+    {
+      "titulo": "Fatality",
+      "artista": "Zof Ziro; ZetaZeta",
+      "youtubeId": "_14iDOtdS7M"
+    },
+    {
+      "titulo": "El Show Debe Continuar",
+      "artista": "Alcolirykoz",
+      "youtubeId": "yCYQY7sObG8"
+    },
+    {
+      "titulo": "Comediantes de Velorio",
+      "artista": "Alcolirykoz",
+      "youtubeId": "eP7W_YwWN28"
+    },
+    {
+      "titulo": "La Danza del Miedo",
+      "artista": "Alcolirykoz",
+      "youtubeId": "kR-rKKZuLl8"
+    },
+    {
+      "titulo": "Ultraresistente",
+      "artista": "Alcolirykoz",
+      "youtubeId": "K7SkeVKW7uA"
+    },
+    {
+      "titulo": "Ateo",
+      "artista": "Granuja",
+      "youtubeId": "wCeWcWCC0vA"
+    },
+    {
+      "titulo": "Los Genios de la Botella - Remix Kaztro",
+      "artista": "Alcolirykoz; Kaztro",
+      "youtubeId": "kfKJQaJ5O9w"
+    },
+    {
+      "titulo": "Todo Bien Todo Bien",
+      "artista": "JHT",
+      "youtubeId": "YKP-wTi6zAI"
+    },
+    {
+      "titulo": "Síndrome de Estocolmo",
+      "artista": "Zof Ziro; ZetaZeta; Gambeta",
+      "youtubeId": "cqBtc0KN6RM"
+    },
+    {
+      "titulo": "Punto Rojo",
+      "artista": "Granuja; Mañas Ru-Fino",
+      "youtubeId": "_LxBM6wpgLU"
+    },
+    {
+      "titulo": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "artista": "Wu-Tang Clan",
+      "youtubeId": "4yNQ7_7I5aE"
+    },
+    {
+      "titulo": "It Was A Good Day",
+      "artista": "Ice Cube",
+      "youtubeId": "h4UqMyldS7Q"
+    },
+    {
+      "titulo": "Gangsta's Paradise",
+      "artista": "Coolio; L.V.",
+      "youtubeId": "SQCSxqScSVQ"
+    },
+    {
+      "titulo": "Regulate",
+      "artista": "Warren G; Nate Dogg",
+      "youtubeId": "1plPyJdXKIY"
+    },
+    {
+      "titulo": "Can I Kick It?",
+      "artista": "A Tribe Called Quest",
+      "youtubeId": "O3pyCGnZzYA"
+    },
+    {
+      "titulo": "Juicy - 2005 Remaster",
+      "artista": "The Notorious B.I.G.",
+      "youtubeId": "_JZom_gVfuw"
+    },
+    {
+      "titulo": "6 30",
+      "artista": "Métricas Frías; Doble Porción",
+      "youtubeId": "vcdt4RdTc1g"
+    },
+    {
+      "titulo": "Mil y una Vez",
+      "artista": "Métricas Frías; Doble Porción",
+      "youtubeId": "dwyeCQjNDcQ"
+    },
+    {
+      "titulo": "Antes del Meridiano",
+      "artista": "Alcolirykoz",
+      "youtubeId": "Y4pCA91F4Uw"
+    },
+    {
+      "titulo": "La Típica (2.018)",
+      "artista": "Alcolirykoz",
+      "youtubeId": "LqoVJPFAbf4"
+    },
+    {
+      "titulo": "Equipo de Carretera",
+      "artista": "Alcolirykoz",
+      "youtubeId": "D7EthypSEF4"
+    },
+    {
+      "titulo": "La Penúltima Cena",
+      "artista": "Alcolirykoz; Rocca",
+      "youtubeId": "4qzlwLeYG70"
+    },
+    {
+      "titulo": "Artes Verbales",
+      "artista": "Alcolirykoz",
+      "youtubeId": "JlzEDJrOjLI"
+    },
+    {
+      "titulo": "Changó",
+      "artista": "Alcolirykoz",
+      "youtubeId": "C2_WOBYxweE"
+    },
+    {
+      "titulo": "Los Genios de la Botella - Remix Gambeta",
+      "artista": "Alcolirykoz; Gambeta",
+      "youtubeId": "9BcpsAIRYyQ"
+    },
+    {
+      "titulo": "93 'Til Infinity",
+      "artista": "Souls of Mischief",
+      "youtubeId": "fXJc2NYwHjw"
+    },
+    {
+      "titulo": "Electric Relaxation",
+      "artista": "A Tribe Called Quest",
+      "youtubeId": "WHRnvjCkTsw"
+    },
+    {
+      "titulo": "Put It On",
+      "artista": "Big L",
+      "youtubeId": "WWMjRMJ0dTI"
+    },
+    {
+      "titulo": "When I B On Tha Mic",
+      "artista": "Rakim",
+      "youtubeId": "M34OelgSlKI"
+    },
+    {
+      "titulo": "Full Clip",
+      "artista": "Gang Starr",
+      "youtubeId": "qmj1q67NDAk"
+    },
+    {
+      "titulo": "Fu-Gee-La",
+      "artista": "Fugees; Ms. Lauryn Hill; Wyclef Jean; Pras",
+      "youtubeId": "MPlb9HoOCxs"
+    },
+    {
+      "titulo": "Mind Playing Tricks on Me",
+      "artista": "Geto Boys",
+      "youtubeId": "IJtHdkyo0hc"
+    },
+    {
+      "titulo": "I Got 5 On It",
+      "artista": "Luniz; Michael Marshall",
+      "youtubeId": "agJ6zyTB5ng"
+    },
+    {
+      "titulo": "Shook Ones, Pt. II",
+      "artista": "Mobb Deep",
+      "youtubeId": "yoYZf-lBF_U"
+    },
+    {
+      "titulo": "Hypnotize - 2014 Remaster",
+      "artista": "The Notorious B.I.G.",
+      "youtubeId": "glEiPXAYE-U"
+    },
+    {
+      "titulo": "Venganza",
+      "artista": "Doble Porción; Métricas Frías; Mañas Ru-Fino; Granuja",
+      "youtubeId": "kl7n-qCrunU"
+    },
+    {
+      "titulo": "Mientras Duermen",
+      "artista": "Rapper School; Samurai; Negro Gonzáles; Bman",
+      "youtubeId": "ZDmn487A_Dk"
+    },
+    {
+      "titulo": "Reina",
+      "artista": "Cejaz Negraz",
+      "youtubeId": "7OPEvfL4Wes"
+    },
+    {
+      "titulo": "No Hay Flores en Venus",
+      "artista": "Alcolirykoz; Lianna",
+      "youtubeId": "LyhNWGcSVew"
+    },
+    {
+      "titulo": "Me Volví Loco",
+      "artista": "King Kong Click; Bubaseta; Subwoffer",
+      "youtubeId": "MsnJzE8Cbw0"
+    },
+    {
+      "titulo": "Tuyo",
+      "artista": "Credo V Daniels",
+      "youtubeId": "8onYUmsBMxs"
+    },
+    {
+      "titulo": "Partículas",
+      "artista": "Granuja",
+      "youtubeId": "E6oZorQDiN0"
+    },
+    {
+      "titulo": "Aguanilé",
+      "artista": "Alcolirykoz",
+      "youtubeId": "983zfhMym8Q"
+    },
+    {
+      "titulo": "I Get Money",
+      "artista": "50 Cent",
+      "youtubeId": "GO22Z0T3qPE"
+    },
+    {
+      "titulo": "Síntomas de Popeye",
+      "artista": "Alcolirykoz; Titó; DJ Skizz",
+      "youtubeId": "PuIsNyrutFk"
+    },
+    {
+      "titulo": "Efectos Secundarios",
+      "artista": "Alcolirykoz",
+      "youtubeId": "MCynfdfmFSM"
+    },
+    {
+      "titulo": "El Remate",
+      "artista": "Alcolirykoz; Armando Hernandez",
+      "youtubeId": "91MpFsZI9VA"
+    },
+    {
+      "titulo": "Los Legendarios",
+      "artista": "Alcolirykoz; Laberinto ELC",
+      "youtubeId": "vKd_CIhzoCY"
+    },
+    {
+      "titulo": "Suero Casero",
+      "artista": "Alcolirykoz",
+      "youtubeId": "_5Ypj8L7faU"
+    },
+    {
+      "titulo": "Round 30",
+      "artista": "Pielroja; Alcolirykoz",
+      "youtubeId": "UpCpadNeY0M"
+    },
+    {
+      "titulo": "Nothin'",
+      "artista": "N.O.R.E.",
+      "youtubeId": "sul16s0VSzs"
+    },
+    {
+      "titulo": "La Salsa",
+      "artista": "McKlopedia; Rapsusklei; Zxmyr",
+      "youtubeId": "yonwHLj58Wc"
+    },
+    {
+      "titulo": "Coming Home (feat. Ms. Lauryn Hill)",
+      "artista": "Pusha T; Ms. Lauryn Hill",
+      "youtubeId": "9bx_r7H7eF8"
+    },
+    {
+      "titulo": "Dele la Cara (Bendiciones)",
+      "artista": "Crudo Means Raw",
+      "youtubeId": "7v5r61PK_4c"
+    },
+    {
+      "titulo": "Horas Extras",
+      "artista": "Crudo Means Raw; DJ Dmoe",
+      "youtubeId": "R5mHN8suqV8"
+    },
+    {
+      "titulo": "El Estrén - Versión álbum",
+      "artista": "Crudo Means Raw",
+      "youtubeId": "xrQBpf_yfTc"
+    },
+    {
+      "titulo": "See You Again (feat. Kali Uchis)",
+      "artista": "Tyler, The Creator; Kali Uchis",
+      "youtubeId": "TGgcC5xg9YI"
+    },
+    {
+      "titulo": "If I Ain't Got You",
+      "artista": "Alicia Keys",
+      "youtubeId": "Ju8Hr50Ckwk"
+    },
+    {
+      "titulo": "Ms. Jackson",
+      "artista": "Outkast",
+      "youtubeId": "MYxAiK6VnXw"
+    },
+    {
+      "titulo": "Where Is The Love?",
+      "artista": "Black Eyed Peas",
+      "youtubeId": "WpYeekQkAdc"
+    },
+    {
+      "titulo": "Still D.R.E.",
+      "artista": "Dr. Dre; Snoop Dogg",
+      "youtubeId": "_CL6n0FJZpk"
+    },
+    {
+      "titulo": "Family Affair",
+      "artista": "Mary J. Blige",
+      "youtubeId": "znlFu_lemsU"
+    },
+    {
+      "titulo": "Fallin'",
+      "artista": "Alicia Keys",
+      "youtubeId": "Urdlvw0SSEc"
+    },
+    {
+      "titulo": "Redbone",
+      "artista": "Childish Gambino",
+      "youtubeId": "Kp7eSUU9oy8"
+    },
+    {
+      "titulo": "Big Poppa - 2005 Remaster",
+      "artista": "The Notorious B.I.G.",
+      "youtubeId": "phaJXp_zMYM"
+    },
+    {
+      "titulo": "Is This Love",
+      "artista": "Bob Marley & The Wailers",
+      "youtubeId": "CHekNnySAfM"
+    },
+    {
+      "titulo": "Can't Tell Me Nothing",
+      "artista": "Kanye West",
+      "youtubeId": "hqvcww4ydh8"
+    },
+    {
+      "titulo": "Just Can’t Get Enough",
+      "artista": "Black Eyed Peas",
+      "youtubeId": "OrTyD7rjBpw"
+    },
+    {
+      "titulo": "Do For Love",
+      "artista": "2Pac",
+      "youtubeId": "VjJpf_5FFJo"
+    },
+    {
+      "titulo": "All Eyez On Me (ft. Big Syke)",
+      "artista": "2Pac; Big Syke",
+      "youtubeId": "zgZ52M4a_R0"
+    },
+    {
+      "titulo": "Money Trees",
+      "artista": "Kendrick Lamar; Jay Rock",
+      "youtubeId": "bBNpSXAYteM"
+    },
+    {
+      "titulo": "Loose",
+      "artista": "Daniel Caesar",
+      "youtubeId": "gRL_PCOPF-A"
+    },
+    {
+      "titulo": "Passin' Me By",
+      "artista": "The Pharcyde",
+      "youtubeId": "a-mAK3uB2_0"
+    },
+    {
+      "titulo": "Keep Their Heads Ringin'",
+      "artista": "Dr. Dre",
+      "youtubeId": "TE891IHxyV8"
+    }
   ],
-  hot: [
-    { titulo: "Get Low", artista: "Lil Jon & The East Side Boyz; Ying Yang Twins", youtubeId: "yUZeZNxiD-M" },
-    { titulo: "Las Tetas D.", artista: "Crack Family", youtubeId: "LQhERHd-k0E" },
-    { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
-    { titulo: "Queen Tings (Santi Remix)", artista: "Masego; Cruel Santino; Santi", youtubeId: "UntyHH7Pfs0" },
-    { titulo: "Between the Sheets", artista: "The Isley Brothers", youtubeId: "TNDb8qKZEX8" },
-    { titulo: "Boombastic", artista: "Shaggy", youtubeId: "f0sVDGFoIOI"  },
+  "hot": [
+    {
+      "titulo": "Get Low",
+      "artista": "Lil Jon & The East Side Boyz; Ying Yang Twins",
+      "youtubeId": "yUZeZNxiD-M"
+    },
+    {
+      "titulo": "Las Tetas D.",
+      "artista": "Crack Family",
+      "youtubeId": "LQhERHd-k0E"
+    },
+    {
+      "titulo": "Parla Pura",
+      "artista": "Rap Bang Club",
+      "youtubeId": "9Ulu3Ysg6uw"
+    },
+    {
+      "titulo": "Queen Tings (Santi Remix)",
+      "artista": "Masego; Cruel Santino; Santi",
+      "youtubeId": "UntyHH7Pfs0"
+    },
+    {
+      "titulo": "Between the Sheets",
+      "artista": "The Isley Brothers",
+      "youtubeId": "TNDb8qKZEX8"
+    },
+    {
+      "titulo": "Boombastic",
+      "artista": "Shaggy",
+      "youtubeId": "f0sVDGFoIOI"
+    }
   ],
-  ambiente: [
-    { titulo: "Will I See You Again?", artista: "Thee Sacred Souls", youtubeId: "IGgb10A_2c8" },
-    { titulo: "You Rock My World", artista: "Michael Jackson", youtubeId: "1-7ABIM2qjU" },
-    { titulo: "Bills, Bills, Bills", artista: "Destiny's Child", youtubeId: "NiF6-0UTqtc" },
-    { titulo: "On & On", artista: "Erykah Badu", youtubeId: "-CPCs7vVz6s" },
-    { titulo: "Shoop", artista: "Salt-N-Pepa", youtubeId: "4vaN01VLYSQ" },
-    { titulo: "Give It Up to Me", artista: "Sean Paul", youtubeId: "kdzGENHQ-rk" },
-    { titulo: "Shut Up", artista: "Black Eyed Peas", youtubeId: "KRzMtlZjXpU" },
-    { titulo: "Ring My Bell", artista: "Anita Ward", youtubeId: "URAqnM1PP5E" },
-    { titulo: "Freedom", artista: "Pharrell Williams", youtubeId: "LlY90lG_Fuw" },
-    { titulo: "Blue World", artista: "Mac Miller", youtubeId: "aIHF7u9Wwiw" },
-    { titulo: "Didn't Cha Know", artista: "Erykah Badu", youtubeId: "b4fCymLkgOQ" },
-    { titulo: "Let's Get It Started - Spike Mix", artista: "Black Eyed Peas", youtubeId: "mRaQAdynxto" },
-    { titulo: "Virtual Insanity - Remastered 2006", artista: "Jamiroquai", youtubeId: "4JkIs37a2JE" },
-    { titulo: "Nuthin' But A \"G\" Thang", artista: "Dr. Dre; Snoop Dogg", youtubeId: "8GliyDgAGQI" },
-    { titulo: "You Know How We Do It", artista: "Ice Cube", youtubeId: "FXTh4XLm2VE" },
-    { titulo: "Japanese Denim", artista: "Daniel Caesar", youtubeId: "6OkneaH-eTA" },
-    { titulo: "La Noche y Tú", artista: "Barbaro el Urbano Vargas", youtubeId: "XSN_8UblItk" },
-    { titulo: "Déjame Entrar", artista: "Cultura Profética", youtubeId: "IAhVESdwvIU" },
-    { titulo: "good denim", artista: "jalen chords", youtubeId: "_2Lnj5N9lCM" },
-    { titulo: "Antonia", artista: "Gondwana", youtubeId: "exxkGyu3G1Q" },
-    { titulo: "Fui Silencio", artista: "Sofía Gabanna; Jazzmind", youtubeId: "KV2ECDqPyuY" },
-    { titulo: "Keep Your Worries", artista: "Guru; Angie Stone", youtubeId: "7R0D6ryRUqQ"  },
-    { titulo: "I Gotta Find Peace of Mind - Live", artista: "Ms. Lauryn Hill", youtubeId: "b2IbsMCgz4A" },
-    { titulo: "Ella", artista: "Kafu Banton; Almirante", youtubeId: "quToM5By41k" },
-    { titulo: "Escapism.", artista: "RAYE; 070 Shake", youtubeId: "Dll6VJ2C7wo" },
-    { titulo: "Ride Wit Me", artista: "Nelly; City Spud", youtubeId: "RtSDWq6HsJE" },
-    { titulo: "Not Afraid", artista: "Eminem", youtubeId: "j5-yKhDd64s" },
-    { titulo: "Baby, I Love Your Way", artista: "Big Mountain", youtubeId: "utXwIqQj7oE" },
+  "ambiente": [
+    {
+      "titulo": "Will I See You Again?",
+      "artista": "Thee Sacred Souls",
+      "youtubeId": "IGgb10A_2c8"
+    },
+    {
+      "titulo": "You Rock My World",
+      "artista": "Michael Jackson",
+      "youtubeId": "1-7ABIM2qjU"
+    },
+    {
+      "titulo": "Bills, Bills, Bills",
+      "artista": "Destiny's Child",
+      "youtubeId": "NiF6-0UTqtc"
+    },
+    {
+      "titulo": "On & On",
+      "artista": "Erykah Badu",
+      "youtubeId": "-CPCs7vVz6s"
+    },
+    {
+      "titulo": "Shoop",
+      "artista": "Salt-N-Pepa",
+      "youtubeId": "4vaN01VLYSQ"
+    },
+    {
+      "titulo": "Give It Up to Me",
+      "artista": "Sean Paul",
+      "youtubeId": "kdzGENHQ-rk"
+    },
+    {
+      "titulo": "Shut Up",
+      "artista": "Black Eyed Peas",
+      "youtubeId": "KRzMtlZjXpU"
+    },
+    {
+      "titulo": "Ring My Bell",
+      "artista": "Anita Ward",
+      "youtubeId": "URAqnM1PP5E"
+    },
+    {
+      "titulo": "Freedom",
+      "artista": "Pharrell Williams",
+      "youtubeId": "LlY90lG_Fuw"
+    },
+    {
+      "titulo": "Blue World",
+      "artista": "Mac Miller",
+      "youtubeId": "aIHF7u9Wwiw"
+    },
+    {
+      "titulo": "Didn't Cha Know",
+      "artista": "Erykah Badu",
+      "youtubeId": "b4fCymLkgOQ"
+    },
+    {
+      "titulo": "Let's Get It Started - Spike Mix",
+      "artista": "Black Eyed Peas",
+      "youtubeId": "mRaQAdynxto"
+    },
+    {
+      "titulo": "Virtual Insanity - Remastered 2006",
+      "artista": "Jamiroquai",
+      "youtubeId": "4JkIs37a2JE"
+    },
+    {
+      "titulo": "Nuthin' But A \"G\" Thang",
+      "artista": "Dr. Dre; Snoop Dogg",
+      "youtubeId": "8GliyDgAGQI"
+    },
+    {
+      "titulo": "You Know How We Do It",
+      "artista": "Ice Cube",
+      "youtubeId": "FXTh4XLm2VE"
+    },
+    {
+      "titulo": "Japanese Denim",
+      "artista": "Daniel Caesar",
+      "youtubeId": "6OkneaH-eTA"
+    },
+    {
+      "titulo": "La Noche y Tú",
+      "artista": "Barbaro el Urbano Vargas",
+      "youtubeId": "XSN_8UblItk"
+    },
+    {
+      "titulo": "Déjame Entrar",
+      "artista": "Cultura Profética",
+      "youtubeId": "IAhVESdwvIU"
+    },
+    {
+      "titulo": "good denim",
+      "artista": "jalen chords",
+      "youtubeId": "_2Lnj5N9lCM"
+    },
+    {
+      "titulo": "Antonia",
+      "artista": "Gondwana",
+      "youtubeId": "exxkGyu3G1Q"
+    },
+    {
+      "titulo": "Fui Silencio",
+      "artista": "Sofía Gabanna; Jazzmind",
+      "youtubeId": "KV2ECDqPyuY"
+    },
+    {
+      "titulo": "Keep Your Worries",
+      "artista": "Guru; Angie Stone",
+      "youtubeId": "7R0D6ryRUqQ"
+    },
+    {
+      "titulo": "I Gotta Find Peace of Mind - Live",
+      "artista": "Ms. Lauryn Hill",
+      "youtubeId": "b2IbsMCgz4A"
+    },
+    {
+      "titulo": "Ella",
+      "artista": "Kafu Banton; Almirante",
+      "youtubeId": "quToM5By41k"
+    },
+    {
+      "titulo": "Escapism.",
+      "artista": "RAYE; 070 Shake",
+      "youtubeId": "Dll6VJ2C7wo"
+    },
+    {
+      "titulo": "Ride Wit Me",
+      "artista": "Nelly; City Spud",
+      "youtubeId": "RtSDWq6HsJE"
+    },
+    {
+      "titulo": "Not Afraid",
+      "artista": "Eminem",
+      "youtubeId": "j5-yKhDd64s"
+    },
+    {
+      "titulo": "Baby, I Love Your Way",
+      "artista": "Big Mountain",
+      "youtubeId": "utXwIqQj7oE"
+    },
+    {
+      "titulo": "ROXANNE",
+      "artista": "Arizona Zervas",
+      "youtubeId": "16YnOUnbE6s"
+    }
   ]
 };
 
