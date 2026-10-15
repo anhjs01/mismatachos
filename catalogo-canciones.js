@@ -392,6 +392,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "No Se Va",
       "artista": "Morat",
       "youtubeId": "USDX0X-d588"
+    },
+    {
+      "titulo": "Aprender A Quererte",
+      "artista": "Morat",
+      "youtubeId": "OukQDrJ7QRQ"
     }
   ],
   "filosofica": [
@@ -1229,6 +1234,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Me Voy",
       "artista": "Julieta Venegas",
       "youtubeId": "y8rBC6GCUjg"
+    },
+    {
+      "titulo": "María la Curandera",
+      "artista": "Natalia Lafourcade",
+      "youtubeId": "a8eDeLKWx74"
     }
   ],
   "hot": [
@@ -1693,6 +1703,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Cuando Nadie Ve",
       "artista": "Morat",
       "youtubeId": "K9V8b9d9wYQ"
+    },
+    {
+      "titulo": "Lento",
+      "artista": "Julieta Venegas",
+      "youtubeId": "CuTx1QwLPjM"
     }
   ]
 };
