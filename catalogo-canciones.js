@@ -52,7 +52,9 @@ const CATALOGO_CANCIONES = {
     { titulo: "Qué Tú Quieres?", artista: "Mabiland", youtubeId: "7C4t_d898_Q" },
     { titulo: "Bacatá", artista: "1703; El Kalvo; $trasse", youtubeId: "QF2M5IWCJNQ" },
     { titulo: "Vital (Téngase)", artista: "Crudo Means Raw", youtubeId: "cgJvtgZ7rBk" },
-    { titulo: "Malpensante", artista: "Noiseferatu", youtubeId: "rThYUXZyTeA" }
+    { titulo: "Malpensante", artista: "Noiseferatu", youtubeId: "rThYUXZyTeA" },
+    { titulo: "De la Cuna al Ataud", artista: "La Etnnia; Full Nelson", youtubeId: "iNL9MXulJCY" },
+    { titulo: "Jaula de Oro - Original", artista: "Laberinto ELC", youtubeId: "BNLL8DJgkfI" }
   ],
   hot: [
     { titulo: "Parla Pura", artista: "Rap Bang Club", youtubeId: "9Ulu3Ysg6uw" },
