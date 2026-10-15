@@ -1091,6 +1091,11 @@ const CATALOGO_CANCIONES = {
       "titulo": "Get Money",
       "artista": "Junior M.A.F.I.A.",
       "youtubeId": "zZ29lDumb9U"
+    },
+    {
+      "titulo": "Time's Up",
+      "artista": "O.C.",
+      "youtubeId": "6gNmCGQRpcc"
     }
   ],
   "ambiente": [
