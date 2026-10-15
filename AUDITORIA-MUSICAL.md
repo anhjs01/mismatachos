@@ -54,15 +54,14 @@ Se añadieron 10 canciones sin repetir títulos/IDs del catálogo existente: Dan
 33. GIVĒON — I CAN TELL — `4UpUGBWlCb4`
 37. GIVĒON — AVALANCHE — `u7ZjjFPF9wY`
 
-**Pendientes de confirmar (9):**
-24. Rupatrupa — Camino de Tu Ombligo — `ekfybvh0TRo`
+**Pendientes de confirmar (5):**
+24. Rupatrupa — Camino de Tu Ombligo — `ekfybvh0TRo` (el tema existe, pero todavía no confirmé que este ID concreto corresponda al video correcto)
 25. Jorja Smith — February 3rd — `DI5fYHCk318`
-30. Rupatrupa — Me Manché de Tango — `VY2nUJQ-SWM`
-34. GIVĒON — DIAMONDS FOR YOUR PAIN — `L2dmZSHkFPs`
 35. GIVĒON — SIX:THIRTY — `JIlpbuUp1uw`
 36. GIVĒON — BACKUP PLAN — `lAiZ_nWYOI0`
-38. GIVĒON — GOOD BAD UGLY — `uYV5MWwZgTE`
 39. GIVĒON — BLEEDING — `q2j8vC1T2xM`
-40. GIVĒON — KEEPER — `2cuDp5ENoao`
 
-Los errores de apertura/consulta no se consideran prueba de que una canción esté rota. Las tandas 1 y 2 suman 22 coincidencias confirmadas y 18 pendientes.
+Los errores de apertura/consulta no se consideran prueba de que una canción esté rota. Las tandas 1 y 2 suman 26 coincidencias confirmadas y 14 pendientes.
+
+## Revisión de clasificación
+- `Rupatrupa — Camino de Tu Ombligo` se movió de `amor` a `hot`: la letra tiene contenido sexual explícito, por lo que no debe confundirse con una canción romántica suave. No se usa en el calendario actual.
