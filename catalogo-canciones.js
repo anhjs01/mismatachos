@@ -1146,6 +1146,16 @@ const CATALOGO_CANCIONES = {
       "titulo": "How I Could Just Kill a Man",
       "artista": "Cypress Hill",
       "youtubeId": "Yg-RIOATCbU"
+    },
+    {
+      "titulo": "Livin' Proof",
+      "artista": "Group Home",
+      "youtubeId": "NA6nF3qM_pI"
+    },
+    {
+      "titulo": "Whirlwind Thru Cities",
+      "artista": "Afu-Ra",
+      "youtubeId": "Q3nMnBvjcAg"
     }
   ],
   "ambiente": [
