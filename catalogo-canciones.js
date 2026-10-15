@@ -88,7 +88,6 @@ const CATALOGO_CANCIONES = {
     { titulo: "Ateo", artista: "Granuja", youtubeId: "wCeWcWCC0vA" },
     { titulo: "Los Genios de la Botella - Remix Kaztro", artista: "Alcolirykoz; Kaztro", youtubeId: "kfKJQaJ5O9w" },
     { titulo: "Todo Bien Todo Bien", artista: "JHT", youtubeId: "YKP-wTi6zAI" },
-    { titulo: "El Casino", artista: "Alcolirykoz", youtubeId: "IRpNBNfo1cQ" },
     { titulo: "Me Volví Loco", artista: "King Kong Click; Bubaseta; Subwoffer", youtubeId: "MsnJzE8Cbw0" },
     { titulo: "Tuyo", artista: "Credo V Daniels", youtubeId: "8onYUmsBMxs" },
     { titulo: "Partículas", artista: "Granuja", youtubeId: "E6oZorQDiN0" },
