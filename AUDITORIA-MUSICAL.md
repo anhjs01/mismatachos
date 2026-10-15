@@ -39,3 +39,30 @@ Se añadieron 10 canciones sin repetir títulos/IDs del catálogo existente: Dan
 - Día 31: paleta turquesa claro para reflejar el color favorito.
 - Día 68: se añadió una mención a Suguru Geto en el detalle del día, con una pregunta abierta para no inventar por qué le gusta el personaje.
 - Siguiente paso: continuar desde las canciones 21–40 y auditar por separado la coherencia tema–texto–canción de los días del calendario.
+
+## Tanda 2 — canciones 21–40
+**Coincidencia título/artista/ID confirmada por fuentes que enlazan el ID (11):**
+21. Jorja Smith — The One — `80J2YroXH3g`
+22. Jorja Smith — On Your Own — `iXPygS94LME`
+23. Jorja Smith — Goodbyes — `GJY5N0stFyU`
+26. Jorja Smith — Lost & Found — `9xZ6P4Sinvw`
+27. Jorja Smith — Don't Watch Me Cry — `_iU1_WhMVjY` (referencia a interpretación en vivo; coincide el tema, no necesariamente el videoclip oficial)
+28. GIVĒON — RATHER BE — `Yd1smtHpxaY`
+29. GIVĒON — STRANGERS — `lBw9WXJmdsU`
+31. GIVĒON — MUD — `ePMLtiZmalg`
+32. GIVĒON — NUMB — `3p2H-B_nqPI`
+33. GIVĒON — I CAN TELL — `4UpUGBWlCb4`
+37. GIVĒON — AVALANCHE — `u7ZjjFPF9wY`
+
+**Pendientes de confirmar (9):**
+24. Rupatrupa — Camino de Tu Ombligo — `ekfybvh0TRo`
+25. Jorja Smith — February 3rd — `DI5fYHCk318`
+30. Rupatrupa — Me Manché de Tango — `VY2nUJQ-SWM`
+34. GIVĒON — DIAMONDS FOR YOUR PAIN — `L2dmZSHkFPs`
+35. GIVĒON — SIX:THIRTY — `JIlpbuUp1uw`
+36. GIVĒON — BACKUP PLAN — `lAiZ_nWYOI0`
+38. GIVĒON — GOOD BAD UGLY — `uYV5MWwZgTE`
+39. GIVĒON — BLEEDING — `q2j8vC1T2xM`
+40. GIVĒON — KEEPER — `2cuDp5ENoao`
+
+Los errores de apertura/consulta no se consideran prueba de que una canción esté rota. Las tandas 1 y 2 suman 22 coincidencias confirmadas y 18 pendientes.
