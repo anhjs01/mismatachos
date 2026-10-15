@@ -1,6 +1,5 @@
 /* Calendario de Aleja · 78 días del 16 de octubre de 2026 al 1 de enero de 2027. Mensajes personalizados con voz cercana y romántica. */
 const CALENDARIO = [
-
   {
     "dia": 1,
     "fecha": "2026-10-16",
@@ -699,9 +698,9 @@ const CALENDARIO = [
     "icono": "🌀",
     "tono": "filosofica",
     "color": {
-      "principal": "#b9a4e5",
-      "suave": "#e7defa",
-      "oscuro": "#211631"
+      "principal": "#77d9d8",
+      "suave": "#dcf7f4",
+      "oscuro": "#12343b"
     },
     "buenosDias": "Buenos días, corazón. Ojalá hoy mezcles dos colores y aparezca uno que no estabas buscando, pero que te guste tanto que cambies todo el plan por él.",
     "poema": [
@@ -1559,7 +1558,7 @@ const CALENDARIO = [
       "Quiero seguir aprendiendo tus pequeños detalles sin dar por hecho que ya lo sé todo de ti. Las personas cambian de antojo, de canción favorita y de opinión; lo bonito es seguir preguntando.",
       "Así que cuéntame, corazón, corrígeme y sorpréndeme. Conocerte no debería sentirse como terminar una tarea, sino como abrir un libro que todavía tiene páginas nuevas."
     ],
-    "detalle": "Cuando alguien te cuente algo importante, intenta recordar ese detalle después. A veces decir ‘me acordé de lo que me contaste’ es una forma discreta y preciosa de decir ‘te estaba escuchando de verdad’.",
+    "detalle": "Cuando alguien te cuente algo importante, intenta recordar ese detalle después. También me acordé de Geto, uno de tus personajes favoritos de Jujutsu Kaisen; me da curiosidad qué parte de su historia te gusta más. A veces, preguntar por algo que le importa a alguien es otra forma de escuchar de verdad.",
     "buenasNoches": "Que duermas tranquila, mi vida. Acordarte de lo que alguien te cuenta es una manera preciosa de cuidar; y dejar que también se acuerden de ti lo es igual.",
     "cancionTitulo": "Where Is The Love?",
     "cancionArtista": "Black Eyed Peas",
@@ -1795,5 +1794,4 @@ const CALENDARIO = [
     "cancionArtista": "Eminem",
     "youtubeId": "j5-yKhDd64s"
   }
-
 ];
