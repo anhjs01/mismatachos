@@ -173,3 +173,9 @@ Criterios aplicados: arte y manualidades con acompañamiento instrumental/indie 
 - Ajuste final de variedad de esta tanda: día 60 → “Virtual Insanity - Remastered 2006” — Jamiroquai, y día 71 → “Aero-Soul” — Alcolirykoz. Ambas fichas proceden del catálogo; se evitó que las sustituciones introdujeran nuevas repeticiones innecesarias.
 
 - Revisión de coherencia posterior: día 60 queda con “good denim” — jalen chords. Se priorizó la afinidad clara con el tema de ropa cómoda sobre repetir “Virtual Insanity”; el tema “good denim” también acompaña el día 35, que trata del estilo cómodo, por lo que esta repetición puntual sí tiene motivo temático.
+
+
+## Revisión conservadora de contenido — 15 de octubre de 2026
+- Día 49: se sustituyó el segundo/tercer enfoque repetido de margaritas y materiales creativos por un tema distinto, el descanso y dormir sin culpa, que también forma parte de los gustos conocidos de Aleja. Se mantuvieron los demás días sin cambios para evitar una reescritura innecesaria.
+- Día 49 canción: “La Noche y Tú” — Barbaro el Urbano Vargas, tomada de `catalogo-canciones.js`, para una atmósfera nocturna más coherente con la pausa y el descanso. Título, artista e ID se actualizaron juntos desde la ficha del catálogo.
+- Se mantiene pendiente la revisión de las 14 agrupaciones de canciones repetidas y la comprobación real de reproducción en el reproductor integrado. Esta pasada no certifica la letra de cada canción.
