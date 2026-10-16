@@ -21,7 +21,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa, mi vida. Ojalá hoy hayas recibido aunque sea una parte de ese cariño que tú sabes dar. Y si tus mascotas te buscaron para saludarte, ya tienes una razón bastante convincente para terminar el día con una sonrisa.",
     "cancionTitulo": "Three Little Birds",
     "cancionArtista": "Bob Marley & The Wailers",
-    "youtubeId": "HNBCVM4KbUM"
+    "youtubeId": "HNBCVM4KbUM",
+    "cancionUrl": "https://www.youtube.com/watch?v=HNBCVM4KbUM"
   },
   {
     "dia": 2,
@@ -44,7 +45,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, corazón. Que mañana el café te salga rico y el mundo te dé unos minutos antes de empezar a pedirte cosas. No es mucho pedir, ¿cierto?",
     "cancionTitulo": "On & On",
     "cancionArtista": "Erykah Badu",
-    "youtubeId": "-CPCs7vVz6s"
+    "youtubeId": "j-yh7sGQe2Q",
+    "cancionUrl": "https://www.youtube.com/watch?v=j-yh7sGQe2Q"
   },
   {
     "dia": 3,
@@ -67,7 +69,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses, amor. Ojalá el día te haya dejado una cosa pequeña para recordar con una sonrisa; no tiene que ser extraordinaria, solo tuya.",
     "cancionTitulo": "Put Your Records On",
     "cancionArtista": "Corinne Bailey Rae",
-    "youtubeId": "oWQl00LWEwE"
+    "youtubeId": "oWQl00LWEwE",
+    "cancionUrl": "https://www.youtube.com/watch?v=oWQl00LWEwE"
   },
   {
     "dia": 4,
@@ -90,7 +93,8 @@ const CALENDARIO = [
     "buenasNoches": "Apaga un rato las exigencias y deja que la cabeza descanse. Me gusta imaginarte tranquila, sin tener que demostrar nada ni resolverlo todo antes de dormir.",
     "cancionTitulo": "Show Me How",
     "cancionArtista": "Men I Trust",
-    "youtubeId": "OZRYzH0Q0pU"
+    "youtubeId": "OZRYzH0Q0pU",
+    "cancionUrl": "https://www.youtube.com/watch?v=OZRYzH0Q0pU"
   },
   {
     "dia": 5,
@@ -113,7 +117,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, bonita. Que tus manos descansen de crear y tu cabeza también deje de inventarse pendientes. Lo que no se terminó hoy puede esperar un poquito.",
     "cancionTitulo": "Rara Bien",
     "cancionArtista": "Rupatrupa",
-    "youtubeId": "15ws-oAh3G0"
+    "youtubeId": "15ws-oAh3G0",
+    "cancionUrl": "https://www.youtube.com/watch?v=15ws-oAh3G0"
   },
   {
     "dia": 6,
@@ -136,7 +141,8 @@ const CALENDARIO = [
     "buenasNoches": "Espero que termines el día con esa sensación de haber tenido un momento para ti. Y si no lo tuviste, que al menos la noche te lo regale.",
     "cancionTitulo": "I Gotta Find Peace of Mind - Live",
     "cancionArtista": "Ms. Lauryn Hill",
-    "youtubeId": "b2IbsMCgz4A"
+    "youtubeId": "b2IbsMCgz4A",
+    "cancionUrl": "https://www.youtube.com/watch?v=b2IbsMCgz4A"
   },
   {
     "dia": 7,
@@ -159,7 +165,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa, corazón. El cielo va a seguir ahí mañana, por si hoy no te alcanzó el tiempo para mirarlo. No tienes que encontrar belleza en todo; con encontrar un ratito de calma basta.",
     "cancionTitulo": "Blue World",
     "cancionArtista": "Mac Miller",
-    "youtubeId": "aIHF7u9Wwiw"
+    "youtubeId": "_GC2wFTCAGY",
+    "cancionUrl": "https://www.youtube.com/watch?v=_GC2wFTCAGY"
   },
   {
     "dia": 8,
@@ -182,7 +189,8 @@ const CALENDARIO = [
     "buenasNoches": "Que la noche te trate suave, mi vida. Ojalá alguna melodía se te quede dando vueltas, de esas que no hacen ruido pero acompañan bonito.",
     "cancionTitulo": "Solo Tú",
     "cancionArtista": "Macha y el Bloque Depresivo; Álvaro Henríquez",
-    "youtubeId": "lxPDvuV9Z88"
+    "youtubeId": "lxPDvuV9Z88",
+    "cancionUrl": "https://www.youtube.com/watch?v=lxPDvuV9Z88"
   },
   {
     "dia": 9,
@@ -205,7 +213,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches. Deja que la música se apague cuando ya no la necesites y que el silencio también tenga su lugar. No tienes que llenar cada minuto de algo.",
     "cancionTitulo": "Didn't Cha Know",
     "cancionArtista": "Erykah Badu",
-    "youtubeId": "b4fCymLkgOQ"
+    "youtubeId": "Np21rH7Ldto",
+    "cancionUrl": "https://www.youtube.com/watch?v=Np21rH7Ldto"
   },
   {
     "dia": 10,
@@ -228,7 +237,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa cómoda, a tu manera y sin pedir permiso. Ojalá mañana te despiertes sintiéndote tan tú como cuando eliges ponerte lo que te gusta.",
     "cancionTitulo": "Japanese Denim",
     "cancionArtista": "Daniel Caesar",
-    "youtubeId": "6OkneaH-eTA"
+    "youtubeId": "6OkneaH-eTA",
+    "cancionUrl": "https://www.youtube.com/watch?v=6OkneaH-eTA"
   },
   {
     "dia": 11,
@@ -251,7 +261,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses, amor. Si hoy tuviste uno de esos antojos que te arreglan el ánimo, espero que lo hayas disfrutado; si no, queda pendiente para otro día.",
     "cancionTitulo": "I Want You Around",
     "cancionArtista": "Snoh Aalegra",
-    "youtubeId": "4976Fgvf5Ps"
+    "youtubeId": "4976Fgvf5Ps",
+    "cancionUrl": "https://www.youtube.com/watch?v=4976Fgvf5Ps"
   },
   {
     "dia": 12,
@@ -274,7 +285,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, mi vida. No hace falta que hoy haya sido una fecha especial para que merezcas un detalle bonito. Ojalá mañana alguien te sorprenda con uno.",
     "cancionTitulo": "Kiss Of Life",
     "cancionArtista": "Sade",
-    "youtubeId": "MmOau-PMWJk"
+    "youtubeId": "MmOau-PMWJk",
+    "cancionUrl": "https://www.youtube.com/watch?v=MmOau-PMWJk"
   },
   {
     "dia": 13,
@@ -297,7 +309,8 @@ const CALENDARIO = [
     "buenasNoches": "Deja el día donde pertenece, corazón: en el día. No te lleves a la almohada cada cosa que quedó a medias; también mereces descansar sin hacer inventario de pendientes.",
     "cancionTitulo": "El Sexto Sentido",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "tjHgj-p_XiI"
+    "youtubeId": "tjHgj-p_XiI",
+    "cancionUrl": "https://www.youtube.com/watch?v=tjHgj-p_XiI"
   },
   {
     "dia": 14,
@@ -320,7 +333,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses y que esas ideas que no te dejaron quieta encuentren un rincón donde esperar hasta mañana. No tienen que resolverse todas a medianoche.",
     "cancionTitulo": "Esta Va",
     "cancionArtista": "Realidad Mental",
-    "youtubeId": "JVEN7Quzpeg"
+    "youtubeId": "JVEN7Quzpeg",
+    "cancionUrl": "https://www.youtube.com/watch?v=JVEN7Quzpeg"
   },
   {
     "dia": 15,
@@ -343,7 +357,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, bonita. Ojalá hoy hayas reído de verdad, de esa forma en que se te ilumina la cara y las pecas parecen sumarse a la conversación.",
     "cancionTitulo": "Feliz Si Es Raro",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "rTv5pNLz9IU"
+    "youtubeId": "rTv5pNLz9IU",
+    "cancionUrl": "https://www.youtube.com/watch?v=rTv5pNLz9IU"
   },
   {
     "dia": 16,
@@ -366,7 +381,8 @@ const CALENDARIO = [
     "buenasNoches": "Que tengas una noche tranquila, amor. Si hay una canción que todavía quieres escuchar otra vez, escúchala; no todo lo que te hace bien tiene que ser productivo.",
     "cancionTitulo": "Otra Canción Larga",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "aAwXhAV3LPE"
+    "youtubeId": "aAwXhAV3LPE",
+    "cancionUrl": "https://www.youtube.com/watch?v=aAwXhAV3LPE"
   },
   {
     "dia": 17,
@@ -389,7 +405,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa, mi vida. Mañana habrá más cosas que hacer, pero no necesitas adelantarte a todas desde la cama. Por ahora, el arroz con huevo puede esperar y tú también.",
     "cancionTitulo": "Ride Wit Me",
     "cancionArtista": "Nelly; City Spud",
-    "youtubeId": "RtSDWq6HsJE"
+    "youtubeId": "RtSDWq6HsJE",
+    "cancionUrl": "https://www.youtube.com/watch?v=RtSDWq6HsJE"
   },
   {
     "dia": 18,
@@ -412,7 +429,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, corazón. Ojalá también tengas cerca a alguien que te escuche con la misma atención que tú sabes regalar. No siempre tienes que ser quien sostiene la conversación.",
     "cancionTitulo": "A Veces",
     "cancionArtista": "Al2 El Aldeano",
-    "youtubeId": "LQYOZFO5aB4"
+    "youtubeId": "LQYOZFO5aB4",
+    "cancionUrl": "https://www.youtube.com/watch?v=LQYOZFO5aB4"
   },
   {
     "dia": 19,
@@ -435,7 +453,8 @@ const CALENDARIO = [
     "buenasNoches": "Que la noche te deje el corazón liviano. Y si hoy una charla te hizo bien, guárdala como quien guarda una nota pequeña en el bolsillo.",
     "cancionTitulo": "I'll Be Seeing You",
     "cancionArtista": "Billie Holiday",
-    "youtubeId": "3C5zYKIuoxg"
+    "youtubeId": "3C5zYKIuoxg",
+    "cancionUrl": "https://www.youtube.com/watch?v=3C5zYKIuoxg"
   },
   {
     "dia": 20,
@@ -458,7 +477,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa, amor. Si hoy alguien te sacó esa sonrisa tuya, espero que el recuerdo te acompañe un poquito. Y si no, queda pendiente que el día siguiente haga mejor su trabajo.",
     "cancionTitulo": "The One",
     "cancionArtista": "Jorja Smith",
-    "youtubeId": "80J2YroXH3g"
+    "youtubeId": "80J2YroXH3g",
+    "cancionUrl": "https://www.youtube.com/watch?v=80J2YroXH3g"
   },
   {
     "dia": 21,
@@ -481,7 +501,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, artista. Suelta por hoy las herramientas, las ideas y el deseo de corregirlo todo. Mañana puedes volver a probar; esta noche te toca descansar a ti.",
     "cancionTitulo": "Házmelo Rap",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "P1qamoOHLYM"
+    "youtubeId": "P1qamoOHLYM",
+    "cancionUrl": "https://www.youtube.com/watch?v=P1qamoOHLYM"
   },
   {
     "dia": 22,
@@ -504,7 +525,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses, mi vida. Acuérdate de que cuidar a los demás también incluye no exigirte estar disponible para todo el mundo todo el tiempo.",
     "cancionTitulo": "Love",
     "cancionArtista": "Keyshia Cole",
-    "youtubeId": "9PBZy9j3H3I"
+    "youtubeId": "9PBZy9j3H3I",
+    "cancionUrl": "https://www.youtube.com/watch?v=9PBZy9j3H3I"
   },
   {
     "dia": 23,
@@ -527,7 +549,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, corazón. Ojalá mañana el café llegue antes que las preocupaciones y puedas disfrutarlo sin mirar el reloj cada veinte segundos.",
     "cancionTitulo": "Electric Relaxation",
     "cancionArtista": "A Tribe Called Quest",
-    "youtubeId": "WHRnvjCkTsw"
+    "youtubeId": "WHRnvjCkTsw",
+    "cancionUrl": "https://www.youtube.com/watch?v=WHRnvjCkTsw"
   },
   {
     "dia": 24,
@@ -550,7 +573,8 @@ const CALENDARIO = [
     "buenasNoches": "Que duermas rico, amor. Espero que algún detalle sencillo te haya recordado hoy que no todo lo bonito necesita una gran explicación.",
     "cancionTitulo": "Humo",
     "cancionArtista": "Rupatrupa",
-    "youtubeId": "Gxar3fueK2U"
+    "youtubeId": "Gxar3fueK2U",
+    "cancionUrl": "https://www.youtube.com/watch?v=Gxar3fueK2U"
   },
   {
     "dia": 25,
@@ -573,7 +597,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa, bonita. Algún día habrá cocina compartida, una película elegida entre los dos y una discusión seria sobre quién escogió mejor. Por ahora te dejo dormir sin spoilers.",
     "cancionTitulo": "Best Part (feat. H.E.R.)",
     "cancionArtista": "Daniel Caesar; H.E.R.",
-    "youtubeId": "vBy7FaapGRo"
+    "youtubeId": "vBy7FaapGRo",
+    "cancionUrl": "https://www.youtube.com/watch?v=vBy7FaapGRo"
   },
   {
     "dia": 26,
@@ -596,7 +621,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, corazón. Ojalá tus mascotas te hagan compañía si se acercan, aunque probablemente ellas crean que la cama les pertenece por derecho propio.",
     "cancionTitulo": "You Got Me",
     "cancionArtista": "The Roots; Tariq Trotter; Erykah Badu; Eve",
-    "youtubeId": "MJCHeEQV454"
+    "youtubeId": "MJCHeEQV454",
+    "cancionUrl": "https://www.youtube.com/watch?v=MJCHeEQV454"
   },
   {
     "dia": 27,
@@ -619,7 +645,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses, mi vida. Si la mañana te encuentra con sueño, no te declares vencida todavía: primero café, después decisiones importantes.",
     "cancionTitulo": "Keep Your Worries",
     "cancionArtista": "Guru; Angie Stone",
-    "youtubeId": "7R0D6ryRUqQ"
+    "youtubeId": "7R0D6ryRUqQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=7R0D6ryRUqQ"
   },
   {
     "dia": 28,
@@ -642,7 +669,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches. Que mañana encuentres algo rico que comer y un motivo sencillo para sonreír. A veces no hace falta mucho para cambiarle el tono al día.",
     "cancionTitulo": "You Rock My World",
     "cancionArtista": "Michael Jackson",
-    "youtubeId": "1-7ABIM2qjU"
+    "youtubeId": "1-7ABIM2qjU",
+    "cancionUrl": "https://www.youtube.com/watch?v=1-7ABIM2qjU"
   },
   {
     "dia": 29,
@@ -665,7 +693,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa, amor. Si hoy alguien se acordó de un detalle que le contaste, ojalá hayas sentido lo bonito que es que te escuchen de verdad.",
     "cancionTitulo": "If I Ain't Got You",
     "cancionArtista": "Alicia Keys",
-    "youtubeId": "Ju8Hr50Ckwk"
+    "youtubeId": "Ju8Hr50Ckwk",
+    "cancionUrl": "https://www.youtube.com/watch?v=Ju8Hr50Ckwk"
   },
   {
     "dia": 30,
@@ -688,7 +717,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, artista. No todas las piezas tienen que quedar listas hoy, ni todas las ideas tienen que convertirse enseguida en algo concreto. Deja que el proceso respire.",
     "cancionTitulo": "Tomorrow",
     "cancionArtista": "Jorja Smith",
-    "youtubeId": "zMC5-M15je0"
+    "youtubeId": "zMC5-M15je0",
+    "cancionUrl": "https://www.youtube.com/watch?v=zMC5-M15je0"
   },
   {
     "dia": 31,
@@ -711,7 +741,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses con la tranquilidad de no tener que acertar siempre a la primera. Hasta los colores encuentran su lugar después de varias pruebas.",
     "cancionTitulo": "Blue World",
     "cancionArtista": "Mac Miller",
-    "youtubeId": "aIHF7u9Wwiw"
+    "youtubeId": "_GC2wFTCAGY",
+    "cancionUrl": "https://www.youtube.com/watch?v=_GC2wFTCAGY"
   },
   {
     "dia": 32,
@@ -734,7 +765,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, corazón. Ojalá el cielo te haya regalado aunque sea un vistazo bonito. Si no, mañana tendrá otra oportunidad de impresionarte.",
     "cancionTitulo": "Apocalypse",
     "cancionArtista": "Cigarettes After Sex",
-    "youtubeId": "sElE_BfQ67s"
+    "youtubeId": "sElE_BfQ67s",
+    "cancionUrl": "https://www.youtube.com/watch?v=sElE_BfQ67s"
   },
   {
     "dia": 33,
@@ -757,7 +789,8 @@ const CALENDARIO = [
     "buenasNoches": "Que tengas una noche tranquila, mi vida. Hay canciones que acompañan incluso cuando ya terminaron; quizá hoy alguna se quede contigo de esa forma.",
     "cancionTitulo": "Tararea",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "nmFdyBUAsfQ"
+    "youtubeId": "nmFdyBUAsfQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=nmFdyBUAsfQ"
   },
   {
     "dia": 34,
@@ -780,7 +813,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa, amor. No tienes que ponerle palabras a todo lo que sientes ni explicarle a nadie por qué una canción te toca. A veces basta con sentirla.",
     "cancionTitulo": "Didn't Cha Know",
     "cancionArtista": "Erykah Badu",
-    "youtubeId": "b4fCymLkgOQ"
+    "youtubeId": "Np21rH7Ldto",
+    "cancionUrl": "https://www.youtube.com/watch?v=Np21rH7Ldto"
   },
   {
     "dia": 35,
@@ -803,7 +837,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, bonita. Ponte cómoda, deja el día atrás y no negocies con las opiniones imaginarias de nadie. Tu descanso no necesita aprobación.",
     "cancionTitulo": "good denim",
     "cancionArtista": "jalen chords",
-    "youtubeId": "_2Lnj5N9lCM"
+    "youtubeId": "_2Lnj5N9lCM",
+    "cancionUrl": "https://www.youtube.com/watch?v=_2Lnj5N9lCM"
   },
   {
     "dia": 36,
@@ -826,7 +861,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses, corazón. Espero que mañana puedas darte ese gusto que te encanta, con su mezcla exacta y sin que nadie intente corregirte la receta.",
     "cancionTitulo": "Ring My Bell",
     "cancionArtista": "Anita Ward",
-    "youtubeId": "URAqnM1PP5E"
+    "youtubeId": "URAqnM1PP5E",
+    "cancionUrl": "https://www.youtube.com/watch?v=URAqnM1PP5E"
   },
   {
     "dia": 37,
@@ -849,7 +885,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, amor. Si hoy no hubo flores, no pasa nada; ojalá al menos alguien haya tenido un gesto que te hiciera sentir presente en su pensamiento.",
     "cancionTitulo": "Beautiful",
     "cancionArtista": "Snoop Dogg; Pharrell Williams; Charlie Wilson",
-    "youtubeId": "_FE194VN6c4"
+    "youtubeId": "_FE194VN6c4",
+    "cancionUrl": "https://www.youtube.com/watch?v=_FE194VN6c4"
   },
   {
     "dia": 38,
@@ -872,7 +909,8 @@ const CALENDARIO = [
     "buenasNoches": "Que la noche te encuentre con menos ruido alrededor y menos ruido por dentro. No todo se ordena hoy, y no pasa nada.",
     "cancionTitulo": "93 'Til Infinity",
     "cancionArtista": "Souls of Mischief",
-    "youtubeId": "fXJc2NYwHjw"
+    "youtubeId": "fXJc2NYwHjw",
+    "cancionUrl": "https://www.youtube.com/watch?v=fXJc2NYwHjw"
   },
   {
     "dia": 39,
@@ -895,7 +933,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa, mi vida. Las ideas buenas no desaparecen solo porque duermas; a veces vuelven mañana con más claridad.",
     "cancionTitulo": "El Día de Mi Suerte",
     "cancionArtista": "El Redcode",
-    "youtubeId": "ApqRPZ8xO6g"
+    "youtubeId": "ApqRPZ8xO6g",
+    "cancionUrl": "https://www.youtube.com/watch?v=ApqRPZ8xO6g"
   },
   {
     "dia": 40,
@@ -918,7 +957,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, corazón. Ojalá hoy te hayas reído en un momento inesperado. Y si te salió esa cara de inocente después, me habría encantado verla.",
     "cancionTitulo": "Insane in the Brain",
     "cancionArtista": "Cypress Hill",
-    "youtubeId": "RijB8wnJCN0"
+    "youtubeId": "RijB8wnJCN0",
+    "cancionUrl": "https://www.youtube.com/watch?v=RijB8wnJCN0"
   },
   {
     "dia": 41,
@@ -941,7 +981,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses, amor. Puedes escuchar esa canción una última vez si te hace bien, pero no hagas tratos imposibles con el botón de repetir cuando ya te estés quedando dormida.",
     "cancionTitulo": "Put Your Records On",
     "cancionArtista": "Corinne Bailey Rae",
-    "youtubeId": "oWQl00LWEwE"
+    "youtubeId": "oWQl00LWEwE",
+    "cancionUrl": "https://www.youtube.com/watch?v=oWQl00LWEwE"
   },
   {
     "dia": 42,
@@ -964,7 +1005,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, mi vida. Mañana decides cuál antojo gana; esta noche no hace falta convocar una cumbre entre la pasta y el arroz con huevo.",
     "cancionTitulo": "Feel So Good",
     "cancionArtista": "Mase",
-    "youtubeId": "rIvEiTrq9kk"
+    "youtubeId": "rIvEiTrq9kk",
+    "cancionUrl": "https://www.youtube.com/watch?v=rIvEiTrq9kk"
   },
   {
     "dia": 43,
@@ -987,7 +1029,8 @@ const CALENDARIO = [
     "buenasNoches": "Que duermas rico, corazón. No subestimes el efecto de un detalle recordado; a veces alguien demuestra cariño sin hacer ningún anuncio.",
     "cancionTitulo": "Best Part (feat. H.E.R.)",
     "cancionArtista": "Daniel Caesar; H.E.R.",
-    "youtubeId": "vBy7FaapGRo"
+    "youtubeId": "vBy7FaapGRo",
+    "cancionUrl": "https://www.youtube.com/watch?v=vBy7FaapGRo"
   },
   {
     "dia": 44,
@@ -1010,7 +1053,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, amor. Si la conversación de hoy se alargó sin que miraras la hora, quizá fue una buena manera de perder un poquito el tiempo.",
     "cancionTitulo": "By Your Side",
     "cancionArtista": "Sade",
-    "youtubeId": "C8QJmI_V3j4"
+    "youtubeId": "C8QJmI_V3j4",
+    "cancionUrl": "https://www.youtube.com/watch?v=C8QJmI_V3j4"
   },
   {
     "dia": 45,
@@ -1033,7 +1077,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa, bonita. No tienes que descifrar cada mirada antes de dormir; algunas cosas pueden sentirse bonitas sin convertirse en un examen.",
     "cancionTitulo": "Stuck On You",
     "cancionArtista": "GIVĒON",
-    "youtubeId": "UlIgAGotomM"
+    "youtubeId": "UlIgAGotomM",
+    "cancionUrl": "https://www.youtube.com/watch?v=UlIgAGotomM"
   },
   {
     "dia": 46,
@@ -1056,7 +1101,8 @@ const CALENDARIO = [
     "buenasNoches": "Que tengas una noche suave, mi vida. Ojalá mañana te permitas probar algo sin exigirte saber desde el comienzo cómo va a salir.",
     "cancionTitulo": "Déjame Entrar",
     "cancionArtista": "Cultura Profética",
-    "youtubeId": "IAhVESdwvIU"
+    "youtubeId": "IAhVESdwvIU",
+    "cancionUrl": "https://www.youtube.com/watch?v=IAhVESdwvIU"
   },
   {
     "dia": 47,
@@ -1079,7 +1125,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, corazón. Puedes ser cuidadosa con tus palabras y seguir siendo firme en lo que piensas. No tienes que escoger entre tu ternura y tu carácter.",
     "cancionTitulo": "No Está en Venta",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "Se6Cd4sW3ks"
+    "youtubeId": "Se6Cd4sW3ks",
+    "cancionUrl": "https://www.youtube.com/watch?v=Se6Cd4sW3ks"
   },
   {
     "dia": 48,
@@ -1102,7 +1149,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses, amor. El café de mañana puede esperar hasta que abras los ojos; por ahora, no necesitas ganarle ninguna carrera al día.",
     "cancionTitulo": "Antonia",
     "cancionArtista": "Gondwana",
-    "youtubeId": "exxkGyu3G1Q"
+    "youtubeId": "exxkGyu3G1Q",
+    "cancionUrl": "https://www.youtube.com/watch?v=exxkGyu3G1Q"
   },
   {
     "dia": 49,
@@ -1125,7 +1173,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, bonita. Ojalá hoy hayas podido descansar de verdad, aunque fuera un ratito. Que la almohada esté cómoda, la cabeza baje el volumen y mañana llegue sin exigirte que resuelvas todo apenas despiertes.",
     "cancionTitulo": "La Noche y Tú",
     "cancionArtista": "Barbaro el Urbano Vargas",
-    "youtubeId": "XSN_8UblItk"
+    "youtubeId": "XSN_8UblItk",
+    "cancionUrl": "https://www.youtube.com/watch?v=XSN_8UblItk"
   },
   {
     "dia": 50,
@@ -1148,7 +1197,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa, mi vida. Un plan bonito también puede ser no salir, cocinar algo rico y compartir el sofá. No todo lo especial necesita luces de ciudad.",
     "cancionTitulo": "Moment Of Your Life (feat. Coco Jones)",
     "cancionArtista": "Brent Faiyaz; Coco Jones",
-    "youtubeId": "Jv17JsayCSI"
+    "youtubeId": "Jv17JsayCSI",
+    "cancionUrl": "https://www.youtube.com/watch?v=Jv17JsayCSI"
   },
   {
     "dia": 51,
@@ -1171,7 +1221,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, corazón. Que recuerdes algún saludo bonito o una despedida que te hizo sentir importante. Esas pequeñas maneras de recibirnos y despedirnos pueden quedarse con uno todo el día.",
     "cancionTitulo": "Will I See You Again?",
     "cancionArtista": "Thee Sacred Souls",
-    "youtubeId": "IGgb10A_2c8"
+    "youtubeId": "IGgb10A_2c8",
+    "cancionUrl": "https://www.youtube.com/watch?v=IGgb10A_2c8"
   },
   {
     "dia": 52,
@@ -1194,7 +1245,8 @@ const CALENDARIO = [
     "buenasNoches": "Que duermas rico, amor. Ojalá mañana el día empiece con menos afán y más espacio para hacer las cosas a tu ritmo.",
     "cancionTitulo": "I'll Be Seeing You",
     "cancionArtista": "Billie Holiday",
-    "youtubeId": "3C5zYKIuoxg"
+    "youtubeId": "3C5zYKIuoxg",
+    "cancionUrl": "https://www.youtube.com/watch?v=3C5zYKIuoxg"
   },
   {
     "dia": 53,
@@ -1217,7 +1269,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, mi vida. Espero que hayas encontrado algo dulce en el día, aunque fuera un gesto pequeño o una fruta en su punto.",
     "cancionTitulo": "Put Your Records On",
     "cancionArtista": "Corinne Bailey Rae",
-    "youtubeId": "oWQl00LWEwE"
+    "youtubeId": "oWQl00LWEwE",
+    "cancionUrl": "https://www.youtube.com/watch?v=oWQl00LWEwE"
   },
   {
     "dia": 54,
@@ -1240,7 +1293,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa, corazón. Que mañana alguien te haga sentir acompañada sin que tengas que pedirlo y que tú también puedas dejarte cuidar.",
     "cancionTitulo": "Three Little Birds",
     "cancionArtista": "Bob Marley & The Wailers",
-    "youtubeId": "HNBCVM4KbUM"
+    "youtubeId": "HNBCVM4KbUM",
+    "cancionUrl": "https://www.youtube.com/watch?v=HNBCVM4KbUM"
   },
   {
     "dia": 55,
@@ -1263,7 +1317,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, bonita. El barro y la paciencia pueden esperar hasta mañana; por hoy, suelta todo lo que tengas entre las manos y descansa.",
     "cancionTitulo": "La Terrera",
     "cancionArtista": "Rupatrupa",
-    "youtubeId": "2BW92cCp0T4"
+    "youtubeId": "2BW92cCp0T4",
+    "cancionUrl": "https://www.youtube.com/watch?v=2BW92cCp0T4"
   },
   {
     "dia": 56,
@@ -1286,7 +1341,8 @@ const CALENDARIO = [
     "buenasNoches": "Que la noche te dé permiso de no arreglar lo que hoy salió distinto a lo esperado. A veces la sorpresa termina teniendo su propia belleza.",
     "cancionTitulo": "Virtual Insanity - Remastered 2006",
     "cancionArtista": "Jamiroquai",
-    "youtubeId": "4JkIs37a2JE"
+    "youtubeId": "4JkIs37a2JE",
+    "cancionUrl": "https://www.youtube.com/watch?v=4JkIs37a2JE"
   },
   {
     "dia": 57,
@@ -1309,7 +1365,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, amor. Ojalá te hayas detenido un momento a mirar el cielo, aunque haya sido desde una ventana y con mil cosas por hacer.",
     "cancionTitulo": "Apocalypse",
     "cancionArtista": "Cigarettes After Sex",
-    "youtubeId": "sElE_BfQ67s"
+    "youtubeId": "sElE_BfQ67s",
+    "cancionUrl": "https://www.youtube.com/watch?v=sElE_BfQ67s"
   },
   {
     "dia": 58,
@@ -1332,7 +1389,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa, mi vida. Si hoy una canción te movió algún recuerdo, no tienes que resolverlo esta noche. Déjalo acompañarte un momento y luego duerme.",
     "cancionTitulo": "By Your Side",
     "cancionArtista": "Sade",
-    "youtubeId": "C8QJmI_V3j4"
+    "youtubeId": "C8QJmI_V3j4",
+    "cancionUrl": "https://www.youtube.com/watch?v=C8QJmI_V3j4"
   },
   {
     "dia": 59,
@@ -1355,7 +1413,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, corazón. Ojalá la música de mañana te encuentre de buen ánimo, pero si no, también puede acompañarte en los días más silenciosos.",
     "cancionTitulo": "Lost & Found",
     "cancionArtista": "Jorja Smith",
-    "youtubeId": "9xZ6P4Sinvw"
+    "youtubeId": "9xZ6P4Sinvw",
+    "cancionUrl": "https://www.youtube.com/watch?v=9xZ6P4Sinvw"
   },
   {
     "dia": 60,
@@ -1378,7 +1437,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses, amor. Mañana puedes volver a elegir tu ropa favorita y seguir siendo tú, sin explicaciones ni permisos.",
     "cancionTitulo": "good denim",
     "cancionArtista": "jalen chords",
-    "youtubeId": "_2Lnj5N9lCM"
+    "youtubeId": "_2Lnj5N9lCM",
+    "cancionUrl": "https://www.youtube.com/watch?v=_2Lnj5N9lCM"
   },
   {
     "dia": 61,
@@ -1401,7 +1461,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, bonita. Me gusta que tengas gustos tan tuyos, hasta en esas combinaciones pequeñas que a otra persona quizá ni se le ocurrirían.",
     "cancionTitulo": "I Want You Around",
     "cancionArtista": "Snoh Aalegra",
-    "youtubeId": "4976Fgvf5Ps"
+    "youtubeId": "4976Fgvf5Ps",
+    "cancionUrl": "https://www.youtube.com/watch?v=4976Fgvf5Ps"
   },
   {
     "dia": 62,
@@ -1424,7 +1485,8 @@ const CALENDARIO = [
     "buenasNoches": "Que duermas rico, mi vida. Ojalá mañana te llegue una sorpresa sencilla, de esas que no cuestan mucho pero te sacan una sonrisa sincera.",
     "cancionTitulo": "Kiss Of Life",
     "cancionArtista": "Sade",
-    "youtubeId": "MmOau-PMWJk"
+    "youtubeId": "MmOau-PMWJk",
+    "cancionUrl": "https://www.youtube.com/watch?v=MmOau-PMWJk"
   },
   {
     "dia": 63,
@@ -1447,7 +1509,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, corazón. No tienes que tener todos los planes resueltos; deja un poco de espacio para que la vida te sorprenda.",
     "cancionTitulo": "Three Little Birds",
     "cancionArtista": "Bob Marley & The Wailers",
-    "youtubeId": "HNBCVM4KbUM"
+    "youtubeId": "HNBCVM4KbUM",
+    "cancionUrl": "https://www.youtube.com/watch?v=HNBCVM4KbUM"
   },
   {
     "dia": 64,
@@ -1470,7 +1533,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa, amor. Si hoy te quedó una idea rondando la cabeza, mañana puedes darle una oportunidad. Esta noche no tienes que perseguirla por toda la habitación.",
     "cancionTitulo": "Tomorrow",
     "cancionArtista": "Jorja Smith",
-    "youtubeId": "zMC5-M15je0"
+    "youtubeId": "zMC5-M15je0",
+    "cancionUrl": "https://www.youtube.com/watch?v=zMC5-M15je0"
   },
   {
     "dia": 65,
@@ -1493,7 +1557,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, mi vida. Ojalá hoy te hayas reído con ganas; una risa genuina a veces es lo mejor que uno se lleva del día.",
     "cancionTitulo": "Let's Get It Started - Spike Mix",
     "cancionArtista": "Black Eyed Peas",
-    "youtubeId": "mRaQAdynxto"
+    "youtubeId": "mRaQAdynxto",
+    "cancionUrl": "https://www.youtube.com/watch?v=mRaQAdynxto"
   },
   {
     "dia": 66,
@@ -1516,7 +1581,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses, corazón. Hay canciones que se vuelven parte de nuestros recuerdos sin avisar. Quizá alguna de las tuyas esté guardando uno bonito para más adelante.",
     "cancionTitulo": "I Want You Around",
     "cancionArtista": "Snoh Aalegra",
-    "youtubeId": "4976Fgvf5Ps"
+    "youtubeId": "4976Fgvf5Ps",
+    "cancionUrl": "https://www.youtube.com/watch?v=4976Fgvf5Ps"
   },
   {
     "dia": 67,
@@ -1539,7 +1605,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, bonita. Ojalá hoy hayas podido elegir al menos una cosa a tu manera. No hace falta que todos entiendan cada gusto tuyo para que sea válido; basta con que tú puedas disfrutarlo en paz.",
     "cancionTitulo": "You Know How We Do It",
     "cancionArtista": "Ice Cube",
-    "youtubeId": "FXTh4XLm2VE"
+    "youtubeId": "FXTh4XLm2VE",
+    "cancionUrl": "https://www.youtube.com/watch?v=FXTh4XLm2VE"
   },
   {
     "dia": 68,
@@ -1562,7 +1629,8 @@ const CALENDARIO = [
     "buenasNoches": "Que duermas tranquila, mi vida. Acordarte de lo que alguien te cuenta es una manera preciosa de cuidar; y dejar que también se acuerden de ti lo es igual.",
     "cancionTitulo": "Best Part (feat. H.E.R.)",
     "cancionArtista": "Daniel Caesar; H.E.R.",
-    "youtubeId": "vBy7FaapGRo"
+    "youtubeId": "vBy7FaapGRo",
+    "cancionUrl": "https://www.youtube.com/watch?v=vBy7FaapGRo"
   },
   {
     "dia": 69,
@@ -1585,7 +1653,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, corazón. Ojalá hoy hayas podido decir lo que pensabas sin tener que esconderlo y también hayas encontrado a alguien que supiera escucharte.",
     "cancionTitulo": "Fui Silencio",
     "cancionArtista": "Sofía Gabanna; Jazzmind",
-    "youtubeId": "KV2ECDqPyuY"
+    "youtubeId": "KV2ECDqPyuY",
+    "cancionUrl": "https://www.youtube.com/watch?v=KV2ECDqPyuY"
   },
   {
     "dia": 70,
@@ -1608,7 +1677,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa, bonita. Tus ojos, tu sonrisa y esas pecas pueden esperar hasta mañana; esta noche no tienes que iluminarle el día a nadie. Solo descansar.",
     "cancionTitulo": "Best Part (feat. H.E.R.)",
     "cancionArtista": "Daniel Caesar; H.E.R.",
-    "youtubeId": "vBy7FaapGRo"
+    "youtubeId": "vBy7FaapGRo",
+    "cancionUrl": "https://www.youtube.com/watch?v=vBy7FaapGRo"
   },
   {
     "dia": 71,
@@ -1631,7 +1701,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, artista. No hace falta que todas tus ideas tengan nombre antes de dormir. Algunas pueden quedarse en borrador y seguir siendo buenas.",
     "cancionTitulo": "Aero-Soul",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "jk9S5ca0Oh0"
+    "youtubeId": "jk9S5ca0Oh0",
+    "cancionUrl": "https://www.youtube.com/watch?v=jk9S5ca0Oh0"
   },
   {
     "dia": 72,
@@ -1654,7 +1725,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses, amor. Ser cariñosa no significa callarte lo que importa; tu ternura y tu firmeza pueden ir de la mano.",
     "cancionTitulo": "No Está en Venta",
     "cancionArtista": "Alcolirykoz",
-    "youtubeId": "Se6Cd4sW3ks"
+    "youtubeId": "Se6Cd4sW3ks",
+    "cancionUrl": "https://www.youtube.com/watch?v=Se6Cd4sW3ks"
   },
   {
     "dia": 73,
@@ -1677,7 +1749,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, corazón. Si mañana toca café y correr, ojalá por lo menos tengas un minuto para respirar antes de que empiece la aventura.",
     "cancionTitulo": "Don't Know Why",
     "cancionArtista": "Norah Jones",
-    "youtubeId": "tO4dxvguQDk"
+    "youtubeId": "tO4dxvguQDk",
+    "cancionUrl": "https://www.youtube.com/watch?v=tO4dxvguQDk"
   },
   {
     "dia": 74,
@@ -1700,7 +1773,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, artista. Ojalá hoy algún color te haya regalado una idea, aunque todavía no sepas qué hacer con ella. No todas las inspiraciones tienen que convertirse en algo esta misma noche.",
     "cancionTitulo": "Kiss Of Life",
     "cancionArtista": "Sade",
-    "youtubeId": "MmOau-PMWJk"
+    "youtubeId": "MmOau-PMWJk",
+    "cancionUrl": "https://www.youtube.com/watch?v=MmOau-PMWJk"
   },
   {
     "dia": 75,
@@ -1723,7 +1797,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, bonita. Ojalá el día te haya dejado con ganas de repetir algo bonito: una charla, una comida, una película o una risa compartida.",
     "cancionTitulo": "By Your Side",
     "cancionArtista": "Sade",
-    "youtubeId": "C8QJmI_V3j4"
+    "youtubeId": "C8QJmI_V3j4",
+    "cancionUrl": "https://www.youtube.com/watch?v=C8QJmI_V3j4"
   },
   {
     "dia": 76,
@@ -1746,7 +1821,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses, corazón. Si mañana tus mascotas te reciben como si fueras la persona más importante del planeta, no discutas con ellas: por una vez, el drama está justificado.",
     "cancionTitulo": "Three Little Birds",
     "cancionArtista": "Bob Marley & The Wailers",
-    "youtubeId": "HNBCVM4KbUM"
+    "youtubeId": "HNBCVM4KbUM",
+    "cancionUrl": "https://www.youtube.com/watch?v=HNBCVM4KbUM"
   },
   {
     "dia": 77,
@@ -1769,7 +1845,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, Aleja. Que el año que se va no te obligue a hacer cuentas demasiado duras contigo misma. Guarda lo que te hizo bien, suelta un poco lo que pesó y date permiso de recibir el año nuevo sin tener que tenerlo todo resuelto.",
     "cancionTitulo": "I'll Be Seeing You",
     "cancionArtista": "Billie Holiday",
-    "youtubeId": "3C5zYKIuoxg"
+    "youtubeId": "3C5zYKIuoxg",
+    "cancionUrl": "https://www.youtube.com/watch?v=3C5zYKIuoxg"
   },
   {
     "dia": 78,
@@ -1792,6 +1869,7 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, corazón, y feliz primer día del año. Ojalá hoy hayas tenido un momento bonito, una risa sincera o una conversación que te haya hecho sentir cerca de tu gente. Que este año te dé espacio para crear, descansar, querer y dejarte querer. No hace falta que el primer día sea perfecto para que el año tenga cosas buenas por delante.",
     "cancionTitulo": "Freedom",
     "cancionArtista": "Pharrell Williams",
-    "youtubeId": "LlY90lG_Fuw"
+    "youtubeId": "LlY90lG_Fuw",
+    "cancionUrl": "https://www.youtube.com/watch?v=LlY90lG_Fuw"
   }
 ];
