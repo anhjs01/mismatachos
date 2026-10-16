@@ -189,7 +189,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "BLEEDING",
       "artista": "GIVĒON",
-      "youtubeId": "q2j8vC1T2xM"
+      "youtubeId": "7NCQ55HGOpU"
     },
     {
       "titulo": "KEEPER",
@@ -246,7 +246,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Keep Ya Head Up",
       "artista": "2Pac",
-      "youtubeId": "HfXwmDGJAB8"
+      "youtubeId": "36pJ8WrqUMQ"
     },
     {
       "titulo": "Hail Mary",
@@ -1418,7 +1418,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Leflaur Leflah Eshkoshka",
       "artista": "Heltah Skeltah",
-      "youtubeId": "SGiBau7CJqA"
+      "youtubeId": "KxkkWLi3yuI"
     },
     {
       "titulo": "Shimmy Shimmy Ya",
@@ -1558,7 +1558,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Street Talkin'",
       "artista": "Slick Rick;Outkast",
-      "youtubeId": "czRr7oIqwfA"
+      "youtubeId": "6u1Ps6ZlDxA"
     },
     {
       "titulo": "Word Iz Life",
