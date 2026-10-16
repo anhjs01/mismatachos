@@ -7,3 +7,33 @@
 .calendario-urbano .dia-nodo{border-radius:5px!important;border:1px solid #d8f07835;box-shadow:3px 3px 0 #e8498b33;transition:transform .2s,box-shadow .2s,border-color .2s}.calendario-urbano .dia-nodo:not(:disabled):hover{transform:translateY(-3px) rotate(-1deg);border-color:#d8f078;box-shadow:4px 5px 0 #21b8a988}.calendario-urbano .dia-nodo.esta-actual{border:2px solid #d8f078;box-shadow:4px 4px 0 #e8498b88}
 .calendario-urbano .modal-card{border-radius:6px;box-shadow:7px 7px 0 #e8498b88,0 20px 60px rgba(0,0,0,.55);background:linear-gradient(145deg,#211526f5,#0b1114f7)}.calendario-urbano .modal-title{font-style:normal;text-shadow:2px 2px 0 #e8498b55}.calendario-urbano .modal-chip{color:#d8f078}.calendario-urbano .modal-cancion{border-radius:4px;color:#d8f078;border-color:#d8f07866}.calendario-urbano .btn{border-radius:4px}.calendario-urbano .calendario-footer a{color:#d8f078;text-decoration-thickness:1px;text-underline-offset:4px}
 @media(prefers-reduced-motion:reduce){.calendario-urbano .dia-nodo{transition:none}}
+
+
+/* Sorpresa final: permanece oculta hasta completar los 78 días. */
+.calendario-urbano .sorpresa-final{max-width:780px;margin:2rem auto 1.5rem;color:#fff5f8}
+.calendario-urbano .sorpresa-final[hidden],.calendario-urbano .sorpresa-final__contenido[hidden]{display:none!important}
+.calendario-urbano .sorpresa-final__trigger{display:block;width:100%;padding:1rem 1.2rem;border:1px solid #d8f07888;border-radius:4px;background:linear-gradient(120deg,#251525,#102321);box-shadow:4px 4px 0 #e8498b66;color:#fbe0ea;font:600 1.15rem "Cormorant Garamond",Georgia,serif;cursor:pointer;transition:transform .2s,box-shadow .2s}
+.calendario-urbano .sorpresa-final__trigger:hover{transform:translateY(-2px);box-shadow:5px 6px 0 #21b8a988}
+.calendario-urbano .sorpresa-final__contenido{margin-top:1rem;padding:clamp(1.2rem,4vw,2.2rem);border:1px solid #e9a3bd66;border-radius:5px;background:linear-gradient(145deg,#211526f5,#0b1114f7);box-shadow:6px 6px 0 #e8498b55,0 20px 50px #0005;font-family:"Cormorant Garamond",Georgia,serif;font-size:1.17rem;line-height:1.75}
+.calendario-urbano .sorpresa-final__eyebrow{margin:0 0 .8rem;color:#d8f078;font:500 .65rem/1.6 "DM Mono",monospace;letter-spacing:.12em;text-transform:uppercase}
+.calendario-urbano .sorpresa-final__contenido h2{margin:0 0 1.2rem;color:#f6c5d9;font:600 clamp(1.8rem,5vw,2.7rem)/1.12 "Playfair Display",Georgia,serif}
+.calendario-urbano .sorpresa-final__contenido p{color:#eadde8}
+.calendario-urbano .sorpresa-final__subtitulo{margin:1.8rem 0 .4rem;color:#d8f078!important;font:500 .68rem/1.5 "DM Mono",monospace;letter-spacing:.12em;text-transform:uppercase}
+.calendario-urbano .sorpresa-final__cancion{margin:1.5rem 0;padding:1rem;border:1px solid #d8f07844;background:#100d17aa}
+.calendario-urbano .sorpresa-final__cancion-info{display:flex;align-items:center;gap:.8rem;margin-bottom:1rem}
+.calendario-urbano .sorpresa-final__nota{display:grid;place-items:center;width:2.7rem;height:2.7rem;background:#d8f078;color:#171019;font-size:1.5rem}
+.calendario-urbano .sorpresa-final__cancion-info strong,.calendario-urbano .sorpresa-final__cancion-info span{display:block}
+.calendario-urbano .sorpresa-final__cancion-info strong{color:#fff5f8;font:600 1.2rem "Playfair Display",Georgia,serif}
+.calendario-urbano .sorpresa-final__cancion-info div span{color:#c9b8c9;font-size:1rem}
+.calendario-urbano .sorpresa-final__video{position:relative;width:100%;aspect-ratio:16/9;background:#050307}
+.calendario-urbano .sorpresa-final__video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.calendario-urbano .sorpresa-final__ayuda{margin:.7rem 0 1rem;color:#bfaebe!important;font-size:1rem;font-style:italic}
+.calendario-urbano .sorpresa-final__momentos{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.7rem}
+.calendario-urbano .sorpresa-final__momentos a{display:block;padding:.9rem;border:1px solid #e9a3bd44;color:#eadde8;text-decoration:none;background:#e9a3bd0b;transition:border-color .2s,background .2s}
+.calendario-urbano .sorpresa-final__momentos a:hover{border-color:#d8f07899;background:#d8f0780b}
+.calendario-urbano .sorpresa-final__momentos strong,.calendario-urbano .sorpresa-final__momentos span{display:block}
+.calendario-urbano .sorpresa-final__momentos strong{margin-bottom:.3rem;color:#d8f078;font:500 .68rem "DM Mono",monospace}
+.calendario-urbano .sorpresa-final__momentos span{font-size:1rem;line-height:1.45}
+.calendario-urbano .sorpresa-final__cierre{margin-top:1.8rem!important;color:#f6c5d9!important;text-align:center;font-style:italic;font-size:1.3rem}
+@media(max-width:540px){.calendario-urbano .sorpresa-final__momentos{grid-template-columns:1fr}.calendario-urbano .sorpresa-final__contenido{font-size:1.1rem}}
+@media(prefers-reduced-motion:reduce){.calendario-urbano .sorpresa-final__trigger,.calendario-urbano .sorpresa-final__momentos a{transition:none}}
