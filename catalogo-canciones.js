@@ -1655,7 +1655,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Japanese Denim",
       "artista": "Daniel Caesar",
-      "youtubeId": "6OkneaH-eTA"
+      "youtubeId": "FG2PgVl0Nlc"
     },
     {
       "titulo": "La Noche y Tú",
