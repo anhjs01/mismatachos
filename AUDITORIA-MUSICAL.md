@@ -188,3 +188,26 @@ Criterios aplicados: arte y manualidades con acompañamiento instrumental/indie 
 - No se tocaron las repeticiones que todavía tienen una función temática clara (por ejemplo, “I'll Be Seeing You” al cerrar el año, o “Three Little Birds” en mensajes de tranquilidad y bienvenida de las mascotas).
 
 - Día 74: se cambió el texto floral repetido por una escena centrada en descubrir el azul turquesa y guardar inspiración para crear. Se conservó la canción porque el cambio fue de contenido, no una necesidad de reasignación musical.
+
+
+## Auditoría urgente de reproducción — 15 de octubre de 2026
+
+### Correcciones de identificadores confirmadas
+Se revisaron las 78 asignaciones del calendario. Hay 56 identificadores distintos; los días que repiten una canción comparten el mismo ID. Se corrigieron tres referencias que no correspondían a la grabación esperada o eran una variante distinta:
+
+- **Días 7 y 31 — Blue World, Mac Miller:** el ID anterior `aIHF7u9Wwiw` abre “Good News”, no “Blue World”. Se sustituyó por el video oficial del canal de Mac Miller: `_GC2wFTCAGY` (https://www.youtube.com/watch?v=_GC2wFTCAGY).
+- **Días 9 y 34 — Didn't Cha Know, Erykah Badu:** el ID anterior `b4fCymLkgOQ` no coincidía con la referencia oficial localizada. Se sustituyó por el video oficial de Erykah Badu: `Np21rH7Ldto` (https://www.youtube.com/watch?v=Np21rH7Ldto).
+- **Día 2 — On & On, Erykah Badu:** el ID anterior `-CPCs7vVz6s` correspondía a “On & On (Remix Edit)”. Se cambió al audio oficial del canal de Erykah Badu: `j-yh7sGQe2Q` (https://www.youtube.com/watch?v=j-yh7sGQe2Q).
+
+### Cambios de fiabilidad del reproductor
+- El reproductor ya no intenta reproducir canciones desde un iframe de 1 × 1 píxel oculto. YouTube documenta un tamaño mínimo de 200 × 200 píxeles para el reproductor insertado.
+- Al abrir un día, el video se muestra dentro de la tarjeta y el ID asignado se reproduce directamente.
+- Al cerrar la tarjeta, el reproductor se pausa y se oculta.
+- Si YouTube devuelve un error de reproducción, la interfaz muestra un enlace directo a ese mismo video. No sustituye silenciosamente la canción por otra.
+- Se agregó `cancionUrl` a los 78 días para que el acceso directo a YouTube esté disponible incluso si el navegador o la inserción bloquean la reproducción.
+
+### Alcance y limitaciones de la verificación
+- Las 78 asignaciones se contrastaron con el catálogo; después de los cambios, título, artista e ID deben coincidir exactamente.
+- Se comprobaron referencias de YouTube individualmente mediante páginas y búsquedas. Algunas consultas no devolvieron metadatos por límites de acceso o bloqueos temporales; eso **no** se considera prueba de que el video esté caído.
+- La disponibilidad de una página de video no garantiza que YouTube permita incrustarla en todos los dispositivos o regiones.
+- No se ha ejecutado una prueba de audio real dentro de GitHub Pages desde un navegador interactivo. La prueba final debe hacerse en el sitio publicado y en el dispositivo/navegador de entrega.
