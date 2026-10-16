@@ -114,6 +114,7 @@
         ? "¡Completaste los " + TOTAL_DIAS + " días! 🎉"
         : "Día " + actual + " de " + TOTAL_DIAS;
     barraRelleno.style.width = Math.round((completos / TOTAL_DIAS) * 100) + "%";
+    actualizarSorpresaFinal(progreso);
 
     grid.innerHTML = "";
     CALENDARIO.forEach((dia) => {
@@ -148,6 +149,39 @@
       grid.appendChild(nodo);
     });
   }
+
+  /* -----------------------------------------------------------------
+     2.5) SORPRESA SECRETA: solo se revela al completar los 78 días
+     ----------------------------------------------------------------- */
+  const sorpresaFinal = document.getElementById("sorpresaFinal");
+  const abrirSorpresaFinal = document.getElementById("abrirSorpresaFinal");
+  const contenidoSorpresaFinal = document.getElementById("sorpresaFinalContenido");
+
+  function actualizarSorpresaFinal(progreso) {
+    const todosCompletados = CALENDARIO.every((dia) => progreso.completados.includes(dia.dia));
+    sorpresaFinal.hidden = !todosCompletados;
+    if (!todosCompletados) {
+      contenidoSorpresaFinal.hidden = true;
+      abrirSorpresaFinal.setAttribute("aria-expanded", "false");
+      abrirSorpresaFinal.textContent = "✧ Hay algo más para ti, Aleja ✧";
+    }
+  }
+
+  abrirSorpresaFinal.addEventListener("click", () => {
+    const progreso = leerProgreso();
+    const todosCompletados = CALENDARIO.every((dia) => progreso.completados.includes(dia.dia));
+    if (!todosCompletados) {
+      actualizarSorpresaFinal(progreso);
+      return;
+    }
+    const abierto = abrirSorpresaFinal.getAttribute("aria-expanded") === "true";
+    abrirSorpresaFinal.setAttribute("aria-expanded", String(!abierto));
+    contenidoSorpresaFinal.hidden = abierto;
+    abrirSorpresaFinal.textContent = abierto
+      ? "✧ Hay algo más para ti, Aleja ✧"
+      : "♡ Una última cosa que quiero decirte ♡";
+    if (!abierto) contenidoSorpresaFinal.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
 
   /* -----------------------------------------------------------------
      3) MODAL DEL DÍA — con pasos (buenos días → mensaje → buenas noches)
