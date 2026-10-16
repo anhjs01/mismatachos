@@ -178,14 +178,6 @@
       });
     }
 
-    if (window.SorpresaReproductor) {
-      if (typeof window.SorpresaReproductor.reproducirDia === "function") {
-        window.SorpresaReproductor.reproducirDia(diaAbierto);
-      } else {
-        window.SorpresaReproductor.reproducirCategoria(diaAbierto.tono || "amor");
-      }
-    }
-
     card.style.setProperty("--card-principal", diaAbierto.color.principal);
     card.style.setProperty("--card-suave", diaAbierto.color.suave);
     card.style.setProperty("--card-oscuro", diaAbierto.color.oscuro);
@@ -198,6 +190,16 @@
 
     overlay.classList.add("is-open");
     overlay.setAttribute("aria-hidden", "false");
+
+    // Mostrar primero la tarjeta y luego solicitar el audio: así el iframe
+    // ya está visible cuando recibe la orden de reproducción del clic.
+    if (window.SorpresaReproductor) {
+      if (typeof window.SorpresaReproductor.reproducirDia === "function") {
+        window.SorpresaReproductor.reproducirDia(diaAbierto);
+      } else {
+        window.SorpresaReproductor.reproducirCategoria(diaAbierto.tono || "amor");
+      }
+    }
   }
 
   function renderPasos() {
