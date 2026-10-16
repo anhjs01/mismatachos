@@ -287,6 +287,9 @@
   function cerrarModal() {
     overlay.classList.remove("is-open");
     overlay.setAttribute("aria-hidden", "true");
+    if (window.SorpresaReproductor && typeof window.SorpresaReproductor.ocultarVideoDia === "function") {
+      window.SorpresaReproductor.ocultarVideoDia();
+    }
   }
 
   btnSiguiente.addEventListener("click", siguientePaso);
