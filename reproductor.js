@@ -6,14 +6,9 @@
    No necesitas editar este archivo. El contenido de las canciones vive
    en catalogo-canciones.js.
 
-   Por las reglas de los navegadores, la música solo puede empezar a
-   SONAR (con volumen) después de un clic. Para que arranque lo más
-   rápido posible apenas hay ese primer clic, el reproductor deja una
-   canción "precargada" en silencio desde que la página abre (los
-   navegadores sí permiten reproducir en silencio sin necesidad de
-   clic) — así, cuando llega el primer clic real, casi siempre solo
-   hace falta quitarle el silencio en vez de cargar la canción desde
-   cero, y suena casi al instante.
+   La canción del día se solicita tras el clic que abre su tarjeta. El
+   reproductor se muestra con tamaño suficiente y controles de YouTube;
+   no se intenta reproducir audio desde un iframe diminuto u oculto.
    ======================================================================= */
 
 (function () {
@@ -119,7 +114,13 @@
   function ocultarVideoDia() {
     if (player && apiLista && typeof player.pauseVideo === "function") player.pauseVideo();
     sonando = false;
-    if (elHost && document.getElementById("modalCard")) elHost.style.display = "none";
+    if (elHost && document.getElementById("modalCard")) {
+      elHost.style.display = "none";
+      if (elAviso) elAviso.hidden = true;
+      // No dejamos controles que puedan reanudar audio desde el reproductor oculto.
+      if (elBarra) elBarra.classList.remove("is-visible");
+      return;
+    }
     actualizarUI();
   }
 
