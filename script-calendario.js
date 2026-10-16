@@ -235,11 +235,6 @@
         html += '<p class="modal-detalle">' + d.detalle + "</p>";
       }
       if (d.cancionTitulo) { html += '<p class="modal-cancion">♫ ' + d.cancionTitulo + ' · ' + d.cancionArtista + '</p>'; }
-      if (d.cancionUrl) {
-        html +=
-          '<a class="modal-cancion" href="' + d.cancionUrl +
-          '" target="_blank" rel="noopener noreferrer">🎵 Canción de hoy</a>';
-      }
       elContenido.innerHTML = html;
       elDecoracion.textContent = "";
     } else {
