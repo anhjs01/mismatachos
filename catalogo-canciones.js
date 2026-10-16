@@ -1615,7 +1615,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Ring My Bell",
       "artista": "Anita Ward",
-      "youtubeId": "URAqnM1PP5E"
+      "youtubeId": "r1UkZLT20TI"
     },
     {
       "titulo": "Freedom",
@@ -1655,7 +1655,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Japanese Denim",
       "artista": "Daniel Caesar",
-      "youtubeId": "FG2PgVl0Nlc"
+      "youtubeId": "6OkneaH-eTA"
     },
     {
       "titulo": "La Noche y Tú",
@@ -1765,7 +1765,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "I Want You Around",
       "artista": "Snoh Aalegra",
-      "youtubeId": "4976Fgvf5Ps"
+      "youtubeId": "WdyPcNEA27M"
     },
     {
       "titulo": "By Your Side",
