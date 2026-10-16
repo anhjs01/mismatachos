@@ -926,7 +926,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Loose",
       "artista": "Daniel Caesar",
-      "youtubeId": "gRL_PCOPF-A"
+      "youtubeId": "46uADUAzt0k"
     },
     {
       "titulo": "Passin' Me By",
@@ -1276,7 +1276,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Party's Goin' On",
       "artista": "Shyheim",
-      "youtubeId": "2A-ePsv8_SE"
+      "youtubeId": "0rvirkTyJ8k"
     },
     {
       "titulo": "Shouts On The Outs (Interlude)",
@@ -1558,7 +1558,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Street Talkin'",
       "artista": "Slick Rick;Outkast",
-      "youtubeId": "eU2gDqf8pWQ"
+      "youtubeId": "czRr7oIqwfA"
     },
     {
       "titulo": "Word Iz Life",
@@ -1567,8 +1567,8 @@ const CATALOGO_CANCIONES = {
     },
     {
       "titulo": "Streiht Up Menace",
-      "artista": "Compton's Most Wanted",
-      "youtubeId": "j4x2Y2QvQ4A"
+      "artista": "MC Eiht",
+      "youtubeId": "sJmuseO04SQ"
     },
     {
       "titulo": "Camino de Tu Ombligo",
