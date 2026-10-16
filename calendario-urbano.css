@@ -37,3 +37,25 @@
 .calendario-urbano .sorpresa-final__cierre{margin-top:1.8rem!important;color:#f6c5d9!important;text-align:center;font-style:italic;font-size:1.3rem}
 @media(max-width:540px){.calendario-urbano .sorpresa-final__momentos{grid-template-columns:1fr}.calendario-urbano .sorpresa-final__contenido{font-size:1.1rem}}
 @media(prefers-reduced-motion:reduce){.calendario-urbano .sorpresa-final__trigger,.calendario-urbano .sorpresa-final__momentos a{transition:none}}
+
+
+/* Ajuste de alineación del botón secreto y su contenedor. */
+body.calendario-urbano .sorpresa-final{
+  display:block;
+  box-sizing:border-box;
+  width:min(780px, calc(100% - 2rem));
+  max-width:780px;
+  margin:2rem auto 1.5rem!important;
+  justify-self:center;
+  grid-column:1 / -1;
+  position:relative;
+  left:auto;
+  right:auto;
+}
+body.calendario-urbano .sorpresa-final__trigger{
+  box-sizing:border-box;
+  width:100%;
+  margin-inline:auto;
+  text-align:center;
+}
+body.calendario-urbano .sorpresa-final[hidden]{display:none!important}
