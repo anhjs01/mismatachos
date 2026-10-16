@@ -211,3 +211,8 @@ Se revisaron las 78 asignaciones del calendario. Hay 56 identificadores distinto
 - Se comprobaron referencias de YouTube individualmente mediante páginas y búsquedas. Algunas consultas no devolvieron metadatos por límites de acceso o bloqueos temporales; eso **no** se considera prueba de que el video esté caído.
 - La disponibilidad de una página de video no garantiza que YouTube permita incrustarla en todos los dispositivos o regiones.
 - No se ha ejecutado una prueba de audio real dentro de GitHub Pages desde un navegador interactivo. La prueba final debe hacerse en el sitio publicado y en el dispositivo/navegador de entrega.
+
+
+### Corrección adicional tras contraste de enlaces
+- **Día 24 — Humo, Rupatrupa:** cambié `Gxar3fueK2U`, cuya correspondencia no pude corroborar con resultados fiables, por `Vs8EsCVEpsI`, citado específicamente como **“Rupatrupa — Humo (SDMA)”** en la lista musical del episodio 79 de ElPrograMon (https://www.ivoox.com/programon-79-audios-mp3_rf_22360539_1.html). El título y artista del enlace de respaldo se han sincronizado también en el catálogo.
+
