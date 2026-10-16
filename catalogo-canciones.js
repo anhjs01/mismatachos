@@ -229,7 +229,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Is This Love",
       "artista": "Bob Marley & The Wailers",
-      "youtubeId": "CHekNnySAfM"
+      "youtubeId": "69RdQFDuYPI"
     }
   ],
   "filosofica": [
@@ -251,7 +251,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Hail Mary",
       "artista": "2Pac",
-      "youtubeId": "nkJA6SYwa94"
+      "youtubeId": "x9bPGZIBt7Y"
     },
     {
       "titulo": "Insane in the Brain",
@@ -1111,7 +1111,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Pétalos",
       "artista": "Charles Ans",
-      "youtubeId": "pD9y7gqK9wQ"
+      "youtubeId": "iJlNo35zDeY"
     },
     {
       "titulo": "November Has Come",
@@ -1548,7 +1548,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Come Clean - E New Y Radio",
       "artista": "Jeru The Damaja",
-      "youtubeId": "M48nlk-1X9o"
+      "youtubeId": "pzJnltNrtsI"
     },
     {
       "titulo": "Fall In Love",
