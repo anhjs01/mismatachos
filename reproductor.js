@@ -26,7 +26,6 @@
   let sonando = false;
   let elHost = null;
   let elAviso = null;
-  let elBarra = null;
 
   /* -----------------------------------------------------------------
      1) CARGAR LA API DE YOUTUBE (una sola vez, lo antes posible)
