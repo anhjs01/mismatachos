@@ -1595,7 +1595,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "On & On",
       "artista": "Erykah Badu",
-      "youtubeId": "-CPCs7vVz6s"
+      "youtubeId": "j-yh7sGQe2Q"
     },
     {
       "titulo": "Shoop",
@@ -1625,12 +1625,12 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Blue World",
       "artista": "Mac Miller",
-      "youtubeId": "aIHF7u9Wwiw"
+      "youtubeId": "_GC2wFTCAGY"
     },
     {
       "titulo": "Didn't Cha Know",
       "artista": "Erykah Badu",
-      "youtubeId": "b4fCymLkgOQ"
+      "youtubeId": "Np21rH7Ldto"
     },
     {
       "titulo": "Let's Get It Started - Spike Mix",
