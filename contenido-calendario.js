@@ -237,8 +237,8 @@ const CALENDARIO = [
     "buenasNoches": "Descansa cómoda, a tu manera y sin pedir permiso. Ojalá mañana te despiertes sintiéndote tan tú como cuando eliges ponerte lo que te gusta.",
     "cancionTitulo": "Japanese Denim",
     "cancionArtista": "Daniel Caesar",
-    "youtubeId": "FG2PgVl0Nlc",
-    "cancionUrl": "https://www.youtube.com/watch?v=FG2PgVl0Nlc"
+    "youtubeId": "6OkneaH-eTA",
+    "cancionUrl": "https://www.youtube.com/watch?v=6OkneaH-eTA"
   },
   {
     "dia": 11,
@@ -261,8 +261,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses, amor. Si hoy tuviste uno de esos antojos que te arreglan el ánimo, espero que lo hayas disfrutado; si no, queda pendiente para otro día.",
     "cancionTitulo": "I Want You Around",
     "cancionArtista": "Snoh Aalegra",
-    "youtubeId": "4976Fgvf5Ps",
-    "cancionUrl": "https://www.youtube.com/watch?v=4976Fgvf5Ps"
+    "youtubeId": "WdyPcNEA27M",
+    "cancionUrl": "https://www.youtube.com/watch?v=WdyPcNEA27M"
   },
   {
     "dia": 12,
@@ -861,8 +861,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses, corazón. Espero que mañana puedas darte ese gusto que te encanta, con su mezcla exacta y sin que nadie intente corregirte la receta.",
     "cancionTitulo": "Ring My Bell",
     "cancionArtista": "Anita Ward",
-    "youtubeId": "URAqnM1PP5E",
-    "cancionUrl": "https://www.youtube.com/watch?v=URAqnM1PP5E"
+    "youtubeId": "r1UkZLT20TI",
+    "cancionUrl": "https://www.youtube.com/watch?v=r1UkZLT20TI"
   },
   {
     "dia": 37,
@@ -1461,8 +1461,8 @@ const CALENDARIO = [
     "buenasNoches": "Buenas noches, bonita. Me gusta que tengas gustos tan tuyos, hasta en esas combinaciones pequeñas que a otra persona quizá ni se le ocurrirían.",
     "cancionTitulo": "I Want You Around",
     "cancionArtista": "Snoh Aalegra",
-    "youtubeId": "4976Fgvf5Ps",
-    "cancionUrl": "https://www.youtube.com/watch?v=4976Fgvf5Ps"
+    "youtubeId": "WdyPcNEA27M",
+    "cancionUrl": "https://www.youtube.com/watch?v=WdyPcNEA27M"
   },
   {
     "dia": 62,
@@ -1581,8 +1581,8 @@ const CALENDARIO = [
     "buenasNoches": "Que descanses, corazón. Hay canciones que se vuelven parte de nuestros recuerdos sin avisar. Quizá alguna de las tuyas esté guardando uno bonito para más adelante.",
     "cancionTitulo": "I Want You Around",
     "cancionArtista": "Snoh Aalegra",
-    "youtubeId": "4976Fgvf5Ps",
-    "cancionUrl": "https://www.youtube.com/watch?v=4976Fgvf5Ps"
+    "youtubeId": "WdyPcNEA27M",
+    "cancionUrl": "https://www.youtube.com/watch?v=WdyPcNEA27M"
   },
   {
     "dia": 67,
