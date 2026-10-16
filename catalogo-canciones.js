@@ -104,7 +104,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "The One",
       "artista": "Jorja Smith",
-      "youtubeId": "80J2YroXH3g"
+      "youtubeId": "f4XVdNE0Kxc"
     },
     {
       "titulo": "On Your Own",
