@@ -156,6 +156,7 @@
   const sorpresaFinal = document.getElementById("sorpresaFinal");
   const abrirSorpresaFinal = document.getElementById("abrirSorpresaFinal");
   const contenidoSorpresaFinal = document.getElementById("sorpresaFinalContenido");
+  const videoSorpresaFinal = document.getElementById("sorpresaFinalVideo");
 
   function actualizarSorpresaFinal(progreso) {
     const todosCompletados = CALENDARIO.every((dia) => progreso.completados.includes(dia.dia));
@@ -180,7 +181,15 @@
     abrirSorpresaFinal.textContent = abierto
       ? "✧ Hay algo más para ti, Aleja ✧"
       : "♡ Una última cosa que quiero decirte ♡";
-    if (!abierto) contenidoSorpresaFinal.scrollIntoView({ behavior: "smooth", block: "start" });
+
+    if (abierto) {
+      // Al cerrar la sorpresa detenemos el audio; al volver a abrirla empieza desde el momento elegido.
+      videoSorpresaFinal.src = "about:blank";
+    } else {
+      // El clic explícito inicia el reproductor con autoplay, respetando las restricciones del navegador.
+      videoSorpresaFinal.src = videoSorpresaFinal.dataset.src;
+      contenidoSorpresaFinal.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
   });
 
   /* -----------------------------------------------------------------
