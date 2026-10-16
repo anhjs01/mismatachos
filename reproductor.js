@@ -112,15 +112,20 @@
   }
 
   function ocultarVideoDia() {
-    if (player && apiLista && typeof player.pauseVideo === "function") player.pauseVideo();
-    sonando = false;
-    if (elHost && document.getElementById("modalCard")) {
+    const esCalendario = !!(elHost && document.getElementById("modalCard"));
+    if (esCalendario) {
+      // Ignora los eventos de pausa que lleguen después del cierre y evita
+      // que la barra vuelva a ofrecer "reanudar" un video ya oculto.
+      cancionActual = null;
+      if (player && apiLista && typeof player.pauseVideo === "function") player.pauseVideo();
+      sonando = false;
       elHost.style.display = "none";
       if (elAviso) elAviso.hidden = true;
-      // No dejamos controles que puedan reanudar audio desde el reproductor oculto.
       if (elBarra) elBarra.classList.remove("is-visible");
       return;
     }
+    if (player && apiLista && typeof player.pauseVideo === "function") player.pauseVideo();
+    sonando = false;
     actualizarUI();
   }
 
