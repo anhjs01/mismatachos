@@ -156,7 +156,13 @@
   const sorpresaFinal = document.getElementById("sorpresaFinal");
   const abrirSorpresaFinal = document.getElementById("abrirSorpresaFinal");
   const contenidoSorpresaFinal = document.getElementById("sorpresaFinalContenido");
-  const videoSorpresaFinal = document.getElementById("sorpresaFinalVideo");
+  const CANCION_SORPRESA_FINAL = {
+    dia: 79,
+    tono: "amor",
+    youtubeId: "vBy7FaapGRo",
+    cancionTitulo: "Best Part",
+    cancionArtista: "Daniel Caesar ft. H.E.R."
+  };
 
   function actualizarSorpresaFinal(progreso) {
     const todosCompletados = CALENDARIO.every((dia) => progreso.completados.includes(dia.dia));
@@ -182,12 +188,12 @@
       ? "✧ Hay algo más para ti, Aleja ✧"
       : "♡ Una última cosa que quiero decirte ♡";
 
-    if (abierto) {
-      // Al cerrar la sorpresa detenemos el audio; al volver a abrirla empieza desde el momento elegido.
-      videoSorpresaFinal.src = "about:blank";
-    } else {
-      // El clic explícito inicia el reproductor con autoplay, respetando las restricciones del navegador.
-      videoSorpresaFinal.src = videoSorpresaFinal.dataset.src;
+    if (!abierto) {
+      // Usamos el mismo reproductor global que se activa al abrir cualquier día,
+      // para que la canción suene por la barra musical habitual del calendario.
+      if (window.SorpresaReproductor && typeof window.SorpresaReproductor.reproducirDia === "function") {
+        window.SorpresaReproductor.reproducirDia(CANCION_SORPRESA_FINAL);
+      }
       contenidoSorpresaFinal.scrollIntoView({ behavior: "smooth", block: "start" });
     }
   });
