@@ -1730,7 +1730,7 @@ const CATALOGO_CANCIONES = {
     {
       "titulo": "Humo",
       "artista": "Rupatrupa",
-      "youtubeId": "Gxar3fueK2U"
+      "youtubeId": "Vs8EsCVEpsI"
     },
     {
       "titulo": "Rara Bien",
