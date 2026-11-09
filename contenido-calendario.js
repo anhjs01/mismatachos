@@ -1229,21 +1229,21 @@ const CALENDARIO = [
     "dia": 52,
     "fecha": "2026-12-06",
     "fechaTexto": "dom, 6 de dic",
-    "categoria": "Un poema sin pedir respuesta",
+    "categoria": "Los pequeños gustos que mejoran un día",
     "icono": "☕️",
-    "tono": "romantico_sutil",
+    "tono": "cercano",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Hay personas que llegan a la rutina sin hacer ruido y, aun así, consiguen que ciertos momentos tengan otro color. No siempre hace falta explicar por qué; a veces basta con reconocerlo.",
+    "buenosDias": "Hay días que no necesitan un acontecimiento enorme para sentirse buenos. A veces basta con el primer sorbo de café, una canción que aparece justo a tiempo, una brisa agradable o encontrar un ratito de calma en medio del movimiento.",
     "poema": [
-      "No quiero llenar cada día de grandes palabras ni convertir cada gesto en una promesa. Me gusta más la idea de conocerte en lo sencillo: tus ocurrencias, tus silencios, tus gustos y esa manera tuya de mirar las cosas.",
-      "Si algo bonito está creciendo, prefiero que tenga espacio para hacerlo a su ritmo. Sin adivinar el final, pero sin fingir que la curiosidad no existe."
+      "Me parece bonito que cada persona tenga sus pequeños rituales: esos detalles que quizá para los demás pasan desapercibidos, pero que a uno le acomodan el día. Puede ser el olor de algo rico, una bebida preparada como le gusta, una luz bonita entrando por la ventana o ese instante en que por fin puede respirar sin mirar el reloj.",
+      "De ti ya conozco algunos gustos, como ese tinto sin azúcar que disfrutas. Pero seguro hay muchos otros detalles que todavía no conozco y que hacen que un día común se sienta más tuyo. Me gustaría descubrirlos sin convertirlos en una lista que haya que completar."
     ],
-    "detalle": "Pregunta para guardar: ¿qué pequeño momento te hace sentir que un día valió la pena? Puede ser algo tan simple como una canción, una conversación o un lugar al que quisieras volver.",
-    "buenasNoches": "Que descanses. Ojalá hoy te haya quedado algún momento bonito para recordar. No hace falta ponerle nombre a todo; algunas cosas se disfrutan mejor mientras van tomando forma.",
+    "detalle": "Te dejo una pregunta sencilla: ¿cuáles son esos dos o tres detalles pequeños que casi siempre consiguen mejorar tu día? Yo te cuento los míos también. Tal vez descubramos algún gusto en común o alguno que podamos compartir cuando se presente la ocasión.",
+    "buenasNoches": "Buenas noches. Ojalá hoy hayas encontrado aunque fuera uno de esos pequeños placeres que hacen más amable la rutina. A veces el día no cambia por completo; basta con que tenga un momento que se sienta nuestro.",
     "cancionTitulo": "I'll Be Seeing You",
     "cancionArtista": "Billie Holiday",
     "youtubeId": "3C5zYKIuoxg",
