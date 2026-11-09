@@ -1525,21 +1525,22 @@ const CALENDARIO = [
     "dia": 64,
     "fecha": "2026-12-18",
     "fechaTexto": "vie, 18 de dic",
-    "categoria": "Una locura que todavía no hemos inventado",
+    "categoria": "Tus aventuras también tienen un lugar aquí",
     "icono": "💥",
-    "tono": "jugueton",
+    "tono": "aventurero_complice",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Tengo una sospecha: contigo una tarde cualquiera puede terminar convertida en una anécdota que no estaba en los planes. Y, sinceramente, esa posibilidad me gusta.",
+    "buenosDias": "Hay personas que tienen una lista de planes y otras que, de pronto, dicen «¿y si hacemos algo diferente?». Me gusta que tengas esa parte capaz de imaginar aventuras y salir un poquito de la rutina. No quiero apagar esa chispa; quiero conocer las ideas que te emocionan y descubrir cuáles podemos convertir en una buena historia.",
     "poema": [
-      "Si un día apareces con una idea espontánea, de esas que empiezan con «se me ocurrió algo», quiero escucharla antes de preguntar por todos los detalles. Puede ser cambiar el rumbo de un paseo, vestirnos de una forma inesperada o probar algo nuevo que nos dé risa.",
-      "No quiero decir que sí a todo sin pensar; quiero decir que no voy a descartar tus ocurrencias solo porque no estaban en mi agenda. Si nos entusiasma a los dos y podemos hacerlo con tranquilidad, busquemos la manera."
+      "Si un día llegas con una ocurrencia inesperada, quiero escucharla antes de descartarla por no estar en el plan. Puede ser conocer un lugar nuevo, probar una actividad que nunca hemos hecho, cambiar el rumbo de una tarde o preparar una escapada cuando tengamos tiempo.",
+      "Eso sí: acompañarte no significa decir que sí a cualquier cosa sin pensar. También quiero que cuidemos nuestra tranquilidad, el presupuesto, los tiempos y la seguridad. Si una idea no se puede hacer tal como nació, podemos buscar otra manera; y si algo no nos convence a alguno, está bien decirlo.",
+      "Me gusta más la idea de ser cómplices para explorar que la de prometer aventuras imposibles. Que podamos proponer, preguntar, negociar y elegir entre los dos."
     ],
-    "detalle": "Hoy te dejo una pregunta sin opciones: ¿qué locura pequeña te gustaría hacer algún día y con quién te gustaría compartirla? Yo tengo varias ideas, pero esta vez quiero escuchar la tuya primero.",
-    "buenasNoches": "Que descanses, Aleja. Me gusta esa parte tuya que se permite imaginar planes fuera de lo común. Ojalá sigamos encontrando ideas que nos hagan reír y que, de vez en cuando, terminemos convirtiendo en recuerdos.",
+    "detalle": "Quiero que hoy me cuentes una aventura que te gustaría vivir, grande o pequeña. Puede ser algo que llevas tiempo queriendo probar o una ocurrencia que se te acaba de cruzar. Yo te diré qué me entusiasma de la idea y cómo podríamos hacerla posible. Después buscamos una versión que nos funcione a ambos, sin presión y sin convertir cada propuesta en una obligación. Esta vez tu imaginación abre el plan.",
+    "buenasNoches": "Buenas noches. No pierdas las ganas de descubrir cosas nuevas ni de proponer planes poco convencionales. Me gustaría acompañarte en muchas de esas aventuras, con entusiasmo y también con cuidado, para que lo que compartamos se sienta libre, bonito y seguro para los dos.",
     "cancionTitulo": "Tomorrow",
     "cancionArtista": "Jorja Smith",
     "youtubeId": "zMC5-M15je0",
