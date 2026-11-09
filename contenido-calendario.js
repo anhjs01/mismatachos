@@ -1588,21 +1588,21 @@ const CALENDARIO = [
     "dia": 67,
     "fecha": "2026-12-21",
     "fechaTexto": "lun, 21 de dic",
-    "categoria": "Saber lo que te gusta también cuenta",
+    "categoria": "El menú secreto de una tarde",
     "icono": "🍜",
-    "tono": "amor",
+    "tono": "juego",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hay algo muy tuyo en saber qué te gusta y decirlo sin demasiadas vueltas. Ojalá hoy puedas elegir lo que te hace bien sin tener que convertir cada preferencia en una explicación larga.",
+    "buenosDias": "Hoy vamos a diseñar una tarde sin decidir todavía cuándo hacerla. Cada uno escoge una parte del menú: un lugar, algo para comer y una actividad. Después juntamos las elecciones y vemos qué clase de plan aparece.",
     "poema": [
-      "No todo gusto necesita convencer a un jurado. A veces sabes qué te provoca, qué te incomoda o cómo prefieres las cosas, y eso basta para empezar. Escucharte también es una forma de tratarte con cariño.",
-      "Me gusta la idea de que puedas decir «así me gusta» con tranquilidad, sin sentir que tienes que disculparte por cada detalle. Y si alguien propone otra cosa, siempre se puede conversar; lo importante es que tu voz también tenga sitio."
+      "Tú podrías escoger un parque o una cafetería pequeña; yo podría proponer pintar algo, decorar una maceta o simplemente caminar hasta encontrar un rincón bonito.",
+      "Lo divertido es que ninguna de las dos versiones queda completa por sí sola. El plan final sale de mezclar lo que se le ocurrió a cada uno."
     ],
-    "detalle": "Hoy fíjate en una preferencia pequeña que suelas defender: cómo te gusta el café, qué ropa te resulta cómoda o qué detalle te hace sentir a gusto. No tienes que justificarla ante nadie; conocer lo que te gusta también te ayuda a cuidar tu propio espacio.",
-    "buenasNoches": "Buenas noches, bonita. Ojalá hoy hayas podido elegir al menos una cosa a tu manera. No hace falta que todos entiendan cada gusto tuyo para que sea válido; basta con que tú puedas disfrutarlo en paz.",
+    "detalle": "Tu turno: elige el lugar y la actividad. Yo pongo la comida o el antojo. Si nuestras elecciones no combinan, tenemos que inventar una solución creativa, no cancelar el plan.",
+    "buenasNoches": "Buenas noches. Me gustó imaginar esa tarde hecha con dos ideas distintas. A veces el mejor plan no lo trae nadie listo: lo construimos entre los dos.",
     "cancionTitulo": "You Know How We Do It",
     "cancionArtista": "Ice Cube",
     "youtubeId": "FXTh4XLm2VE",
@@ -1612,21 +1612,21 @@ const CALENDARIO = [
     "dia": 68,
     "fecha": "2026-12-22",
     "fechaTexto": "mar, 22 de dic",
-    "categoria": "Escuchar es recordar la diferencia",
+    "categoria": "Una pregunta que no sale en cualquier conversación",
     "icono": "🫙",
-    "tono": "filosofica",
+    "tono": "curiosidad",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Hay detalles que uno recuerda porque escuchó de verdad, no porque estuviera intentando memorizar una lista. También me acordé de Geto, uno de tus personajes favoritos de Jujutsu Kaisen; me da curiosidad qué parte de su historia te interesa más.",
+    "buenosDias": "Pregunta inesperada para hoy: si pudieras aprender una habilidad en una sola tarde, ¿cuál escogerías? Puede ser algo útil, artístico o completamente inútil, pero impresionante.",
     "poema": [
-      "Quiero seguir aprendiendo tus pequeños detalles sin dar por hecho que ya lo sé todo de ti. Las personas cambian de antojo, de canción favorita y de opinión; lo bonito es seguir preguntando.",
-      "Así que cuéntame, corazón, corrígeme y sorpréndeme. Conocerte no debería sentirse como terminar una tarea, sino como abrir un libro que todavía tiene páginas nuevas."
+      "Me da curiosidad saber qué elegirías y qué harías primero con esa habilidad. Quizá pintarías algo enorme, prepararías un plato perfecto o aprenderías un truco para ganar cualquier juego de mesa.",
+      "Después me toca responder a mí, y puedes juzgar mi elección con toda la severidad que consideres necesaria."
     ],
-    "detalle": "Cuando alguien te cuente algo importante, intenta recordar ese detalle después. También me acordé de Geto, uno de tus personajes favoritos de Jujutsu Kaisen; me da curiosidad qué parte de su historia te gusta más. A veces, preguntar por algo que le importa a alguien es otra forma de escuchar de verdad.",
-    "buenasNoches": "Que duermas tranquila, mi vida. Acordarte de lo que alguien te cuenta es una manera preciosa de cuidar; y dejar que también se acuerden de ti lo es igual.",
+    "detalle": "Respóndeme con tu habilidad elegida y una cosa que harías con ella. Luego pregúntame cuál escogería yo. No vale responder «todo»; hay que decidir una sola.",
+    "buenasNoches": "Que descanses. Me quedo con la habilidad que escogiste y con todas las cosas que podrías hacer si la tuvieras. A veces una pregunta sencilla revela ideas inesperadas.",
     "cancionTitulo": "Best Part (feat. H.E.R.)",
     "cancionArtista": "Daniel Caesar; H.E.R.",
     "youtubeId": "vBy7FaapGRo",
@@ -1636,21 +1636,21 @@ const CALENDARIO = [
     "dia": 69,
     "fecha": "2026-12-23",
     "fechaTexto": "mié, 23 de dic",
-    "categoria": "Una conversación que encuentra su camino",
+    "categoria": "Una mesa para crear algo juntos",
     "icono": "🍇",
-    "tono": "amor",
+    "tono": "creativo",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Ojalá hoy tengas una conversación donde puedas hablar como eres: con tus gestos, tus cambios de tema, tus risas y también tus opiniones firmes. No necesitas editarte para caer bien.",
+    "buenosDias": "Se me ocurre una tarde de creatividad sin presión: buscar una mesa, sacar pinturas, marcadores o materiales sencillos y crear una pieza entre los dos. Cada uno empieza una parte y luego intercambiamos el trabajo.",
     "poema": [
-      "A veces el silencio también cae bien cuando no hay presión por llenarlo. Puedes estar hablando de cualquier cosa, mirar por la ventana un momento y volver al tema como si nada.",
-      "Me gustan esas charlas, amor. Las que no se sienten como una entrevista ni como una obligación, sino como un lugarcito donde da gusto quedarse."
+      "Tú puedes comenzar con los colores y yo continuar con las formas; después cambiamos y dejamos que el otro intervenga. El resultado quizá no siga ningún estilo, pero tendría algo de ambos.",
+      "Me gusta la idea de no saber exactamente cómo va a terminar. A veces crear juntos consiste en confiar un poquito en la ocurrencia del otro."
     ],
-    "detalle": "Si una charla se pone seria, puedes ser tierna sin dejar de decir lo que piensas. Me gusta esa combinación: palabras cuidadosas, pero una idea clara que no se esconde detrás de adornos.",
-    "buenasNoches": "Buenas noches, corazón. Ojalá hoy hayas podido decir lo que pensabas sin tener que esconderlo y también hayas encontrado a alguien que supiera escucharte.",
+    "detalle": "Escoge el formato: una postal, un pequeño lienzo o una hoja grande para hacer un dibujo compartido. Yo propongo que cada uno añada un detalle sorpresa que el otro tenga que integrar.",
+    "buenasNoches": "Buenas noches. Ojalá algún día hagamos esa pieza compartida y terminemos preguntándonos cómo llegamos a ese resultado. No tiene que ser perfecta para quedarse con nosotros.",
     "cancionTitulo": "Fui Silencio",
     "cancionArtista": "Sofía Gabanna; Jazzmind",
     "youtubeId": "KV2ECDqPyuY",
@@ -1660,21 +1660,21 @@ const CALENDARIO = [
     "dia": 70,
     "fecha": "2026-12-24",
     "fechaTexto": "jue, 24 de dic",
-    "categoria": "La luz que cambia tus ojos",
+    "categoria": "Una Navidad hecha de pequeños gestos",
     "icono": "👀",
-    "tono": "amor",
+    "tono": "tierno",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Hoy me fijé en un detalle muy tuyo: tus ojos cafés, las pecas que se notan más cuando sonríes y esa expresión espontánea que hace difícil no sonreír también. Solo quería dejarte el cumplido, sin pedirte nada a cambio.",
+    "buenosDias": "Feliz Nochebuena. Ojalá hoy tengas cerca a las personas que te hacen bien, algo rico para compartir y un momento de calma entre los planes y el movimiento de estas fechas.",
     "poema": [
-      "Es un detalle precioso, mi vida. No porque tengas que verte de cierta forma, sino porque cuando sonríes aparece una versión de tu cara que se siente muy tuya, espontánea y difícil de olvidar.",
-      "Guárdate este piropo para cuando el día esté medio gris: tienes una sonrisa que merece salir muchas veces y unas pecas que parecen esperar justo ese momento para hacerse notar."
+      "No todo lo especial tiene que ser un regalo grande. A veces una nota, una flor, una conversación tranquila o que alguien recuerde cómo te gusta el café puede hacerte sentir tenida en cuenta.",
+      "Te deseo una noche bonita, con espacio para reír, descansar y disfrutar a tu manera. Y si aparece un deseo para el año que viene, ojalá te ilusione de verdad."
     ],
-    "detalle": "Si hoy te da el sol en los ojos y se ven más cálidos, ojalá alguien tenga la suerte de notarlo. Y si sonríes y aparecen tus pecas, bueno, que esa persona intente continuar la conversación con normalidad.",
-    "buenasNoches": "Descansa, bonita. Tus ojos, tu sonrisa y esas pecas pueden esperar hasta mañana; esta noche no tienes que iluminarle el día a nadie. Solo descansar.",
+    "detalle": "Juego navideño: piensa en un regalo que no se pueda envolver —un viaje, una tarde libre, aprender algo, una conversación pendiente—. Si quieres, cuéntame cuál elegirías y yo te digo el mío.",
+    "buenasNoches": "Que tengas una Nochebuena cálida y tranquila. Ojalá te quede un recuerdo bonito de hoy, incluso si es uno pequeño que nadie más notó.",
     "cancionTitulo": "Best Part (feat. H.E.R.)",
     "cancionArtista": "Daniel Caesar; H.E.R.",
     "youtubeId": "vBy7FaapGRo",
@@ -1684,21 +1684,21 @@ const CALENDARIO = [
     "dia": 71,
     "fecha": "2026-12-25",
     "fechaTexto": "vie, 25 de dic",
-    "categoria": "Improvisar también es crear",
+    "categoria": "Un deseo que podamos convertir en plan",
     "icono": "🧶",
-    "tono": "filosofica",
+    "tono": "esperanzador",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Crear también es dejar que una idea cambie. Puedes empezar con un color, una forma o un pedazo de barro y descubrir después qué querías hacer; no todo tiene que aparecer claro desde el principio.",
+    "buenosDias": "Feliz Navidad. Hoy no te voy a dejar una lista de propósitos; prefiero una pregunta: ¿qué experiencia te gustaría vivir el próximo año y que todavía no has encontrado el momento de hacer?",
     "poema": [
-      "Me imagino tu mesa llena de cosas, una idea que cambia a mitad de camino y tú descubriendo que el plan nuevo te gusta más que el original. Eso también es parte de crear.",
-      "Dale permiso a la improvisación, corazón. No todo tiene que salir de una imagen perfecta en la cabeza; a veces lo bonito aparece cuando empiezas."
+      "Puede ser conocer un lugar, aprender una técnica artística, visitar un pueblo, probar una comida o pasar una tarde haciendo algo que nunca has intentado.",
+      "Y si resulta que es un plan que podríamos compartir, podemos empezar por imaginarlo sin prometer fechas. Lo importante es que sea algo que de verdad te ilusione."
     ],
-    "detalle": "Prueba una idea nueva aunque todavía no sepas cómo llamarla. Tú puedes empezar con una mancha, un trozo de barro o una ocurrencia y encontrar el camino mientras avanzas.",
-    "buenasNoches": "Buenas noches, artista. No hace falta que todas tus ideas tengan nombre antes de dormir. Algunas pueden quedarse en borrador y seguir siendo buenas.",
+    "detalle": "Elige una experiencia para tu lista del próximo año. Después, si te apetece, propón una que podamos hacer juntos: tú eliges una parte y yo otra.",
+    "buenasNoches": "Buenas noches y feliz Navidad. Ojalá alguno de esos deseos encuentre su camino hasta la realidad. Los planes bonitos empiezan a veces con atreverse a nombrarlos.",
     "cancionTitulo": "Aero-Soul",
     "cancionArtista": "Alcolirykoz",
     "youtubeId": "jk9S5ca0Oh0",
@@ -1708,21 +1708,21 @@ const CALENDARIO = [
     "dia": 72,
     "fecha": "2026-12-26",
     "fechaTexto": "sáb, 26 de dic",
-    "categoria": "Un cariño claro, sin adivinanzas",
+    "categoria": "Una mirada cómplice en medio del ruido",
     "icono": "🧩",
-    "tono": "filosofica",
+    "tono": "coqueto_sutil",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Te deseo cariño claro: palabras que se sostengan con hechos y espacio para decir lo que piensas sin juegos. La ternura y el carácter no se contradicen; pueden vivir perfectamente en la misma persona.",
+    "buenosDias": "En medio de tantas conversaciones y planes, hay algo que me gusta: cuando dos personas comparten una mirada y entienden el chiste sin tener que explicarlo. Esa complicidad tiene su propio idioma.",
     "poema": [
-      "No tienes que adivinar lo que alguien siente todo el tiempo. Una conexión bonita también deja espacio para preguntar, reírse de los nervios y decir las cosas con calma.",
-      "Y si algo te gusta, corazón, puedes demostrarlo a tu manera, sin apurarte ni prometer más de lo que sientes. Lo bonito no necesita correr para ser real."
+      "No hace falta convertir cada momento en una escena de película. A veces basta con una sonrisa de lado, una broma que solo entienden dos o una pausa cómoda en mitad del ruido.",
+      "Y sí, admito que me gustaría descubrir más de ese idioma contigo. Sin apurarlo, pero tampoco fingiendo que no me da curiosidad."
     ],
-    "detalle": "Si quieres a alguien, que se note en los gestos que sí puedes ofrecer; y si algo te importa, dilo con claridad. La ternura no pierde su encanto por tener carácter, corazón.",
-    "buenasNoches": "Que descanses, amor. Ser cariñosa no significa callarte lo que importa; tu ternura y tu firmeza pueden ir de la mano.",
+    "detalle": "Completa este código secreto: inventa una palabra o gesto que signifique «necesito que nos riamos de esto después». Yo inventaré el mío y veremos cuál es más difícil de disimular.",
+    "buenasNoches": "Que descanses. Ojalá hoy hayas tenido una de esas sonrisas cómplices que no necesitan explicación. Si todavía no tenemos nuestro código, podemos inventarlo cuando quieras.",
     "cancionTitulo": "No Está en Venta",
     "cancionArtista": "Alcolirykoz",
     "youtubeId": "Se6Cd4sW3ks",
@@ -1732,21 +1732,21 @@ const CALENDARIO = [
     "dia": 73,
     "fecha": "2026-12-27",
     "fechaTexto": "dom, 27 de dic",
-    "categoria": "Café sin azúcar y permiso de ir despacio",
+    "categoria": "El próximo destino lo escogemos entre dos",
     "icono": "♨️",
-    "tono": "ambiente",
+    "tono": "aventurero",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Que el tinto salga a tu gusto y que tengas aunque sea un minuto para respirar antes de que el día te pida cosas. El café puede ser amargo; la jornada no tiene por qué serlo.",
+    "buenosDias": "Te dejo una propuesta para salir de la rutina: una escapada de un día a un pueblo cercano, viajando en bus y regresando sin afanes. Nada de itinerarios imposibles; solo cambiar de paisaje, caminar y comer algo rico.",
     "poema": [
-      "Me imagino la taza calentándote las manos mientras el sueño se va despidiendo poco a poco. No hay que convertir cada mañana en una carrera para que el día valga la pena.",
-      "Ve a tu ritmo, corazón. Ojalá entre todo lo que tengas que hacer encuentres algo que te dé gusto, aunque sea pequeño."
+      "Podemos buscar un lugar con una plaza bonita, un mirador accesible o calles para recorrer despacio. Tú escoges qué tipo de paisaje te llama y yo busco una parada que valga la pena.",
+      "Y si prefieres quedarte cerca, cambiamos el pueblo por un parque y llevamos algo para pintar. El plan no depende de la distancia, sino de que ambos tengamos ganas y escojamos juntos."
     ],
-    "detalle": "Date permiso de tomar el café despacio si el día te lo permite. Y si no, al menos no te exijas ser una máquina desde que abres los ojos; las máquinas ni siquiera disfrutan el café.",
-    "buenasNoches": "Buenas noches, corazón. Si mañana toca café y correr, ojalá por lo menos tengas un minuto para respirar antes de que empiece la aventura.",
+    "detalle": "Elige el próximo destino imaginario: pueblo con mirador, lugar con naturaleza o parque para una tarde creativa. Después dime qué no puede faltar en ese día. Yo añado una sorpresa pequeña al recorrido.",
+    "buenasNoches": "Buenas noches. Me gusta dejar esa escapada como una posibilidad compartida: dos elecciones, un bus y un día para cambiar de aire. Cuando te provoque, podemos convertir la idea en un plan real.",
     "cancionTitulo": "Don't Know Why",
     "cancionArtista": "Norah Jones",
     "youtubeId": "tO4dxvguQDk",
