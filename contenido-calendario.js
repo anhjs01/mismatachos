@@ -1108,21 +1108,21 @@ const CALENDARIO = [
     "dia": 47,
     "fecha": "2026-12-01",
     "fechaTexto": "mar, 1 de dic",
-    "categoria": "Dos opciones y una tercera inventada",
+    "categoria": "Ese humor que solo tú sabes sacar",
     "icono": "🎯",
-    "tono": "jugueton",
+    "tono": "juguetón",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Hoy toca un juego rápido: te doy dos opciones y tú puedes escoger una… o inventar una tercera que sea mejor. ¿Paseo con paisaje o tarde creativa? ¿Café y charla o probar algo que nunca hemos comido?",
+    "buenosDias": "Buenos días, Aleja. Hay personas que tienen una forma muy particular de hacer reír: un comentario inesperado, una cara en el momento preciso, una ocurrencia absurda o ese humor que aparece cuando nadie lo está esperando. Hoy me acordé de eso y me pregunté qué cosas te dan risa de verdad.",
     "poema": [
-      "No siempre hay que elegir entre las opciones que alguien pone delante. A veces la respuesta más interesante es decir «ninguna, se me ocurrió algo mejor» y cambiar el rumbo.",
-      "Me gusta esa idea de construir un plan entre dos: uno pone una posibilidad, el otro la transforma y al final aparece algo que ninguno habría pensado por su cuenta."
+      "No todo tiene que ser profundo ni convertirse en un gran recuerdo. También hacen falta conversaciones sin sentido, reírse por una bobada y poder contar algo absurdo sin tener que explicarlo demasiado.",
+      "Me gustaría conocer ese lado tuyo que aparece cuando estás en confianza: si eres de humor negro, sarcasmo, imitaciones, chistes malos o de soltar una frase tan inesperada que deja a todos intentando procesarla. Seguro tienes una combinación muy tuya."
     ],
-    "detalle": "Tu turno: elige una de las opciones o rompe las reglas con una tercera. Después me toca mejorar tu propuesta con un detalle sorpresa. Sin puntos ni perdedores; solo imaginación.",
-    "buenasNoches": "Buenas noches. Ojalá hoy se te haya ocurrido una tercera opción inesperada. Si no, queda guardada para otro día: las mejores ideas a veces aparecen cuando uno deja de buscarlas.",
+    "detalle": "Pregunta del día: ¿qué tipo de humor te gana casi siempre y qué cosa te parece tan absurda que te hace reír aunque intentes evitarlo? Yo te cuento una de mis debilidades humorísticas también. Y queda permitido mandar un meme o un chiste malísimo como evidencia.",
+    "buenasNoches": "Buenas noches, Aleja. Espero que hoy hayas tenido al menos un motivo para reírte, incluso si fue una tontería. A veces una buena carcajada acomoda un día entero. Y si algún día compartimos una de esas risas que empiezan por nada y no se pueden detener, ya será un buen recuerdo sin haberlo planeado.",
     "cancionTitulo": "No Está en Venta",
     "cancionArtista": "Alcolirykoz",
     "youtubeId": "Se6Cd4sW3ks",
