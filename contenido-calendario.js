@@ -1180,21 +1180,21 @@ const CALENDARIO = [
     "dia": 50,
     "fecha": "2026-12-04",
     "fechaTexto": "vie, 4 de dic",
-    "categoria": "Un espejo con una historia propia",
+    "categoria": "Algo que todavía te dé curiosidad aprender",
     "icono": "🛋️",
-    "tono": "creativo",
+    "tono": "curioso",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Se me ocurrió otro plan para una tarde tranquila: conseguir un espejo sencillo y decorarlo entre los dos con pintura, pequeñas formas o detalles que tengan algún significado. Que no parezca comprado, sino inventado por nosotros.",
+    "buenosDias": "Te quiero hacer una pregunta distinta: ¿hay algo que siempre te haya llamado la atención aprender, aunque todavía no hayas encontrado el momento? Puede ser algo artístico, una habilidad práctica, un idioma, bailar o cualquier curiosidad que tengas guardada.",
     "poema": [
-      "Podríamos escoger juntos los colores y decidir si queda delicado, lleno de formas o un poquito extravagante. Cada quien aporta una idea y el espejo termina teniendo una mezcla de los dos estilos.",
-      "Lo divertido sería que al mirarlo después recordáramos el rato, las decisiones discutidas con demasiada seriedad y las pequeñas imperfecciones que lo hacen único."
+      "Hay intereses que aparecen de repente y otros que llevan años acompañándonos en silencio. A veces no los empezamos porque creemos que necesitamos tiempo, talento o hacerlo todo bien desde el primer intento.",
+      "Pero aprender también puede ser simplemente probar, equivocarse un poco, reírse y descubrir si aquello que imaginábamos nos gusta de verdad. Me parece bonito que cada uno conserve cosas que todavía quiere explorar; siempre hay una parte de nosotros esperando su oportunidad."
     ],
-    "detalle": "Elige el estilo: minimalista, flores y colores suaves, figuras abstractas o algo completamente inesperado. Yo añado una regla: cada uno debe proponer un detalle secreto para incluir en el diseño.",
-    "buenasNoches": "Que descanses. Me gusta la idea de crear algo que después se quede en un rincón y nos recuerde una tarde compartida. ¿Qué estilo escogerías tú?",
+    "detalle": "Si te nace, cuéntame qué te gustaría aprender y qué fue lo que despertó esa curiosidad. Yo te cuento una de las mías. Y si algún día coincidimos en alguna, podemos buscar una manera sencilla de probarla, sin convertirlo en obligación ni ponerle fecha desde ahora.",
+    "buenasNoches": "Buenas noches. Ojalá no pierdas esas curiosidades que te hacen mirar un poquito más allá de la rutina. No tienes que empezar mañana ni tener un plan; a veces basta con reconocer que hay algo nuevo que todavía te gustaría descubrir.",
     "cancionTitulo": "Moment Of Your Life (feat. Coco Jones)",
     "cancionArtista": "Brent Faiyaz; Coco Jones",
     "youtubeId": "Jv17JsayCSI",
