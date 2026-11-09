@@ -1060,21 +1060,21 @@ const CALENDARIO = [
     "dia": 45,
     "fecha": "2026-11-29",
     "fechaTexto": "dom, 29 de nov",
-    "categoria": "Una indirecta que puedes devolver",
+    "categoria": "Las pequeñas cosas que merecen quedarse",
     "icono": "👁️",
-    "tono": "coqueto",
+    "tono": "íntimo",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días, bonita. Hoy te dejo una pequeña ventaja: puedes devolverme una indirecta. No tiene que ser evidente; puede ser una frase con doble sentido, un cumplido o una pregunta que me deje pensando.",
+    "buenosDias": "Buenos días, Aleja. Hay cosas que uno guarda sin saber muy bien por qué: una foto algo borrosa, una nota, una entrada, una canción o una frase que alguien dijo en el momento justo. No ocupan mucho espacio, pero a veces significan bastante.",
     "poema": [
-      "Hay miradas que despiertan curiosidad y conversaciones que se quedan dando vueltas después de despedirse. A mí me gusta esa tensión bonita cuando ambos pueden jugar un poco con lo que dicen.",
-      "Y no quiero ser siempre quien lanza la primera señal. También me daría curiosidad descubrir cómo coqueteas tú, si te nace hacerlo."
+      "Me da curiosidad saber qué cosas conservas tú. Tal vez seas de guardar recuerdos en una caja, llenar la galería del celular, tomar fotos de momentos sencillos o quedarte con objetos que para los demás no tienen nada especial. Cada quien tiene su pequeño museo personal, aunque no lo llame así.",
+      "Y creo que eso también habla de una persona: de lo que le importa, de lo que le hizo sonreír y de esos instantes que no quiere dejar desaparecer. No hace falta que todo sea extraordinario para merecer un lugar en la memoria."
     ],
-    "detalle": "Tu turno: inventa una indirecta para mí. Puede ser tierna, graciosa o un poquito atrevida, siempre a tu manera. No hay respuesta correcta ni obligación de participar.",
-    "buenasNoches": "Que descanses, bonita. Si hoy me devolviste una indirecta, seguro me dejaste repasándola más de una vez. Y si no, la puerta queda abierta para cuando te nazca.",
+    "detalle": "Si te provoca, cuéntame qué recuerdo u objeto guardarías aunque no tuviera valor para nadie más. Puede ser una foto, una carta, una canción o algo pequeño que te transporte a un momento. Yo también te compartiré uno mío. Quizá algún día podamos crear un recuerdo nuevo que termine formando parte de esa colección.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas encontrado un motivo pequeño para sonreír y guardarlo contigo. A veces los recuerdos más valiosos no se planean: simplemente suceden, y después uno descubre que todavía los lleva cerca.",
     "cancionTitulo": "Stuck On You",
     "cancionArtista": "GIVĒON",
     "youtubeId": "UlIgAGotomM",
