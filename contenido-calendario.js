@@ -844,7 +844,7 @@ const CALENDARIO = [
     "dia": 36,
     "fecha": "2026-11-20",
     "fechaTexto": "vie, 20 de nov",
-    "categoria": "Un antojo que merece una cita",
+    "categoria": "Ese gusto tan tuyo por las cosas sencillas",
     "icono": "🍨",
     "tono": "coqueto",
     "color": {
@@ -852,13 +852,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, golosa de la mora. Hoy tengo una propuesta muy seria: conseguir ese helado de mora con chocolate amargo y comprobar si sigue siendo tan perfecto como lo recuerdas. Eso sí, compartirlo contigo implica negociar quién se queda con la última cucharada.",
+    "buenosDias": "Buenos días, Aleja. Hoy me acordé de tu helado de mora con chocolate amargo. Es curioso cómo un gusto tan específico puede quedarse en la memoria; ya sé que si algún día veo esa combinación, probablemente me voy a acordar de ti antes de pensar en comprarlo.",
     "poema": [
-      "Me gusta recordar esas pequeñas cosas que te gustan, pero más me gustaría convertirlas en momentos contigo. Ir por un helado, caminar un rato y terminar hablando de cualquier tema mientras el frío nos obliga a buscar un lugar más cómodo.",
-      "Y si me preguntas qué quiero además del helado, te diría que tu compañía. Aunque quizá intentaría robarte una cucharada solo para tener una excusa para acercarme."
+      "Hay gustos que parecen pequeños, pero terminan contando algo de nosotros. No sé si es el contraste entre lo dulce y lo intenso, la mora o ese chocolate que no necesita ser demasiado dulce; lo que sí sé es que me gusta ir guardando esas pistas tuyas. No para convertirlas en una lista que tenga que memorizar, sino porque prestar atención también es una forma bonita de conocer a alguien.",
+      "Y me gusta imaginarte disfrutando algo que elegiste porque sí, sin tener que justificarlo ni compartirlo con nadie. Aunque, si algún día coincidimos frente a ese helado, voy a pedir probar una cucharada. Prometo negociar antes de llegar a la última."
     ],
-    "detalle": "Dejo la invitación abierta: una tarde de helado de mora y chocolate amargo, sin afán y sin convertirlo en un evento enorme. Tú eliges el lugar; yo llevo la disposición de compartir… con una pequeña discusión amistosa por la última cucharada.",
-    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas tenido un antojo rico o un detalle que te alegrara. Me gusta la idea de que algún día este mensaje se convierta en una salida sencilla, de esas que terminan siendo especiales sin haberlo planeado.",
+    "detalle": "Pregunta de gustos: si tuvieras que inventar una combinación nueva de helado para ponerle tu nombre, ¿qué llevaría? Puede ser una mezcla extraña, elegante o completamente inesperada. Yo puedo proponer otra y después comparamos cuál merece existir.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas disfrutado algún antojo o encontrado un pequeño momento para ti. Me gusta descubrir esas preferencias que parecen simples, pero que hacen que alguien sea más que una descripción general. Y ya quedó claro: mora con chocolate amargo tiene un lugar especial en mi memoria.",
     "cancionTitulo": "Ring My Bell",
     "cancionArtista": "Anita Ward",
     "youtubeId": "r1UkZLT20TI",
