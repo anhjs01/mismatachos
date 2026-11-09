@@ -1156,21 +1156,21 @@ const CALENDARIO = [
     "dia": 49,
     "fecha": "2026-12-03",
     "fechaTexto": "jue, 3 de dic",
-    "categoria": "El permiso de bajar el ritmo",
+    "categoria": "Hay conversaciones que se quedan contigo",
     "icono": "🌻",
-    "tono": "bienestar",
+    "tono": "cercano",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "No todos los días tienen que convertirse en una aventura. A veces el mejor plan es quitarse un poco de peso de encima, comer algo rico, descansar y no exigirse estar de buen humor todo el tiempo.",
+    "buenosDias": "A veces uno termina una conversación y sigue pensando en algo que escuchó: una historia, una opinión, una confesión pequeña o una frase que llegó en el momento justo. ¿Te ha pasado que una charla sencilla se te queda dando vueltas durante días?",
     "poema": [
-      "Ojalá encuentres un espacio donde no tengas que demostrar nada. Puedes estar callada, cansada, distraída o llena de ideas; no tienes que editarte para merecer compañía.",
-      "Y si hoy prefieres tranquilidad, también es una respuesta válida. Compartir tiempo no siempre significa llenar cada minuto de actividades."
+      "No siempre recuerdo palabra por palabra lo que alguien me cuenta, pero sí hay conversaciones que dejan una sensación bonita. Tal vez porque pude conocer un poquito más a esa persona, porque descubrí una forma distinta de mirar algo o porque, sin darme cuenta, me sentí en confianza.",
+      "Me gustaría que entre nosotros también existan esas charlas que no necesitan un tema extraordinario. Que podamos hablar de lo que nos emociona, de lo que nos causa dudas, de recuerdos que aparecen de repente o de cualquier cosa que termine llevándonos a otra."
     ],
-    "detalle": "Elige una pequeña forma de cuidarte hoy: una pausa, música, una comida que te guste o dejar algo para mañana. Si quieres, cuéntame cuál escogiste; sin convertirlo en una tarea pendiente.",
-    "buenasNoches": "Buenas noches. Que el descanso te encuentre sin cuentas por rendir. Mañana habrá nuevas ideas; por hoy, está bien dejar algunas cosas quietas.",
+    "detalle": "Si te nace, cuéntame de una conversación que recuerdes con cariño: puede ser por algo que aprendiste, por cómo te hicieron sentir o simplemente porque te reíste mucho. Yo también compartiré una. Y si hoy no se te viene ninguna a la cabeza, no pasa nada; seguro aparecerá otra sin planearla.",
+    "buenasNoches": "Buenas noches. Ojalá hoy hayas tenido una charla que te dejara pensando bonito, aunque fuera por un detalle pequeño. A veces las palabras se terminan, pero lo que nos hicieron sentir se queda un rato más.",
     "cancionTitulo": "La Noche y Tú",
     "cancionArtista": "Barbaro el Urbano Vargas",
     "youtubeId": "XSN_8UblItk",
