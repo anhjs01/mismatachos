@@ -772,21 +772,22 @@ const CALENDARIO = [
     "dia": 33,
     "fecha": "2026-11-17",
     "fechaTexto": "mar, 17 de nov",
-    "categoria": "La canción que delata un poquito",
+    "categoria": "Una canción, una indirecta y una boda por molestar",
     "icono": "🎺",
-    "tono": "ambiente",
+    "tono": "coqueto_jugueton",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, Aleja. Hoy quiero una canción tuya, de esas que no le mandas a cualquiera porque tienen algo de tu historia o de tu manera de sentir. Prometo escucharla con atención… aunque después quizá te pregunte si me la compartiste por la letra o por alguna indirecta.",
+    "buenosDias": "Buenos días, Aleja. Hoy quiero una canción tuya, de esas que no le mandas a cualquiera porque tienen algo de tu historia o de tu manera de sentir. Prometo escucharla con atención… aunque después quizá te pregunte si me la compartiste por la letra o por alguna indirecta. Y ya que estamos hablando de indirectas, se me acaba de ocurrir una bastante peligrosa: ¿y si un día nos casamos por lo civil así, por molestar? Lo digo jugando… aunque la idea tiene su gracia.",
     "poema": [
       "Hay canciones que uno comparte porque suenan bien y otras que llevan escondido un recuerdo, una emoción o una frase que no se atreve a decir directamente. Me gusta esa segunda clase: la que deja una puerta entreabierta para que alguien curioso se asome.",
-      "Si algún día me dedicas una, no voy a asumir que significa algo sin preguntarte. Pero no te voy a mentir: me encantaría descubrir que, entre tantas canciones, hay una que te hace pensar un poquito en mí."
+      "Y siguiendo con las ideas que empiezan como una broma: primero hacemos el trámite por lo civil, sin tanta producción, y después dejamos la ceremonia bonita para cuando vayamos viajando y caminando por calles nuevas. En algún lugar encontraremos una capilla que nos guste de verdad; de esas que uno descubre sin buscarlas y piensa: «mira, aquí sí sería bonito».",
+      "No estoy organizando una boda ni pidiendo respuestas, tranquila. Es una de esas ocurrencias que me hacen sonreír: imaginar que el viaje nos va mostrando el lugar de esa segunda celebración, mientras discutimos cuál capilla tiene más encanto."
     ],
-    "detalle": "Elige una canción que hoy te represente y guárdala. Si quieres, compártemela; yo te cuento qué parte me llamó la atención y tú me dices si había un mensaje escondido o si estoy imaginando demasiado.",
-    "buenasNoches": "Que descanses, corazón. Hoy me quedé pensando en esas canciones que dicen lo que uno todavía no se anima a poner en un mensaje. Si encontraste una, quizá mañana sea buen momento para compartirla.",
+    "detalle": "Dos preguntas para ti: primero, elige una canción que hoy te represente y dime si tiene alguna historia detrás. Segundo, siguiendo la broma, ¿cómo sería esa capilla que escogeríamos durante un viaje: pequeña y antigua, escondida entre calles, con vista a las montañas o algo totalmente distinto? Puedes cambiarme todo el plan; esta vez quiero conocer tu versión.",
+    "buenasNoches": "Que descanses, Aleja. Hoy te dejé una canción por descubrir y una boda imaginaria para reírnos un rato. Si algún día la vida nos lleva a una historia así, que sea porque los dos la elegimos, a nuestro ritmo y con muchas calles por recorrer antes de encontrar esa capilla. Por ahora, me basta con haberte sacado una sonrisa.",
     "cancionTitulo": "Tararea",
     "cancionArtista": "Alcolirykoz",
     "youtubeId": "nmFdyBUAsfQ",
