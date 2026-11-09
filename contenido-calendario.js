@@ -1277,21 +1277,21 @@ const CALENDARIO = [
     "dia": 54,
     "fecha": "2026-12-08",
     "fechaTexto": "mar, 8 de dic",
-    "categoria": "El plan que se arma con tres pistas",
+    "categoria": "Esa versión tuya que aparece cuando estás en confianza",
     "icono": "🖼️",
-    "tono": "jugueton",
+    "tono": "cercano",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Hoy vamos a jugar a organizar un plan sin decirlo todo. Te doy tres pistas: aire libre, algo creativo y una pausa para comer rico. ¿Qué actividad crees que estoy imaginando?",
+    "buenosDias": "Tengo curiosidad por conocer esas pequeñas versiones tuyas que aparecen cuando estás a gusto: la que se ríe sin medida, la que habla emocionada de algo que le encanta, la que canta sin darse cuenta o la que suelta una ocurrencia inesperada.",
     "poema": [
-      "Puede ser una tarde en un parque pintando, decorar algo que después podamos conservar o caminar hasta encontrar un lugar que ninguno conocía. Lo divertido es que las pistas no tienen una sola respuesta.",
-      "Ahora te toca cambiar una de las pistas y ver qué plan aparece. Así no terminamos siguiendo siempre la primera idea que se le ocurrió a uno."
+      "A veces, cuando uno se siente cómodo, deja de cuidar tanto cada palabra y simplemente es. Aparecen gestos, bromas, gustos y maneras de expresarse que quizá no muestra en cualquier lugar. No son grandes revelaciones; son detalles cotidianos que hacen que alguien se sienta más cercano y auténtico.",
+      "Me gustaría conocer también esa parte de ti, sin pedirte que actúes de cierta manera ni que tengas que estar siempre alegre. Puedes ser espontánea, seria, distraída, hablar muchísimo o quedarte en silencio. No tienes que interpretar ningún papel para que disfrute conocerte."
     ],
-    "detalle": "Mándame tu versión del plan usando solo tres pistas, sin revelar el lugar ni la actividad completa. Yo intentaré adivinarlo y después podemos mezclar nuestras propuestas.",
-    "buenasNoches": "Buenas noches. Me gusta que un plan pueda empezar como un acertijo y terminar siendo algo que de verdad nos gustaría hacer. La respuesta puede esperar hasta mañana.",
+    "detalle": "Si te nace, cuéntame qué haces cuando estás en plena confianza y se te olvida un poco el resto del mundo. ¿Te da por cantar, bromear, bailar, hablar sin parar o hacer algo completamente inesperado? Yo también puedo contarte alguna de mis versiones menos formales.",
+    "buenasNoches": "Buenas noches. Ojalá tengas cerca personas con las que puedas ser tú sin estar midiendo cada gesto. A mí me gustaría que, con el tiempo y si ambos nos sentimos cómodos, nuestras conversaciones también tengan ese espacio.",
     "cancionTitulo": "Three Little Birds",
     "cancionArtista": "Bob Marley & The Wailers",
     "youtubeId": "HNBCVM4KbUM",
