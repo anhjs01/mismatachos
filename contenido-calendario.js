@@ -1850,13 +1850,14 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Hoy termina el año. Antes de correr hacia los propósitos nuevos, ojalá puedas mirar atrás con un poco de cariño: no solo por lo que conseguiste, también por las veces que seguiste adelante cuando no fue sencillo.",
+    "buenosDias": "Último día del año. Antes de pensar en todo lo que viene, quiero que te des un momento para reconocer lo que sí hiciste: las veces que te levantaste con pocas ganas, las decisiones que te hicieron crecer y hasta esos días normales que, sin darte cuenta, también construyeron tu historia. No tienes que haberlo conseguido todo para sentir orgullo de ti.",
     "poema": [
-      "Que se queden las canciones que te acompañaron, las personas con quienes pudiste ser tú, las ideas que te devolvieron las ganas y esos momentos pequeños que quizá no fotografiaste, pero todavía recuerdas.",
-      "Y lo que no salió como esperabas no tiene que convertirse en una deuda contigo misma. Puedes aprender, cambiar de dirección y empezar otra vez sin tratarte con dureza."
+      "Que se queden las canciones que te acompañaron, las personas con quienes pudiste ser tú, las risas inesperadas y los lugares que te hicieron sentir en paz. Que se queden también tus ganas de probar cosas nuevas, tu manera de mirar el mundo y esa parte tuya que todavía se emociona con lo que está por descubrir.",
+      "Lo que no salió como esperabas no tiene que perseguirte hasta el año siguiente. Puedes aprender de ello, cambiar de rumbo o dejarlo atrás. No eres una lista de pendientes ni tienes que demostrarle nada al calendario.",
+      "Y de mi parte, me alegra haber podido dejarte estos pequeños mensajes. Ojalá alguno te haya sacado una sonrisa, te haya hecho pensar o simplemente te haya acompañado un ratito."
     ],
-    "detalle": "Elige tres recuerdos del año: uno que te hizo reír, uno del que aprendiste algo y uno que quieras repetir. Si te nace compartirlos, me gustaría conocerlos; yo también puedo contarte los míos.",
-    "buenasNoches": "Feliz cierre de año, Aleja. Gracias por dejar que este calendario te acompañe hasta aquí. Ojalá esta noche puedas soltar lo que pesa y guardar lo que te hizo bien. No tienes que resolver el año entero antes de que llegue la medianoche.",
+    "detalle": "Si te provoca hacer un pequeño cierre, elige tres cosas: un recuerdo que quieras guardar, algo que aprendiste de ti y algo que te gustaría permitirte el próximo año. No tienen que ser grandes logros ni metas enormes. Si quieres compartirlos conmigo, te leo; también puedes guardarlos solo para ti.",
+    "buenasNoches": "Feliz fin de año, Aleja. Gracias por llegar hasta aquí y por darle un espacio a estas palabras. Ojalá esta noche puedas abrazar lo bueno sin exigirte olvidar lo difícil. Que el año nuevo te encuentre con motivos para ilusionarte, libertad para cambiar de opinión y muchas razones para seguir siendo tú. Lo que venga, que te haga bien.",
     "cancionTitulo": "I'll Be Seeing You",
     "cancionArtista": "Billie Holiday",
     "youtubeId": "3C5zYKIuoxg",
