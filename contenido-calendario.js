@@ -748,21 +748,21 @@ const CALENDARIO = [
     "dia": 32,
     "fecha": "2026-11-16",
     "fechaTexto": "lun, 16 de nov",
-    "categoria": "El cielo que no se repite",
+    "categoria": "Una escapada sin demasiadas explicaciones",
     "icono": "🌅",
-    "tono": "ambiente",
+    "tono": "amor",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Que el cielo te regale uno de esos atardeceres que parecen pintados con una paleta que ni siquiera sabías que existía.",
+    "buenosDias": "Buenos días, Aleja. Hoy te propongo una idea peligrosa para alguien que tiene tantas cosas pendientes: dejar por un rato el ruido, respirar aire distinto y olvidarse del reloj. No digo que lo hagamos mañana… aunque tampoco estoy diciendo que no.",
     "poema": [
-      "Me imagino señalando una nube y tú diciéndome que ese color no es naranja sino otra cosa mucho más precisa. Yo discutiría por molestar, tú defenderías tu punto y el cielo seguiría cambiando sin esperar nuestro veredicto.",
-      "Si hoy ves uno bonito, corazón, quédate un minuto. Y si te acuerdas de mí, me doy por afortunado."
+      "Imagínate que un día de estos nos escapamos un rato. Sin un plan lleno de horarios, sin tener que impresionar a nadie; solo tú y yo, una carretera, música que vayamos turnándonos para elegir y esa curiosidad de no saber exactamente cómo terminará el día.",
+      "Podríamos encontrar un lugar con una vista bonita, caminar sin prisa, hablar de cualquier cosa… y dejar que la cercanía haga lo suyo. No voy a arruinarte la imaginación contando cada detalle. Algunas posibilidades se disfrutan más cuando quedan abiertas."
     ],
-    "detalle": "Si el cielo se pone bonito al final del día, regálate un momento para mirarlo. No hace falta sacar una conclusión profunda de cada atardecer; a veces basta con pensar ‘qué bonito’ y ya.",
-    "buenasNoches": "Buenas noches, corazón. Ojalá el cielo te haya regalado aunque sea un vistazo bonito. Si no, mañana tendrá otra oportunidad de impresionarte.",
+    "detalle": "Pregunta seria: si tuvieras un día libre para desaparecer unas horas, ¿elegirías montaña, un pueblito tranquilo o un lugar junto al agua? Yo tengo una propuesta, pero me gustaría saber qué escenario escogerías tú para esa pequeña escapada de dos.",
+    "buenasNoches": "Buenas noches, bonita. Quédate con la imagen de ese viaje improvisado: tú, yo, música y un destino que no importe tanto como la compañía. Y quién sabe… quizá un día dejemos de imaginarlo. Descansa.",
     "cancionTitulo": "Apocalypse",
     "cancionArtista": "Cigarettes After Sex",
     "youtubeId": "sElE_BfQ67s",
@@ -772,7 +772,7 @@ const CALENDARIO = [
     "dia": 33,
     "fecha": "2026-11-17",
     "fechaTexto": "mar, 17 de nov",
-    "categoria": "Una melodía que se queda en el pecho",
+    "categoria": "La canción que delata un poquito",
     "icono": "🎺",
     "tono": "ambiente",
     "color": {
@@ -780,13 +780,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Si una melodía te encuentra en el momento exacto, ojalá te haga sentir que alguien entendió algo que no sabías explicar.",
+    "buenosDias": "Buenos días, Aleja. Hoy quiero una canción tuya, de esas que no le mandas a cualquiera porque tienen algo de tu historia o de tu manera de sentir. Prometo escucharla con atención… aunque después quizá te pregunte si me la compartiste por la letra o por alguna indirecta.",
     "poema": [
-      "Hay melodías que se quedan pegadas a un recuerdo, a una tarde o a una persona. Después basta con escuchar los primeros segundos para que la cabeza vuelva ahí, incluso cuando uno está haciendo cualquier otra cosa.",
-      "Me gustaría conocer esas canciones tuyas que no cambiarías por nada. No para juzgar tus gustos, bonita; bueno, quizá para molestarte un poquito si me sorprendes, pero sobre todo para escucharte hablar de lo que te gusta."
+      "Hay canciones que uno comparte porque suenan bien y otras que llevan escondido un recuerdo, una emoción o una frase que no se atreve a decir directamente. Me gusta esa segunda clase: la que deja una puerta entreabierta para que alguien curioso se asome.",
+      "Si algún día me dedicas una, no voy a asumir que significa algo sin preguntarte. Pero no te voy a mentir: me encantaría descubrir que, entre tantas canciones, hay una que te hace pensar un poquito en mí."
     ],
-    "detalle": "Si hoy te acompaña un bolero, deja que te encuentre donde estés. Me gusta que puedas disfrutar de algo con tanta historia sin tener que explicarle a nadie por qué te llega.",
-    "buenasNoches": "Que tengas una noche tranquila, mi vida. Hay canciones que acompañan incluso cuando ya terminaron; quizá hoy alguna se quede contigo de esa forma.",
+    "detalle": "Elige una canción que hoy te represente y guárdala. Si quieres, compártemela; yo te cuento qué parte me llamó la atención y tú me dices si había un mensaje escondido o si estoy imaginando demasiado.",
+    "buenasNoches": "Que descanses, corazón. Hoy me quedé pensando en esas canciones que dicen lo que uno todavía no se anima a poner en un mensaje. Si encontraste una, quizá mañana sea buen momento para compartirla.",
     "cancionTitulo": "Tararea",
     "cancionArtista": "Alcolirykoz",
     "youtubeId": "nmFdyBUAsfQ",
@@ -796,21 +796,21 @@ const CALENDARIO = [
     "dia": 34,
     "fecha": "2026-11-18",
     "fechaTexto": "mié, 18 de nov",
-    "categoria": "R&B para una tarde sin prisa",
+    "categoria": "Un ritmo lento y una cercanía distinta",
     "icono": "🎙️",
-    "tono": "ambiente",
+    "tono": "amor",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Para una tarde sin tanta prisa, que el R&B te acompañe como una presencia tranquila: está ahí, suena bonito y deja que respires.",
+    "buenosDias": "Buenos días, bonita. Que hoy te acompañe una canción con ritmo suave y que nadie te apure. Hay mañanas que piden café, música y una razón bonita para sonreír. Yo puedo ofrecerte la última, aunque sea desde aquí.",
     "poema": [
-      "A veces uno no necesita consejos, solo una canción que le haga compañía y un rato sin tener que explicar el ánimo que trae. Espero que encuentres esos minutos para ti.",
-      "Y si hoy te provoca compartir música, mándame una. Me gusta descubrir qué escuchas cuando quieres bajar el ruido del mundo."
+      "Me gustan las conversaciones que empiezan tranquilas y, sin darse cuenta, se vuelven más personales. Esas en las que uno baja la guardia, se permite una pausa y descubre que la compañía del otro se siente especialmente bien.",
+      "Me gustaría tener una de esas contigo, pero sin una pantalla de por medio. Sentarnos cerca, dejar que suene una canción y ver si el silencio también nos queda cómodo. A veces la química se nota más cuando no hay que llenar cada segundo con palabras."
     ],
-    "detalle": "Busca una canción que te acompañe sin exigirte nada. Que esté de fondo mientras haces lo tuyo y no te quite espacio en la cabeza; la música también puede ser una buena compañía silenciosa.",
-    "buenasNoches": "Descansa, amor. No tienes que ponerle palabras a todo lo que sientes ni explicarle a nadie por qué una canción te toca. A veces basta con sentirla.",
+    "detalle": "Si hoy pudieras elegir la música para una tarde compartida, ¿pondrías algo suave para conversar o algo que nos obligue a levantarnos a bailar? Yo acepto cualquiera de las dos opciones, aunque en la segunda quizá necesite que tengas paciencia conmigo.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá la música te haya acompañado bonito. Me gustaría descubrir cómo se siente compartir contigo una canción en el mismo espacio: mirarte un segundo, sonreír y seguir escuchando como si nada.",
     "cancionTitulo": "Didn't Cha Know",
     "cancionArtista": "Erykah Badu",
     "youtubeId": "Np21rH7Ldto",
@@ -820,21 +820,21 @@ const CALENDARIO = [
     "dia": 35,
     "fecha": "2026-11-19",
     "fechaTexto": "jue, 19 de nov",
-    "categoria": "La comodidad también tiene estilo",
+    "categoria": "Ese estilo tuyo que distrae",
     "icono": "👕",
-    "tono": "filosofica",
+    "tono": "coqueto",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "El código de vestuario de hoy es fácil: ponte esa ropa amplia que te deja existir sin estar acomodándote cada cinco segundos.",
+    "buenosDias": "Buenos días, Aleja. Ponte algo con lo que te sientas cómoda y mírate un segundo antes de salir. No sé qué tengas pensado usar hoy, pero tengo una sospecha: vas a conseguir que alguien pierda el hilo de lo que estaba diciendo. A mí probablemente me pasaría.",
     "poema": [
-      "Hay algo atractivo en la gente que se siente a gusto siendo ella misma. Tú tienes ese estilo relajado que parece decir «estoy bien así» y, sinceramente, le queda muy bien a tu manera de ser.",
-      "Ponte lo que te dé la gana, mi vida. Y si hoy te miras al espejo y te gusta lo que ves, no dejes que una voz quisquillosa te arruine el momento."
+      "No es solamente la ropa ni el conjunto que eliges. Es la manera en que haces tuyos los detalles, cómo te mueves cuando estás a gusto y esa seguridad que aparece cuando algo te representa.",
+      "Y sí, me gustaría tenerte cerca para decirte en persona que te ves preciosa. Aunque sospecho que después me quedaría mirándote un poquito más de lo prudente y tendría que fingir que estaba buscando algo detrás de ti."
     ],
-    "detalle": "Que la ropa de hoy te deje moverte, respirar y sentirte tú. La comodidad no es falta de estilo; es saber lo que te gusta y no negociar con cada tendencia que pasa por la puerta.",
-    "buenasNoches": "Buenas noches, bonita. Ponte cómoda, deja el día atrás y no negocies con las opiniones imaginarias de nadie. Tu descanso no necesita aprobación.",
+    "detalle": "Hoy elige ese look que te hace sentir más tú. Y si te tomas una foto porque te gustó cómo quedó, guárdala para ti o compártela con quien quieras. Yo no voy a pedir pruebas… pero tampoco voy a negar que me encantaría verte.",
+    "buenasNoches": "Descansa, bonita. Espero que hoy te hayas sentido cómoda y linda contigo misma. Y si alguien te hizo un cumplido, ojalá lo hayas recibido sin restarle importancia. El mío sigue pendiente para cuando pueda decírtelo mirándote.",
     "cancionTitulo": "good denim",
     "cancionArtista": "jalen chords",
     "youtubeId": "_2Lnj5N9lCM",
@@ -844,21 +844,21 @@ const CALENDARIO = [
     "dia": 36,
     "fecha": "2026-11-20",
     "fechaTexto": "vie, 20 de nov",
-    "categoria": "El antojo de mora que recuerdas",
+    "categoria": "Un antojo que merece una cita",
     "icono": "🍨",
-    "tono": "amor",
+    "tono": "coqueto",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Ese antojo de mora con cobertura amarga merece una felicitación formal. No sé quién inventó esa combinación, pero claramente sabía lo que hacía.",
+    "buenosDias": "Buenos días, golosa de la mora. Hoy tengo una propuesta muy seria: conseguir ese helado de mora con chocolate amargo y comprobar si sigue siendo tan perfecto como lo recuerdas. Eso sí, compartirlo contigo implica negociar quién se queda con la última cucharada.",
     "poema": [
-      "Hay algo bonito en que alguien recuerde un antojo tan específico. No porque sea una gran hazaña, sino porque en medio de tantas cosas del día queda un espacio para pensar: «esto le gusta a ella».",
-      "Ojalá hoy te encuentres con algo que se te antoje de verdad, corazón. Y si no, queda pendiente la misión de conseguir esa combinación como debe ser."
+      "Me gusta recordar esas pequeñas cosas que te gustan, pero más me gustaría convertirlas en momentos contigo. Ir por un helado, caminar un rato y terminar hablando de cualquier tema mientras el frío nos obliga a buscar un lugar más cómodo.",
+      "Y si me preguntas qué quiero además del helado, te diría que tu compañía. Aunque quizá intentaría robarte una cucharada solo para tener una excusa para acercarme."
     ],
-    "detalle": "Si aparece esa mora con cubierta amarga que te gusta, disfrútala despacito. Me causa gracia que algo tan pequeño pueda tener una combinación tan específica; supongo que los gustos también tienen su carácter.",
-    "buenasNoches": "Que descanses, corazón. Espero que mañana puedas darte ese gusto que te encanta, con su mezcla exacta y sin que nadie intente corregirte la receta.",
+    "detalle": "Dejo la invitación abierta: una tarde de helado de mora y chocolate amargo, sin afán y sin convertirlo en un evento enorme. Tú eliges el lugar; yo llevo la disposición de compartir… con una pequeña discusión amistosa por la última cucharada.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas tenido un antojo rico o un detalle que te alegrara. Me gusta la idea de que algún día este mensaje se convierta en una salida sencilla, de esas que terminan siendo especiales sin haberlo planeado.",
     "cancionTitulo": "Ring My Bell",
     "cancionArtista": "Anita Ward",
     "youtubeId": "r1UkZLT20TI",
@@ -868,21 +868,21 @@ const CALENDARIO = [
     "dia": 37,
     "fecha": "2026-11-21",
     "fechaTexto": "sáb, 21 de nov",
-    "categoria": "Tulipanes, margaritas y ninguna excusa",
+    "categoria": "Flores, pero con intención",
     "icono": "💐",
-    "tono": "amor",
+    "tono": "romantico",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "No se necesita una fecha especial para mandar una flor imaginaria: puede ser un tulipán o una margarita, tú escoges.",
+    "buenosDias": "Buenos días, bonita. Hoy te dejaría un tulipán o una margarita, pero no con una frase de ocasión especial. Te la daría porque sí, porque me acordé de ti y porque me gustaría ver tu cara cuando descubras que era para ti.",
     "poema": [
-      "Me gustan las flores que no vienen a resolver nada, solo a alegrar un rincón y recordarte que alguien pensó en ti un momento. A veces eso basta para cambiarle el tono a una tarde.",
-      "Si hoy pudieras elegir una para tener cerca, ¿cuál sería, corazón? Quiero saber si gana el tulipán elegante o la margarita que parece sonreír."
+      "Hay detalles que no buscan comprar una sonrisa ni conseguir algo a cambio. Solo dicen: te vi, me acordé de ti y quise alegrarte un momento. Una flor puede ser pequeña, pero la intención con la que llega cambia bastante las cosas.",
+      "Y si algún día te llevo una, no quiero que tengas que preguntarte si es un gesto de amistad o una indirecta. Probablemente sea las dos cosas: un detalle bonito y una manera bastante poco disimulada de decirte que me gustas."
     ],
-    "detalle": "Si hoy alguien te regala una flor sin motivo, espero que te emociones con toda la libertad del mundo. No hace falta fingir que es algo pequeño si para ti se siente especial.",
-    "buenasNoches": "Buenas noches, amor. Si hoy no hubo flores, no pasa nada; ojalá al menos alguien haya tenido un gesto que te hiciera sentir presente en su pensamiento.",
+    "detalle": "Escoge cuál te gustaría recibir sin motivo: ¿un tulipán o una margarita? No prometo que llegue mañana, pero sí que voy a recordar tu elección. Hay detalles que vale la pena guardar para el momento indicado.",
+    "buenasNoches": "Buenas noches, corazón. Ojalá hoy alguien haya tenido un detalle contigo. Yo me quedo imaginando cuál flor elegiría para ti y, sobre todo, la sonrisa que me gustaría provocar cuando te la entregue.",
     "cancionTitulo": "Beautiful",
     "cancionArtista": "Snoop Dogg; Pharrell Williams; Charlie Wilson",
     "youtubeId": "_FE194VN6c4",
@@ -892,21 +892,21 @@ const CALENDARIO = [
     "dia": 38,
     "fecha": "2026-11-22",
     "fechaTexto": "dom, 22 de nov",
-    "categoria": "Un rincón despejado para pensar",
+    "categoria": "No quiero ser una duda más",
     "icono": "🗂️",
-    "tono": "filosofica",
+    "tono": "amor",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Si hoy todo parece desordenado, no tienes que resolverlo de una vez. Empieza por algo pequeño y luego respira.",
+    "buenosDias": "Buenos días, Aleja. Quiero que hoy tengas un día tranquilo y que recuerdes algo: mereces personas que sepan acercarse con respeto, claridad y cariño. Yo estoy intentando hacer justamente eso, sin disfrazar mis intenciones ni pedirte que corras.",
     "poema": [
-      "A veces nos exigimos tanto que hasta descansar parece otra tarea pendiente. Ojalá hoy puedas dejar una cosa para después sin sentir que estás fallando por eso.",
-      "Cuídate un poquito, mi vida. No tienes que poder con todo al mismo tiempo para seguir siendo esa persona capaz y bonita que eres."
+      "Quizá hasta ahora algunas cosas podían parecer parte de una amistad bonita. Pero quiero que, desde aquí, sepas que mi interés va un poquito más allá. Me atraes, me gusta conocerte y me ilusiona la posibilidad de que podamos construir algo que tenga un lugar distinto en nuestras vidas.",
+      "No espero que tengas todas las respuestas ni quiero que sientas que debes corresponderme por recibir estos mensajes. Prefiero que lo descubras a tu ritmo. Lo que sí quiero es que no tengas que adivinar desde dónde te estoy hablando."
     ],
-    "detalle": "Ordena solo lo que te ayude a respirar mejor, no para cumplir una idea ajena de cómo debe verse todo. A veces despejar un rincón sirve más para la cabeza que para la fotografía.",
-    "buenasNoches": "Que la noche te encuentre con menos ruido alrededor y menos ruido por dentro. No todo se ordena hoy, y no pasa nada.",
+    "detalle": "Hoy piensa qué hace que una conexión te dé tranquilidad: poder hablar con sinceridad, reírte sin medir cada palabra, sentirte respetada y tener espacio para elegir. Para mí, acercarme a ti también significa cuidar eso.",
+    "buenasNoches": "Buenas noches, Aleja. No quiero que lo que estamos construyendo se sienta como una carrera ni como una obligación. Solo quería dejar clara mi intención: no te escribo para quedarme necesariamente en la casilla de amigo. Me gustaría descubrir contigo si podemos ser algo más, si tú también lo quieres. Descansa.",
     "cancionTitulo": "93 'Til Infinity",
     "cancionArtista": "Souls of Mischief",
     "youtubeId": "fXJc2NYwHjw",
