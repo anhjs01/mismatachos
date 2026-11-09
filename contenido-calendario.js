@@ -1770,7 +1770,7 @@ const CALENDARIO = [
     "dia": 74,
     "fecha": "2026-12-28",
     "fechaTexto": "lun, 28 de dic",
-    "categoria": "Un color elegido por ti",
+    "categoria": "El color que hoy te encuentre",
     "icono": "🪻",
     "tono": "creativo",
     "color": {
@@ -1778,13 +1778,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hoy te propongo un juego de mirada artística: escoge un color que te llame la atención y piensa qué sensación te transmite. No hay respuesta correcta; a veces un tono dice algo distinto según el día.",
+    "buenosDias": "Hoy quiero proponerte algo de observación, de esos detalles que normalmente pasan de largo: fíjate en un color que aparezca durante tu día y que por alguna razón te llame la atención. Puede estar en una prenda, una flor, un aviso, el cielo o cualquier rincón inesperado.",
     "poema": [
-      "Podrías convertirlo en el protagonista de una postal, una maceta decorada o un pequeño cuadro. Yo elegiría otro color para acompañarlo y después intentaríamos mezclarlos sin pelear por quién tiene mejor gusto.",
-      "Aunque sospecho que terminaríamos defendiendo nuestras combinaciones como si estuviéramos en una exposición muy importante. Con críticos exigentes y presupuesto de dos marcadores."
+      "A veces un color cambia por completo según la luz y el lugar donde aparece. Hay tonos que transmiten calma, otros que tienen carácter y algunos que simplemente nos gustan sin que sepamos explicar por qué.",
+      "Me da curiosidad conocer tu mirada: no quiero escoger por ti ni convertirlo en otra tarea artística. Solo descubrir qué detalle captó tu atención hoy y qué nombre le pondrías a ese tono si pudieras bautizarlo."
     ],
-    "detalle": "Si te apetece, mándame el color que escogiste y dime qué nombre le pondrías. Yo buscaré uno que combine y entre los dos inventamos una pequeña paleta para una creación futura.",
-    "buenasNoches": "Buenas noches, artista. Ojalá hoy hayas encontrado un color que te represente un poquito. Guárdalo para cuando quieras darle forma a una idea.",
+    "detalle": "Si encuentras ese color, descríbemelo o mándame una foto si te nace. Yo intentaré adivinar qué nombre le pondrías y te contaré qué sensación me transmite a mí. No hay que crear nada ni buscar materiales; basta con mirar alrededor.",
+    "buenasNoches": "Buenas noches. Ojalá el día te haya regalado algún detalle bonito, aunque haya sido pequeño. Me gusta pensar que tu forma de mirar puede encontrar algo especial incluso en los lugares de siempre.",
     "cancionTitulo": "Kiss Of Life",
     "cancionArtista": "Sade",
     "youtubeId": "MmOau-PMWJk",
