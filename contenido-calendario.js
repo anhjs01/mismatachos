@@ -940,7 +940,7 @@ const CALENDARIO = [
     "dia": 40,
     "fecha": "2026-11-24",
     "fechaTexto": "mar, 24 de nov",
-    "categoria": "Una invitación con tu firma",
+    "categoria": "Una carpeta con planes y espacio para tus ideas",
     "icono": "😊",
     "tono": "jugueton",
     "color": {
@@ -948,13 +948,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Reto pequeño para hoy: sorpréndeme con una invitación. Puede ser una pregunta, un café, una caminata o una propuesta que empiece con «¿y si…?». Esta vez la primera idea sale de ti.",
+    "buenosDias": "Buenos días, Aleja. Te voy a confesar algo: tengo una carpeta que se llama «Planes con Aleja». No es una agenda ni una lista de cosas que tengas que aceptar; es más bien un rincón donde voy guardando ideas que algún día me gustaría proponerte.",
     "poema": [
-      "Me gusta cuando alguien se anima a proponer algo sin tener todo resuelto. Hay encanto en esa espontaneidad que dice: se me ocurrió esto y pensé en ti.",
-      "No necesitas preparar un plan espectacular. A veces una frase tuya basta para cambiarle el tono al día."
+      "Hay planes sencillos, otros un poquito diferentes y algunos que todavía están apenas en borrador. La idea no es llegar con todo decidido ni sorprenderte a la fuerza. Me gustaría que un día nos sentemos a mirar qué hay ahí, escojamos cuáles nos llaman la atención y dejemos que tú también cambies, descartes o inventes propuestas.",
+      "Y no te voy a revelar ahora todo lo que tiene esa carpeta… quizá me gusta un poquito la idea de que te dé curiosidad preguntarme qué he guardado. También quiero saber qué pondrías tú: al fin y al cabo, los mejores planes no deberían llevar una sola firma."
     ],
-    "detalle": "Si te animas, envíame una invitación de máximo una línea. Y si no se te ocurre nada, puedes mandarme solamente «tengo un plan» y dejarme con la intriga.",
-    "buenasNoches": "Buenas noches. Si hoy apareció una idea tuya, aunque fuera pequeñita, ya me alegró el día. Y si quedó pendiente, la curiosidad puede esperar hasta mañana.",
+    "detalle": "Cuando quieras, podemos abrir esa carpeta juntos y revisar las ideas con calma: cuáles se pueden hacer pronto, cuáles necesitan más tiempo y cuáles merecen quedarse como sueños por ahora. Si te da curiosidad, puedes preguntarme cuál es el primer plan que anoté; pero también quiero que llegues con alguna idea tuya para agregar.",
+    "buenasNoches": "Que descanses, Aleja. La carpeta sigue guardada y todavía tiene páginas por llenar. No tienes que escoger nada hoy; me gusta pensar que algún día la abriremos, nos reiremos de alguna idea y terminaremos eligiendo un plan que quizá ninguno había imaginado por separado.",
     "cancionTitulo": "Insane in the Brain",
     "cancionArtista": "Cypress Hill",
     "youtubeId": "RijB8wnJCN0",
