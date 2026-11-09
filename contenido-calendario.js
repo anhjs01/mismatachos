@@ -1576,21 +1576,22 @@ const CALENDARIO = [
     "dia": 66,
     "fecha": "2026-12-20",
     "fechaTexto": "dom, 20 de dic",
-    "categoria": "Una canción para el camino",
+    "categoria": "La pequeña tradición de cada salida",
     "icono": "🔁",
-    "tono": "musical",
+    "tono": "musical_tierno",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Elige una canción que pondrías si saliéramos de la ciudad en bus. No tiene que hablar de viajes; solo debe hacer que mirar por la ventana se sienta un poquito más cinematográfico.",
+    "buenosDias": "Hay planes que se recuerdan por el lugar y otros por una costumbre pequeñita que termina acompañándolos. Hoy se me ocurre inventar una para cualquier paseo que hagamos: antes de salir, cada uno escoge una canción para el camino. Sin obligación de que combine con el destino; basta con que quiera compartirla.",
     "poema": [
-      "Me imagino los asientos, el paisaje cambiando y una lista de canciones que vamos turnando. Una escoge tú, otra yo, y ninguna necesita explicación si nos gusta cómo suena.",
-      "Quizá el destino sea un pueblo cercano, quizá solo una salida improvisada. La música puede empezar a elegir el ambiente antes de que decidamos el lugar."
+      "Me imagino el trayecto en bus, los paisajes cambiando detrás de la ventana y nuestras canciones turnándose. Una la eliges tú, otra yo. Quizá alguna termine asociada a un viaje, a una tarde cualquiera o a una conversación que se nos quedó grabada.",
+      "Con el tiempo podríamos tener una lista que crezca con cada salida. No sería una banda sonora perfecta ni una playlist que haya que completar; sería una colección de momentos, gustos y descubrimientos de los dos.",
+      "Y si un día no hay paseo, también vale compartir una canción para acompañar el camino de vuelta a casa o simplemente hacer más amable una tarde."
     ],
-    "detalle": "Mándame tu canción para ese trayecto y dime si la pondrías al salir, cuando aparezca el paisaje o de regreso. Después yo elijo otra para completar la lista.",
-    "buenasNoches": "Que descanses. La ruta todavía no está elegida, pero ya tenemos una canción para el camino. A veces una buena salida empieza mucho antes de comprar los pasajes.",
+    "detalle": "Elige la primera canción de esa lista imaginaria y dime en qué momento la pondrías: al arrancar el viaje, cuando empiece a cambiar el paisaje o de regreso. Yo agregaré la mía. Si te gusta la idea, cada vez que organicemos una salida iremos sumando una canción y quien elija el destino no tendrá que encargarse también de toda la música.",
+    "buenasNoches": "Buenas noches. Me gusta la idea de que algunas tradiciones no necesiten fechas especiales ni grandes preparativos. Quizá un día escuchemos una de estas canciones y nos acordemos de un trayecto, de una vista por la ventana o de cómo empezó un plan sencillo. Por ahora, la primera canción queda a tu elección.",
     "cancionTitulo": "I Want You Around",
     "cancionArtista": "Snoh Aalegra",
     "youtubeId": "WdyPcNEA27M",
