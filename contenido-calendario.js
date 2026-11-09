@@ -916,21 +916,21 @@ const CALENDARIO = [
     "dia": 39,
     "fecha": "2026-11-23",
     "fechaTexto": "lun, 23 de nov",
-    "categoria": "Cuando una idea te enciende",
+    "categoria": "Esta vez eliges tú el rumbo",
     "icono": "🔥",
-    "tono": "filosofica",
+    "tono": "complicidad",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "A veces una idea llega con tanta fuerza que te dan ganas de levantarte a probarla antes de que se te olvide. Ojalá hoy te visite una de esas.",
+    "buenosDias": "Hoy te propongo cambiar una pequeña costumbre: no voy a elegir yo el plan. Quiero saber qué lugar te daría ganas de salir un rato, respirar distinto y olvidarte de las pendientes.",
     "poema": [
-      "Me gusta imaginarte con ese brillo de cuando algo te emociona de verdad. Es como si por un momento todo lo demás bajara el volumen y solo existiera lo que estás pensando hacer.",
-      "Hazle caso a esa chispa, corazón. Aunque solo puedas empezar un poquito, me encantará saber qué se te ocurrió esta vez."
+      "A veces basta con salir de la rutina para que el día se sienta nuevo: caminar por un sitio bonito, descubrir una cafetería o sentarse a mirar el paisaje sin afán.",
+      "Hoy te cedo el mapa imaginario: tú eliges el tipo de lugar y yo pongo las ganas de acompañarte. No tiene que ser algo grande para convertirse en un buen recuerdo."
     ],
-    "detalle": "Cuando te entusiasmes contando una idea, no te cortes por miedo a sonar demasiado emocionada. Esa chispa tuya merece espacio, incluso si todavía no sabes exactamente cómo va a terminar.",
-    "buenasNoches": "Descansa, mi vida. Las ideas buenas no desaparecen solo porque duermas; a veces vuelven mañana con más claridad.",
+    "detalle": "Tu turno de tomar la iniciativa: mándame una idea de plan que te gustaría hacer algún día. Puede ser sencilla, inesperada o hasta medio absurda; prometo no convertirla en una reunión de logística.",
+    "buenasNoches": "Que descanses. Me quedo con la curiosidad de saber qué lugar escogerías si mañana pudiéramos regalarle unas horas a la tranquilidad.",
     "cancionTitulo": "El Día de Mi Suerte",
     "cancionArtista": "El Redcode",
     "youtubeId": "ApqRPZ8xO6g",
@@ -940,21 +940,21 @@ const CALENDARIO = [
     "dia": 40,
     "fecha": "2026-11-24",
     "fechaTexto": "mar, 24 de nov",
-    "categoria": "La risa que rompe la seriedad",
+    "categoria": "Una invitación con tu firma",
     "icono": "😊",
-    "tono": "amor",
+    "tono": "jugueton",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Reto de hoy: encontrar algo ridículo que te haga reír de verdad, de esas tonterías que no se pueden explicar sin que pierdan la gracia.",
+    "buenosDias": "Reto pequeño para hoy: sorpréndeme con una invitación. Puede ser una pregunta, un café, una caminata o una propuesta que empiece con «¿y si…?». Esta vez la primera idea sale de ti.",
     "poema": [
-      "Hay sonrisas bonitas y luego está esa que intentas esconder y no te sale. Las pecas aparecen, los ojos se te iluminan y quien esté cerca termina queriendo saber qué fue lo que pasó.",
-      "Si hoy te pasa, no la escondas, amor. Y si te ríes leyendo esto, por favor imagíname intentando hacerme el interesante y fallando con bastante dignidad."
+      "Me gusta cuando alguien se anima a proponer algo sin tener todo resuelto. Hay encanto en esa espontaneidad que dice: se me ocurrió esto y pensé en ti.",
+      "No necesitas preparar un plan espectacular. A veces una frase tuya basta para cambiarle el tono al día."
     ],
-    "detalle": "Si hoy te ríes en un momento serio, intenta no pedir perdón automáticamente. A veces una risa afloja el día; y si no era el momento, siempre puedes poner esa cara tuya de ‘yo no fui’.",
-    "buenasNoches": "Buenas noches, corazón. Ojalá hoy te hayas reído en un momento inesperado. Y si te salió esa cara de inocente después, me habría encantado verla.",
+    "detalle": "Si te animas, envíame una invitación de máximo una línea. Y si no se te ocurre nada, puedes mandarme solamente «tengo un plan» y dejarme con la intriga.",
+    "buenasNoches": "Buenas noches. Si hoy apareció una idea tuya, aunque fuera pequeñita, ya me alegró el día. Y si quedó pendiente, la curiosidad puede esperar hasta mañana.",
     "cancionTitulo": "Insane in the Brain",
     "cancionArtista": "Cypress Hill",
     "youtubeId": "RijB8wnJCN0",
@@ -964,21 +964,21 @@ const CALENDARIO = [
     "dia": 41,
     "fecha": "2026-11-25",
     "fechaTexto": "mié, 25 de nov",
-    "categoria": "La repetición que se vuelve favorita",
+    "categoria": "La canción que tú me dedicarías",
     "icono": "🎵",
-    "tono": "ambiente",
+    "tono": "musical",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Si hoy encuentras una canción que te haga volver al principio apenas termina, disfrútala sin justificar la repetición. Algunas melodías necesitan más de una vuelta para decir lo que uno sintió la primera vez.",
+    "buenosDias": "Hoy quiero conocer tu banda sonora, pero con una regla distinta: no voy a escoger la canción. Elige tú una que te gustaría que escuchara y mándamela cuando te nazca.",
     "poema": [
-      "A veces el estribillo llega justo cuando uno lo necesita, aunque no estuviera buscando nada en particular. Me da curiosidad qué parte de una canción te hace volver una y otra vez.",
-      "Mándame una de esas canciones, mi vida. Quiero conocer ese pedacito de música al que vuelves cuando nadie te está recomendando nada."
+      "Puede ser una canción que te dé energía, una que te calme o una que tenga una frase que no has sabido cómo decir en voz alta.",
+      "Me gusta la idea de descubrir algo a través de tus elecciones. A veces una canción cuenta un poquito de quien la comparte, incluso sin explicar por qué."
     ],
-    "detalle": "Pon otra vez esa canción si todavía te acompaña por dentro. No todo lo repetido se vuelve aburrido; algunas cosas se quedan porque todavía nos hacen sentir algo.",
-    "buenasNoches": "Que descanses, amor. Puedes escuchar esa canción una última vez si te hace bien, pero no hagas tratos imposibles con el botón de repetir cuando ya te estés quedando dormida.",
+    "detalle": "Tu iniciativa musical del día: escoge la canción y, si quieres, acompáñala con una sola pista: «escucha bien la letra», «me recuerda a…» o «simplemente me gusta».",
+    "buenasNoches": "Que descanses. Si me compartiste una canción, la dejo sonando un rato más; si todavía la estás buscando, no hay afán. Quiero que sea una elección tuya.",
     "cancionTitulo": "Put Your Records On",
     "cancionArtista": "Corinne Bailey Rae",
     "youtubeId": "oWQl00LWEwE",
@@ -988,21 +988,21 @@ const CALENDARIO = [
     "dia": 42,
     "fecha": "2026-11-26",
     "fechaTexto": "jue, 26 de nov",
-    "categoria": "Pasta a tu manera o arroz con huevo",
+    "categoria": "El antojo lo decides tú",
     "icono": "🍳",
-    "tono": "amor",
+    "tono": "cotidiano",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Pregunta gastronómica del día: ¿pasta o arroz con huevo? No hay respuesta incorrecta, pero sí una regla importante: nada de sal añadida y nada de discutirle el antojo a la protagonista.",
+    "buenosDias": "Pregunta importante para empezar el día: si hoy pudieras escoger un antojo sencillo, ¿qué ganaría? ¿Algo dulce, una pasta, un café tranquilo o ese plato que siempre se te antoja?",
     "poema": [
-      "Podemos discutir sobre salsas, puntos de cocción y cuál queda mejor un domingo perezoso, pero la decisión final la tiene quien se va a comer el plato. Es decir, tú.",
-      "Si algún día cocinamos, corazón, yo me encargo de ayudar y de probar la pasta con una seriedad de jurado gastronómico. No prometo que mis críticas sean útiles."
+      "Imagino una mesa sin protocolo, una charla que va y viene y algo rico para compartir. Nada de complicarse ni de ponerle sal de más a la comida: que el sabor haga su trabajo.",
+      "Y esta vez no voy a escoger por los dos. Me interesa conocer tu antojo y, sobre todo, qué lugar se te ocurre para disfrutarlo."
     ],
-    "detalle": "Si toca elegir entre pasta o arroz con huevo, no hay necesidad de enfrentar a los dos platos como si solo uno pudiera existir. Cada antojo tiene su día, y ambos merecen su oportunidad.",
-    "buenasNoches": "Buenas noches, mi vida. Mañana decides cuál antojo gana; esta noche no hace falta convocar una cumbre entre la pasta y el arroz con huevo.",
+    "detalle": "Propón tú el plan gastronómico: elige el antojo y el ambiente. Puede quedarse en una idea para otro día; lo bonito es que la invitación empiece de tu lado.",
+    "buenasNoches": "Buenas noches. Ojalá hayas terminado el día con algo que te gustara. Me quedo esperando, sin apuro, ese antojo que algún día quieras convertir en plan.",
     "cancionTitulo": "Feel So Good",
     "cancionArtista": "Mase",
     "youtubeId": "rIvEiTrq9kk",
@@ -1012,21 +1012,21 @@ const CALENDARIO = [
     "dia": 43,
     "fecha": "2026-11-27",
     "fechaTexto": "vie, 27 de nov",
-    "categoria": "Lo que parece pequeño también cuenta",
+    "categoria": "Un detalle que nace de ti",
     "icono": "🥄",
-    "tono": "filosofica",
+    "tono": "tierno",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Hoy vale la pena prestar atención a una cosa pequeña: algo que alguien recuerde de ti, o un detalle tuyo que puedas devolverle a otra persona sin hacer ruido.",
+    "buenosDias": "Hoy no hace falta hacer algo enorme. Si alguien se te viene a la cabeza, piensa en un detalle pequeño que te gustaría tener con esa persona: una canción, una frase, una foto bonita o un mensaje inesperado.",
     "poema": [
-      "No hace falta que el gesto sea enorme. A veces basta con que te guarden el último pedazo que te gusta, te manden una canción que te recuerda a algo o te pregunten por ese proyecto que mencionaste hace días.",
-      "Y si hoy eres tú quien nota algo pequeño de alguien, díselo. Los detalles también pueden ser una manera de decir «te presto atención»."
+      "Los gestos más lindos no siempre llegan envueltos. A veces son un «vi esto y me acordé de ti», una pregunta hecha con atención o compartir algo que te hizo sonreír.",
+      "También me gustaría conocer esa forma tuya de demostrar cariño, sin dictarte cómo hacerlo ni pedirte que lo hagas. Cada quien tiene su manera."
     ],
-    "detalle": "Si alguien tiene un gesto bonito contigo, permítete recibirlo sin minimizarlo. No tienes que decir ‘no era necesario’ tres veces; puedes sonreír y dejar que el cariño llegue.",
-    "buenasNoches": "Que duermas rico, corazón. No subestimes el efecto de un detalle recordado; a veces alguien demuestra cariño sin hacer ningún anuncio.",
+    "detalle": "Si te nace, toma la iniciativa y comparte conmigo algo que hoy te haya recordado a mí. No tiene que ser romántico ni elaborado; puede ser una tontería que solo tú entiendas.",
+    "buenasNoches": "Descansa. Los detalles espontáneos tienen algo especial: no llegan por compromiso, sino porque a alguien le nació compartirlos.",
     "cancionTitulo": "Best Part (feat. H.E.R.)",
     "cancionArtista": "Daniel Caesar; H.E.R.",
     "youtubeId": "vBy7FaapGRo",
@@ -1036,21 +1036,21 @@ const CALENDARIO = [
     "dia": 44,
     "fecha": "2026-11-28",
     "fechaTexto": "sáb, 28 de nov",
-    "categoria": "Una charla que se alarga sin darse cuenta",
+    "categoria": "Un día de bus y cero afán",
     "icono": "🥂",
-    "tono": "amor",
+    "tono": "aventurero",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Ojalá hoy te encuentres en una conversación que empiece con una bobada y termine tocando temas que no tenías pensado contar. Las buenas charlas suelen tomar sus propias rutas.",
+    "buenosDias": "¿Y si un día nos escapamos de la rutina en bus? Sin carro, sin correr y sin agenda apretada: salir por la mañana, llegar a un lugar agradable y regalarnos unas horas para respirar distinto.",
     "poema": [
-      "Me gustan las charlas que se permiten cambiar de tema sin avisar: un chisme, una canción, una idea absurda, algo serio y otra vez una risa. Ahí es donde uno se va conociendo sin hacer entrevista.",
-      "Si hoy te pasa, quédate un poquito más, amor. Y si no, aquí queda la invitación a una conversación sin guion cuando te provoque."
+      "Me imagino la ventana, la música compartida, algún paisaje que nos haga mirar hacia afuera y esa conversación que aparece cuando no hay que estar pendientes de nada.",
+      "Y quiero dejarte una parte importante del plan: tú eliges hacia dónde te gustaría ir. Puede ser un pueblo cercano, un mirador al que se llegue en bus o cualquier lugar donde podamos caminar, comer algo y volver el mismo día."
     ],
-    "detalle": "Si la conversación se alarga y de pronto ya pasó la hora, no siempre es tiempo perdido. A veces encontrarse con alguien con quien hablar sin estar mirando el reloj es un regalo raro.",
-    "buenasNoches": "Buenas noches, amor. Si la conversación de hoy se alargó sin que miraras la hora, quizá fue una buena manera de perder un poquito el tiempo.",
+    "detalle": "Ahora te toca diseñar la escapada: dime qué buscarías primero —paisaje, comida rica, naturaleza o un sitio para caminar— y qué canción pondrías en el trayecto. La idea es imaginarlo juntos, sin presión de hacerlo ya.",
+    "buenasNoches": "Buenas noches. Me gustó imaginar ese viaje sencillo: dos pasajes, una ventana y un día sin tantas obligaciones. Cuando te provoque, me gustaría escuchar tu versión del plan.",
     "cancionTitulo": "By Your Side",
     "cancionArtista": "Sade",
     "youtubeId": "C8QJmI_V3j4",
@@ -1060,21 +1060,21 @@ const CALENDARIO = [
     "dia": 45,
     "fecha": "2026-11-29",
     "fechaTexto": "dom, 29 de nov",
-    "categoria": "Una mirada que no necesita explicación",
+    "categoria": "Una indirecta que puedes devolver",
     "icono": "👁️",
-    "tono": "amor",
+    "tono": "coqueto",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días, bonita. Tus ojos cafés y tu sonrisa tienen una combinación bastante injusta: uno intenta mantener una conversación normal y de repente se le olvida la frase que estaba armando.",
+    "buenosDias": "Buenos días, bonita. Hoy te dejo una pequeña ventaja: puedes devolverme una indirecta. No tiene que ser evidente; puede ser una frase con doble sentido, un cumplido o una pregunta que me deje pensando.",
     "poema": [
-      "Y las pecas, corazón… aparecen justo cuando sonríes, como si supieran que ese es su mejor momento para robarse la atención. No sé si tú te das cuenta del efecto completo, pero yo quería dejar constancia.",
-      "No hace falta que respondas nada a este piropo. Solo léelo, sonríe si te nace y sigue con tu día sabiendo que alguien se fijó en esos detalles."
+      "Hay miradas que despiertan curiosidad y conversaciones que se quedan dando vueltas después de despedirse. A mí me gusta esa tensión bonita cuando ambos pueden jugar un poco con lo que dicen.",
+      "Y no quiero ser siempre quien lanza la primera señal. También me daría curiosidad descubrir cómo coqueteas tú, si te nace hacerlo."
     ],
-    "detalle": "Si alguien te mira con cariño, no tienes que descifrarlo todo en el acto. Hay gestos que se entienden mejor cuando uno los deja ser, sin interrogarlos como sospechosos.",
-    "buenasNoches": "Descansa, bonita. No tienes que descifrar cada mirada antes de dormir; algunas cosas pueden sentirse bonitas sin convertirse en un examen.",
+    "detalle": "Tu turno: inventa una indirecta para mí. Puede ser tierna, graciosa o un poquito atrevida, siempre a tu manera. No hay respuesta correcta ni obligación de participar.",
+    "buenasNoches": "Que descanses, bonita. Si hoy me devolviste una indirecta, seguro me dejaste repasándola más de una vez. Y si no, la puerta queda abierta para cuando te nazca.",
     "cancionTitulo": "Stuck On You",
     "cancionArtista": "GIVĒON",
     "youtubeId": "UlIgAGotomM",
