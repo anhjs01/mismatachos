@@ -1550,21 +1550,22 @@ const CALENDARIO = [
     "dia": 65,
     "fecha": "2026-12-19",
     "fechaTexto": "sáb, 19 de dic",
-    "categoria": "El concurso de la peor imitación",
+    "categoria": "Tu lista de cosas por cumplir, a tu manera",
     "icono": "😆",
-    "tono": "humor",
+    "tono": "admiracion_cercana",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Hoy propongo un concurso sin premios: hacer la peor imitación posible de una escena cotidiana. Puede ser alguien buscando las llaves, tratando de elegir qué comer o diciendo «ya casi estoy» cuando apenas va empezando.",
+    "buenosDias": "Me acuerdo de que tienes una lista de cosas que quieres cumplir este año. Hoy no quiero convertirla en una agenda ni preguntarte cuánto llevas avanzado. Solo quiero recordarte que cada meta habla de algo que te importa, y que merece tener un espacio incluso cuando la vida se llena de otras cosas.",
     "poema": [
-      "La gracia no está en hacerlo bien, sino en sostener el personaje con una seriedad absurda. Si alguien se ríe primero, pierde; aunque probablemente los dos terminemos perdiendo en el primer minuto.",
-      "Me gustaría ver qué personaje escogerías tú. Tengo la sospecha de que tu versión sería mucho más convincente que la mía."
+      "Hay objetivos que se cumplen rápido y otros que necesitan tiempo, dinero, valentía, paciencia o simplemente encontrar el momento adecuado. Algunos quizá cambien de forma mientras avanzas, y eso no significa que hayas fracasado: también puedes revisar el camino y elegir de nuevo.",
+      "Me gusta pensar en todo lo que hay detrás de tus ganas: las cosas que quieres aprender, los lugares que deseas conocer, las experiencias que te debes y las versiones de ti que todavía quieres descubrir. No necesitas demostrarle a nadie que puedes con todo.",
+      "Ojalá puedas mirar tus avances con orgullo, incluso esos que desde fuera parecen pequeños. A veces sostener una intención y seguir intentándolo ya dice mucho de ti."
     ],
-    "detalle": "Escoge una situación para imitar y mándame una pista escrita o un audio si te apetece. Yo intento adivinarla y luego te envío mi peor actuación. No hay obligación de grabar nada: también vale describirla.",
-    "buenasNoches": "Buenas noches. Espero que hoy hayas tenido al menos una razón para reírte. Si no, queda pendiente ese concurso ridículo que probablemente terminaríamos perdiendo los dos.",
+    "detalle": "Si te apetece, elige una cosa de tu lista que todavía te ilusione especialmente. Cuéntame qué te atrae de ella y qué necesitarías para acercarte un poquito más: tiempo, compañía, organización, ahorrar o simplemente animarte. Si quieres que participe, podemos pensar juntos en un primer paso realista; y si prefieres hacerlo por tu cuenta, también voy a celebrar que sea algo tuyo.",
+    "buenasNoches": "Buenas noches. No midas tu año únicamente por las casillas que lograste marcar. También cuentan las veces que te atreviste, lo que aprendiste, lo que cambiaste de opinión y todo lo que hiciste mientras intentabas llegar. Tus metas son tuyas; ojalá nunca pierdas la libertad de elegir cuáles siguen teniendo sentido para ti.",
     "cancionTitulo": "Let's Get It Started - Spike Mix",
     "cancionArtista": "Black Eyed Peas",
     "youtubeId": "mRaQAdynxto",
