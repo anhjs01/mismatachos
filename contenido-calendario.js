@@ -684,13 +684,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Vi esa lista de cosas que quieres cumplir este año y me gustó imaginarte tachando cada una, viviendo experiencias nuevas y guardando recuerdos que te hagan feliz. Hoy quiero añadir una idea mía a esa lista.",
+    "buenosDias": "Buenos días, Aleja. Hoy quiero proponerte un plan que llevo un tiempo imaginando: escaparnos a la playa, cambiar el ruido de todos los días por el sonido del mar y regalarnos una experiencia que podamos recordar.",
     "poema": [
-      "Quiero llevarte a la playa. Imagino llegar con tiempo para caminar junto al mar, ver cómo cae el sol y quedarnos disfrutando de ese atardecer. Después, si organizamos bien el viaje y encontramos una opción cómoda y segura para pasar la noche, me gustaría despertar contigo y ver amanecer frente al mar.",
+      "Me gustaría llevarte a la playa y llegar con tiempo para caminar junto al mar, ver cómo cae el sol y quedarnos disfrutando de ese atardecer. Y si organizamos bien el viaje y encontramos una opción cómoda y segura para pasar la noche, también quisiera despertar contigo y ver amanecer frente al mar.",
       "No quiero dejarlo como una frase bonita que se queda en el aire. Podríamos empezar un ahorro aparte, aunque sea de a poquitos, para que ese día tenga su propio presupuesto y se vaya acercando. Me gustaría que lo planeáramos entre los dos: cuándo, cuánto podemos guardar y qué playa nos gustaría conocer."
     ],
-    "detalle": "Te propongo que este viernes sea el primer paso: pensemos cuánto podríamos separar cada uno para ese viaje, sin presión y según nuestras posibilidades. No tenemos que tener todo resuelto ahora; podemos ponerle una meta y verla crecer juntos.",
-    "buenasNoches": "Buenas noches, Aleja. Me gusta imaginar ese momento en que el cielo empiece a aclarar y nos demos cuenta de que pasamos la noche esperando juntos el amanecer. Ojalá algún día podamos cambiar esta imagen por el recuerdo real. Y si lo hacemos, quiero que sea un plan elegido y construido por los dos.",
+    "detalle": "Te propongo que hoy demos el primer paso: pensemos cuánto podríamos separar cada uno para ese viaje, sin presión y según nuestras posibilidades. También quiero que elijamos juntos el lugar y la fecha; no quiero que sea solamente mi plan, sino uno que nos ilusione a los dos.",
+    "buenasNoches": "Buenas noches, Aleja. Me gusta imaginar ese momento en que el cielo empiece a aclarar y nos demos cuenta de que pasamos la noche esperando juntos el amanecer. Ojalá algún día podamos cambiar esta imagen por el recuerdo real. Por ahora, podemos empezar poco a poco a acercarnos a ese día.",
     "cancionTitulo": "If I Ain't Got You",
     "cancionArtista": "Alicia Keys",
     "youtubeId": "Ju8Hr50Ckwk",
