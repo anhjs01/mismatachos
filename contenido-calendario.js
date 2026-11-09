@@ -1301,21 +1301,21 @@ const CALENDARIO = [
     "dia": 55,
     "fecha": "2026-12-09",
     "fechaTexto": "mié, 9 de dic",
-    "categoria": "Crear algo que nos llevemos a casa",
+    "categoria": "Esos detalles tuyos que llaman mi atención",
     "icono": "🪡",
-    "tono": "creativo",
+    "tono": "coqueto",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Se me ocurre una tarde de manualidades: escoger una pieza sencilla —un marco, una cajita o una maceta— y decorarla entre los dos. Algo que podamos terminar sin afán y llevarnos como recuerdo.",
+    "buenosDias": "Hay detalles que hacen que uno se fije en alguien casi sin proponérselo: la forma de sonreír, una mirada concentrada, cómo se acomoda el cabello o ese estilo que parece decir mucho sin tener que explicarlo. A veces no es una sola cosa, sino la manera en que todo se combina.",
     "poema": [
-      "Cada quien podría elegir una parte del diseño: tú decides los colores y yo propongo las formas, o al revés. Lo mejor sería ver cómo dos estilos distintos encuentran la manera de convivir en el mismo objeto.",
-      "Y si no queda perfecto, mejor: así tendrá una historia propia y no parecerá algo que salió de una estantería."
+      "No creo que la atracción se pueda resumir en una lista de rasgos. También está en la expresión que aparece cuando hablas de algo que te entusiasma, en cómo cambia tu voz cuando te ríes y en esos gestos que quizá haces sin notar.",
+      "Y sí, hay detalles tuyos que me llaman la atención. Pero me gusta más la idea de descubrirlos con calma, porque una persona no se vuelve interesante por encajar en una descripción: lo es por todo lo que transmite cuando simplemente está siendo ella."
     ],
-    "detalle": "Elige qué objeto te gustaría transformar: marco, cajita o maceta. Después cada uno propone un detalle que el otro debe incorporar. Una pequeña colaboración con permiso para reírse de los resultados.",
-    "buenasNoches": "Que descanses. Ojalá algún día podamos mirar ese objeto terminado y recordar las decisiones, las risas y las ideas que fuimos mezclando.",
+    "detalle": "Te propongo una pregunta con un poquito de coquetería: ¿qué detalle de tu apariencia o de tu estilo te gusta especialmente y sientes que te representa? Puede ser algo sencillo, una prenda, tu cabello, una forma de arreglarte o un accesorio. Yo también te cuento qué pequeños detalles suelo notar en alguien que me atrae, sin convertirlo en un examen ni en una lista de cumplidos.",
+    "buenasNoches": "Buenas noches. Hay detalles que uno nota y guarda para sí, no para analizar a alguien, sino porque le despiertan una sonrisa. Me gusta descubrir esas particularidades tuyas que hacen que tu presencia tenga una forma propia.",
     "cancionTitulo": "La Terrera",
     "cancionArtista": "Rupatrupa",
     "youtubeId": "2BW92cCp0T4",
