@@ -1647,7 +1647,7 @@ const CALENDARIO = [
     "dia": 69,
     "fecha": "2026-12-23",
     "fechaTexto": "mié, 23 de dic",
-    "categoria": "Una mesa para crear algo juntos",
+    "categoria": "Una idea creativa que podría tomar cualquier forma",
     "icono": "🍇",
     "tono": "creativo",
     "color": {
@@ -1655,13 +1655,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Se me ocurre una tarde de creatividad sin presión: buscar una mesa, sacar pinturas, marcadores o materiales sencillos y crear una pieza entre los dos. Cada uno empieza una parte y luego intercambiamos el trabajo.",
+    "buenosDias": "A veces una mesa, unos colores y una idea cualquiera son suficientes para pasar un rato distinto. Me gusta imaginar qué podría salir de juntar dos maneras de crear: quizá algo bonito, quizá un desastre artístico que termine siendo mucho más divertido de lo esperado.",
     "poema": [
-      "Tú puedes comenzar con los colores y yo continuar con las formas; después cambiamos y dejamos que el otro intervenga. El resultado quizá no siga ningún estilo, pero tendría algo de ambos.",
-      "Me gusta la idea de no saber exactamente cómo va a terminar. A veces crear juntos consiste en confiar un poquito en la ocurrencia del otro."
+      "Cada quien podría empezar por su lado, escoger sus materiales y dejar que la imaginación haga lo suyo. Tal vez los estilos combinen; tal vez terminen peleándose por el mismo color. En cualquiera de los dos casos, el resultado tendría una historia detrás.",
+      "No hace falta que sea un proyecto grande ni que ocurra pronto. Hay ideas que simplemente vale la pena guardar porque algún día podrían convertirse en una tarde curiosa."
     ],
-    "detalle": "Escoge el formato: una postal, un pequeño lienzo o una hoja grande para hacer un dibujo compartido. Yo propongo que cada uno añada un detalle sorpresa que el otro tenga que integrar.",
-    "buenasNoches": "Buenas noches. Ojalá algún día hagamos esa pieza compartida y terminemos preguntándonos cómo llegamos a ese resultado. No tiene que ser perfecta para quedarse con nosotros.",
+    "detalle": "Si tuvieras que elegir un formato para crear algo sin preocuparte por el resultado, ¿cuál escogerías: una postal, un lienzo pequeño o una hoja llena de garabatos? Me interesa saber por dónde se iría tu imaginación.",
+    "buenasNoches": "Buenas noches. Que nunca te falten materiales, ideas ni esa libertad de hacer algo solo porque te provoca. A veces las mejores creaciones empiezan sin saber cómo van a terminar.",
     "cancionTitulo": "Fui Silencio",
     "cancionArtista": "Sofía Gabanna; Jazzmind",
     "youtubeId": "KV2ECDqPyuY",
@@ -1695,7 +1695,7 @@ const CALENDARIO = [
     "dia": 71,
     "fecha": "2026-12-25",
     "fechaTexto": "vie, 25 de dic",
-    "categoria": "Un deseo que podamos convertir en plan",
+    "categoria": "Una experiencia que todavía te gustaría vivir",
     "icono": "🧶",
     "tono": "esperanzador",
     "color": {
@@ -1703,13 +1703,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Feliz Navidad. Hoy no te voy a dejar una lista de propósitos; prefiero una pregunta: ¿qué experiencia te gustaría vivir el próximo año y que todavía no has encontrado el momento de hacer?",
+    "buenosDias": "Feliz Navidad, Aleja. Entre tantos planes y propósitos, hoy me dio curiosidad una cosa: ¿qué experiencia te gustaría vivir el próximo año y que todavía no has encontrado el momento de hacer? Puede ser conocer un lugar, probar algo nuevo o cumplir una pequeña curiosidad.",
     "poema": [
-      "Puede ser conocer un lugar, aprender una técnica artística, visitar un pueblo, probar una comida o pasar una tarde haciendo algo que nunca has intentado.",
-      "Y si resulta que es un plan que podríamos compartir, podemos empezar por imaginarlo sin prometer fechas. Lo importante es que sea algo que de verdad te ilusione."
+      "Hay experiencias que no necesitan convertirse enseguida en una fecha del calendario. A veces basta con reconocer que nos ilusionan y dejarles un espacio entre tantas cosas pendientes.",
+      "Y quién sabe, quizá alguna idea coincida con las de otra persona y termine tomando una forma inesperada. Lo bonito es que siga siendo una elección propia, no una obligación más."
     ],
-    "detalle": "Elige una experiencia para tu lista del próximo año. Después, si te apetece, propón una que podamos hacer juntos: tú eliges una parte y yo otra.",
-    "buenasNoches": "Buenas noches y feliz Navidad. Ojalá alguno de esos deseos encuentre su camino hasta la realidad. Los planes bonitos empiezan a veces con atreverse a nombrarlos.",
+    "detalle": "Si te apetece, cuéntame una experiencia que te gustaría regalarte el próximo año. Puede ser solo para ti o algo que algún día tendría gracia compartir. Yo también escogeré una; por ahora, basta con dejarla sobre la mesa.",
+    "buenasNoches": "Buenas noches y feliz Navidad. Ojalá el año que viene te acerque a alguna de esas experiencias que hoy todavía viven en tu imaginación. No hay que resolverlo todo ahora.",
     "cancionTitulo": "Aero-Soul",
     "cancionArtista": "Alcolirykoz",
     "youtubeId": "jk9S5ca0Oh0",
@@ -1743,7 +1743,7 @@ const CALENDARIO = [
     "dia": 73,
     "fecha": "2026-12-27",
     "fechaTexto": "dom, 27 de dic",
-    "categoria": "Una escapada escogida entre los dos",
+    "categoria": "Una página más en la carpeta de planes",
     "icono": "♨️",
     "tono": "aventurero",
     "color": {
@@ -1751,13 +1751,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Hoy se me antoja abrir nuestra carpeta de «Planes con Aleja» y mirar una idea de esas que hemos ido guardando. No para llenar la agenda ni decidirlo todo de una vez; simplemente para escoger una posibilidad que nos entusiasme a los dos.",
+    "buenosDias": "Hoy me acordé de la carpeta «Planes con Aleja». Tiene algo divertido pensar en todas esas ideas guardadas: algunas quizá sigan teniendo sentido, otras cambiarán y seguro aparecerán unas que todavía ni se nos ocurren.",
     "poema": [
-      "Podría ser una salida de un día a un pueblo cercano, viajando en bus y caminando sin afán por sus calles. Tal vez encontremos un mirador, una plaza agradable o un sitio donde sentarnos a comer algo rico.",
-      "Pero no quiero escoger el destino por ti. Tú puedes decir qué paisaje te provoca y qué te gustaría hacer; yo busco opciones que encajen. Y si ese día preferimos algo más sencillo, cambiamos el plan por un parque y una tarde tranquila."
+      "Entre las posibilidades puede haber un pueblo para caminar sin afán, un mirador, una plaza bonita o simplemente un sitio nuevo donde probar algo rico. No hace falta decidir el destino antes de saber qué paisaje nos provoca.",
+      "Me gusta más imaginar esa carpeta como un borrador que como una agenda cerrada. Las mejores ideas también pueden cambiar cuando alguien aporta una ocurrencia inesperada."
     ],
-    "detalle": "Cuando revisemos la carpeta, escoge una idea que te llame la atención y cámbiale lo que quieras: el lugar, el recorrido o la actividad. Yo añadiré una pequeña sorpresa al plan. La idea es que los dos tengamos voz y que sea una salida de un día, sin carreras ni itinerarios imposibles.",
-    "buenasNoches": "Buenas noches. Me gusta que los planes no sean decisiones tomadas por una sola persona. Dejemos esa escapada guardada hasta que a los dos nos provoque hacerla realidad; por ahora, ya tenemos una idea para empezar a imaginar.",
+    "detalle": "Si hoy pudieras añadir una sola idea a esa carpeta, ¿qué tipo de plan pondrías: naturaleza, calles por explorar, arte o una tarde de comida rica? Puedes cambiarle todo lo que quieras; la carpeta no tiene reglas.",
+    "buenasNoches": "Buenas noches. Que esa carpeta siga creciendo con ideas tuyas también. Algunas se quedarán como ocurrencias y otras quizá encuentren su momento cuando menos lo esperemos.",
     "cancionTitulo": "Don't Know Why",
     "cancionArtista": "Norah Jones",
     "youtubeId": "tO4dxvguQDk",
@@ -1791,7 +1791,7 @@ const CALENDARIO = [
     "dia": 75,
     "fecha": "2026-12-29",
     "fechaTexto": "mar, 29 de dic",
-    "categoria": "Una tarde sin reloj",
+    "categoria": "Una tarde que no le debe explicaciones al reloj",
     "icono": "🕯️",
     "tono": "coqueto",
     "color": {
@@ -1799,13 +1799,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Hay días en los que el mejor plan es no tener que correr. Me imagino una tarde con café tinto, algo de chocolate amargo, música de fondo y la libertad de cambiar de idea a mitad del camino. Sin agenda estricta ni obligación de aprovechar cada minuto.",
+    "buenosDias": "Hay tardes que se disfrutan más cuando nadie está pendiente de aprovechar cada minuto. Un café tinto, algo de chocolate amargo, música de fondo y la posibilidad de cambiar de plan a mitad de camino ya suenan bastante bien.",
     "poema": [
-      "Me gustaría saber cómo sería tu versión de una tarde perfecta sin reloj. Tal vez prefieras salir a caminar, quedarte leyendo, poner una película o simplemente conversar mientras se hace de noche.",
-      "Yo puedo aportar el café y la selección musical, aunque acepto que tienes derecho a cambiar las canciones si mi gusto necesita supervisión. Y si un día coincidimos en esa tarde, prometo no llenarla de actividades."
+      "Quizá tu tarde ideal tenga una película, una caminata, un rato de lectura o simplemente silencio. La mía probablemente incluya música y una discusión innecesaria sobre qué canción debería sonar después.",
+      "Me parece bonito conocer esas formas sencillas de descansar. No todo momento agradable necesita convertirse en una cita ni tener un plan perfecto; a veces basta con saber qué cosas nos hacen bajar el ritmo."
     ],
-    "detalle": "Completa esta frase: «Una tarde ideal para desconectarme tendría…». Puedes incluir compañía o elegir estar por tu cuenta. Después te cuento cómo sería la mía y vemos si hay algún detalle que nos gustaría compartir algún día.",
-    "buenasNoches": "Buenas noches. Ojalá hayas tenido aunque sea un momento para bajar el ritmo. Me gusta la idea de conocerte también en esos gustos tranquilos, cuando no hace falta impresionar a nadie y basta con estar a gusto.",
+    "detalle": "Completa esta frase: «Cuando por fin tengo una tarde libre, lo que más me provoca es…». Puede ser salir o quedarte en casa. Quiero conocer tu versión, no convencerte de la mía.",
+    "buenasNoches": "Buenas noches. Ojalá hayas encontrado un momento para bajar el ritmo. Que nunca falten esas pequeñas pausas que hacen que un día común se sienta mucho mejor.",
     "cancionTitulo": "By Your Side",
     "cancionArtista": "Sade",
     "youtubeId": "C8QJmI_V3j4",
@@ -1864,7 +1864,7 @@ const CALENDARIO = [
     "dia": 78,
     "fecha": "2027-01-01",
     "fechaTexto": "vie, 1 de ene",
-    "categoria": "Que lo bonito también nos encuentre",
+    "categoria": "Que lo bonito también encuentre su momento",
     "icono": "🥳",
     "tono": "romantico",
     "color": {
@@ -1874,12 +1874,12 @@ const CALENDARIO = [
     },
     "buenosDias": "Feliz año nuevo, Aleja. Ojalá este año te regale salud, tranquilidad, proyectos que te emocionen, lugares nuevos por conocer y muchas razones para reírte de esas que te dejan sin aire. Que sigas haciendo espacio para tus ideas, tus gustos y todas esas cosas que quieres vivir. No tienes que convertir el primero de enero en una carrera: también puedes empezar despacio.",
     "poema": [
-      "Durante estos días quise dejarte algo más que mensajes: canciones para descubrir, preguntas para conocerte, ocurrencias, poemas, planes que podemos guardar y detalles inspirados en las cosas que me has contado. No espero que cada palabra tenga una respuesta ni que todos los planes se vuelvan realidad; quería que tuvieras un pequeño universo al que entrar cuando te apeteciera.",
-      "Hay ideas que me hacen sonreír, como revisar nuestra carpeta de «Planes con Aleja», escoger juntos algún lugar para escaparnos un día o seguir bromeando con esa boda civil por molestar y la capilla que algún día podríamos encontrar viajando. Y también hay cosas mucho más sencillas que me gustaría compartir: una conversación larga, una canción nueva o una tarde sin reloj.",
-      "Quiero decirte algo sin adornarlo demasiado: me gustas y me ilusiona seguir conociéndote. No quiero adelantarnos a lo que todavía no sabemos; prefiero que lo vayamos descubriendo con honestidad, complicidad y libertad para que ambos podamos elegir."
+      "Durante estos días quise dejarte algo más que mensajes: canciones para descubrir, preguntas, ocurrencias, poemas y algunas ideas inspiradas en cosas que me has contado. No espero que cada palabra tenga una respuesta ni que todos los planes se vuelvan realidad; la intención era dejarte pequeños detalles para cuando te apeteciera encontrarlos.",
+      "Hay ideas que todavía me hacen sonreír, como revisar la carpeta «Planes con Aleja», descubrir algún lugar nuevo o seguir con aquella broma de la boda civil por molestar y la capilla que podríamos encontrar viajando. Otras son mucho más sencillas: una canción, una conversación inesperada o una tarde sin reloj.",
+      "Supongo que algunas cosas se disfrutan más cuando no se explican antes de tiempo. Mejor dejar que los días, las conversaciones y las pequeñas coincidencias vayan mostrando qué lugar ocupa cada una."
     ],
-    "detalle": "Para comenzar el año, te propongo dos preguntas, sin convertirlas en una lista de obligaciones: ¿qué experiencia te gustaría regalarte este año? ¿Y hay algo que te daría ilusión que viviéramos juntos? Yo también te contaré mis respuestas. Podemos guardar las ideas en nuestra carpeta, modificarlas o dejarlas para otro momento; lo importante es que nazcan de los dos.",
-    "buenasNoches": "Y así termina este recorrido de 78 días. Gracias por abrir cada detalle y llegar hasta aquí. No sé exactamente qué forma tendrá lo que viene, pero sí sé que me gustaría seguir descubriéndote: celebrar tus logros, escuchar tus historias, reírnos de nuestras ocurrencias y, si los dos queremos, convertir algunas de estas ideas en recuerdos. Feliz comienzo de año, Aleja. Que lo bonito te encuentre, y que también tengas la valentía de ir a buscarlo.",
+    "detalle": "Para comenzar el año, te dejo una pregunta: ¿qué experiencia te gustaría regalarte este año? Puede ser una aventura, algo que quieras aprender o un gusto que tengas pendiente. Yo también tengo algunas ideas guardadas; quizá más adelante descubramos alguna coincidencia.",
+    "buenasNoches": "Y así termina este recorrido de 78 días. Gracias por abrir cada detalle y llegar hasta aquí. Ojalá alguno te haya sacado una sonrisa, te haya hecho pensar o simplemente te haya acompañado un ratito. Que este año te encuentre con libertad para elegir, motivos para ilusionarte y muchas historias nuevas por contar. Y quién sabe qué otras páginas puedan aparecer por el camino.",
     "cancionTitulo": "Freedom",
     "cancionArtista": "Pharrell Williams",
     "youtubeId": "LlY90lG_Fuw",
