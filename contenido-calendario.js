@@ -990,7 +990,7 @@ const CALENDARIO = [
     "dia": 42,
     "fecha": "2026-11-26",
     "fechaTexto": "jue, 26 de nov",
-    "categoria": "Tus gustos también tienen pequeñas historias",
+    "categoria": "Un mapa pequeño de tus antojos",
     "icono": "🍳",
     "tono": "cotidiano",
     "color": {
@@ -998,13 +998,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, Aleja. Pregunta de hoy, completamente seria y con consecuencias imaginarias: ¿qué comida podrías repetir varias veces sin aburrirte y cuál no aceptarías ni aunque te la recomendaran con mucha emoción? Quiero conocer tanto tus favoritos como tus «por ahí no».",
+    "buenosDias": "Buenos días, Aleja. Hoy apareció una pregunta importante para cualquier conversación que se respete: ¿qué comida te conquista sin tener que pensarlo mucho y cuál tiene prohibida la entrada a tu plato? Hay gustos que se defienden con argumentos y otros que simplemente no necesitan explicación.",
     "poema": [
-      "Los gustos también cuentan historias. A veces uno conserva una comida porque le recuerda a alguien, elige siempre lo mismo porque sabe que no falla o descubre una combinación inesperada que termina convirtiéndose en favorita. Y otras veces hay ingredientes que simplemente no negocia.",
-      "Me gusta conocer esas pequeñas preferencias tuyas, incluso las más particulares. No para memorizar un menú perfecto ni para decidir por ti, sino para que cuando compartamos una mesa haya espacio para lo que de verdad disfrutas. Además, siempre es divertido descubrir que dos personas pueden ponerse de acuerdo en el postre y discutir amistosamente por el plato principal."
+      "Cada quien tiene sus pequeños clásicos: ese plato que siempre provoca, una combinación que descubrió por casualidad o un sabor que le recuerda a un momento. También están esos ingredientes que uno preferiría no volver a encontrarse jamás.",
+      "Me causa curiosidad ese mapa de gustos tuyos. No para hacer una lista de instrucciones ni para organizarte el menú, sino porque hasta en las preferencias más sencillas se esconden historias y opiniones bastante firmes."
     ],
-    "detalle": "Hagamos un intercambio rápido: dime un plato que te encante, uno que no te guste nada y algo que todavía tengas pendiente probar. Yo te comparto mis tres respuestas. Si algún día cocinamos o escogemos dónde comer, ya tendremos mejores pistas para armar el plan; con poca sal y, por supuesto, nada de maní.",
-    "buenasNoches": "Buenas noches, Aleja. Espero que hoy hayas comido algo rico o al menos hayas encontrado un antojo que te alegrara. Me gusta descubrir tus gustos sin convertirlos en reglas: siempre puede aparecer un nuevo favorito, y también está bien que haya cosas que sigan siendo un rotundo no.",
+    "detalle": "Te dejo una pregunta de tres pistas: un plato que nunca rechazarías, uno que no volverías a probar y algo que todavía te dé curiosidad. La parte difícil será no empezar una discusión gastronómica. Y sí: poca sal y nada de maní siguen siendo reglas importantes.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas encontrado algo rico para comer. Hay gustos que cambian con el tiempo y otros que uno defiende toda la vida; sospecho que algunos de los tuyos deben tener buenas historias detrás.",
     "cancionTitulo": "Feel So Good",
     "cancionArtista": "Mase",
     "youtubeId": "rIvEiTrq9kk",
@@ -1134,7 +1134,7 @@ const CALENDARIO = [
     "dia": 48,
     "fecha": "2026-12-02",
     "fechaTexto": "mié, 2 de dic",
-    "categoria": "Dos versiones para una noche especial",
+    "categoria": "Dos estilos que todavía dan para imaginar",
     "icono": "🫗",
     "tono": "coqueto",
     "color": {
@@ -1142,13 +1142,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días, Aleja. Me acordé de aquella idea tuya de tener un vestido para una ocasión especial. Hay algo divertido en imaginar cómo cambia una noche desde el momento de escoger qué ponerse. Aunque también sigue rondando la otra versión: dos trajes, actitud seria y un aire de Peaky Blinders.",
+    "buenosDias": "Buenos días, Aleja. Me acordé de aquella idea tuya de tener un vestido para una ocasión especial. Tiene su encanto imaginar una noche así, con todo elegido con cuidado. Aunque tampoco se me olvida la versión alternativa: dos trajes, actitud seria y ese aire de Peaky Blinders que seguramente nos duraría poco antes de reírnos.",
     "poema": [
-      "Una opción tiene ese toque elegante de una noche que se prepara con cuidado; la otra parece sacada de una escena en la que ambos intentan mantener la compostura y terminan riéndose. Las dos tienen personalidad, y sospecho que elegir entre ellas podría tomar más tiempo que decidir qué pedir.",
-      "No hace falta escoger ahora ni convertirlo en una fecha pendiente. Me gusta dejar esas imágenes guardadas, como esas ideas que uno recuerda de vez en cuando y que todavía pueden sorprender."
+      "Una escena tiene elegancia; la otra, bastante carácter. En una habría que escoger bien los detalles y en la otra bastaría con caminar como si tuviéramos un asunto importante que resolver. Las dos tienen algo divertido.",
+      "No hay que ponerle fecha ni decidir nada todavía. Algunas ideas están mejor cuando se quedan dando vueltas un tiempo, esperando el momento en que vuelvan a aparecer con algún detalle nuevo."
     ],
-    "detalle": "Si tuvieras que elegir solo por la estética, ¿te quedas con el vestido y una noche elegante o con los dos de traje al estilo Peaky Blinders? También se acepta una tercera opción que nos deje sin argumentos.",
-    "buenasNoches": "Buenas noches, Aleja. Hoy me quedo con esas dos escenas tan distintas: una elegante y otra con bastante carácter. A veces una idea sencilla termina dando para imaginar toda una película.",
+    "detalle": "Pregunta de estilo, sin compromiso con ninguna producción: ¿cuál de esas dos versiones te representa más, la noche elegante o la de los trajes al estilo Peaky Blinders? Aunque conociéndote, quizá aparezca una tercera opción y nos cambies el guion.",
+    "buenasNoches": "Buenas noches, Aleja. Me quedo con esas dos escenas tan distintas. A veces basta una idea sobre cómo vestirnos para terminar imaginando una historia completa… y todavía no sabemos cuál sería la más divertida.",
     "cancionTitulo": "Antonia",
     "cancionArtista": "Gondwana",
     "youtubeId": "exxkGyu3G1Q",
