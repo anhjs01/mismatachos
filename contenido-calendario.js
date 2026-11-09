@@ -1012,7 +1012,7 @@ const CALENDARIO = [
     "dia": 43,
     "fecha": "2026-11-27",
     "fechaTexto": "vie, 27 de nov",
-    "categoria": "Un detalle que nace de ti",
+    "categoria": "Tu manera particular de demostrar cariño",
     "icono": "🥄",
     "tono": "tierno",
     "color": {
@@ -1020,13 +1020,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Hoy no hace falta hacer algo enorme. Si alguien se te viene a la cabeza, piensa en un detalle pequeño que te gustaría tener con esa persona: una canción, una frase, una foto bonita o un mensaje inesperado.",
+    "buenosDias": "Buenos días, Aleja. Hoy pensé en algo que no siempre se nota a primera vista: cada persona tiene su manera de hacerle saber a alguien que lo aprecia. Hay quien comparte una canción, quien recuerda un detalle mínimo, quien aparece con un chiste justo cuando hace falta o quien simplemente pregunta cómo terminó ese día.",
     "poema": [
-      "Los gestos más lindos no siempre llegan envueltos. A veces son un «vi esto y me acordé de ti», una pregunta hecha con atención o compartir algo que te hizo sonreír.",
-      "También me gustaría conocer esa forma tuya de demostrar cariño, sin dictarte cómo hacerlo ni pedirte que lo hagas. Cada quien tiene su manera."
+      "No creo que exista una única forma correcta de demostrar cariño. A veces está en escuchar con atención; otras, en guardar una foto porque te hizo sonreír, mandar un mensaje sin motivo o acordarte de algo que la otra persona dijo hace semanas. Son gestos distintos, pero pueden tener el mismo significado: «me acordé de ti».",
+      "Me gustaría ir descubriendo cómo eres tú en esas cosas, sin pedirte que cambies tu manera de expresarte ni esperar que hagas algo para demostrarme nada. Quizá tu forma de querer sea más silenciosa, quizá seas de detalles inesperados o quizá todavía estés descubriéndola. Cualquiera de esas respuestas merece su propio espacio."
     ],
-    "detalle": "Si te nace, toma la iniciativa y comparte conmigo algo que hoy te haya recordado a mí. No tiene que ser romántico ni elaborado; puede ser una tontería que solo tú entiendas.",
-    "buenasNoches": "Descansa. Los detalles espontáneos tienen algo especial: no llegan por compromiso, sino porque a alguien le nació compartirlos.",
+    "detalle": "Te dejo una pregunta sin tarea escondida: ¿qué gesto pequeño te hace sentir apreciada? Puede ser que te escuchen, que recuerden algo que contaste, que te hagan reír o que respeten tu espacio. Y si se te ocurre otro, ese me interesa todavía más. Yo también puedo contarte cuál detalle suelo valorar.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas recibido algún gesto bonito, incluso uno pequeño. No quiero enseñarte cómo demostrar cariño; me gustaría conocer tu manera, con naturalidad y sin expectativas. A veces entender esos detalles dice mucho más que intentar hacerlos perfectos.",
     "cancionTitulo": "Best Part (feat. H.E.R.)",
     "cancionArtista": "Daniel Caesar; H.E.R.",
     "youtubeId": "vBy7FaapGRo",
