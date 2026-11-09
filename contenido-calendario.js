@@ -892,7 +892,7 @@ const CALENDARIO = [
     "dia": 38,
     "fecha": "2026-11-22",
     "fechaTexto": "dom, 22 de nov",
-    "categoria": "No quiero ser una duda más",
+    "categoria": "Que mis intenciones no sean un acertijo",
     "icono": "🗂️",
     "tono": "amor",
     "color": {
@@ -900,13 +900,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días, Aleja. Quiero que hoy tengas un día tranquilo y que recuerdes algo: mereces personas que sepan acercarse con respeto, claridad y cariño. Yo estoy intentando hacer justamente eso, sin disfrazar mis intenciones ni pedirte que corras.",
+    "buenosDias": "Buenos días, Aleja. Hay algo que prefiero hacer sencillo: hablarte con honestidad. Me gusta conocerte, me atraes y disfruto la forma en que poco a poco vamos compartiendo partes de nuestras vidas. No quiero esconderlo detrás de indirectas eternas, pero tampoco convertirlo en una pregunta que tengas que responder hoy.",
     "poema": [
-      "Quizá hasta ahora algunas cosas podían parecer parte de una amistad bonita. Pero quiero que, desde aquí, sepas que mi interés va un poquito más allá. Me atraes, me gusta conocerte y me ilusiona la posibilidad de que podamos construir algo que tenga un lugar distinto en nuestras vidas.",
-      "No espero que tengas todas las respuestas ni quiero que sientas que debes corresponderme por recibir estos mensajes. Prefiero que lo descubras a tu ritmo. Lo que sí quiero es que no tengas que adivinar desde dónde te estoy hablando."
+      "Me interesa conocerte en los días buenos y también en esos en los que no tienes ganas de hablar demasiado. Quiero descubrir tus ideas, tus contradicciones, tus maneras de reírte y hasta esas pequeñas rarezas que quizá tú consideras normales. No estoy buscando una versión perfecta de ti; me interesa la persona real que eres.",
+      "Si algún día esto se convierte en algo más, quisiera que fuera porque los dos lo elegimos y nos sentimos tranquilos estando ahí. No quiero adelantarte respuestas ni prometer una historia que todavía estamos escribiendo. Prefiero que mis gestos sean coherentes con lo que digo y que tengas espacio para mostrarme qué sientes tú, cuando lo tengas claro."
     ],
-    "detalle": "Hoy piensa qué hace que una conexión te dé tranquilidad: poder hablar con sinceridad, reírte sin medir cada palabra, sentirte respetada y tener espacio para elegir. Para mí, acercarme a ti también significa cuidar eso.",
-    "buenasNoches": "Buenas noches, Aleja. No quiero que lo que estamos construyendo se sienta como una carrera ni como una obligación. Solo quería dejar clara mi intención: no te escribo para quedarme necesariamente en la casilla de amigo. Me gustaría descubrir contigo si podemos ser algo más, si tú también lo quieres. Descansa.",
+    "detalle": "Hoy no tienes que definir nada ni darme una respuesta especial. Solo te dejo una pregunta para conocerte un poquito más: ¿qué te hace sentir que alguien se está acercando a ti de verdad, y no solo diciendo cosas bonitas? Me gustaría aprender a cuidar eso.",
+    "buenasNoches": "Buenas noches, Aleja. Me gusta lo que voy descubriendo de ti y no quiero que la emoción me haga correr más de la cuenta. Mi interés es real, pero también lo es mi respeto por tus tiempos y tus decisiones. Ojalá podamos seguir conociéndonos con esa tranquilidad que permite ser uno mismo.",
     "cancionTitulo": "93 'Til Infinity",
     "cancionArtista": "Souls of Mischief",
     "youtubeId": "fXJc2NYwHjw",
