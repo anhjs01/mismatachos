@@ -1325,7 +1325,7 @@ const CALENDARIO = [
     "dia": 56,
     "fecha": "2026-12-10",
     "fechaTexto": "jue, 10 de dic",
-    "categoria": "Una promesa escrita con tinta",
+    "categoria": "Una promesa que merece pensarse con calma",
     "icono": "🧑‍🎨",
     "tono": "romantico",
     "color": {
@@ -1333,13 +1333,14 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Hay una promesa tuya que todavía tengo presente, aunque hoy no voy a convertirla en una gran ceremonia. Solo quería recordarte que algunas conversaciones se quedan guardadas por una razón.",
+    "buenosDias": "Hay algo que te prometí cuando empezábamos a conocernos y que no se me ha olvidado: algún día dejaría que me tatuaras. Hoy quería volver a mencionarlo, no para apresurar nada, sino porque fue una idea tuya que terminó teniendo un significado especial para mí.",
     "poema": [
-      "Cuando hablamos de empezar nuestra relación, te dije que dejaría que tú me tatuaras lo que quisieras. Sigue en pie. Me gustaría que el diseño lo eligieras tú, con tu estilo y tu significado; no quiero quitarte esa parte decidiendo por adelantado qué debes dibujar.",
-      "Debajo me gustaría llevar esta frase: «Si no eres el amor de mi vida, diré que me equivoqué de vida, pero no de amor». Es intensa y tiene mucho de lo que siento, pero un tatuaje es permanente: si algún día lo hacemos, será porque ambos lo pensamos bien y estamos seguros de que queremos convertirlo en ese recuerdo."
+      "Me sigue gustando que seas tú quien imagine el diseño. Quiero que tenga tu trazo, tu manera de crear y algo que tú quieras dejar en él. No necesito escogerlo por ti ni convertirlo en un dibujo hecho a la carrera; me gustaría conocer qué se te ocurriría si algún día decidimos llevar esa promesa a la piel.",
+      "Hay una frase que quisiera acompañara esa idea: «Si no eres el amor de mi vida, diré que me equivoqué de vida, pero no de amor». Es una frase intensa, lo sé. Para mí habla de atreverme a sentir de verdad y de no arrepentirme de haber querido. Pero también sé que un tatuaje es permanente y que las decisiones así merecen tiempo, conversación y plena seguridad.",
+      "Por eso no quiero que esto sea una prueba de cariño ni una obligación para ninguno. Si llega ese día, será porque los dos seguimos queriendo hacerlo, porque encontramos un diseño que nos representa y porque lo elegimos con tranquilidad."
     ],
-    "detalle": "No tienes que diseñar nada ahora ni tomarlo como una tarea. Solo quería que supieras que no olvidé lo que te prometí. Si llega el momento, quiero que sea una decisión libre, conversada y con un diseño que de verdad te represente también.",
-    "buenasNoches": "Buenas noches, Aleja. Me gusta imaginar que algún día me enseñarás el dibujo y me contarás por qué lo escogiste. La frase ya te la compartí; lo demás prefiero que nazca de tu creatividad, cuando sea el momento.",
+    "detalle": "Solo quería recordarte aquella promesa y dejarte una pregunta creativa, sin encargo ni fecha: si algún día retomáramos la idea, ¿qué estilo de dibujo te gustaría explorar? Puede quedarse en una conversación o en un boceto guardado. La decisión real siempre podrá esperar hasta que ambos estemos completamente seguros.",
+    "buenasNoches": "Buenas noches. Me gusta que algunas ideas tengan una historia detrás y que podamos volver a ellas sin presión. La promesa sigue aquí, pero más importante que cumplirla rápido es que, si algún día la convertimos en tinta, sea una decisión consciente y bonita para los dos.",
     "cancionTitulo": "Virtual Insanity - Remastered 2006",
     "cancionArtista": "Jamiroquai",
     "youtubeId": "4JkIs37a2JE",
