@@ -1350,7 +1350,7 @@ const CALENDARIO = [
     "dia": 57,
     "fecha": "2026-12-11",
     "fechaTexto": "vie, 11 de dic",
-    "categoria": "Lo que este año te deja y lo que ya puedes soltar",
+    "categoria": "Lo que merece quedarse y lo que ya puede irse",
     "icono": "🌄",
     "tono": "reflexivo",
     "color": {
@@ -1358,14 +1358,14 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Diciembre siempre trae esa sensación de mirar un poco hacia atrás. Hoy no quiero preguntarte por una lista de logros ni por todo lo que te faltó hacer. Me da más curiosidad saber qué cosas de este año te gustaría guardar contigo y cuáles sientes que ya puedes dejar ir.",
+    "buenosDias": "Hoy quiero proponerte una pausa pequeña en medio de diciembre. No para evaluar si este año fue bueno o malo, ni para hacer cuentas de lo que alcanzaste. Más bien para mirar qué momentos te hicieron bien, qué descubriste de ti y qué cosas ya no necesitas seguir llevando a cuestas.",
     "poema": [
-      "Quizá hubo momentos que te hicieron reír más de lo esperado, personas que te enseñaron algo, decisiones que te costaron o pequeñas versiones de ti que tuviste que dejar atrás. No todo tiene que haber salido perfecto para haber significado algo.",
-      "También está bien reconocer que algunas cosas pesaron, que ciertos planes cambiaron o que hubo días en los que simplemente hiciste lo que pudiste. No tienes que encontrarle una enseñanza bonita a todo; a veces cerrar una etapa consiste, sencillamente, en no cargarla igual hacia la siguiente.",
-      "Me gusta pensar que todavía quedan páginas por escribir y que no necesitas tenerlas resueltas desde ahora."
+      "Hay recuerdos que uno quisiera guardar como una fotografía: una conversación inesperada, una risa que llegó justo a tiempo, un lugar al que volvería o una versión de sí misma que se atrevió a hacer algo distinto. Ojalá puedas reconocer cuáles fueron esos instantes para ti.",
+      "Y también hay cosas que pueden quedarse en el año que termina: expectativas que no eran tuyas, culpas que ya cumplieron su tiempo, planes que cambiaron o situaciones que no salieron como imaginabas. No tienes que convertir cada tropiezo en una lección ni fingir que no dolió. A veces soltar es simplemente dejar de exigirte cargarlo.",
+      "No sé qué capítulo de este año recordarás dentro de mucho tiempo. Pero sí espero que, cuando lo mires, puedas reconocer todo lo que atravesaste sin reducirte a lo que no salió como querías."
     ],
-    "detalle": "Si te apetece, comparte dos cosas: un recuerdo de este año que quisieras conservar y algo que preferirías no llevar contigo al próximo. Yo también responderé. Puedes hablar de algo sencillo o profundo, y también puedes guardarte cualquier parte que no quieras contar.",
-    "buenasNoches": "Buenas noches. Ojalá puedas mirar el camino recorrido con un poquito de paciencia hacia ti misma. Lo que salió bien merece celebrarse; lo que no, no tiene por qué definir lo que viene. Todavía hay espacio para empezar de otra manera.",
+    "detalle": "Te propongo un intercambio sin respuestas obligatorias: elige un recuerdo de este año que guardarías en una cajita y una cosa que dejarías allí mismo para no cargarla al siguiente. Yo también elegiré los míos. Si prefieres, podemos hablarlo con calma o convertirlo en una lista privada; no hace falta compartir nada que todavía quieras reservarte.",
+    "buenasNoches": "Que descanses. No tienes que cerrar el año con todas las respuestas ni reconciliarte hoy con cada cosa que pasó. Basta con reconocer que llegaste hasta aquí, que todavía puedes elegir qué conservar y que lo que viene no tiene por qué parecerse a lo que dejas atrás.",
     "cancionTitulo": "Apocalypse",
     "cancionArtista": "Cigarettes After Sex",
     "youtubeId": "sElE_BfQ67s",
