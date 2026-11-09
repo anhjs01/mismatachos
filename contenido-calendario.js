@@ -1375,7 +1375,7 @@ const CALENDARIO = [
     "dia": 58,
     "fecha": "2026-12-12",
     "fechaTexto": "sáb, 12 de dic",
-    "categoria": "La canción que se convierte en contraseña",
+    "categoria": "Una canción para explicar tu mood sin dar explicaciones",
     "icono": "🎼",
     "tono": "musical",
     "color": {
@@ -1383,13 +1383,14 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Hoy inventemos una contraseña musical: cada uno escoge una canción que represente cómo llega al día. No hace falta explicar demasiado; la otra persona puede intentar adivinar el estado de ánimo.",
+    "buenosDias": "Hoy no toca ponerse profundos ni resolver el mundo. Quiero proponerte algo sencillo: escoger una canción que describa cómo amaneciste, incluso si tu estado de ánimo es una mezcla rara de sueño, hambre, ganas de reír y cero paciencia. Se vale elegir una canción dramática aunque solo estés buscando café.",
     "poema": [
-      "Hay canciones que dicen «hoy necesito calma», otras que anuncian ganas de salir y algunas que simplemente significan «esta me gusta y punto». Todas sirven como respuesta.",
-      "Me da curiosidad cuál escogerías tú y qué canción pensarías que elegiría yo. Quizá acertemos; quizá descubramos que somos pésimos leyendo pistas."
+      "A veces una canción explica mejor que uno mismo ese pequeño caos del día. Otras veces no tiene ninguna explicación: simplemente suena bien, te cambia la cara y ya consiguió su cometido.",
+      "Me gusta esa espontaneidad de compartir algo sin preparar un discurso. Una canción, una frase absurda, una foto de algo que te hizo gracia o un comentario que probablemente solo nos dé risa a nosotros.",
+      "No todo tiene que convertirse en una gran conversación para ser un buen detalle. A veces basta con hacerle un poquito más amable el día a alguien."
     ],
-    "detalle": "Envíame una canción como contraseña del día y dame una pista de máximo cinco palabras. Yo intento descifrarla y después te mando la mía.",
-    "buenasNoches": "Buenas noches. Que la última canción del día te acompañe sin pedir explicaciones. La contraseña musical queda abierta para cuando quieras volver a jugar.",
+    "detalle": "Mándame una canción que describa tu ánimo de hoy y acompáñala con una pista de máximo cinco palabras. Yo intento adivinar qué hay detrás. Después te mando la mía. Si ninguna canción encaja, también puedes responder con el título de una película para tu día o con la descripción más exagerada posible de tu humor.",
+    "buenasNoches": "Buenas noches. Ojalá hoy haya aparecido al menos una cosa que te sacara una sonrisa, aunque fuera pequeña y sin motivo importante. Y si el día estuvo raro, mañana podemos cambiarle la banda sonora.",
     "cancionTitulo": "By Your Side",
     "cancionArtista": "Sade",
     "youtubeId": "C8QJmI_V3j4",
