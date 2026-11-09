@@ -940,7 +940,7 @@ const CALENDARIO = [
     "dia": 40,
     "fecha": "2026-11-24",
     "fechaTexto": "mar, 24 de nov",
-    "categoria": "Una carpeta con planes y espacio para tus ideas",
+    "categoria": "Hay una carpeta que quizá te dé curiosidad",
     "icono": "😊",
     "tono": "jugueton",
     "color": {
@@ -948,13 +948,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, Aleja. Te voy a confesar algo: tengo una carpeta que se llama «Planes con Aleja». No es una agenda ni una lista de cosas que tengas que aceptar; es más bien un rincón donde voy guardando ideas que algún día me gustaría proponerte.",
+    "buenosDias": "Buenos días, Aleja. Te voy a contar algo, pero no todo: tengo una carpeta que se llama «Planes con Aleja». Sí, así de poco disimulado. Ahí he ido guardando ideas que me gustaría proponerte cuando se presente el momento. Algunas son sencillas; otras necesitan un poquito más de imaginación.",
     "poema": [
-      "Hay planes sencillos, otros un poquito diferentes y algunos que todavía están apenas en borrador. La idea no es llegar con todo decidido ni sorprenderte a la fuerza. Me gustaría que un día nos sentemos a mirar qué hay ahí, escojamos cuáles nos llaman la atención y dejemos que tú también cambies, descartes o inventes propuestas.",
-      "Y no te voy a revelar ahora todo lo que tiene esa carpeta… quizá me gusta un poquito la idea de que te dé curiosidad preguntarme qué he guardado. También quiero saber qué pondrías tú: al fin y al cabo, los mejores planes no deberían llevar una sola firma."
+      "No es una lista de compromisos ni un itinerario que ya decidí por los dos. Son posibilidades: planes que me hicieron pensar «esto podría gustarle», lugares que algún día podríamos escoger y ocurrencias que todavía necesitan una segunda opinión.",
+      "Y esa segunda opinión me interesa que sea la tuya. Quiero que puedas tachar, cambiar, mejorar y añadir lo que se te ocurra. Incluso puede que tu propuesta termine desplazando alguna de las mías. No voy a mostrarte todas las páginas hoy; acepto que dejar un poco de misterio también tiene su encanto."
     ],
-    "detalle": "Cuando quieras, podemos abrir esa carpeta juntos y revisar las ideas con calma: cuáles se pueden hacer pronto, cuáles necesitan más tiempo y cuáles merecen quedarse como sueños por ahora. Si te da curiosidad, puedes preguntarme cuál es el primer plan que anoté; pero también quiero que llegues con alguna idea tuya para agregar.",
-    "buenasNoches": "Que descanses, Aleja. La carpeta sigue guardada y todavía tiene páginas por llenar. No tienes que escoger nada hoy; me gusta pensar que algún día la abriremos, nos reiremos de alguna idea y terminaremos eligiendo un plan que quizá ninguno había imaginado por separado.",
+    "detalle": "Cuando te dé curiosidad, pregúntame qué hay en «Planes con Aleja». Podemos revisarla juntos, elegir una idea que sí nos entusiasme a ambos y sumar otra que se te ocurra a ti. No hace falta decidir fecha ni convertirlo en una promesa: primero veamos qué nos provoca hacer.",
+    "buenasNoches": "Buenas noches, Aleja. Por ahora esa carpeta se queda guardada, con unas cuantas ideas esperando y bastante espacio para las tuyas. Me gusta imaginar que un día la abriremos, discutiremos cuál merece salir primero y acabaremos inventando un plan que no estaba escrito ahí. Ese sería mi favorito.",
     "cancionTitulo": "Insane in the Brain",
     "cancionArtista": "Cypress Hill",
     "youtubeId": "RijB8wnJCN0",
