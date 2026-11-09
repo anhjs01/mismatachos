@@ -1084,7 +1084,7 @@ const CALENDARIO = [
     "dia": 46,
     "fecha": "2026-11-30",
     "fechaTexto": "lun, 30 de nov",
-    "categoria": "Pintar sin tener que saber pintar",
+    "categoria": "Dos imaginaciones, una misma idea",
     "icono": "🧵",
     "tono": "creativo",
     "color": {
@@ -1092,13 +1092,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hoy te dejo una idea para salir un rato de lo de siempre: buscar un parque tranquilo, llevar papel y colores, y pintar lo primero que nos llame la atención. No importa si termina siendo una obra maestra o un garabato con mucha personalidad.",
+    "buenosDias": "Buenos días, Aleja. Hoy me dio curiosidad algo: si nos dieran la misma hoja en blanco y nos pidieran dibujar una palabra, un recuerdo o un lugar, estoy casi seguro de que terminaríamos con dos cosas completamente distintas. Y eso sería lo interesante.",
     "poema": [
-      "Me gusta imaginar dos personas sentadas en el pasto, cada una mirando el mismo paisaje desde un ángulo distinto. De pronto una pinta un árbol, la otra inventa un sol violeta y terminan comparando resultados como si fueran artistas de una exposición importante.",
-      "Podemos escoger el parque entre los dos y llevar algo sencillo. Lo bonito no sería pintar perfecto, sino compartir un rato sin mirar tanto el reloj."
+      "Me gusta que el arte no tenga que salir perfecto para decir algo. A veces un trazo torcido, una combinación de colores inesperada o un dibujo que solo entiende quien lo hizo termina contando más que una explicación larga.",
+      "También me gusta imaginar cómo interpretarías tú una misma idea. Quizá te irías por algo delicado, quizá por algo atrevido o quizá inventarías una cosa que no se me habría ocurrido. No quiero corregir tu dibujo ni comparar quién lo hace mejor; quiero ver cómo funciona tu imaginación."
     ],
-    "detalle": "Juego de elección: tú escoges qué pintaríamos —el paisaje, una flor, algo inventado o un retrato caricaturesco— y yo escojo el color que no puede faltar. ¿Qué parque te gustaría para ese plan?",
-    "buenasNoches": "Que descanses. Me quedo con la imagen de ese parque y dos dibujos distintos del mismo lugar. A veces una tarde sencilla termina siendo un recuerdo bonito.",
+    "detalle": "Te propongo un intercambio creativo sin presión: escogemos una palabra sencilla —por ejemplo, «libertad», «verano» o «casualidad»— y cada uno la convierte en un dibujo, collage o combinación de colores. Después mostramos el resultado y contamos qué significa para cada uno. Puede ser en papel o desde el celular; no hace falta terminarlo en una sentada.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas tenido un espacio para hacer algo a tu manera, aunque fuera pequeño. Me gusta pensar que dos personas pueden partir de la misma idea y crear mundos distintos. Y que, cuando los comparten, aparece algo que ninguno habría imaginado por separado.",
     "cancionTitulo": "Déjame Entrar",
     "cancionArtista": "Cultura Profética",
     "youtubeId": "IAhVESdwvIU",
