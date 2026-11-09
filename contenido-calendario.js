@@ -964,7 +964,7 @@ const CALENDARIO = [
     "dia": 41,
     "fecha": "2026-11-25",
     "fechaTexto": "mié, 25 de nov",
-    "categoria": "La canción que tú me dedicarías",
+    "categoria": "Hay canciones que cuentan pequeñas partes de ti",
     "icono": "🎵",
     "tono": "musical",
     "color": {
@@ -972,13 +972,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Hoy quiero conocer tu banda sonora, pero con una regla distinta: no voy a escoger la canción. Elige tú una que te gustaría que escuchara y mándamela cuando te nazca.",
+    "buenosDias": "Buenos días, Aleja. Hoy me dio curiosidad algo: si alguien quisiera conocerte un poquito mejor sin hacerte veinte preguntas, ¿qué canción tendría que escuchar? No necesariamente tu favorita de toda la vida; quizá una que explique tu humor, una etapa, un recuerdo o simplemente esa versión tuya que aparece cuando suena.",
     "poema": [
-      "Puede ser una canción que te dé energía, una que te calme o una que tenga una frase que no has sabido cómo decir en voz alta.",
-      "Me gusta la idea de descubrir algo a través de tus elecciones. A veces una canción cuenta un poquito de quien la comparte, incluso sin explicar por qué."
+      "La música tiene esa manera extraña de acompañarnos sin pedir explicaciones. Hay canciones que uno pone para caminar, otras para ordenar la cabeza, algunas para cantar sin saberse bien la letra y otras que se quedan porque llegaron en el momento preciso.",
+      "Me gustaría conocer las tuyas, no para sacar conclusiones apresuradas sobre ti, sino para descubrir qué te hacen sentir y qué historia guardan, si es que tienen alguna. También puedo compartirte una canción mía y contarte por qué la escogí. Sería como intercambiar pequeñas ventanas a nuestros mundos, sin tener que explicarlo todo."
     ],
-    "detalle": "Tu iniciativa musical del día: escoge la canción y, si quieres, acompáñala con una sola pista: «escucha bien la letra», «me recuerda a…» o «simplemente me gusta».",
-    "buenasNoches": "Que descanses. Si me compartiste una canción, la dejo sonando un rato más; si todavía la estás buscando, no hay afán. Quiero que sea una elección tuya.",
+    "detalle": "Si te nace, elige una canción y mándamela con una pista: «escucha la letra», «ponla cuando quieras animarte», «esta me recuerda a una etapa» o simplemente «quiero que la conozcas». Y si prefieres, dime qué género nunca falta en tu lista. Me toca escuchar con atención.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas tenido música para acompañar algún momento. Si me compartiste una canción, quiero escucharla sin saltarme directamente al coro; y si todavía no elegiste, no hay afán. Me gusta descubrir tu banda sonora poco a poco.",
     "cancionTitulo": "Put Your Records On",
     "cancionArtista": "Corinne Bailey Rae",
     "youtubeId": "oWQl00LWEwE",
