@@ -1252,21 +1252,21 @@ const CALENDARIO = [
     "dia": 53,
     "fecha": "2026-12-07",
     "fechaTexto": "lun, 7 de dic",
-    "categoria": "El dulce de la fruta en su punto",
+    "categoria": "Un picnic de antojos elegidos entre dos",
     "icono": "🍒",
-    "tono": "amor",
+    "tono": "cotidiano",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Buenos días, corazón. Ojalá hoy encuentres una fruta en su punto, de esas que están tan ricas que uno se queda pensando por qué no compra más seguido.",
+    "buenosDias": "Pregunta para armar un plan sencillo: si lleváramos algo rico a un parque, ¿qué pondrías tú en la bolsa? Puede ser fruta, algo de chocolate amargo, un sándwich o ese antojo que nunca falla.",
     "poema": [
-      "Me gusta la idea de los pequeños gustos que no necesitan explicación: una fresa dulce, un durazno jugoso y un ratito en el que nadie te apure.",
-      "Y si compartes la fruta con alguien, guarda el pedazo más rico para ti… o haz el gesto de ofrecerlo y luego negocia una mordida. El cariño también puede tener estrategias."
+      "Me imagino una manta, algo para picar y una conversación que se interrumpe porque alguien quiere probar lo que trajo el otro. No hace falta preparar un banquete; con dos o tres elecciones acertadas alcanza.",
+      "Esta vez cada quien escoge una cosa y después hacemos intercambio de bocados. Aunque advierto que defenderé mi porción de chocolate con argumentos bastante convincentes."
     ],
-    "detalle": "Disfruta esa fruta cuando esté justo como te gusta: ni dura como una piedra ni pasada de confianza. Sí, hasta la fruta tiene su punto ideal; entiendo que seas exigente con tus favoritos.",
-    "buenasNoches": "Buenas noches, mi vida. Espero que hayas encontrado algo dulce en el día, aunque fuera un gesto pequeño o una fruta en su punto.",
+    "detalle": "Juego del picnic: tú eliges el antojo principal y yo el complemento. Si los dos escogemos algo dulce, tendremos que negociar dónde entra lo salado. ¿Qué llevarías tú?",
+    "buenasNoches": "Que descanses. Me quedo con ese picnic inventado entre dos gustos distintos; a veces un plan pequeño empieza con una pregunta sobre qué llevar.",
     "cancionTitulo": "Put Your Records On",
     "cancionArtista": "Corinne Bailey Rae",
     "youtubeId": "oWQl00LWEwE",
@@ -1276,21 +1276,21 @@ const CALENDARIO = [
     "dia": 54,
     "fecha": "2026-12-08",
     "fechaTexto": "mar, 8 de dic",
-    "categoria": "El gesto de quien quiere que salga bien",
+    "categoria": "El plan que se arma con tres pistas",
     "icono": "🖼️",
-    "tono": "filosofica",
+    "tono": "jugueton",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Si hoy algo no sale como esperabas, no lo declares perdido a la primera. A veces hace falta mirar de nuevo, cambiar un detalle y darte la misma paciencia que le darías a una pieza que estás creando.",
+    "buenosDias": "Hoy vamos a jugar a organizar un plan sin decirlo todo. Te doy tres pistas: aire libre, algo creativo y una pausa para comer rico. ¿Qué actividad crees que estoy imaginando?",
     "poema": [
-      "Quisiera que te hablaras con la misma paciencia que le das a una pieza cuando todavía está a medio hacer. No la juzgas por no estar terminada; le das tiempo, la miras y sigues.",
-      "Date ese mismo trato, corazón. No tienes que resolverlo todo hoy, y mucho menos hacerlo perfecto para merecer sentirte orgullosa."
+      "Puede ser una tarde en un parque pintando, decorar algo que después podamos conservar o caminar hasta encontrar un lugar que ninguno conocía. Lo divertido es que las pistas no tienen una sola respuesta.",
+      "Ahora te toca cambiar una de las pistas y ver qué plan aparece. Así no terminamos siguiendo siempre la primera idea que se le ocurrió a uno."
     ],
-    "detalle": "Si alguien te ayuda porque quiere que algo te salga bien, no pases por alto ese gesto. El cariño también aparece en quien presta atención, se acuerda y hace un poquito más fácil el camino.",
-    "buenasNoches": "Descansa, corazón. Que mañana alguien te haga sentir acompañada sin que tengas que pedirlo y que tú también puedas dejarte cuidar.",
+    "detalle": "Mándame tu versión del plan usando solo tres pistas, sin revelar el lugar ni la actividad completa. Yo intentaré adivinarlo y después podemos mezclar nuestras propuestas.",
+    "buenasNoches": "Buenas noches. Me gusta que un plan pueda empezar como un acertijo y terminar siendo algo que de verdad nos gustaría hacer. La respuesta puede esperar hasta mañana.",
     "cancionTitulo": "Three Little Birds",
     "cancionArtista": "Bob Marley & The Wailers",
     "youtubeId": "HNBCVM4KbUM",
@@ -1300,21 +1300,21 @@ const CALENDARIO = [
     "dia": 55,
     "fecha": "2026-12-09",
     "fechaTexto": "mié, 9 de dic",
-    "categoria": "Un recuerdo hecho de barro y paciencia",
+    "categoria": "Crear algo que nos llevemos a casa",
     "icono": "🪡",
-    "tono": "ambiente",
+    "tono": "creativo",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Lo hecho a mano lleva marcas del proceso: una curva imperfecta, una textura inesperada, una decisión que cambiaste a mitad de camino. Eso también cuenta la historia de quien lo hizo.",
+    "buenosDias": "Se me ocurre una tarde de manualidades: escoger una pieza sencilla —un marco, una cajita o una maceta— y decorarla entre los dos. Algo que podamos terminar sin afán y llevarnos como recuerdo.",
     "poema": [
-      "Una pieza de cerámica nunca es solo barro después de pasar por tus manos. Y una pintura no es solo color cuando sabes cuántas pruebas hubo detrás. Eso me parece lindo de tu mundo creativo.",
-      "Ojalá hoy te acuerdes de valorar también el proceso, mi vida. A veces lo mejor de algo no se ve en la foto final, sino en todo lo que tuviste que descubrir para llegar ahí."
+      "Cada quien podría elegir una parte del diseño: tú decides los colores y yo propongo las formas, o al revés. Lo mejor sería ver cómo dos estilos distintos encuentran la manera de convivir en el mismo objeto.",
+      "Y si no queda perfecto, mejor: así tendrá una historia propia y no parecerá algo que salió de una estantería."
     ],
-    "detalle": "Ten paciencia con lo que estás creando. El barro enseña que apretar demasiado no siempre arregla las cosas; a veces toca soltar, volver a dar forma y confiar en las manos.",
-    "buenasNoches": "Buenas noches, bonita. El barro y la paciencia pueden esperar hasta mañana; por hoy, suelta todo lo que tengas entre las manos y descansa.",
+    "detalle": "Elige qué objeto te gustaría transformar: marco, cajita o maceta. Después cada uno propone un detalle que el otro debe incorporar. Una pequeña colaboración con permiso para reírse de los resultados.",
+    "buenasNoches": "Que descanses. Ojalá algún día podamos mirar ese objeto terminado y recordar las decisiones, las risas y las ideas que fuimos mezclando.",
     "cancionTitulo": "La Terrera",
     "cancionArtista": "Rupatrupa",
     "youtubeId": "2BW92cCp0T4",
@@ -1324,21 +1324,21 @@ const CALENDARIO = [
     "dia": 56,
     "fecha": "2026-12-10",
     "fechaTexto": "jue, 10 de dic",
-    "categoria": "Una mancha de color que cambia la idea",
+    "categoria": "Una teoría absurda sobre nosotros",
     "icono": "🧑‍🎨",
-    "tono": "filosofica",
+    "tono": "humor",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Si una mancha cambia el rumbo de tu idea, mírala dos veces antes de borrarla. Puede que no funcione, claro, pero también puede abrir una posibilidad que no habías imaginado.",
+    "buenosDias": "Tengo una teoría: si nos dejaran organizar una tarde sin presupuesto ni obligaciones, terminaríamos discutiendo con absoluta seriedad sobre una decisión completamente insignificante. Hoy quiero comprobar si mi teoría es correcta.",
     "poema": [
-      "Me gusta que en el arte a veces el error se convierte en otra puerta. Primero uno se molesta, después mira mejor y de pronto aparece una idea que no habría llegado siguiendo las instrucciones.",
-      "Si hoy te pasa, dale una segunda mirada antes de borrarlo todo, amor. Y si definitivamente queda horrible, siempre puedes decir que era una exploración conceptual."
+      "Por ejemplo: ¿quién escogería la música?, ¿cuánto tiempo se puede tardar alguien eligiendo un helado?, ¿qué animal sería el peor compañero de viaje? Preguntas importantísimas para la estabilidad del universo.",
+      "Me gusta imaginar esa conversación porque no necesita un tema profundo para ser entretenida. A veces la complicidad aparece en la forma de defender una tontería."
     ],
-    "detalle": "Si una mancha de color cambia por completo tu idea, dale una oportunidad antes de borrarla. Quizá termine siendo justo lo que le faltaba, y eso también cuenta como saber crear.",
-    "buenasNoches": "Que la noche te dé permiso de no arreglar lo que hoy salió distinto a lo esperado. A veces la sorpresa termina teniendo su propia belleza.",
+    "detalle": "Elige una pregunta absurda y defiende tu respuesta como si estuvieras en un debate televisado. Luego me toca contraargumentar. No se permiten respuestas de «depende» sin una explicación dramática.",
+    "buenasNoches": "Buenas noches. Si hoy terminaste defendiendo una teoría absurda, espero que al menos haya sido una buena manera de reírte un rato. Mañana podemos discutir otra cosa igual de importante.",
     "cancionTitulo": "Virtual Insanity - Remastered 2006",
     "cancionArtista": "Jamiroquai",
     "youtubeId": "4JkIs37a2JE",
@@ -1348,21 +1348,21 @@ const CALENDARIO = [
     "dia": 57,
     "fecha": "2026-12-11",
     "fechaTexto": "vie, 11 de dic",
-    "categoria": "Un atardecer con tonos inesperados",
+    "categoria": "Un lugar nuevo para mirar el atardecer",
     "icono": "🌄",
-    "tono": "ambiente",
+    "tono": "aventurero",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Si el cielo se pinta bonito esta tarde, regálate un minuto para mirarlo. Tú que te fijas en los colores sabes que hay tonos que duran poco y aun así se quedan en la memoria.",
+    "buenosDias": "¿Y si buscamos un lugar distinto para ver el atardecer? Puede ser un parque, una colina accesible o un mirador al que podamos llegar en transporte público. No hace falta ir lejos para cambiar de perspectiva.",
     "poema": [
-      "Tú seguramente encontrarías el tono exacto para describirlo, mientras yo diría algo como «naranja rosado» y tú me mirarías con decepción artística.",
-      "Si hoy ves uno bonito, corazón, me gustaría saber cómo lo describirías. Me fío más de tu ojo para los colores que del mío."
+      "Me imagino llegar con tiempo, caminar un poco y escoger dónde sentarnos. Tú podrías elegir el paisaje y yo llevar algo para picar; después vemos qué colores aparecen y dejamos que la tarde haga lo suyo.",
+      "Si te gustan más los planes fuera de la ciudad, también podemos guardar la idea de un pueblo cercano para otro día. Lo importante es escoger juntos un destino que nos dé ganas de salir."
     ],
-    "detalle": "Cuando el atardecer pinte el cielo de un color inesperado, ojalá te encuentre con un minuto libre para verlo. Tú que aprecias tanto los detalles mereces no pasar de largo frente a uno de esos.",
-    "buenasNoches": "Buenas noches, amor. Ojalá te hayas detenido un momento a mirar el cielo, aunque haya sido desde una ventana y con mil cosas por hacer.",
+    "detalle": "Tu turno de elegir: ¿atardecer en un parque de la ciudad o una escapada a un pueblo cercano en bus? Escoge el ambiente y yo pienso en un detalle para completar el plan.",
+    "buenasNoches": "Que descanses. Ojalá algún día podamos compartir ese atardecer que escojamos entre los dos, sin correr para llegar ni apurarnos para volver.",
     "cancionTitulo": "Apocalypse",
     "cancionArtista": "Cigarettes After Sex",
     "youtubeId": "sElE_BfQ67s",
@@ -1372,21 +1372,21 @@ const CALENDARIO = [
     "dia": 58,
     "fecha": "2026-12-12",
     "fechaTexto": "sáb, 12 de dic",
-    "categoria": "La nostalgia bonita de un bolero",
+    "categoria": "La canción que se convierte en contraseña",
     "icono": "🎼",
-    "tono": "ambiente",
+    "tono": "musical",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Hoy le toca al bolero: una melodía con espacio para respirar y, si aparece el saxofón, mejor. Hay canciones que coquetean sin levantar la voz.",
+    "buenosDias": "Hoy inventemos una contraseña musical: cada uno escoge una canción que represente cómo llega al día. No hace falta explicar demasiado; la otra persona puede intentar adivinar el estado de ánimo.",
     "poema": [
-      "Me pregunto qué letra te haría sonreír de ladito, como cuando alguien dice algo bonito y tú intentas actuar como si no te hubiera gustado tanto.",
-      "Pon tu bolero favorito, mi vida. Y si el saxofón entra justo en el momento indicado, imagina que te estoy dedicando esa parte desde algún rincón, haciéndome el misterioso sin mucho éxito."
+      "Hay canciones que dicen «hoy necesito calma», otras que anuncian ganas de salir y algunas que simplemente significan «esta me gusta y punto». Todas sirven como respuesta.",
+      "Me da curiosidad cuál escogerías tú y qué canción pensarías que elegiría yo. Quizá acertemos; quizá descubramos que somos pésimos leyendo pistas."
     ],
-    "detalle": "Si hoy un bolero te trae una nostalgia suave, no tienes que explicársela a nadie. Hay canciones que abren una ventanita por dentro y luego se quedan acompañando sin hacer ruido.",
-    "buenasNoches": "Descansa, mi vida. Si hoy una canción te movió algún recuerdo, no tienes que resolverlo esta noche. Déjalo acompañarte un momento y luego duerme.",
+    "detalle": "Envíame una canción como contraseña del día y dame una pista de máximo cinco palabras. Yo intento descifrarla y después te mando la mía.",
+    "buenasNoches": "Buenas noches. Que la última canción del día te acompañe sin pedir explicaciones. La contraseña musical queda abierta para cuando quieras volver a jugar.",
     "cancionTitulo": "By Your Side",
     "cancionArtista": "Sade",
     "youtubeId": "C8QJmI_V3j4",
@@ -1396,21 +1396,21 @@ const CALENDARIO = [
     "dia": 59,
     "fecha": "2026-12-13",
     "fechaTexto": "dom, 13 de dic",
-    "categoria": "Una canción que acompaña sin estorbar",
+    "categoria": "Una indirecta con espacio para responder",
     "icono": "🎛️",
-    "tono": "ambiente",
+    "tono": "coqueto_sutil",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días, corazón. Que hoy encuentres una canción que te acompañe sin exigirte nada, como esa compañía con la que puedes estar en silencio y seguir sintiéndote a gusto.",
+    "buenosDias": "Hoy voy a dejar una frase a medio camino: hay planes que se vuelven más interesantes dependiendo de quién acepta la invitación. No diré más por ahora; el misterio también merece su turno.",
     "poema": [
-      "A veces uno necesita bajar el volumen de todo y dejar que una melodía ocupe el espacio. No para huir del día, sino para volver a él con la cabeza un poco más despejada.",
-      "Si hoy encuentras esa canción, guárdala. Y si te acuerdas de mí al escucharla, bueno… no voy a fingir que no me gustaría saberlo."
+      "No todo tiene que decirse de frente ni esconderse para siempre. A veces basta con dejar una pista, ver si la otra persona quiere seguir el juego y disfrutar la conversación que aparece después.",
+      "Y si tú tienes una frase mejor, puedes cambiar las reglas. Me gusta la idea de que el coqueteo sea una conversación de ida y vuelta, no un monólogo."
     ],
-    "detalle": "Elige música que te deje estar en paz contigo misma. No todos los días necesitan una banda sonora épica; algunos solo necesitan un ritmo amable y que nadie te pregunte cinco cosas a la vez.",
-    "buenasNoches": "Buenas noches, corazón. Ojalá la música de mañana te encuentre de buen ánimo, pero si no, también puede acompañarte en los días más silenciosos.",
+    "detalle": "Completa la frase como quieras: «Un plan que sí aceptaría sin pensarlo mucho sería…». Puedes responder con algo divertido, tranquilo o un poquito atrevido. Esta vez la respuesta la pones tú.",
+    "buenasNoches": "Que descanses. No voy a revelar todavía qué plan tenía en mente; me gusta dejarte una pista y permitir que la imaginación haga su parte. Cuando quieras, puedes devolverme otra.",
     "cancionTitulo": "Lost & Found",
     "cancionArtista": "Jorja Smith",
     "youtubeId": "9xZ6P4Sinvw",
