@@ -676,7 +676,7 @@ const CALENDARIO = [
     "dia": 29,
     "fecha": "2026-11-13",
     "fechaTexto": "vie, 13 de nov",
-    "categoria": "Un atardecer que podemos empezar a ahorrar",
+    "categoria": "Un amanecer que todavía nos debe una historia",
     "icono": "🖍️",
     "tono": "romantico",
     "color": {
@@ -684,13 +684,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Hoy quiero proponerte un plan que llevo un tiempo imaginando: escaparnos a la playa, cambiar el ruido de todos los días por el sonido del mar y regalarnos una experiencia que podamos recordar.",
+    "buenosDias": "Buenos días, Aleja. Hoy me apareció una imagen de esas que dan ganas de guardar: el mar al final de la tarde, el cielo cambiando de color y la posibilidad de que la noche se alargue hasta ver salir el sol. Hay planes que empiezan como una imagen y después se quedan rondando.",
     "poema": [
-      "Me gustaría llevarte a la playa y llegar con tiempo para caminar junto al mar, ver cómo cae el sol y quedarnos disfrutando de ese atardecer. Y si organizamos bien el viaje y encontramos una opción cómoda y segura para pasar la noche, también quisiera despertar contigo y ver amanecer frente al mar.",
-      "No quiero dejarlo como una frase bonita que se queda en el aire. Podríamos empezar un ahorro aparte, aunque sea de a poquitos, para que ese día tenga su propio presupuesto y se vaya acercando. Me gustaría que lo planeáramos entre los dos: cuándo, cuánto podemos guardar y qué playa nos gustaría conocer."
+      "Me pregunto qué playa escogerías para ver caer el sol y, si la noche se presta, esperar el amanecer. Seguro habría que llevar algo de abrigo, elegir bien dónde quedarse y dejar que el sonido del mar haga el resto.",
+      "También pensé que algunas escapadas se disfrutan más cuando se van preparando despacito. Hasta podríamos tener un pequeño ahorro destinado a esa clase de aventuras; de esos que crecen sin apuro y que un día permiten decir: «¿te acuerdas de aquella idea? Pues parece que ya se puede»."
     ],
-    "detalle": "Te propongo que hoy demos el primer paso: pensemos cuánto podríamos separar cada uno para ese viaje, sin presión y según nuestras posibilidades. También quiero que elijamos juntos el lugar y la fecha; no quiero que sea solamente mi plan, sino uno que nos ilusione a los dos.",
-    "buenasNoches": "Buenas noches, Aleja. Me gusta imaginar ese momento en que el cielo empiece a aclarar y nos demos cuenta de que pasamos la noche esperando juntos el amanecer. Ojalá algún día podamos cambiar esta imagen por el recuerdo real. Por ahora, podemos empezar poco a poco a acercarnos a ese día.",
+    "detalle": "Si tuvieras que elegir el paisaje para ese amanecer, ¿preferirías una playa tranquila, un rincón escondido o un lugar donde el sol aparezca directamente sobre el mar? Por ahora solo estamos escogiendo la postal.",
+    "buenasNoches": "Buenas noches, Aleja. Me quedé con la imagen de un cielo que cambia de colores y dos personas que no tienen prisa por irse. Algunas ideas se disfrutan incluso antes de tener fecha.",
     "cancionTitulo": "If I Ain't Got You",
     "cancionArtista": "Alicia Keys",
     "youtubeId": "Ju8Hr50Ckwk",
@@ -724,7 +724,7 @@ const CALENDARIO = [
     "dia": 31,
     "fecha": "2026-11-15",
     "fechaTexto": "dom, 15 de nov",
-    "categoria": "Un pequeño símbolo elegido por los dos",
+    "categoria": "Aquella pequeña locura que mencionaste",
     "icono": "🌀",
     "tono": "romantico",
     "color": {
@@ -732,13 +732,13 @@ const CALENDARIO = [
       "suave": "#dcf7f4",
       "oscuro": "#12343b"
     },
-    "buenosDias": "Buenos días, Aleja. Me acordé de algo que dijiste que te gustaría hacer y me dieron ganas de proponértelo de verdad: ¿te gustaría que el próximo fin de semana nos hiciéramos una perforación juntos?",
+    "buenosDias": "Buenos días, Aleja. Me acordé de una de tus ideas: esa de hacernos una perforación. La verdad, todavía me causa curiosidad imaginar qué escogerías tú. Seguro ya tienes algún estilo en mente… o quizá todavía estás esperando encontrar el indicado.",
     "poema": [
-      "Me gusta imaginar que cada uno elige la suya, pero que exista un pequeño detalle que conecte las dos: quizá una joya parecida o un símbolo que tenga un significado que solo nosotros conozcamos. No tiene que ser idéntico; lo especial sería la historia de haberlo elegido juntos.",
-      "Y esta vez quiero que tú pongas una parte importante del plan: escoge el estudio o el lugar que te guste y te dé confianza. Lo revisamos entre los dos, miramos que sea profesional y decidimos con calma. No quiero organizarlo todo para impresionarte; quiero que también se sienta como una idea tuya."
+      "Me dio por pensar que sería curioso que cada uno eligiera algo distinto y que, aun así, quedara una pequeña historia en común. No tendría que ser idéntico ni demasiado planeado; bastaría con que al verlo recordáramos de dónde salió la ocurrencia.",
+      "Eso sí, si algún día la idea vuelve a aparecer con ganas, habrá que escoger un estudio que nos dé toda la confianza, revisar la higiene, los materiales y los cuidados. Las buenas ocurrencias también merecen hacerse bien, y siempre se vale cambiar de opinión."
     ],
-    "detalle": "Si te sigue haciendo ilusión, dime qué día del próximo fin de semana te vendría mejor y qué sitio escogerías. Revisamos juntos la higiene, el material de la joya y los cuidados posteriores. Y si prefieres pensarlo un poco más, no hay afán.",
-    "buenasNoches": "Que descanses, bonita. Me gusta la idea de compartir una experiencia así, pero más todavía que la decisión sea de los dos. El significado no estaría solo en la perforación, sino en haberla escogido juntos.",
+    "detalle": "Tengo una duda: ¿sigues pensando en aquella perforación? Y si sí, ¿eres de las que ya sabe exactamente cuál quiere o de las que puede pasar una hora mirando opciones y terminar encontrando otra completamente distinta?",
+    "buenasNoches": "Que descanses, Aleja. Tu idea sigue guardada en algún rincón de mi memoria. Quién sabe si un día terminamos comparando opciones y riéndonos de cuál de los dos se demoró más en decidir.",
     "cancionTitulo": "Blue World",
     "cancionArtista": "Mac Miller",
     "youtubeId": "_GC2wFTCAGY",
@@ -748,7 +748,7 @@ const CALENDARIO = [
     "dia": 32,
     "fecha": "2026-11-16",
     "fechaTexto": "lun, 16 de nov",
-    "categoria": "Una escapada sin demasiadas explicaciones",
+    "categoria": "Una escapada que empieza en la imaginación",
     "icono": "🌅",
     "tono": "amor",
     "color": {
@@ -756,13 +756,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Buenos días, Aleja. Hoy te propongo una idea peligrosa para alguien que tiene tantas cosas pendientes: dejar por un rato el ruido, respirar aire distinto y olvidarse del reloj. No digo que lo hagamos mañana… aunque tampoco estoy diciendo que no.",
+    "buenosDias": "Buenos días, Aleja. Hay días en los que uno debería poder cambiar el paisaje por unas horas: dejar atrás el ruido, encontrar aire fresco y seguir un camino sin mirar tanto el reloj. Hoy me dio por imaginar uno de esos días.",
     "poema": [
-      "Imagínate que un día de estos nos escapamos un rato. Sin un plan lleno de horarios, sin tener que impresionar a nadie; solo tú y yo, una carretera, música que vayamos turnándonos para elegir y esa curiosidad de no saber exactamente cómo terminará el día.",
-      "Podríamos encontrar un lugar con una vista bonita, caminar sin prisa, hablar de cualquier cosa… y dejar que la cercanía haga lo suyo. No voy a arruinarte la imaginación contando cada detalle. Algunas posibilidades se disfrutan más cuando quedan abiertas."
+      "Podría ser una carretera con buena música, un pueblito que no conozcamos o un mirador al que lleguemos casi por casualidad. Lo mejor sería no llenar cada minuto de planes; a veces basta con caminar, descubrir algo y dejar que la conversación vaya por donde quiera.",
+      "Y claro, habría que turnarse para escoger las canciones. Aunque sospecho que podríamos discutir un poquito por quién tiene mejor gusto musical… una discusión que probablemente se resuelva con otra canción."
     ],
-    "detalle": "Pregunta seria: si tuvieras un día libre para desaparecer unas horas, ¿elegirías montaña, un pueblito tranquilo o un lugar junto al agua? Yo tengo una propuesta, pero me gustaría saber qué escenario escogerías tú para esa pequeña escapada de dos.",
-    "buenasNoches": "Buenas noches, bonita. Quédate con la imagen de ese viaje improvisado: tú, yo, música y un destino que no importe tanto como la compañía. Y quién sabe… quizá un día dejemos de imaginarlo. Descansa.",
+    "detalle": "Si pudieras elegir el escenario de una escapada improvisada, ¿te irías hacia las montañas, un pueblo tranquilo o algún lugar junto al agua? Me intriga cuál sería tu primera elección.",
+    "buenasNoches": "Buenas noches, Aleja. Me gusta pensar que todavía hay caminos que no conocemos y lugares que podrían terminar convirtiéndose en una buena anécdota. Por ahora, que la imaginación haga el primer recorrido.",
     "cancionTitulo": "Apocalypse",
     "cancionArtista": "Cigarettes After Sex",
     "youtubeId": "sElE_BfQ67s",
@@ -780,14 +780,14 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, Aleja. Hoy quiero una canción tuya, de esas que no le mandas a cualquiera porque tienen algo de tu historia o de tu manera de sentir. Prometo escucharla con atención… aunque después quizá te pregunte si me la compartiste por la letra o por alguna indirecta. Y ya que estamos hablando de indirectas, se me acaba de ocurrir una bastante peligrosa: ¿y si un día nos casamos por lo civil así, por molestar? Lo digo jugando… aunque la idea tiene su gracia.",
+    "buenosDias": "Buenos días, Aleja. Hoy quiero una canción tuya, de esas que parecen normales hasta que uno se fija bien en la letra. Prometo escucharla con atención… aunque quizá me dé por buscarle una indirecta. Y hablando de ocurrencias, se me cruzó una bastante particular: hay gente que primero se casa por lo civil por pura molestadera y deja la ceremonia bonita para después. Imagínate encontrar la capilla indicada caminando por alguna ciudad durante un viaje. 😂",
     "poema": [
-      "Hay canciones que uno comparte porque suenan bien y otras que llevan escondido un recuerdo, una emoción o una frase que no se atreve a decir directamente. Me gusta esa segunda clase: la que deja una puerta entreabierta para que alguien curioso se asome.",
-      "Y siguiendo con las ideas que empiezan como una broma: primero hacemos el trámite por lo civil, sin tanta producción, y después dejamos la ceremonia bonita para cuando vayamos viajando y caminando por calles nuevas. En algún lugar encontraremos una capilla que nos guste de verdad; de esas que uno descubre sin buscarlas y piensa: «mira, aquí sí sería bonito».",
-      "No estoy organizando una boda ni pidiendo respuestas, tranquila. Es una de esas ocurrencias que me hacen sonreír: imaginar que el viaje nos va mostrando el lugar de esa segunda celebración, mientras discutimos cuál capilla tiene más encanto."
+      "Hay canciones que uno comparte porque suenan bien y otras que parecen esconder una pequeña historia. Me gusta cuando una letra deja preguntas y uno no sabe si fue casualidad o si alguien quiso decir algo sin decirlo del todo.",
+      "Y esa boda imaginaria tendría que ser así: primero el trámite civil, casi como quien hace una travesura, y después, en algún viaje, encontrar por casualidad una capilla preciosa para la ceremonia. Nada de escogerla desde ahora; tendría más gracia descubrirla caminando por calles nuevas y discutir cuál nos gusta más.",
+      "Tranquila, que por ahora esto pertenece al departamento de las ocurrencias. Aunque admito que la idea de encontrar una capilla bonita en medio de un paseo tiene su encanto."
     ],
-    "detalle": "Dos preguntas para ti: primero, elige una canción que hoy te represente y dime si tiene alguna historia detrás. Segundo, siguiendo la broma, ¿cómo sería esa capilla que escogeríamos durante un viaje: pequeña y antigua, escondida entre calles, con vista a las montañas o algo totalmente distinto? Puedes cambiarme todo el plan; esta vez quiero conocer tu versión.",
-    "buenasNoches": "Que descanses, Aleja. Hoy te dejé una canción por descubrir y una boda imaginaria para reírnos un rato. Si algún día la vida nos lleva a una historia así, que sea porque los dos la elegimos, a nuestro ritmo y con muchas calles por recorrer antes de encontrar esa capilla. Por ahora, me basta con haberte sacado una sonrisa.",
+    "detalle": "Mándame una canción que tenga una letra sospechosamente buena para lanzar indirectas. Y ya que estamos imaginando, ¿qué capilla te llamaría más la atención: una pequeña y antigua, una escondida entre callecitas o una con vista a las montañas?",
+    "buenasNoches": "Que descanses, Aleja. Hoy quedaron dos misterios: la canción que escogiste y esa capilla que todavía no sabemos dónde estaría. Algunas bromas tienen más imaginación de la necesaria… y por eso mismo dan risa.",
     "cancionTitulo": "Tararea",
     "cancionArtista": "Alcolirykoz",
     "youtubeId": "nmFdyBUAsfQ",
@@ -797,7 +797,7 @@ const CALENDARIO = [
     "dia": 34,
     "fecha": "2026-11-18",
     "fechaTexto": "mié, 18 de nov",
-    "categoria": "Un ritmo lento y una cercanía distinta",
+    "categoria": "Una canción para bajar el ritmo",
     "icono": "🎙️",
     "tono": "amor",
     "color": {
@@ -805,13 +805,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días, bonita. Que hoy te acompañe una canción con ritmo suave y que nadie te apure. Hay mañanas que piden café, música y una razón bonita para sonreír. Yo puedo ofrecerte la última, aunque sea desde aquí.",
+    "buenosDias": "Buenos días, bonita. Ojalá hoy te acompañe una canción tranquila, un café y un ratito sin que nadie te apure. Hay mañanas que no necesitan grandes planes; solo algo que les cambie el ánimo.",
     "poema": [
-      "Me gustan las conversaciones que empiezan tranquilas y, sin darse cuenta, se vuelven más personales. Esas en las que uno baja la guardia, se permite una pausa y descubre que la compañía del otro se siente especialmente bien.",
-      "Me gustaría tener una de esas contigo, pero sin una pantalla de por medio. Sentarnos cerca, dejar que suene una canción y ver si el silencio también nos queda cómodo. A veces la química se nota más cuando no hay que llenar cada segundo con palabras."
+      "Me gustan esas conversaciones que empiezan hablando de cualquier tontería y, sin darse cuenta, se alargan. A veces uno descubre que una pausa sencilla puede convertirse en uno de los momentos más agradables del día.",
+      "Quizá sea la música, quizá la confianza o quizá que algunas compañías hacen que hasta el silencio resulte cómodo. No hace falta explicar demasiado; hay cosas que se notan mejor cuando suceden."
     ],
-    "detalle": "Si hoy pudieras elegir la música para una tarde compartida, ¿pondrías algo suave para conversar o algo que nos obligue a levantarnos a bailar? Yo acepto cualquiera de las dos opciones, aunque en la segunda quizá necesite que tengas paciencia conmigo.",
-    "buenasNoches": "Buenas noches, Aleja. Ojalá la música te haya acompañado bonito. Me gustaría descubrir cómo se siente compartir contigo una canción en el mismo espacio: mirarte un segundo, sonreír y seguir escuchando como si nada.",
+    "detalle": "Si hoy pudieras ponerle música a una tarde tranquila, ¿escogerías algo suave para conversar o una canción que termine convirtiendo la sala en pista de baile? Yo tendría que practicar para la segunda opción.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá el día te deje descansar y alguna canción se te quede dando vueltas. A veces una melodía basta para imaginar una tarde que todavía no ha ocurrido.",
     "cancionTitulo": "Didn't Cha Know",
     "cancionArtista": "Erykah Badu",
     "youtubeId": "Np21rH7Ldto",
