@@ -1756,21 +1756,21 @@ const CALENDARIO = [
     "dia": 74,
     "fecha": "2026-12-28",
     "fechaTexto": "lun, 28 de dic",
-    "categoria": "El turquesa que te encuentra por sorpresa",
+    "categoria": "Un color elegido por ti",
     "icono": "🪻",
-    "tono": "amor",
+    "tono": "creativo",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Ojalá hoy te cruces con ese azul turquesa que llama la atención sin pedir permiso. A veces un color basta para despertar una idea, cambiar el ánimo o hacer que uno mire dos veces algo que antes habría pasado por alto.",
+    "buenosDias": "Hoy te propongo un juego de mirada artística: escoge un color que te llame la atención y piensa qué sensación te transmite. No hay respuesta correcta; a veces un tono dice algo distinto según el día.",
     "poema": [
-      "Me gusta imaginarte encontrando un tono que te guste y pensando dónde podría quedar bien: en una pieza, en un dibujo o en algún detalle que todavía no sabes cómo usar. No tienes que convertir cada inspiración en un proyecto; a veces basta con guardarla para después.",
-      "Y si terminas mezclando colores hasta conseguir uno distinto al que tenías en mente, tampoco pasa nada. Hay descubrimientos que empiezan por curiosidad y se quedan porque, sin planearlo, resultaron más bonitos."
+      "Podrías convertirlo en el protagonista de una postal, una maceta decorada o un pequeño cuadro. Yo elegiría otro color para acompañarlo y después intentaríamos mezclarlos sin pelear por quién tiene mejor gusto.",
+      "Aunque sospecho que terminaríamos defendiendo nuestras combinaciones como si estuviéramos en una exposición muy importante. Con críticos exigentes y presupuesto de dos marcadores."
     ],
-    "detalle": "Si hoy ves un azul turquesa que te guste, fíjate en qué tiene de especial: si es claro, intenso, verdoso o casi azul cielo. Puedes guardarlo en una foto o simplemente recordarlo como una idea para cuando te den ganas de crear.",
-    "buenasNoches": "Buenas noches, artista. Ojalá hoy algún color te haya regalado una idea, aunque todavía no sepas qué hacer con ella. No todas las inspiraciones tienen que convertirse en algo esta misma noche.",
+    "detalle": "Si te apetece, mándame el color que escogiste y dime qué nombre le pondrías. Yo buscaré uno que combine y entre los dos inventamos una pequeña paleta para una creación futura.",
+    "buenasNoches": "Buenas noches, artista. Ojalá hoy hayas encontrado un color que te represente un poquito. Guárdalo para cuando quieras darle forma a una idea.",
     "cancionTitulo": "Kiss Of Life",
     "cancionArtista": "Sade",
     "youtubeId": "MmOau-PMWJk",
@@ -1780,21 +1780,21 @@ const CALENDARIO = [
     "dia": 75,
     "fecha": "2026-12-29",
     "fechaTexto": "mar, 29 de dic",
-    "categoria": "Un plan casero para quedarse a gusto",
+    "categoria": "Una tarde sin reloj",
     "icono": "🕯️",
-    "tono": "amor",
+    "tono": "coqueto",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Te dejo un plan sin presión para cuando te provoque: algo rico de comer, ropa cómoda, música de fondo y una película que probablemente termine pausada porque la conversación se puso mejor.",
+    "buenosDias": "Hay planes que no necesitan demasiada producción: algo rico, música de fondo y una conversación que se alarga porque ninguno tiene afán de terminarla. Ese tipo de tarde tiene bastante encanto.",
     "poema": [
-      "A mí esos planes me gustan porque no intentan impresionar a nadie. Solo comer algo que provoca, conversar y tener tiempo para reírse incluso cuando la película ya empezó.",
-      "Cuando te provoque, tú eliges qué cocinamos y yo ayudo… y de paso pregunto si ya se puede probar cada tres minutos."
+      "Podríamos preparar algo sencillo, con poca sal y a nuestro gusto, elegir una película o poner música y dejar que la tarde encuentre su propio ritmo.",
+      "Y si la película queda pausada varias veces, no pienso asumir la culpa completa. Aunque quizá me distraería un poquito si te tengo cerca."
     ],
-    "detalle": "Si hoy se puede elegir, que el plan sea de casa: cocinar algo, ponerse cómodo y buscar una película. Si nos perdemos media trama hablando, siempre podemos decir que era una película experimental.",
-    "buenasNoches": "Buenas noches, bonita. Ojalá el día te haya dejado con ganas de repetir algo bonito: una charla, una comida, una película o una risa compartida.",
+    "detalle": "Cuando se dé la ocasión, elige qué te provoca más: cocinar algo fácil, pedir un antojo o preparar café y acompañarlo con chocolate amargo. Yo me encargo de escoger la música; tú tienes derecho a vetar la primera canción.",
+    "buenasNoches": "Que descanses, bonita. Me gusta imaginar un plan así contigo: sencillo, cómodo y con suficiente confianza para que hasta los silencios se sientan bien.",
     "cancionTitulo": "By Your Side",
     "cancionArtista": "Sade",
     "youtubeId": "C8QJmI_V3j4",
@@ -1804,21 +1804,21 @@ const CALENDARIO = [
     "dia": 76,
     "fecha": "2026-12-30",
     "fechaTexto": "mié, 30 de dic",
-    "categoria": "La alegría de ser recibida con cariño",
+    "categoria": "La bienvenida más sincera",
     "icono": "🐩",
-    "tono": "amor",
+    "tono": "tierno",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Ojalá hoy tus mascotas te reciban con esa alegría exagerada que no necesita explicación. Hay saludos que duran unos segundos y aun así consiguen hacer que una llegada se sienta especial.",
+    "buenosDias": "Ojalá hoy recibas una de esas bienvenidas que no necesitan palabras: una mascota acercándose feliz, una cola moviéndose a toda velocidad o esa compañía que mejora el día apenas llegas.",
     "poema": [
-      "No sé cómo hacen los animales para convertir una llegada en una celebración. Debe ser esa forma tan honesta de quererte: sin discursos, sin pose, sin guardar la alegría para después.",
-      "Dales cariño de mi parte, mi vida. Y si te sacan una sonrisa, ya hicieron su trabajo; aunque sospecho que tú también tienes bastante talento para alegrarles el día."
+      "Hay cariños que se expresan sin discursos y sin calcular el momento perfecto. Solo aparecen, se acercan y te recuerdan que tu presencia importa.",
+      "Me gusta esa ternura tan sencilla. Y también me gusta pensar que mereces encontrarla en las personas: un cariño que se note en los gestos y te deje ser tú."
     ],
-    "detalle": "Si tus mascotas se emocionan al verte, disfruta esa bienvenida sin tratar de hacerte la seria. Aunque vengas cansada, aunque haya sido un día largo, ese recibimiento merece una sonrisa genuina.",
-    "buenasNoches": "Que descanses, corazón. Si mañana tus mascotas te reciben como si fueras la persona más importante del planeta, no discutas con ellas: por una vez, el drama está justificado.",
+    "detalle": "Si tienes un ratito, regálales a tus mascotas un momento de juego o de mimos. Y si hoy no están cerca, piensa en ese saludo que siempre consigue sacarte una sonrisa.",
+    "buenasNoches": "Buenas noches. Que el último tramo del año te encuentre acompañada de cariño sincero, del que no hace ruido pero se hace sentir.",
     "cancionTitulo": "Three Little Birds",
     "cancionArtista": "Bob Marley & The Wailers",
     "youtubeId": "HNBCVM4KbUM",
@@ -1828,21 +1828,21 @@ const CALENDARIO = [
     "dia": 77,
     "fecha": "2026-12-31",
     "fechaTexto": "jue, 31 de dic",
-    "categoria": "Lo que este año te enseñó",
+    "categoria": "Lo que merece quedarse contigo",
     "icono": "🎆",
-    "tono": "amor",
+    "tono": "reflexivo",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Para cerrar el año, no hace falta hacer un inventario perfecto de lo que lograste. Ojalá puedas reconocer lo que aprendiste, lo que te hizo reír y los momentos en que fuiste fiel a ti misma.",
+    "buenosDias": "Hoy termina el año. Antes de correr hacia los propósitos nuevos, ojalá puedas mirar atrás con un poco de cariño: no solo por lo que conseguiste, también por las veces que seguiste adelante cuando no fue sencillo.",
     "poema": [
-      "Ojalá el año que termina te deje recuerdos que quieras guardar, ideas nuevas para crear y personas que te hagan sentir querida sin que tengas que pedirlo una y otra vez.",
-      "Y para cerrar, mi vida, quédate con esto: no necesitas convertirte en otra persona para merecer cosas bonitas. Sigue siendo tú, con tus colores, tus canciones, tus ocurrencias y esa sonrisa que hace que las pecas se roben la escena."
+      "Que se queden las canciones que te acompañaron, las personas con quienes pudiste ser tú, las ideas que te devolvieron las ganas y esos momentos pequeños que quizá no fotografiaste, pero todavía recuerdas.",
+      "Y lo que no salió como esperabas no tiene que convertirse en una deuda contigo misma. Puedes aprender, cambiar de dirección y empezar otra vez sin tratarte con dureza."
     ],
-    "detalle": "Antes de que termine el año, quédate un momento con lo que sí vale la pena guardar: una risa inesperada, algo que aprendiste, una idea que te emocionó o una persona que te hizo bien. No hace falta que todo haya salido perfecto para que haya habido cosas bonitas.",
-    "buenasNoches": "Buenas noches, Aleja. Que el año que se va no te obligue a hacer cuentas demasiado duras contigo misma. Guarda lo que te hizo bien, suelta un poco lo que pesó y date permiso de recibir el año nuevo sin tener que tenerlo todo resuelto.",
+    "detalle": "Elige tres recuerdos del año: uno que te hizo reír, uno del que aprendiste algo y uno que quieras repetir. Si te nace compartirlos, me gustaría conocerlos; yo también puedo contarte los míos.",
+    "buenasNoches": "Feliz cierre de año, Aleja. Gracias por dejar que este calendario te acompañe hasta aquí. Ojalá esta noche puedas soltar lo que pesa y guardar lo que te hizo bien. No tienes que resolver el año entero antes de que llegue la medianoche.",
     "cancionTitulo": "I'll Be Seeing You",
     "cancionArtista": "Billie Holiday",
     "youtubeId": "3C5zYKIuoxg",
@@ -1852,21 +1852,22 @@ const CALENDARIO = [
     "dia": 78,
     "fecha": "2027-01-01",
     "fechaTexto": "vie, 1 de ene",
-    "categoria": "Un año nuevo, a tu manera",
+    "categoria": "Que lo bonito también nos encuentre",
     "icono": "🥳",
-    "tono": "amor",
+    "tono": "romantico",
     "color": {
       "principal": "#d5a8e8",
       "suave": "#f0dff8",
       "oscuro": "#291633"
     },
-    "buenosDias": "Feliz año nuevo, Aleja. Ojalá este año te deje crear mucho, reírte con ganas, escuchar canciones hasta cansarte de ellas y sentirte querida sin tener que dejar de ser tú. Que lleguen cosas buenas, pero que también tengas calma para disfrutarlas.",
+    "buenosDias": "Feliz año nuevo, Aleja. Ojalá este comienzo te traiga salud, calma, proyectos que te emocionen, colores nuevos para crear y muchas razones para reírte con ganas. Que puedas vivir a tu ritmo y sentirte querida sin tener que dejar de ser tú.",
     "poema": [
-      "Corazón, deseo que este año te traiga momentos que te emocionen de verdad: ideas que te den ganas de pintar hasta perder la noción de la hora, canciones que encuentren justo el ánimo que tienes y personas que te cuiden con la misma ternura con la que tú sabes cuidar a los tuyos.",
-      "Y ojalá no te falten razones para esa sonrisa tan genuina tuya. Que haya días tranquilos, otros llenos de historias para contar y muchos detalles pequeños que te hagan pensar: «qué bonito que esto me pasó». Feliz año, Aleja; que puedas vivirlo sin dejar de ser tú."
+      "Este calendario empezó como una forma de dejarte un detalle cada día. En el camino hubo canciones, ocurrencias, preguntas, ideas de planes y palabras que a veces se acercaron un poquito más a lo que quería decirte.",
+      "No quiero cerrar con una promesa enorme ni con una respuesta que tengas que dar. Solo quiero ser honesto: me gustas, me ilusiona seguir conociéndote y me gustaría que lo que venga podamos descubrirlo con calma, si a ti también te nace.",
+      "Que este año nos encuentre con espacio para proponer, sorprendernos y construir momentos que sí queramos vivir. Y si algo he aprendido en estos días, es que las mejores historias no necesitan correr; necesitan ganas de seguir escribiéndose."
     ],
-    "detalle": "Hoy no toca exigirte una versión nueva de ti como si fueras un proyecto pendiente. Come algo rico, abraza a tus mascotas si las tienes cerca, habla con tu gente y date permiso de comenzar el año a tu ritmo. Los propósitos pueden esperar hasta después del desayuno; ya sabes que esa negociación con el reloj tiene antecedentes.",
-    "buenasNoches": "Buenas noches, corazón, y feliz primer día del año. Ojalá hoy hayas tenido un momento bonito, una risa sincera o una conversación que te haya hecho sentir cerca de tu gente. Que este año te dé espacio para crear, descansar, querer y dejarte querer. No hace falta que el primer día sea perfecto para que el año tenga cosas buenas por delante.",
+    "detalle": "Hoy empieza una página nueva. Si te apetece, dime una cosa que te gustaría vivir este año y una que te gustaría que hiciéramos juntos. Yo también pondré las mías; sin presión por convertirlas todas en planes, pero con ganas de intentarlo cuando ambos queramos.",
+    "buenasNoches": "Buenas noches y feliz año nuevo. Gracias por llegar hasta el final de estos 78 días. Ojalá lo que viene tenga momentos que nos hagan bien, conversaciones honestas y la libertad de elegirnos sin apuros. Yo estaría feliz de seguir descubriendo qué puede nacer de aquí.",
     "cancionTitulo": "Freedom",
     "cancionArtista": "Pharrell Williams",
     "youtubeId": "LlY90lG_Fuw",
