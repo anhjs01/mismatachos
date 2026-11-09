@@ -1132,7 +1132,7 @@ const CALENDARIO = [
     "dia": 48,
     "fecha": "2026-12-02",
     "fechaTexto": "mié, 2 de dic",
-    "categoria": "Una noche para la que vale la pena arreglarse",
+    "categoria": "Una noche que se vista de recuerdo",
     "icono": "🫗",
     "tono": "coqueto",
     "color": {
@@ -1140,13 +1140,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Hoy me acordé de tu idea de ponerte un vestido para ir a un lugar especial. No la he olvidado; de hecho, me parece una de esas escenas que merecen su propio momento, sin tener que apresurarla.",
+    "buenosDias": "Hay planes que empiezan mucho antes de salir de casa: desde escoger qué ponerse, imaginar el ambiente y preguntarse cómo se verá esa noche. Me quedé pensando en tu idea del vestido para ir a un lugar especial. Tiene algo de esas ocasiones que se disfrutan desde la preparación.",
     "poema": [
-      "Me imagino que llega ese día, eliges el vestido con el que te sientes espectacular y yo también me arreglo para llevarte a un lugar bonito. Quiero que sea una noche especial para los dos, no solo una salida para tomarnos fotos.",
-      "Y si al final gana tu otra propuesta y decidimos irnos los dos de traje, al estilo Peaky Blinders, también me apunto. No sé si impondríamos respeto o terminaríamos riéndonos de nosotros mismos, pero contigo cualquiera de las dos opciones me parece un buen comienzo."
+      "Me imagino que eliges ese vestido con el que te sientes bonita, cómoda y completamente tú. Yo me tomo mi tiempo para arreglarme también, y cuando por fin nos encontramos, la noche deja de ser un día cualquiera. No por el lugar más costoso ni por hacer algo extraordinario, sino porque los dos quisimos darle un espacio especial.",
+      "Y sigue en pie tu otra versión de la historia: los dos de traje, con esa actitud de Peaky Blinders. Puede que intentemos caminar muy serios durante cinco minutos y después nos gane la risa. Las dos ideas tienen su encanto; una elegante y la otra con bastante personalidad."
     ],
-    "detalle": "No hace falta decidir hoy el lugar ni la fecha. Cuando llegue el momento, quiero que tú también escojas cómo te imaginas esa noche: vestido y elegancia o traje y actitud de película. Yo pongo de mi parte para que sea un recuerdo bonito para ambos.",
-    "buenasNoches": "Que descanses. Me gusta que tengas esas ideas tan tuyas. Y te confieso que la imagen de verte llegar con ese vestido —o de vernos coordinados de traje— ya me sacó una sonrisa.",
+    "detalle": "No quiero escoger por ti cómo debería ser esa noche. Cuando nos apetezca hacerla realidad, podemos decidir entre los dos qué nos representa más: tu vestido y yo bien arreglado, o los dos de traje con el toque Peaky Blinders. También elegiremos el lugar y el momento sin afán. Lo importante es que ambos nos sintamos a gusto y que la noche tenga algo de nuestra propia historia.",
+    "buenasNoches": "Buenas noches. Me gusta que me compartas ideas que quizá parecen pequeñas, pero que dejan imaginar momentos bonitos. No hay que resolver hoy ningún detalle; por ahora me quedo con las dos escenas en la cabeza y con la curiosidad de saber cuál terminará ganando.",
     "cancionTitulo": "Antonia",
     "cancionArtista": "Gondwana",
     "youtubeId": "exxkGyu3G1Q",
