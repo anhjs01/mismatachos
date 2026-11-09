@@ -820,7 +820,7 @@ const CALENDARIO = [
     "dia": 35,
     "fecha": "2026-11-19",
     "fechaTexto": "jue, 19 de nov",
-    "categoria": "Ese estilo tuyo que distrae",
+    "categoria": "Tu forma de hacer tuyos los detalles",
     "icono": "👕",
     "tono": "coqueto",
     "color": {
@@ -828,13 +828,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, Aleja. Ponte algo con lo que te sientas cómoda y mírate un segundo antes de salir. No sé qué tengas pensado usar hoy, pero tengo una sospecha: vas a conseguir que alguien pierda el hilo de lo que estaba diciendo. A mí probablemente me pasaría.",
+    "buenosDias": "Buenos días, Aleja. Hoy no quiero hablar solamente de qué ropa te pones, sino de algo que va más allá: me gusta pensar que tienes una manera propia de elegir cómo presentarte al mundo. Hay detalles que para otras personas pueden pasar inadvertidos, pero que terminan diciendo mucho de quien los lleva.",
     "poema": [
-      "No es solamente la ropa ni el conjunto que eliges. Es la manera en que haces tuyos los detalles, cómo te mueves cuando estás a gusto y esa seguridad que aparece cuando algo te representa.",
-      "Y sí, me gustaría tenerte cerca para decirte en persona que te ves preciosa. Aunque sospecho que después me quedaría mirándote un poquito más de lo prudente y tendría que fingir que estaba buscando algo detrás de ti."
+      "Tu estilo no tendría que parecerse al de nadie para llamar la atención. Puede estar en una combinación que se te ocurrió, en algo sencillo que elegiste porque te representa o en ese pequeño detalle que quizá solo tú sabes por qué te gusta. Me parece bonito que cada persona tenga su propio lenguaje, incluso en cosas tan cotidianas como vestirse.",
+      "Y hay algo que quiero seguir descubriendo: qué cosas te hacen sentir más tú. No quiero inventarme una descripción perfecta de ti ni decir que ya conozco todos tus gustos; prefiero prestar atención, preguntarte y dejar que me los enseñes. Aunque sí puedo adelantarte algo: cuando te sientes bien contigo misma, se nota… y es difícil no mirarte."
     ],
-    "detalle": "Hoy elige ese look que te hace sentir más tú. Y si te tomas una foto porque te gustó cómo quedó, guárdala para ti o compártela con quien quieras. Yo no voy a pedir pruebas… pero tampoco voy a negar que me encantaría verte.",
-    "buenasNoches": "Descansa, bonita. Espero que hoy te hayas sentido cómoda y linda contigo misma. Y si alguien te hizo un cumplido, ojalá lo hayas recibido sin restarle importancia. El mío sigue pendiente para cuando pueda decírtelo mirándote.",
+    "detalle": "Si hoy eliges un look que te encante, piensa qué es lo que más te gusta de él: ¿la comodidad, los colores, algún accesorio o simplemente cómo te hace sentir? Si te provoca, cuéntame ese detalle. Me interesa conocer el motivo detrás de tus elecciones, no solo ver el resultado.",
+    "buenasNoches": "Que descanses, Aleja. Ojalá hoy hayas tenido un momento para sentirte a gusto contigo misma. Me gusta ir descubriendo esas pequeñas decisiones que te hacen única, sin apresurarme a creer que ya lo sé todo de ti. Y sí, también admito que verte cuando te sientes bonita tiene su efecto en mí.",
     "cancionTitulo": "good denim",
     "cancionArtista": "jalen chords",
     "youtubeId": "_2Lnj5N9lCM",
