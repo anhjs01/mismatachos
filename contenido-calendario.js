@@ -1182,7 +1182,7 @@ const CALENDARIO = [
     "dia": 50,
     "fecha": "2026-12-04",
     "fechaTexto": "vie, 4 de dic",
-    "categoria": "Algo que todavía te dé curiosidad aprender",
+    "categoria": "Esa curiosidad que todavía tienes guardada",
     "icono": "🛋️",
     "tono": "curioso",
     "color": {
@@ -1190,13 +1190,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Te quiero hacer una pregunta distinta: ¿hay algo que siempre te haya llamado la atención aprender, aunque todavía no hayas encontrado el momento? Puede ser algo artístico, una habilidad práctica, un idioma, bailar o cualquier curiosidad que tengas guardada.",
+    "buenosDias": "Buenos días, Aleja. ¿Hay algo que siempre te haya dado curiosidad aprender, aunque todavía no hayas encontrado el momento? Puede ser algo artístico, un idioma, bailar, cocinar algo distinto o una habilidad que viste por ahí y pensaste: «algún día lo intento».",
     "poema": [
-      "Hay intereses que aparecen de repente y otros que llevan años acompañándonos en silencio. A veces no los empezamos porque creemos que necesitamos tiempo, talento o hacerlo todo bien desde el primer intento.",
-      "Pero aprender también puede ser simplemente probar, equivocarse un poco, reírse y descubrir si aquello que imaginábamos nos gusta de verdad. Me parece bonito que cada uno conserve cosas que todavía quiere explorar; siempre hay una parte de nosotros esperando su oportunidad."
+      "Hay intereses que aparecen de repente y otros que llevan años esperando turno. A veces uno los deja en pausa porque cree que necesita tiempo, talento o las condiciones perfectas, cuando quizá bastaría con probar un poquito y ver qué pasa.",
+      "Me gusta pensar que siempre queda algo por descubrir de uno mismo. Incluso esas curiosidades que parecen pequeñas pueden terminar abriendo una puerta inesperada, o al menos regalando una buena anécdota."
     ],
-    "detalle": "Si te nace, cuéntame qué te gustaría aprender y qué fue lo que despertó esa curiosidad. Yo te cuento una de las mías. Y si algún día coincidimos en alguna, podemos buscar una manera sencilla de probarla, sin convertirlo en obligación ni ponerle fecha desde ahora.",
-    "buenasNoches": "Buenas noches. Ojalá no pierdas esas curiosidades que te hacen mirar un poquito más allá de la rutina. No tienes que empezar mañana ni tener un plan; a veces basta con reconocer que hay algo nuevo que todavía te gustaría descubrir.",
+    "detalle": "Si quieres, cuéntame qué te gustaría aprender y qué despertó esa curiosidad. Yo también tengo alguna pendiente. No hace falta convertirlo en un reto ni ponerle fecha: por ahora basta con descubrir qué cosas todavía nos llaman la atención.",
+    "buenasNoches": "Buenas noches, Aleja. Que no se te apaguen esas ganas de probar cosas nuevas. Algunas ideas se quedan esperando su momento y otras aparecen justo cuando uno menos las busca.",
     "cancionTitulo": "Moment Of Your Life (feat. Coco Jones)",
     "cancionArtista": "Brent Faiyaz; Coco Jones",
     "youtubeId": "Jv17JsayCSI",
@@ -1255,7 +1255,7 @@ const CALENDARIO = [
     "dia": 53,
     "fecha": "2026-12-07",
     "fechaTexto": "lun, 7 de dic",
-    "categoria": "Hay miradas que dicen más que un discurso",
+    "categoria": "Esa química que no necesita explicación",
     "icono": "🍒",
     "tono": "coqueto",
     "color": {
@@ -1263,13 +1263,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hay algo curioso en la química entre dos personas: a veces aparece en una mirada que dura un segundo más, en una sonrisa que se escapa o en esa facilidad para seguir hablando aunque ya se haya acabado el tema. No siempre se puede explicar; simplemente se nota cuando sucede.",
+    "buenosDias": "Hay algo curioso en la química entre dos personas: a veces aparece en una mirada que dura un segundo más, una sonrisa inesperada o una conversación que se alarga sin que nadie lo haya planeado. No siempre se puede explicar; a veces solo queda esa pequeña duda dando vueltas.",
     "poema": [
-      "No quiero atribuirte señales ni dar por hecho lo que sientes. Prefiero ser honesto con lo que me pasa a mí: hay momentos en los que me descubro sonriendo después de hablar contigo, o pensando en alguna expresión tuya que se me quedó grabada.",
-      "Me gusta esa mezcla de curiosidad y nervios que puede aparecer cuando alguien empieza a importarte de una manera distinta. Y también me gusta que, si algo llega a crecer, sea porque los dos lo reconocemos libremente, no porque uno intente descifrar al otro a la fuerza."
+      "No todas las miradas significan algo, ni cada sonrisa es una pista escondida. Pero hay momentos que tienen una gracia particular y que uno recuerda después, sin saber muy bien por qué.",
+      "Quizá lo interesante sea no apresurarse a ponerles nombre. Dejar que las conversaciones sigan su curso, que las bromas aparezcan y que cada quien descubra qué siente sin tener que responder a ninguna expectativa."
     ],
-    "detalle": "Te dejo una pregunta sin respuestas correctas: ¿qué detalle suele hacerte notar que hay química con alguien? Puede ser la mirada, el sentido del humor, la conversación, la confianza o algo que no sepas explicar. Yo también te diré qué pequeños detalles me llaman la atención.",
-    "buenasNoches": "Buenas noches. Hay sonrisas que aparecen sin pedir permiso y conversaciones que uno recuerda un poquito más de lo esperado. No hace falta sacar conclusiones esta noche; a veces basta con disfrutar lo bonito que está pasando, cada quien a su ritmo.",
+    "detalle": "Pregunta curiosa: ¿qué suele hacer que una conversación o un encuentro tenga esa chispa especial para ti? ¿El humor, la confianza, una mirada, la forma de escuchar o algo que no se puede explicar tan fácil?",
+    "buenasNoches": "Buenas noches, Aleja. Hay momentos pequeños que tienen una chispa difícil de describir. No hace falta sacar conclusiones de todo; a veces está bien dejar que una sonrisa sea solamente una sonrisa… por ahora.",
     "cancionTitulo": "Put Your Records On",
     "cancionArtista": "Corinne Bailey Rae",
     "youtubeId": "oWQl00LWEwE",
@@ -1303,7 +1303,7 @@ const CALENDARIO = [
     "dia": 55,
     "fecha": "2026-12-09",
     "fechaTexto": "mié, 9 de dic",
-    "categoria": "Esos detalles tuyos que llaman mi atención",
+    "categoria": "Detalles que tienen tu propio estilo",
     "icono": "🪡",
     "tono": "coqueto",
     "color": {
@@ -1311,13 +1311,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Hay detalles que hacen que uno se fije en alguien casi sin proponérselo: la forma de sonreír, una mirada concentrada, cómo se acomoda el cabello o ese estilo que parece decir mucho sin tener que explicarlo. A veces no es una sola cosa, sino la manera en que todo se combina.",
+    "buenosDias": "Hay detalles que hacen que alguien tenga un estilo muy suyo: una prenda que repite, un accesorio, la forma de arreglarse el cabello o esa combinación que probablemente nadie más habría elegido igual. A veces lo más interesante no es seguir una tendencia, sino darle tu propio giro.",
     "poema": [
-      "No creo que la atracción se pueda resumir en una lista de rasgos. También está en la expresión que aparece cuando hablas de algo que te entusiasma, en cómo cambia tu voz cuando te ríes y en esos gestos que quizá haces sin notar.",
-      "Y sí, hay detalles tuyos que me llaman la atención. Pero me gusta más la idea de descubrirlos con calma, porque una persona no se vuelve interesante por encajar en una descripción: lo es por todo lo que transmite cuando simplemente está siendo ella."
+      "El estilo no siempre está en lo más llamativo. Puede aparecer en un color, en una forma de caminar, en cómo alguien combina algo sencillo o en esos pequeños cambios que hace según el ánimo del día.",
+      "Y hay algo divertido en descubrir esas particularidades sin convertirlas en un catálogo de cumplidos. Cada persona tiene detalles que la representan, incluso algunos que quizá ella misma no nota."
     ],
-    "detalle": "Te propongo una pregunta con un poquito de coquetería: ¿qué detalle de tu apariencia o de tu estilo te gusta especialmente y sientes que te representa? Puede ser algo sencillo, una prenda, tu cabello, una forma de arreglarte o un accesorio. Yo también te cuento qué pequeños detalles suelo notar en alguien que me atrae, sin convertirlo en un examen ni en una lista de cumplidos.",
-    "buenasNoches": "Buenas noches. Hay detalles que uno nota y guarda para sí, no para analizar a alguien, sino porque le despiertan una sonrisa. Me gusta descubrir esas particularidades tuyas que hacen que tu presencia tenga una forma propia.",
+    "detalle": "Te dejo una pregunta: ¿hay alguna prenda, color, accesorio o detalle de tu apariencia que sientas muy tuyo? También vale decir que depende del día. Las respuestas inesperadas suelen ser las mejores.",
+    "buenasNoches": "Buenas noches, Aleja. Que nunca te falten ganas de llevar las cosas a tu manera. A veces un detalle pequeño termina diciendo mucho más del estilo de alguien que cualquier tendencia.",
     "cancionTitulo": "La Terrera",
     "cancionArtista": "Rupatrupa",
     "youtubeId": "2BW92cCp0T4",
