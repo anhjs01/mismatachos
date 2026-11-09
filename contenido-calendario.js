@@ -1400,21 +1400,22 @@ const CALENDARIO = [
     "dia": 59,
     "fecha": "2026-12-13",
     "fechaTexto": "dom, 13 de dic",
-    "categoria": "Una indirecta con espacio para responder",
+    "categoria": "Esas cosas tan tuyas que quizá no notas",
     "icono": "🎛️",
-    "tono": "coqueto_sutil",
+    "tono": "observador_coqueto",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Hoy voy a dejar una frase a medio camino: hay planes que se vuelven más interesantes dependiendo de quién acepta la invitación. No diré más por ahora; el misterio también merece su turno.",
+    "buenosDias": "Hay cosas de una persona que no siempre aparecen en las fotos ni en las grandes historias. Están en cómo cuenta algo que le emociona, en sus gestos cuando se concentra, en sus ocurrencias inesperadas o en esa manera tan propia de reaccionar ante el mundo. Hoy me dieron ganas de hablarte de esas pequeñas cosas tuyas.",
     "poema": [
-      "No todo tiene que decirse de frente ni esconderse para siempre. A veces basta con dejar una pista, ver si la otra persona quiere seguir el juego y disfrutar la conversación que aparece después.",
-      "Y si tú tienes una frase mejor, puedes cambiar las reglas. Me gusta la idea de que el coqueteo sea una conversación de ida y vuelta, no un monólogo."
+      "Quizá tú las ves como detalles normales y ni siquiera les prestas atención. Pero a veces son precisamente esas particularidades las que hacen que alguien se quede en la memoria: una expresión, una risa que aparece sin aviso, la forma de defender una idea o ese contraste entre tu lado tranquilo y el que de pronto se llena de energía.",
+      "No quiero inventarme una versión perfecta de ti ni convertir cada gesto en una declaración. Me interesa la persona real: la que tiene días buenos, días atravesados, gustos particulares, contradicciones y una forma propia de hacer las cosas.",
+      "Y si alguna vez te menciono uno de esos detalles, no es para que cambies nada. Es porque lo noté y me gustó."
     ],
-    "detalle": "Completa la frase como quieras: «Un plan que sí aceptaría sin pensarlo mucho sería…». Puedes responder con algo divertido, tranquilo o un poquito atrevido. Esta vez la respuesta la pones tú.",
-    "buenasNoches": "Que descanses. No voy a revelar todavía qué plan tenía en mente; me gusta dejarte una pista y permitir que la imaginación haga su parte. Cuando quieras, puedes devolverme otra.",
+    "detalle": "Hoy te propongo un intercambio: dime una particularidad tuya que crees que la gente suele pasar por alto. Yo te contaré una que he ido notando. Puede ser un gesto, una costumbre, una manera de hablar o algo de tu carácter. Y si no coincidimos en cuál es la más característica, tendremos tema para debatirlo.",
+    "buenasNoches": "Buenas noches. Ojalá nunca sientas que tienes que pulir cada parte de ti para agradar. También hay belleza en tus manías, tus cambios de humor, tus ocurrencias y esas pequeñas rarezas que te hacen reconocible. Descansa siendo tú, sin tener que actuar para nadie.",
     "cancionTitulo": "Lost & Found",
     "cancionArtista": "Jorja Smith",
     "youtubeId": "9xZ6P4Sinvw",
