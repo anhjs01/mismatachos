@@ -1601,21 +1601,22 @@ const CALENDARIO = [
     "dia": 67,
     "fecha": "2026-12-21",
     "fechaTexto": "lun, 21 de dic",
-    "categoria": "El menú secreto de una tarde",
+    "categoria": "Un lugar donde puedas bajar el ritmo",
     "icono": "🍜",
-    "tono": "juego",
+    "tono": "sereno_complice",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hoy vamos a diseñar una tarde sin decidir todavía cuándo hacerla. Cada uno escoge una parte del menú: un lugar, algo para comer y una actividad. Después juntamos las elecciones y vemos qué clase de plan aparece.",
+    "buenosDias": "Hoy quiero preguntarte por esos lugares en los que sientes que puedes respirar distinto. No necesariamente tienen que ser destinos espectaculares: puede ser un parque con árboles, una cafetería tranquila, una ventana desde la que se vea llover o algún rincón al que te gusta volver cuando necesitas desconectarte.",
     "poema": [
-      "Tú podrías escoger un parque o una cafetería pequeña; yo podría proponer pintar algo, decorar una maceta o simplemente caminar hasta encontrar un rincón bonito.",
-      "Lo divertido es que ninguna de las dos versiones queda completa por sí sola. El plan final sale de mezclar lo que se le ocurrió a cada uno."
+      "A veces uno no necesita un viaje enorme para descansar la cabeza. Basta con salir un rato, caminar sin afán, sentarse a mirar el paisaje o encontrar un sitio donde no haya que estar pendiente de tantas cosas.",
+      "Me gustaría conocer esos lugares que te hacen bien y entender qué encuentras en ellos: ¿el silencio, la vista, la música, la compañía o la posibilidad de estar un momento contigo misma?",
+      "Y si algún día nos apetece compartir uno de esos rincones, podemos hacerlo sin llenar la tarde de actividades. Elegimos algo sencillo para comer, damos una vuelta o nos sentamos a conversar. También está bien que sea un lugar solo tuyo."
     ],
-    "detalle": "Tu turno: elige el lugar y la actividad. Yo pongo la comida o el antojo. Si nuestras elecciones no combinan, tenemos que inventar una solución creativa, no cancelar el plan.",
-    "buenasNoches": "Buenas noches. Me gustó imaginar esa tarde hecha con dos ideas distintas. A veces el mejor plan no lo trae nadie listo: lo construimos entre los dos.",
+    "detalle": "Cuéntame qué tipo de lugar te ayuda a desconectarte y qué no puede faltar allí. Después armamos una tarde imaginaria: tú eliges el sitio y la actividad —caminar, pintar, leer o simplemente descansar— y yo propongo algo rico para acompañarla. Si nuestras ideas no combinan, las ajustamos entre los dos. No hace falta ponerle fecha hasta que de verdad nos provoque.",
+    "buenasNoches": "Buenas noches. Ojalá tengas un lugar, aunque sea pequeño, al que puedas volver cuando necesites un respiro. Y si algún día quieres compartirlo, me encantará conocerlo; si prefieres guardarlo para ti, también merece seguir siendo tu refugio.",
     "cancionTitulo": "You Know How We Do It",
     "cancionArtista": "Ice Cube",
     "youtubeId": "FXTh4XLm2VE",
