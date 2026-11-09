@@ -1450,21 +1450,22 @@ const CALENDARIO = [
     "dia": 61,
     "fecha": "2026-12-15",
     "fechaTexto": "mar, 15 de dic",
-    "categoria": "La cata de dos antojos",
+    "categoria": "Una conversación que no debería ser tan seria",
     "icono": "🍧",
-    "tono": "jugueton",
+    "tono": "humor_complice",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Hoy hay una decisión importante: mora con chocolate amargo o un antojo completamente distinto. No tienes que escoger el más elegante, sino el que de verdad te provoque.",
+    "buenosDias": "Hoy queda oficialmente permitido hablar de cualquier tontería. De esas conversaciones que empiezan con una pregunta sin sentido y, cinco minutos después, alguien está defendiendo una teoría absurda como si estuviera en una conferencia. No todo tiene que ser profundo; también quiero conocer tu sentido del humor en su estado más espontáneo.",
     "poema": [
-      "Imagino una tarde probando dos sabores y discutiendo cuál merece el primer puesto. Cada quien defiende su elección y al final se permite una cucharada del otro, porque la investigación exige sacrificios.",
-      "Si algún día hacemos esa pequeña cata, tú eliges el primer sabor y yo llevo una segunda opción sorpresa."
+      "Tengo una duda que merece investigación: si los animales pudieran tener trabajos de oficina, ¿cuál sería el peor compañero de reunión? Yo sospecho que un gato sería el típico que llega, tira todo de la mesa y aun así consigue que lo asciendan.",
+      "Me gustan las personas con las que uno puede pasar de una conversación seria a reírse por una bobada sin tener que anunciar el cambio de tema. Esa libertad también dice algo bonito de la confianza.",
+      "Y no pienso adjudicarme el papel de quien siempre hace reír. Hoy te toca a ti sorprenderme; seguro tienes ocurrencias que todavía no conozco."
     ],
-    "detalle": "Reto de paladar: escoge un sabor que nunca combinarías con mora y chocolate, y dime si crees que funcionaría. Yo propongo otra mezcla y después comparamos teorías.",
-    "buenasNoches": "Buenas noches. Espero que hoy hayas encontrado algo rico para disfrutar. La cata queda pendiente hasta que los dos tengamos antojo y tiempo.",
+    "detalle": "Te dejo la pregunta del día: si tuvieras que contratar a un animal para trabajar contigo, ¿cuál escogerías y qué cargo tendría? Yo responderé la misma. Después puedes lanzarme tu propia pregunta absurda, ponerme una situación imposible o intentar hacerme defender una opinión ridícula. Esta vez tú pones las reglas.",
+    "buenasNoches": "Buenas noches. Ojalá hoy te hayas reído por algo inesperado. Y si no, queda abierta la posibilidad de que mañana aparezca una conversación completamente inútil, pero lo bastante divertida como para mejorar el día.",
     "cancionTitulo": "I Want You Around",
     "cancionArtista": "Snoh Aalegra",
     "youtubeId": "WdyPcNEA27M",
