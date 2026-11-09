@@ -1475,21 +1475,22 @@ const CALENDARIO = [
     "dia": 62,
     "fecha": "2026-12-16",
     "fechaTexto": "mié, 16 de dic",
-    "categoria": "Una flor y una nota escondida",
+    "categoria": "Cómo te gusta que te acompañen en un día difícil",
     "icono": "🌱",
-    "tono": "tierno",
+    "tono": "cuidado_sincero",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "A veces una flor alegra el día sin necesitar una fecha especial. Y si viene acompañada de una nota pequeña, puede convertirse en un recuerdo que uno guarda mucho más tiempo.",
+    "buenosDias": "No todos los días se pueden llevar con la misma energía. Hay mañanas en las que uno quiere hablar, otras en las que necesita silencio y algunas en las que ni siquiera sabe explicar qué le pasa. Hoy me gustaría entender un poquito mejor cómo prefieres que te acompañen cuando el día se pone pesado.",
     "poema": [
-      "Me imagino escoger una margarita o un tulipán y escribir algo breve, sin discursos: una frase que te haga sonreír cuando la encuentres.",
-      "También podría ser al revés: que un día tú escondas una nota donde yo no la espere. Me daría curiosidad descubrir qué palabras escogerías."
+      "A veces ayudar es escuchar sin interrumpir. Otras veces es distraer con una conversación absurda, acercar un café, dar espacio o preguntar si hace falta algo concreto. No existe una fórmula que funcione para todo el mundo, y tampoco tienes que estar bien enseguida para tranquilizar a los demás.",
+      "No quiero asumir que sé lo que necesitas ni aparecer con soluciones cuando quizá solo quieres desahogarte. Me parece más bonito aprender a preguntarte y respetar tu respuesta.",
+      "Y también quiero que sepas que puedes decir «hoy prefiero estar a mi aire» sin sentir que tienes que justificarlo."
     ],
-    "detalle": "Juego de mensajes secretos: escribe una frase de máximo siete palabras que dejarías dentro de un libro, una bolsa o junto a una flor. Si quieres, me la compartes; después te toca imaginar dónde escondería yo la mía.",
-    "buenasNoches": "Que descanses. Ojalá mañana encuentres una pequeña sorpresa, aunque sea una frase bonita en el momento indicado. A veces eso basta para cambiar el tono del día.",
+    "detalle": "Si te nace, completa esta frase: «Cuando tengo un día difícil, me ayuda que…». Puede ser que te escuchen, que te den espacio, que te hagan reír, que te acompañen a caminar o algo completamente distinto. Yo también te contaré qué me sirve. No es un compromiso de acertar siempre, sino una forma de conocernos mejor.",
+    "buenasNoches": "Buenas noches. Ojalá hoy hayas podido descansar un poco de lo que pesa. No tienes que convertir cada día difícil en una victoria ni explicarle a todo el mundo cómo te sientes. A veces basta con tener espacio para ser como estás.",
     "cancionTitulo": "Kiss Of Life",
     "cancionArtista": "Sade",
     "youtubeId": "MmOau-PMWJk",
