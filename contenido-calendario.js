@@ -966,7 +966,7 @@ const CALENDARIO = [
     "dia": 41,
     "fecha": "2026-11-25",
     "fechaTexto": "mié, 25 de nov",
-    "categoria": "Hay canciones que cuentan pequeñas partes de ti",
+    "categoria": "Una canción que quizá diga algo de ti",
     "icono": "🎵",
     "tono": "musical",
     "color": {
@@ -974,13 +974,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días, Aleja. Hoy me dio curiosidad algo: si alguien quisiera conocerte un poquito mejor sin hacerte veinte preguntas, ¿qué canción tendría que escuchar? No necesariamente tu favorita de toda la vida; quizá una que explique tu humor, una etapa, un recuerdo o simplemente esa versión tuya que aparece cuando suena.",
+    "buenosDias": "Buenos días, Aleja. Hoy me dio curiosidad saber qué canción pondrías si quisieras que alguien entendiera un poquito tu estado de ánimo sin tener que explicarlo. No tiene que ser tu favorita; puede ser una que encaje con esta semana, con algún recuerdo o simplemente con tu forma de ser.",
     "poema": [
-      "La música tiene esa manera extraña de acompañarnos sin pedir explicaciones. Hay canciones que uno pone para caminar, otras para ordenar la cabeza, algunas para cantar sin saberse bien la letra y otras que se quedan porque llegaron en el momento preciso.",
-      "Me gustaría conocer las tuyas, no para sacar conclusiones apresuradas sobre ti, sino para descubrir qué te hacen sentir y qué historia guardan, si es que tienen alguna. También puedo compartirte una canción mía y contarte por qué la escogí. Sería como intercambiar pequeñas ventanas a nuestros mundos, sin tener que explicarlo todo."
+      "La música tiene esa costumbre de decir cosas que a veces uno no sabe cómo ordenar. Hay canciones para caminar, para despejar la cabeza, para cantar mal sin vergüenza y otras que aparecen justo cuando hacía falta escucharlas.",
+      "Me pregunto qué canciones forman parte de tu mundo. A veces una elección musical deja una pista interesante, aunque también puede que solo te guste el ritmo y nos quedemos discutiendo cuál es la mejor parte."
     ],
-    "detalle": "Si te nace, elige una canción y mándamela con una pista: «escucha la letra», «ponla cuando quieras animarte», «esta me recuerda a una etapa» o simplemente «quiero que la conozcas». Y si prefieres, dime qué género nunca falta en tu lista. Me toca escuchar con atención.",
-    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas tenido música para acompañar algún momento. Si me compartiste una canción, quiero escucharla sin saltarme directamente al coro; y si todavía no elegiste, no hay afán. Me gusta descubrir tu banda sonora poco a poco.",
+    "detalle": "Si te nace, déjame una canción y una pista pequeña: «escucha la letra», «esta me anima» o «no preguntes, solo ponla». Prometo no convertirme en detective de cada verso… aunque no garantizo no buscarle alguna interpretación.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas encontrado una canción que encajara con tu día. Algunas melodías se quedan por su ritmo; otras, por lo que uno alcanza a imaginar mientras suenan.",
     "cancionTitulo": "Put Your Records On",
     "cancionArtista": "Corinne Bailey Rae",
     "youtubeId": "oWQl00LWEwE",
@@ -1014,7 +1014,7 @@ const CALENDARIO = [
     "dia": 43,
     "fecha": "2026-11-27",
     "fechaTexto": "vie, 27 de nov",
-    "categoria": "Tu manera particular de demostrar cariño",
+    "categoria": "Los detalles que hablan en voz baja",
     "icono": "🥄",
     "tono": "tierno",
     "color": {
@@ -1022,13 +1022,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Hoy pensé en algo que no siempre se nota a primera vista: cada persona tiene su manera de hacerle saber a alguien que lo aprecia. Hay quien comparte una canción, quien recuerda un detalle mínimo, quien aparece con un chiste justo cuando hace falta o quien simplemente pregunta cómo terminó ese día.",
+    "buenosDias": "Buenos días, Aleja. Hay personas que tienen maneras muy particulares de demostrar que alguien les importa: recuerdan una frase, comparten una canción, aparecen con un chiste o notan algo que los demás pasaron por alto. A veces esos gestos dicen bastante sin hacer ruido.",
     "poema": [
-      "No creo que exista una única forma correcta de demostrar cariño. A veces está en escuchar con atención; otras, en guardar una foto porque te hizo sonreír, mandar un mensaje sin motivo o acordarte de algo que la otra persona dijo hace semanas. Son gestos distintos, pero pueden tener el mismo significado: «me acordé de ti».",
-      "Me gustaría ir descubriendo cómo eres tú en esas cosas, sin pedirte que cambies tu manera de expresarte ni esperar que hagas algo para demostrarme nada. Quizá tu forma de querer sea más silenciosa, quizá seas de detalles inesperados o quizá todavía estés descubriéndola. Cualquiera de esas respuestas merece su propio espacio."
+      "No creo que exista una fórmula para los detalles bonitos. Cada quien tiene su idioma: algunos hablan mucho, otros observan, otros prefieren hacer reír y hay quienes demuestran cariño respetando el espacio de los demás.",
+      "Me da curiosidad descubrir cuál es el tuyo. Aunque quizá ya se asome en esas pequeñas cosas que haces sin pensar demasiado, y que uno termina recordando más de lo que esperaba."
     ],
-    "detalle": "Te dejo una pregunta sin tarea escondida: ¿qué gesto pequeño te hace sentir apreciada? Puede ser que te escuchen, que recuerden algo que contaste, que te hagan reír o que respeten tu espacio. Y si se te ocurre otro, ese me interesa todavía más. Yo también puedo contarte cuál detalle suelo valorar.",
-    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas recibido algún gesto bonito, incluso uno pequeño. No quiero enseñarte cómo demostrar cariño; me gustaría conocer tu manera, con naturalidad y sin expectativas. A veces entender esos detalles dice mucho más que intentar hacerlos perfectos.",
+    "detalle": "Pregunta curiosa: ¿qué gesto pequeño suele alegrarte el día? Puede ser que recuerden algo que dijiste, que te manden una canción, que te hagan reír o que sepan cuándo dejarte tranquila.",
+    "buenasNoches": "Que descanses, Aleja. Ojalá hoy algún detalle te haya hecho sonreír. Los gestos más bonitos a veces son tan discretos que casi pasan desapercibidos, pero igual consiguen quedarse.",
     "cancionTitulo": "Best Part (feat. H.E.R.)",
     "cancionArtista": "Daniel Caesar; H.E.R.",
     "youtubeId": "vBy7FaapGRo",
@@ -1038,7 +1038,7 @@ const CALENDARIO = [
     "dia": 44,
     "fecha": "2026-11-28",
     "fechaTexto": "sáb, 28 de nov",
-    "categoria": "Cambiar de paisaje por un día",
+    "categoria": "Un paisaje distinto al de siempre",
     "icono": "🥂",
     "tono": "aventurero",
     "color": {
@@ -1046,13 +1046,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buenos días, Aleja. Se me ocurrió una escena sencilla: un sábado cualquiera, salir con tiempo, tomar un bus y ver cómo el paisaje va cambiando por la ventana. Sin tener que llenar cada minuto ni llegar con una lista de obligaciones. A veces basta con salir un rato de la rutina.",
+    "buenosDias": "Buenos días, Aleja. Hoy se me ocurrió una escena: mirar por la ventana de un bus mientras la ciudad va quedando atrás y el paisaje empieza a cambiar. Sin afán de llegar a ninguna parte especial; solo esa sensación de salir un rato de la rutina.",
     "poema": [
-      "Me imagino llegar a un lugar que todavía no conocemos bien, caminar sin demasiada prisa, encontrar una vista bonita y detenernos donde algo nos llame la atención. Tal vez terminemos tomando un café, mirando una tienda curiosa o sentados en algún sitio inventando historias sobre la gente que pasa.",
-      "No necesito decidir ahora el destino ni hacer que esto parezca un gran viaje. Si algún día nos animamos, podemos mirar opciones a las que se llegue en bus y escoger entre los dos. Me gusta más la idea de descubrir qué paisaje nos provoca que llevar un itinerario escrito de principio a fin."
+      "Tal vez aparezca un pueblo tranquilo, una montaña, un mirador o un sitio junto al agua. Uno baja, camina un poco, encuentra algo rico para tomar y termina descubriendo que el mejor momento fue una parada que ni siquiera estaba en los planes.",
+      "Hay lugares que dan ganas de conocer y otros que uno descubre por casualidad. Me intriga cuál de esos paisajes te haría decir «aquí me quedaría un rato más»."
     ],
-    "detalle": "Pregunta para dejar abierta la imaginación: si pudieras cambiar de paisaje por un día, ¿preferirías naturaleza, un pueblo tranquilo o un lugar con una vista que invite a quedarse un rato? Yo elegiría otra parte del plan contigo cuando sepamos qué te llama la atención. Primero la idea; después, si nos apetece, miramos rutas y horarios.",
-    "buenasNoches": "Buenas noches, Aleja. Hoy me quedo con esa imagen de la ventana del bus y un paisaje distinto apareciendo poco a poco. No hace falta convertirla en una promesa ni organizarlo todo desde ahora; me gusta que algunas ideas puedan quedarse ahí, esperando el momento en que a los dos nos provoque hacerlas realidad.",
+    "detalle": "Si pudieras cambiar el paisaje por un día, ¿elegirías naturaleza, un pueblo con calles bonitas o una vista amplia desde lo alto? Acepto respuestas inesperadas; a veces las mejores rutas empiezan con una idea sencilla.",
+    "buenasNoches": "Buenas noches, Aleja. Me quedo con la imagen de un camino que se aleja de la rutina y una ventana llena de paisajes nuevos. Hay destinos que empiezan siendo solo una curiosidad.",
     "cancionTitulo": "By Your Side",
     "cancionArtista": "Sade",
     "youtubeId": "C8QJmI_V3j4",
@@ -1062,7 +1062,7 @@ const CALENDARIO = [
     "dia": 45,
     "fecha": "2026-11-29",
     "fechaTexto": "dom, 29 de nov",
-    "categoria": "Las pequeñas cosas que merecen quedarse",
+    "categoria": "Ese pequeño museo que todos llevamos",
     "icono": "👁️",
     "tono": "íntimo",
     "color": {
@@ -1070,13 +1070,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días, Aleja. Hay cosas que uno guarda sin saber muy bien por qué: una foto algo borrosa, una nota, una entrada, una canción o una frase que alguien dijo en el momento justo. No ocupan mucho espacio, pero a veces significan bastante.",
+    "buenosDias": "Buenos días, Aleja. Hay personas que guardan entradas, fotos borrosas, notas, canciones o cualquier objeto que para los demás no tendría mucha importancia. Cada quien tiene una especie de museo secreto, aunque esté repartido entre una caja y la galería del celular.",
     "poema": [
-      "Me da curiosidad saber qué cosas conservas tú. Tal vez seas de guardar recuerdos en una caja, llenar la galería del celular, tomar fotos de momentos sencillos o quedarte con objetos que para los demás no tienen nada especial. Cada quien tiene su pequeño museo personal, aunque no lo llame así.",
-      "Y creo que eso también habla de una persona: de lo que le importa, de lo que le hizo sonreír y de esos instantes que no quiere dejar desaparecer. No hace falta que todo sea extraordinario para merecer un lugar en la memoria."
+      "Me parece curioso cómo algo tan pequeño puede devolvernos a un momento completo: una frase, un olor, una foto o una canción que uno no escuchaba hace años. No siempre se guarda lo más importante; a veces se conserva precisamente lo más inesperado.",
+      "Y quién sabe, quizá entre tus recuerdos haya alguno que no tenga explicación para nadie más, pero que a ti todavía te saque una sonrisa."
     ],
-    "detalle": "Si te provoca, cuéntame qué recuerdo u objeto guardarías aunque no tuviera valor para nadie más. Puede ser una foto, una carta, una canción o algo pequeño que te transporte a un momento. Yo también te compartiré uno mío. Quizá algún día podamos crear un recuerdo nuevo que termine formando parte de esa colección.",
-    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas encontrado un motivo pequeño para sonreír y guardarlo contigo. A veces los recuerdos más valiosos no se planean: simplemente suceden, y después uno descubre que todavía los lleva cerca.",
+    "detalle": "¿Qué cosa conservas aunque parezca insignificante para los demás? Puede ser una foto, una nota, una entrada o un objeto que tenga su propia historia. Se aceptan recuerdos raros y explicaciones largas.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas encontrado algo que merezca quedarse en ese pequeño museo tuyo. A veces los recuerdos más bonitos llegan sin avisar y solo después entendemos por qué los guardamos.",
     "cancionTitulo": "Stuck On You",
     "cancionArtista": "GIVĒON",
     "youtubeId": "UlIgAGotomM",
@@ -1086,7 +1086,7 @@ const CALENDARIO = [
     "dia": 46,
     "fecha": "2026-11-30",
     "fechaTexto": "lun, 30 de nov",
-    "categoria": "Dos imaginaciones, una misma idea",
+    "categoria": "Dos formas distintas de imaginar",
     "icono": "🧵",
     "tono": "creativo",
     "color": {
@@ -1094,13 +1094,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Buenos días, Aleja. Hoy me dio curiosidad algo: si nos dieran la misma hoja en blanco y nos pidieran dibujar una palabra, un recuerdo o un lugar, estoy casi seguro de que terminaríamos con dos cosas completamente distintas. Y eso sería lo interesante.",
+    "buenosDias": "Buenos días, Aleja. Si a varias personas les das la misma palabra y una hoja en blanco, ninguna termina dibujando exactamente lo mismo. Me gusta esa idea: descubrir cómo cambia una imagen según quién la mire.",
     "poema": [
-      "Me gusta que el arte no tenga que salir perfecto para decir algo. A veces un trazo torcido, una combinación de colores inesperada o un dibujo que solo entiende quien lo hizo termina contando más que una explicación larga.",
-      "También me gusta imaginar cómo interpretarías tú una misma idea. Quizá te irías por algo delicado, quizá por algo atrevido o quizá inventarías una cosa que no se me habría ocurrido. No quiero corregir tu dibujo ni comparar quién lo hace mejor; quiero ver cómo funciona tu imaginación."
+      "El arte tiene algo especial cuando no intenta quedar perfecto. Un trazo extraño, un color inesperado o una idea que parece no tener sentido pueden terminar diciendo más de lo que uno planeaba.",
+      "Me da curiosidad cómo interpretarías palabras como «libertad», «casualidad» o «verano». Sospecho que tu versión tendría algún detalle que no se me habría ocurrido."
     ],
-    "detalle": "Te propongo un intercambio creativo sin presión: escogemos una palabra sencilla —por ejemplo, «libertad», «verano» o «casualidad»— y cada uno la convierte en un dibujo, collage o combinación de colores. Después mostramos el resultado y contamos qué significa para cada uno. Puede ser en papel o desde el celular; no hace falta terminarlo en una sentada.",
-    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas tenido un espacio para hacer algo a tu manera, aunque fuera pequeño. Me gusta pensar que dos personas pueden partir de la misma idea y crear mundos distintos. Y que, cuando los comparten, aparece algo que ninguno habría imaginado por separado.",
+    "detalle": "Escoge una palabra y piensa cómo la convertirías en dibujo, collage o combinación de colores. Si algún día comparamos resultados, prometo no poner nota: cada quien tendrá su propia explicación y quizá alguna sorpresa.",
+    "buenasNoches": "Buenas noches, Aleja. Que nunca te falten colores, ideas ni ganas de hacer las cosas a tu manera. A veces una misma palabra puede abrir mundos completamente distintos.",
     "cancionTitulo": "Déjame Entrar",
     "cancionArtista": "Cultura Profética",
     "youtubeId": "IAhVESdwvIU",
@@ -1110,7 +1110,7 @@ const CALENDARIO = [
     "dia": 47,
     "fecha": "2026-12-01",
     "fechaTexto": "mar, 1 de dic",
-    "categoria": "Ese humor que aparece cuando menos lo espero",
+    "categoria": "Una risa que aparece de la nada",
     "icono": "🎯",
     "tono": "jugueton",
     "color": {
@@ -1118,13 +1118,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Hay personas que tienen una forma muy suya de hacer reír: una mirada, una respuesta inesperada o un comentario que llega justo cuando hacía falta. ¿Qué tipo de humor consigue sacarte una carcajada incluso en un día complicado?",
+    "buenosDias": "Buenos días, Aleja. Hay gente que encuentra lo gracioso donde nadie más lo estaba buscando: una respuesta inesperada, una situación absurda o una mirada que lo dice todo. ¿Qué clase de humor consigue ganarte incluso cuando estás intentando mantener la seriedad?",
     "poema": [
-      "Me gusta pensar que conocerte también significa descubrir esas pequeñas cosas que te causan gracia: tus ocurrencias, las situaciones absurdas que notas y esas historias que vuelves a contar porque todavía te hacen reír.",
-      "No todo tiene que ser profundo ni convertirse en un gran momento. A veces basta con compartir una tontería, reírse de algo que solo ustedes entienden y sentir que la conversación se volvió un poquito más ligera."
+      "Las ocurrencias tienen su propio encanto. A veces no hace falta contar un chiste completo; basta una frase fuera de lugar para que el día cambie de tono.",
+      "Me pregunto cuántas cosas te dan risa y todavía no han aparecido en una conversación. Aunque advierto que tengo debilidad por el humor absurdo, así que quizá alguna vez toque comparar niveles."
     ],
-    "detalle": "Hoy quiero dejar espacio para el humor que te representa. Si te encuentras con algo ridículo, una frase inesperada o un meme que te describa demasiado bien, puedes compartirlo. Yo también pondré de mi parte; seguramente terminaremos descubriendo qué clase de tonterías nos dan risa a los dos.",
-    "buenasNoches": "Buenas noches. Ojalá hoy hayas tenido al menos un motivo para reírte de verdad. Y si el día estuvo serio, queda pendiente intercambiar alguna de esas ocurrencias que aparecen sin avisar y terminan salvando la tarde.",
+    "detalle": "Si hoy encuentras un meme, una frase o una situación ridícula que te represente demasiado bien, queda oficialmente permitido compartirla. No prometo superar tu selección, pero puedo intentarlo.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá el día te haya regalado una carcajada de esas que salen sin permiso. Y si no, todavía existe el humor absurdo para rescatar una noche.",
     "cancionTitulo": "No Está en Venta",
     "cancionArtista": "Alcolirykoz",
     "youtubeId": "Se6Cd4sW3ks",
@@ -1134,7 +1134,7 @@ const CALENDARIO = [
     "dia": 48,
     "fecha": "2026-12-02",
     "fechaTexto": "mié, 2 de dic",
-    "categoria": "Una noche que se vista de recuerdo",
+    "categoria": "Dos versiones para una noche especial",
     "icono": "🫗",
     "tono": "coqueto",
     "color": {
@@ -1142,13 +1142,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Hay planes que empiezan mucho antes de salir de casa: desde escoger qué ponerse, imaginar el ambiente y preguntarse cómo se verá esa noche. Me quedé pensando en tu idea del vestido para ir a un lugar especial. Tiene algo de esas ocasiones que se disfrutan desde la preparación.",
+    "buenosDias": "Buenos días, Aleja. Me acordé de aquella idea tuya de tener un vestido para una ocasión especial. Hay algo divertido en imaginar cómo cambia una noche desde el momento de escoger qué ponerse. Aunque también sigue rondando la otra versión: dos trajes, actitud seria y un aire de Peaky Blinders.",
     "poema": [
-      "Me imagino que eliges ese vestido con el que te sientes bonita, cómoda y completamente tú. Yo me tomo mi tiempo para arreglarme también, y cuando por fin nos encontramos, la noche deja de ser un día cualquiera. No por el lugar más costoso ni por hacer algo extraordinario, sino porque los dos quisimos darle un espacio especial.",
-      "Y sigue en pie tu otra versión de la historia: los dos de traje, con esa actitud de Peaky Blinders. Puede que intentemos caminar muy serios durante cinco minutos y después nos gane la risa. Las dos ideas tienen su encanto; una elegante y la otra con bastante personalidad."
+      "Una opción tiene ese toque elegante de una noche que se prepara con cuidado; la otra parece sacada de una escena en la que ambos intentan mantener la compostura y terminan riéndose. Las dos tienen personalidad, y sospecho que elegir entre ellas podría tomar más tiempo que decidir qué pedir.",
+      "No hace falta escoger ahora ni convertirlo en una fecha pendiente. Me gusta dejar esas imágenes guardadas, como esas ideas que uno recuerda de vez en cuando y que todavía pueden sorprender."
     ],
-    "detalle": "No quiero escoger por ti cómo debería ser esa noche. Cuando nos apetezca hacerla realidad, podemos decidir entre los dos qué nos representa más: tu vestido y yo bien arreglado, o los dos de traje con el toque Peaky Blinders. También elegiremos el lugar y el momento sin afán. Lo importante es que ambos nos sintamos a gusto y que la noche tenga algo de nuestra propia historia.",
-    "buenasNoches": "Buenas noches. Me gusta que me compartas ideas que quizá parecen pequeñas, pero que dejan imaginar momentos bonitos. No hay que resolver hoy ningún detalle; por ahora me quedo con las dos escenas en la cabeza y con la curiosidad de saber cuál terminará ganando.",
+    "detalle": "Si tuvieras que elegir solo por la estética, ¿te quedas con el vestido y una noche elegante o con los dos de traje al estilo Peaky Blinders? También se acepta una tercera opción que nos deje sin argumentos.",
+    "buenasNoches": "Buenas noches, Aleja. Hoy me quedo con esas dos escenas tan distintas: una elegante y otra con bastante carácter. A veces una idea sencilla termina dando para imaginar toda una película.",
     "cancionTitulo": "Antonia",
     "cancionArtista": "Gondwana",
     "youtubeId": "exxkGyu3G1Q",
