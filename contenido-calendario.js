@@ -1875,14 +1875,14 @@ const CALENDARIO = [
       "suave": "#f0dff8",
       "oscuro": "#291633"
     },
-    "buenosDias": "Feliz año nuevo, Aleja. Ojalá este comienzo te traiga salud, calma, proyectos que te emocionen, colores nuevos para crear y muchas razones para reírte con ganas. Que puedas vivir a tu ritmo y sentirte querida sin tener que dejar de ser tú.",
+    "buenosDias": "Feliz año nuevo, Aleja. Ojalá este año te regale salud, tranquilidad, proyectos que te emocionen, lugares nuevos por conocer y muchas razones para reírte de esas que te dejan sin aire. Que sigas haciendo espacio para tus ideas, tus gustos y todas esas cosas que quieres vivir. No tienes que convertir el primero de enero en una carrera: también puedes empezar despacio.",
     "poema": [
-      "Este calendario empezó como una forma de dejarte un detalle cada día. En el camino hubo canciones, ocurrencias, preguntas, ideas de planes y palabras que a veces se acercaron un poquito más a lo que quería decirte.",
-      "No quiero cerrar con una promesa enorme ni con una respuesta que tengas que dar. Solo quiero ser honesto: me gustas, me ilusiona seguir conociéndote y me gustaría que lo que venga podamos descubrirlo con calma, si a ti también te nace.",
-      "Que este año nos encuentre con espacio para proponer, sorprendernos y construir momentos que sí queramos vivir. Y si algo he aprendido en estos días, es que las mejores historias no necesitan correr; necesitan ganas de seguir escribiéndose."
+      "Durante estos días quise dejarte algo más que mensajes: canciones para descubrir, preguntas para conocerte, ocurrencias, poemas, planes que podemos guardar y detalles inspirados en las cosas que me has contado. No espero que cada palabra tenga una respuesta ni que todos los planes se vuelvan realidad; quería que tuvieras un pequeño universo al que entrar cuando te apeteciera.",
+      "Hay ideas que me hacen sonreír, como revisar nuestra carpeta de «Planes con Aleja», escoger juntos algún lugar para escaparnos un día o seguir bromeando con esa boda civil por molestar y la capilla que algún día podríamos encontrar viajando. Y también hay cosas mucho más sencillas que me gustaría compartir: una conversación larga, una canción nueva o una tarde sin reloj.",
+      "Quiero decirte algo sin adornarlo demasiado: me gustas y me ilusiona seguir conociéndote. No quiero adelantarnos a lo que todavía no sabemos; prefiero que lo vayamos descubriendo con honestidad, complicidad y libertad para que ambos podamos elegir."
     ],
-    "detalle": "Hoy empieza una página nueva. Si te apetece, dime una cosa que te gustaría vivir este año y una que te gustaría que hiciéramos juntos. Yo también pondré las mías; sin presión por convertirlas todas en planes, pero con ganas de intentarlo cuando ambos queramos.",
-    "buenasNoches": "Buenas noches y feliz año nuevo. Gracias por llegar hasta el final de estos 78 días. Ojalá lo que viene tenga momentos que nos hagan bien, conversaciones honestas y la libertad de elegirnos sin apuros. Yo estaría feliz de seguir descubriendo qué puede nacer de aquí.",
+    "detalle": "Para comenzar el año, te propongo dos preguntas, sin convertirlas en una lista de obligaciones: ¿qué experiencia te gustaría regalarte este año? ¿Y hay algo que te daría ilusión que viviéramos juntos? Yo también te contaré mis respuestas. Podemos guardar las ideas en nuestra carpeta, modificarlas o dejarlas para otro momento; lo importante es que nazcan de los dos.",
+    "buenasNoches": "Y así termina este recorrido de 78 días. Gracias por abrir cada detalle y llegar hasta aquí. No sé exactamente qué forma tendrá lo que viene, pero sí sé que me gustaría seguir descubriéndote: celebrar tus logros, escuchar tus historias, reírnos de nuestras ocurrencias y, si los dos queremos, convertir algunas de estas ideas en recuerdos. Feliz comienzo de año, Aleja. Que lo bonito te encuentre, y que también tengas la valentía de ir a buscarlo.",
     "cancionTitulo": "Freedom",
     "cancionArtista": "Pharrell Williams",
     "youtubeId": "LlY90lG_Fuw",
