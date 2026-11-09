@@ -1036,7 +1036,7 @@ const CALENDARIO = [
     "dia": 44,
     "fecha": "2026-11-28",
     "fechaTexto": "sáb, 28 de nov",
-    "categoria": "Un día de bus y cero afán",
+    "categoria": "Un día fuera de la ciudad",
     "icono": "🥂",
     "tono": "aventurero",
     "color": {
@@ -1044,13 +1044,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "¿Y si un día nos escapamos de la rutina en bus? Sin carro, sin correr y sin agenda apretada: salir por la mañana, llegar a un lugar agradable y regalarnos unas horas para respirar distinto.",
+    "buenosDias": "Te propongo un pensamiento para romper la rutina: ¿y si un día salimos de la ciudad en bus, sin carro, sin afán y sin convertirlo en una expedición complicada? Solo cambiar de paisaje por unas horas.",
     "poema": [
-      "Me imagino la ventana, la música compartida, algún paisaje que nos haga mirar hacia afuera y esa conversación que aparece cuando no hay que estar pendientes de nada.",
-      "Y quiero dejarte una parte importante del plan: tú eliges hacia dónde te gustaría ir. Puede ser un pueblo cercano, un mirador al que se llegue en bus o cualquier lugar donde podamos caminar, comer algo y volver el mismo día."
+      "Me imagino salir temprano, elegir un destino al que podamos llegar en bus, mirar por la ventana y dejar que el día vaya tomando forma. Puede ser un pueblo cercano, un lugar con naturaleza o algún sitio donde caminar y comer algo rico.",
+      "Pero esta vez hay una regla divertida: tú tienes la primera elección. ¿A dónde te escaparías por un día si pudieras escoger el paisaje? Yo puedo poner otra condición inesperada para completar el plan."
     ],
-    "detalle": "Ahora te toca diseñar la escapada: dime qué buscarías primero —paisaje, comida rica, naturaleza o un sitio para caminar— y qué canción pondrías en el trayecto. La idea es imaginarlo juntos, sin presión de hacerlo ya.",
-    "buenasNoches": "Buenas noches. Me gustó imaginar ese viaje sencillo: dos pasajes, una ventana y un día sin tantas obligaciones. Cuando te provoque, me gustaría escuchar tu versión del plan.",
+    "detalle": "Juego de imaginación: propón un lugar fuera de la ciudad al que te gustaría ir en bus y elige una sola cosa imprescindible para llevar. Después me toca añadir una sorpresa al itinerario. No hay que reservar nada todavía; primero veamos qué aventura inventamos.",
+    "buenasNoches": "Buenas noches. Me quedo con ese pequeño viaje que armamos en la cabeza: salir de la ciudad, cambiar de aire y volver el mismo día con alguna historia nueva. La próxima vez puedes poner tú la primera pieza del plan.",
     "cancionTitulo": "By Your Side",
     "cancionArtista": "Sade",
     "youtubeId": "C8QJmI_V3j4",
