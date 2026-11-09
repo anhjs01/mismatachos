@@ -821,7 +821,7 @@ const CALENDARIO = [
     "dia": 35,
     "fecha": "2026-11-19",
     "fechaTexto": "jue, 19 de nov",
-    "categoria": "Tu forma de hacer tuyos los detalles",
+    "categoria": "Ese estilo que habla sin decir demasiado",
     "icono": "👕",
     "tono": "coqueto",
     "color": {
@@ -829,13 +829,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, Aleja. Hoy no quiero hablar solamente de qué ropa te pones, sino de algo que va más allá: me gusta pensar que tienes una manera propia de elegir cómo presentarte al mundo. Hay detalles que para otras personas pueden pasar inadvertidos, pero que terminan diciendo mucho de quien los lleva.",
+    "buenosDias": "Buenos días, Aleja. Hoy me quedé pensando en cómo hay personas que tienen una forma muy suya de presentarse al mundo. A veces es una prenda, un color o un detalle pequeño; otras, simplemente la manera de llevarlo. Hay estilos que cuentan cosas incluso antes de que uno pregunte.",
     "poema": [
-      "Tu estilo no tendría que parecerse al de nadie para llamar la atención. Puede estar en una combinación que se te ocurrió, en algo sencillo que elegiste porque te representa o en ese pequeño detalle que quizá solo tú sabes por qué te gusta. Me parece bonito que cada persona tenga su propio lenguaje, incluso en cosas tan cotidianas como vestirse.",
-      "Y hay algo que quiero seguir descubriendo: qué cosas te hacen sentir más tú. No quiero inventarme una descripción perfecta de ti ni decir que ya conozco todos tus gustos; prefiero prestar atención, preguntarte y dejar que me los enseñes. Aunque sí puedo adelantarte algo: cuando te sientes bien contigo misma, se nota… y es difícil no mirarte."
+      "Tu estilo puede cambiar según el día, el ánimo o las ganas de sorprenderte frente al espejo. Y quizá eso sea lo interesante: no tener que encajar siempre en una misma versión. Hay algo bonito en descubrir esos detalles que alguien elige porque sí, porque le gustan o porque ese día se siente así.",
+      "Además, sospecho que tienes más de una combinación capaz de hacer que alguien se distraiga un segundo. No diré cuál tengo en mente; mejor dejo que la imaginación haga su trabajo."
     ],
-    "detalle": "Si hoy eliges un look que te encante, piensa qué es lo que más te gusta de él: ¿la comodidad, los colores, algún accesorio o simplemente cómo te hace sentir? Si te provoca, cuéntame ese detalle. Me interesa conocer el motivo detrás de tus elecciones, no solo ver el resultado.",
-    "buenasNoches": "Que descanses, Aleja. Ojalá hoy hayas tenido un momento para sentirte a gusto contigo misma. Me gusta ir descubriendo esas pequeñas decisiones que te hacen única, sin apresurarme a creer que ya lo sé todo de ti. Y sí, también admito que verte cuando te sientes bonita tiene su efecto en mí.",
+    "detalle": "Pregunta de curiosidad: ¿hay algún color, accesorio o prenda que te haga sentir inmediatamente más tú? A veces esos pequeños favoritos dicen más de lo que parece.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas encontrado algo que te hiciera sentir cómoda y a gusto contigo misma. Hay detalles que uno nota sin necesidad de anunciarlos; algunos incluso se quedan dando vueltas un rato.",
     "cancionTitulo": "good denim",
     "cancionArtista": "jalen chords",
     "youtubeId": "_2Lnj5N9lCM",
@@ -869,7 +869,7 @@ const CALENDARIO = [
     "dia": 37,
     "fecha": "2026-11-21",
     "fechaTexto": "sáb, 21 de nov",
-    "categoria": "La belleza de los detalles que te representan",
+    "categoria": "Una flor puede guardar una pequeña pista",
     "icono": "💐",
     "tono": "romantico",
     "color": {
@@ -877,13 +877,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buenos días, Aleja. Hoy pensé en las flores que te gustan, pero terminé pensando más en lo que hay detrás de ese gusto. Hay personas que encuentran belleza en cosas que otros pasan de largo: un color, una forma, una flor que les recuerda algo. Me da curiosidad saber qué ves tú cuando te detienes a mirar una.",
+    "buenosDias": "Buenos días, Aleja. Hoy me acordé de los tulipanes y las margaritas. Me dio curiosidad pensar qué hace que una flor se vuelva la favorita de alguien: el color, la forma, algún recuerdo o simplemente esa sensación bonita que aparece al verla.",
     "poema": [
-      "Me gustan los tulipanes y las margaritas para ti, aunque no quisiera que una flor resumiera todo lo que quiero decirte. Preferiría que fuera una excusa para conversar: por qué esa y no otra, qué recuerdo te trae, si te gusta por su forma o simplemente porque te alegra verla.",
-      "También me gusta pensar que tienes una sensibilidad propia para elegir lo que te rodea. No necesito convertir cada detalle en una gran declaración; a veces basta con prestar atención y recordar. Y si algún día llego con una flor, ojalá se sienta así: no como una obligación ni como una escena preparada, sino como algo que escogí porque pensé en ti."
+      "Hay detalles que no necesitan una explicación enorme. A veces una flor basta para cambiarle un poquito el ánimo a un día, o para hacer que alguien se detenga unos segundos a mirarla. Me gusta esa clase de belleza que no hace ruido.",
+      "Si algún día aparece una flor por ahí, quizá no haga falta acompañarla de un discurso. Puede que el detalle se explique solo, sobre todo si quien la recibe reconoce que alguien recordó cuál le gusta."
     ],
-    "detalle": "Te dejo una elección pequeña: si hoy pudieras tener una flor cerca, ¿escogerías un tulipán o una margarita? Y si ninguna de las dos gana, dime cuál sería. Me interesa conocer tu elección, incluso si cambias de opinión mañana.",
-    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas encontrado algo bonito en medio de la rutina, aunque haya sido una cosa pequeña. Yo sigo guardando esos detalles que me vas dejando conocer; quizá algún día una flor sea solo la forma más sencilla de decirte que me acordé de ti.",
+    "detalle": "Entre tulipanes y margaritas, ¿cuál gana hoy? Y si tuvieras que escoger una flor distinta para sorprenderte, ¿cuál sería? No hay respuesta definitiva; se aceptan cambios de opinión.",
+    "buenasNoches": "Que descanses, Aleja. Ojalá hoy hayas encontrado algo bonito en medio de la rutina. A veces basta un color, una flor o un detalle inesperado para dejar el día un poquito más amable.",
     "cancionTitulo": "Beautiful",
     "cancionArtista": "Snoop Dogg; Pharrell Williams; Charlie Wilson",
     "youtubeId": "_FE194VN6c4",
@@ -918,7 +918,7 @@ const CALENDARIO = [
     "dia": 39,
     "fecha": "2026-11-23",
     "fechaTexto": "lun, 23 de nov",
-    "categoria": "Un plan que también lleve tu sello",
+    "categoria": "Un plan que todavía no tiene dueño",
     "icono": "🔥",
     "tono": "complicidad",
     "color": {
@@ -926,13 +926,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Buenos días, Aleja. Hoy se me ocurrió dejarte escoger el rumbo. No porque se me hayan acabado las ideas —para eso todavía tengo material—, sino porque me gustaría conocer esos lugares y esos planes que a ti te despiertan las ganas de salir. A veces uno descubre mucho de alguien por la forma en que elegiría pasar una tarde.",
+    "buenosDias": "Buenos días, Aleja. Hoy pensé en todos esos planes que empiezan con un «algún día deberíamos…» y que se quedan esperando a que alguien les ponga un poquito de imaginación. A veces la mejor parte es descubrir que la otra persona habría elegido algo completamente distinto.",
     "poema": [
-      "Quizá escogerías un sitio tranquilo para conversar, una cafetería que te dé curiosidad, un parque con un paisaje bonito o un lugar que todavía no conoces. Tal vez tu idea sea completamente distinta y termine sorprendiéndome. Eso también me gusta: que no tengamos que pensar igual para disfrutar construyendo algo juntos.",
-      "No quiero que sientas que tienes que organizar una salida ni encontrar el plan perfecto. Si algún día se te ocurre algo, me lo cuentas; podemos darle forma entre los dos, cambiar lo que haga falta o dejarlo para otro momento. Me importa que también haya espacio para tus ganas, no solo para las mías."
+      "Puede ser una cafetería escondida, un parque con buena vista, una caminata sin apuro o un lugar que todavía no aparece en el mapa de nuestras costumbres. No hace falta escogerlo ahora; me gusta más la idea de ir descubriendo qué le provoca a cada uno.",
+      "Además, sería divertido comparar nuestras versiones: quizá yo imagine una tarde tranquila y tú termines proponiendo algo que no se me habría ocurrido. Las mejores ideas no siempre salen de una sola cabeza."
     ],
-    "detalle": "Si hoy te preguntara qué te gustaría hacer una tarde cualquiera, sin celebración ni motivo especial, ¿qué se te vendría primero a la cabeza? Puede ser una idea pequeñita o algo que llevas tiempo queriendo probar. Me gustaría escucharla, aunque por ahora solo se quede en conversación.",
-    "buenasNoches": "Que descanses, Aleja. Me quedé imaginando qué plan escogerías tú. Quizá algún día lo hagamos realidad y quizá terminemos cambiándolo a mitad de camino; tampoco estaría mal. Lo bonito sería que los dos pudiéramos decir: esta idea también nació de nosotros.",
+    "detalle": "Si tuvieras que guardar una idea para una tarde libre, ¿qué sería lo primero que anotarías? Puede ser algo sencillo, raro o totalmente improvisado. Hoy solo estamos reuniendo posibilidades.",
+    "buenasNoches": "Buenas noches, Aleja. Me quedé pensando en esos planes que todavía no tienen fecha ni forma. A veces basta con una buena idea y la persona indicada para que den ganas de no descartarla.",
     "cancionTitulo": "El Día de Mi Suerte",
     "cancionArtista": "El Redcode",
     "youtubeId": "ApqRPZ8xO6g",
@@ -942,7 +942,7 @@ const CALENDARIO = [
     "dia": 40,
     "fecha": "2026-11-24",
     "fechaTexto": "mar, 24 de nov",
-    "categoria": "Hay una carpeta que quizá te dé curiosidad",
+    "categoria": "Una carpeta con más preguntas que respuestas",
     "icono": "😊",
     "tono": "jugueton",
     "color": {
@@ -950,13 +950,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, Aleja. Te voy a contar algo, pero no todo: tengo una carpeta que se llama «Planes con Aleja». Sí, así de poco disimulado. Ahí he ido guardando ideas que me gustaría proponerte cuando se presente el momento. Algunas son sencillas; otras necesitan un poquito más de imaginación.",
+    "buenosDias": "Buenos días, Aleja. Confieso que tengo una carpeta con un nombre bastante sospechoso: «Planes con Aleja». No voy a revelar todo lo que hay dentro todavía; digamos que algunas ideas se han ido quedando ahí porque me hicieron pensar que podrían sacarte una sonrisa.",
     "poema": [
-      "No es una lista de compromisos ni un itinerario que ya decidí por los dos. Son posibilidades: planes que me hicieron pensar «esto podría gustarle», lugares que algún día podríamos escoger y ocurrencias que todavía necesitan una segunda opinión.",
-      "Y esa segunda opinión me interesa que sea la tuya. Quiero que puedas tachar, cambiar, mejorar y añadir lo que se te ocurra. Incluso puede que tu propuesta termine desplazando alguna de las mías. No voy a mostrarte todas las páginas hoy; acepto que dejar un poco de misterio también tiene su encanto."
+      "No es un itinerario secreto ni una agenda que alguien tenga que cumplir. Es más bien un pequeño archivo de posibilidades: cosas que vi, lugares que me dieron curiosidad y ocurrencias que todavía podrían cambiar bastante.",
+      "Lo mejor es que esa carpeta tiene espacio para anotaciones ajenas. Alguien podría llegar, tachar una idea, añadir tres mejores y cambiar por completo el orden. Sospecho que eso la haría bastante más interesante."
     ],
-    "detalle": "Cuando te dé curiosidad, pregúntame qué hay en «Planes con Aleja». Podemos revisarla juntos, elegir una idea que sí nos entusiasme a ambos y sumar otra que se te ocurra a ti. No hace falta decidir fecha ni convertirlo en una promesa: primero veamos qué nos provoca hacer.",
-    "buenasNoches": "Buenas noches, Aleja. Por ahora esa carpeta se queda guardada, con unas cuantas ideas esperando y bastante espacio para las tuyas. Me gusta imaginar que un día la abriremos, discutiremos cuál merece salir primero y acabaremos inventando un plan que no estaba escrito ahí. Ese sería mi favorito.",
+    "detalle": "Si algún día te gana la curiosidad, puedes preguntarme qué hay en esa carpeta. Y si tienes una idea propia, también merece un espacio ahí. Por ahora, voy a dejar una parte bajo reserva; un poquito de misterio no le hace daño a nadie.",
+    "buenasNoches": "Buenas noches, Aleja. La carpeta sigue guardada, con ideas a medio escribir y varias páginas en blanco. Tal vez lo más interesante todavía no se me ha ocurrido… o quizá esté esperando una sugerencia tuya.",
     "cancionTitulo": "Insane in the Brain",
     "cancionArtista": "Cypress Hill",
     "youtubeId": "RijB8wnJCN0",
