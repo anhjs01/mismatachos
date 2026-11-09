@@ -1427,7 +1427,7 @@ const CALENDARIO = [
     "dia": 60,
     "fecha": "2026-12-14",
     "fechaTexto": "lun, 14 de dic",
-    "categoria": "Dos miradas, una misma idea",
+    "categoria": "La misma palabra, dos mundos distintos",
     "icono": "🧢",
     "tono": "creativo_complice",
     "color": {
@@ -1435,14 +1435,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hoy quiero proponerte algo que tiene que ver con tu lado artístico. No hace falta tener materiales especiales ni saber dibujar perfecto: basta con tomar una misma idea y ver qué hace cada uno con ella. A veces dos personas pueden partir de lo mismo y terminar creando mundos completamente distintos.",
+    "buenosDias": "Hay palabras que cada persona imagina de una manera distinta. «Refugio», «caos», «libertad» o «casualidad» pueden convertirse en colores, formas, recuerdos o incluso en algo que no tenga ninguna explicación lógica. Me dio curiosidad pensar cómo se verían esas palabras desde tu imaginación.",
     "poema": [
-      "Podríamos elegir una palabra, por ejemplo «refugio», «caos», «libertad» o «azar», y representarla cada uno a su manera. Tú quizá la convertirías en colores y formas; yo tal vez terminaría haciendo algo que solo se entiende después de una explicación bastante cuestionable.",
-      "Lo bonito no sería decidir quién lo hizo mejor. Sería descubrir qué imaginó cada uno, qué detalles escogió y por qué una misma palabra tomó caminos tan diferentes.",
-      "Y si un día nos provoca hacerlo con pintura, papel o cualquier material que tengamos a mano, también puede convertirse en un pequeño plan para compartir sin prisas."
+      "El arte tiene esa gracia: no siempre necesita materiales especiales ni un resultado perfecto. A veces basta una idea y la libertad de llevarla por donde a uno se le ocurra.",
+      "Quizá tú escogerías colores que yo nunca habría relacionado con esa palabra, o encontrarías una forma de representarla que me dejaría pensando. Dos interpretaciones pueden ser completamente distintas y aun así tener sentido."
     ],
-    "detalle": "Escoge una palabra para este juego y dime cuál sería. Cada uno hará un dibujo, una combinación de colores o incluso una pequeña composición con objetos que tenga cerca. No hay que terminarlo hoy ni buscar que quede perfecto. Después nos mostramos el resultado y contamos qué significa para cada uno. Si quieres, tú eliges la palabra y yo me encargo de sorprenderte con mi interpretación.",
-    "buenasNoches": "Buenas noches. Me gusta imaginar que dos personas pueden mirar la misma cosa y encontrar algo distinto, sin que una interpretación tenga que corregir a la otra. Ojalá nunca pierdas esas ganas de crear a tu manera, incluso cuando el resultado solo tenga sentido para ti.",
+    "detalle": "Escoge una palabra de esas —o inventa otra— y dime qué color o imagen te aparece primero en la cabeza. Yo haré lo mismo con la misma palabra. No hace falta dibujar nada ni ponerse tarea; por ahora me interesa descubrir qué se te ocurre.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá nunca pierdas esa forma propia de mirar las cosas. A veces una misma palabra cambia por completo dependiendo de quién la imagine.",
     "cancionTitulo": "good denim",
     "cancionArtista": "jalen chords",
     "youtubeId": "_2Lnj5N9lCM",
@@ -1527,7 +1526,7 @@ const CALENDARIO = [
     "dia": 64,
     "fecha": "2026-12-18",
     "fechaTexto": "vie, 18 de dic",
-    "categoria": "Tus aventuras también tienen un lugar aquí",
+    "categoria": "Esa imaginación tuya que siempre encuentra caminos",
     "icono": "💥",
     "tono": "aventurero_complice",
     "color": {
@@ -1535,14 +1534,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Hay personas que tienen una lista de planes y otras que, de pronto, dicen «¿y si hacemos algo diferente?». Me gusta que tengas esa parte capaz de imaginar aventuras y salir un poquito de la rutina. No quiero apagar esa chispa; quiero conocer las ideas que te emocionan y descubrir cuáles podemos convertir en una buena historia.",
+    "buenosDias": "Hay personas que ven una tarde libre y piensan en descansar; otras empiezan a imaginar lugares, actividades y pequeñas aventuras. Me da curiosidad esa parte tuya que de repente encuentra una posibilidad distinta donde los demás solo ven un día normal.",
     "poema": [
-      "Si un día llegas con una ocurrencia inesperada, quiero escucharla antes de descartarla por no estar en el plan. Puede ser conocer un lugar nuevo, probar una actividad que nunca hemos hecho, cambiar el rumbo de una tarde o preparar una escapada cuando tengamos tiempo.",
-      "Eso sí: acompañarte no significa decir que sí a cualquier cosa sin pensar. También quiero que cuidemos nuestra tranquilidad, el presupuesto, los tiempos y la seguridad. Si una idea no se puede hacer tal como nació, podemos buscar otra manera; y si algo no nos convence a alguno, está bien decirlo.",
-      "Me gusta más la idea de ser cómplices para explorar que la de prometer aventuras imposibles. Que podamos proponer, preguntar, negociar y elegir entre los dos."
+      "Puede ser conocer un sitio nuevo, probar algo que nunca has hecho, cambiar de rumbo porque apareció un paisaje bonito o guardar una idea para cuando haya tiempo. No todas las ocurrencias tienen que convertirse en planes; algunas también son bonitas mientras viven en la imaginación.",
+      "Y cuando una idea sí quiera salir del papel, me gusta pensar que se puede mirar con calma: qué nos emociona, qué necesitamos, cuánto tiempo tenemos y cómo hacer que sea agradable y seguro para ambos. La espontaneidad también puede tener un poquito de organización."
     ],
-    "detalle": "Quiero que hoy me cuentes una aventura que te gustaría vivir, grande o pequeña. Puede ser algo que llevas tiempo queriendo probar o una ocurrencia que se te acaba de cruzar. Yo te diré qué me entusiasma de la idea y cómo podríamos hacerla posible. Después buscamos una versión que nos funcione a ambos, sin presión y sin convertir cada propuesta en una obligación. Esta vez tu imaginación abre el plan.",
-    "buenasNoches": "Buenas noches. No pierdas las ganas de descubrir cosas nuevas ni de proponer planes poco convencionales. Me gustaría acompañarte en muchas de esas aventuras, con entusiasmo y también con cuidado, para que lo que compartamos se sienta libre, bonito y seguro para los dos.",
+    "detalle": "¿Qué tipo de aventura te llama más últimamente: descubrir un lugar, probar algo diferente o hacer una escapada sin demasiadas complicaciones? Me interesa conocer tu respuesta; quién sabe qué idea termina apareciendo de una conversación así.",
+    "buenasNoches": "Buenas noches. Que no se te acaben las ganas de descubrir cosas nuevas. Algunas aventuras empiezan con un plan y otras con una ocurrencia que parecía pequeña.",
     "cancionTitulo": "Tomorrow",
     "cancionArtista": "Jorja Smith",
     "youtubeId": "zMC5-M15je0",
@@ -1577,7 +1575,7 @@ const CALENDARIO = [
     "dia": 66,
     "fecha": "2026-12-20",
     "fechaTexto": "dom, 20 de dic",
-    "categoria": "La pequeña tradición de cada salida",
+    "categoria": "Una banda sonora para los caminos",
     "icono": "🔁",
     "tono": "musical_tierno",
     "color": {
@@ -1585,14 +1583,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Hay planes que se recuerdan por el lugar y otros por una costumbre pequeñita que termina acompañándolos. Hoy se me ocurre inventar una para cualquier paseo que hagamos: antes de salir, cada uno escoge una canción para el camino. Sin obligación de que combine con el destino; basta con que quiera compartirla.",
+    "buenosDias": "Hay canciones que, sin proponérselo, terminan asociadas a un trayecto: una ventana de bus, una carretera, una caminata o una tarde en la que el paisaje parecía ir al ritmo de la música. Me gusta imaginar qué canciones escogería cada persona para acompañar esos momentos.",
     "poema": [
-      "Me imagino el trayecto en bus, los paisajes cambiando detrás de la ventana y nuestras canciones turnándose. Una la eliges tú, otra yo. Quizá alguna termine asociada a un viaje, a una tarde cualquiera o a una conversación que se nos quedó grabada.",
-      "Con el tiempo podríamos tener una lista que crezca con cada salida. No sería una banda sonora perfecta ni una playlist que haya que completar; sería una colección de momentos, gustos y descubrimientos de los dos.",
-      "Y si un día no hay paseo, también vale compartir una canción para acompañar el camino de vuelta a casa o simplemente hacer más amable una tarde."
+      "Quizá una canción tuya tendría que sonar cuando empieza el camino; otra, cuando aparece una vista bonita; y alguna más, cuando toca regresar. No hace falta que todas combinen ni que tengan una historia profunda. A veces basta con que te guste escucharlas justo ahí.",
+      "Con el tiempo, una lista así podría terminar guardando recuerdos sin proponérselo. Una canción que hoy solo te gusta por el ritmo quizá algún día te recuerde un paisaje o una conversación."
     ],
-    "detalle": "Elige la primera canción de esa lista imaginaria y dime en qué momento la pondrías: al arrancar el viaje, cuando empiece a cambiar el paisaje o de regreso. Yo agregaré la mía. Si te gusta la idea, cada vez que organicemos una salida iremos sumando una canción y quien elija el destino no tendrá que encargarse también de toda la música.",
-    "buenasNoches": "Buenas noches. Me gusta la idea de que algunas tradiciones no necesiten fechas especiales ni grandes preparativos. Quizá un día escuchemos una de estas canciones y nos acordemos de un trayecto, de una vista por la ventana o de cómo empezó un plan sencillo. Por ahora, la primera canción queda a tu elección.",
+    "detalle": "Si tuvieras que escoger una canción para mirar por la ventana mientras cambia el paisaje, ¿cuál pondrías? Yo escogeré la mía. Acepto cualquier género; aquí no se juzgan los gustos musicales.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas encontrado una canción que acompañara bien tu día. Quién sabe, quizá alguna de estas termine convertida en la banda sonora de un camino que todavía no conocemos.",
     "cancionTitulo": "I Want You Around",
     "cancionArtista": "Snoh Aalegra",
     "youtubeId": "WdyPcNEA27M",
@@ -1602,7 +1599,7 @@ const CALENDARIO = [
     "dia": 67,
     "fecha": "2026-12-21",
     "fechaTexto": "lun, 21 de dic",
-    "categoria": "Un lugar donde puedas bajar el ritmo",
+    "categoria": "Ese rincón donde el mundo baja el volumen",
     "icono": "🍜",
     "tono": "sereno_complice",
     "color": {
@@ -1610,14 +1607,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hoy quiero preguntarte por esos lugares en los que sientes que puedes respirar distinto. No necesariamente tienen que ser destinos espectaculares: puede ser un parque con árboles, una cafetería tranquila, una ventana desde la que se vea llover o algún rincón al que te gusta volver cuando necesitas desconectarte.",
+    "buenosDias": "Hay lugares que no necesitan ser famosos ni tener una vista espectacular para hacernos bien. Puede ser un parque, una cafetería tranquila, una calle arbolada o una ventana desde la que se vea llover. Lo importante es esa sensación de que por un momento el mundo baja el volumen.",
     "poema": [
-      "A veces uno no necesita un viaje enorme para descansar la cabeza. Basta con salir un rato, caminar sin afán, sentarse a mirar el paisaje o encontrar un sitio donde no haya que estar pendiente de tantas cosas.",
-      "Me gustaría conocer esos lugares que te hacen bien y entender qué encuentras en ellos: ¿el silencio, la vista, la música, la compañía o la posibilidad de estar un momento contigo misma?",
-      "Y si algún día nos apetece compartir uno de esos rincones, podemos hacerlo sin llenar la tarde de actividades. Elegimos algo sencillo para comer, damos una vuelta o nos sentamos a conversar. También está bien que sea un lugar solo tuyo."
+      "Cada quien tiene un paisaje que le acomoda la cabeza: unos prefieren el agua, otros las montañas, las calles con movimiento o un rincón silencioso donde nadie les pida nada.",
+      "Me da curiosidad saber qué encuentras tú en esos lugares. Tal vez sea la tranquilidad, la vista, el aire fresco o simplemente poder estar un rato sin mirar el reloj. Y no todos los rincones tienen que compartirse; algunos también merecen seguir siendo personales."
     ],
-    "detalle": "Cuéntame qué tipo de lugar te ayuda a desconectarte y qué no puede faltar allí. Después armamos una tarde imaginaria: tú eliges el sitio y la actividad —caminar, pintar, leer o simplemente descansar— y yo propongo algo rico para acompañarla. Si nuestras ideas no combinan, las ajustamos entre los dos. No hace falta ponerle fecha hasta que de verdad nos provoque.",
-    "buenasNoches": "Buenas noches. Ojalá tengas un lugar, aunque sea pequeño, al que puedas volver cuando necesites un respiro. Y si algún día quieres compartirlo, me encantará conocerlo; si prefieres guardarlo para ti, también merece seguir siendo tu refugio.",
+    "detalle": "¿Qué paisaje te ayuda más a desconectarte: árboles, agua, montaña, una calle bonita o una cafetería tranquila? Y si pudieras pasar una hora allí, ¿qué elegirías hacer: caminar, escuchar música, pintar o no hacer absolutamente nada?",
+    "buenasNoches": "Buenas noches. Ojalá tengas siempre un rincón —real o imaginario— donde puedas respirar con calma. A veces saber que existe ya hace más amable la rutina.",
     "cancionTitulo": "You Know How We Do It",
     "cancionArtista": "Ice Cube",
     "youtubeId": "FXTh4XLm2VE",
