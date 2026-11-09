@@ -916,7 +916,7 @@ const CALENDARIO = [
     "dia": 39,
     "fecha": "2026-11-23",
     "fechaTexto": "lun, 23 de nov",
-    "categoria": "Esta vez eliges tú el rumbo",
+    "categoria": "Un plan que también lleve tu sello",
     "icono": "🔥",
     "tono": "complicidad",
     "color": {
@@ -924,13 +924,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hoy te propongo cambiar una pequeña costumbre: no voy a elegir yo el plan. Quiero saber qué lugar te daría ganas de salir un rato, respirar distinto y olvidarte de las pendientes.",
+    "buenosDias": "Buenos días, Aleja. Hoy se me ocurrió dejarte escoger el rumbo. No porque se me hayan acabado las ideas —para eso todavía tengo material—, sino porque me gustaría conocer esos lugares y esos planes que a ti te despiertan las ganas de salir. A veces uno descubre mucho de alguien por la forma en que elegiría pasar una tarde.",
     "poema": [
-      "A veces basta con salir de la rutina para que el día se sienta nuevo: caminar por un sitio bonito, descubrir una cafetería o sentarse a mirar el paisaje sin afán.",
-      "Hoy te cedo el mapa imaginario: tú eliges el tipo de lugar y yo pongo las ganas de acompañarte. No tiene que ser algo grande para convertirse en un buen recuerdo."
+      "Quizá escogerías un sitio tranquilo para conversar, una cafetería que te dé curiosidad, un parque con un paisaje bonito o un lugar que todavía no conoces. Tal vez tu idea sea completamente distinta y termine sorprendiéndome. Eso también me gusta: que no tengamos que pensar igual para disfrutar construyendo algo juntos.",
+      "No quiero que sientas que tienes que organizar una salida ni encontrar el plan perfecto. Si algún día se te ocurre algo, me lo cuentas; podemos darle forma entre los dos, cambiar lo que haga falta o dejarlo para otro momento. Me importa que también haya espacio para tus ganas, no solo para las mías."
     ],
-    "detalle": "Tu turno de tomar la iniciativa: mándame una idea de plan que te gustaría hacer algún día. Puede ser sencilla, inesperada o hasta medio absurda; prometo no convertirla en una reunión de logística.",
-    "buenasNoches": "Que descanses. Me quedo con la curiosidad de saber qué lugar escogerías si mañana pudiéramos regalarle unas horas a la tranquilidad.",
+    "detalle": "Si hoy te preguntara qué te gustaría hacer una tarde cualquiera, sin celebración ni motivo especial, ¿qué se te vendría primero a la cabeza? Puede ser una idea pequeñita o algo que llevas tiempo queriendo probar. Me gustaría escucharla, aunque por ahora solo se quede en conversación.",
+    "buenasNoches": "Que descanses, Aleja. Me quedé imaginando qué plan escogerías tú. Quizá algún día lo hagamos realidad y quizá terminemos cambiándolo a mitad de camino; tampoco estaría mal. Lo bonito sería que los dos pudiéramos decir: esta idea también nació de nosotros.",
     "cancionTitulo": "El Día de Mi Suerte",
     "cancionArtista": "El Redcode",
     "youtubeId": "ApqRPZ8xO6g",
