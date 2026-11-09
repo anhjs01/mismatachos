@@ -868,7 +868,7 @@ const CALENDARIO = [
     "dia": 37,
     "fecha": "2026-11-21",
     "fechaTexto": "sáb, 21 de nov",
-    "categoria": "Flores, pero con intención",
+    "categoria": "La belleza de los detalles que te representan",
     "icono": "💐",
     "tono": "romantico",
     "color": {
@@ -876,13 +876,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buenos días, bonita. Hoy te dejaría un tulipán o una margarita, pero no con una frase de ocasión especial. Te la daría porque sí, porque me acordé de ti y porque me gustaría ver tu cara cuando descubras que era para ti.",
+    "buenosDias": "Buenos días, Aleja. Hoy pensé en las flores que te gustan, pero terminé pensando más en lo que hay detrás de ese gusto. Hay personas que encuentran belleza en cosas que otros pasan de largo: un color, una forma, una flor que les recuerda algo. Me da curiosidad saber qué ves tú cuando te detienes a mirar una.",
     "poema": [
-      "Hay detalles que no buscan comprar una sonrisa ni conseguir algo a cambio. Solo dicen: te vi, me acordé de ti y quise alegrarte un momento. Una flor puede ser pequeña, pero la intención con la que llega cambia bastante las cosas.",
-      "Y si algún día te llevo una, no quiero que tengas que preguntarte si es un gesto de amistad o una indirecta. Probablemente sea las dos cosas: un detalle bonito y una manera bastante poco disimulada de decirte que me gustas."
+      "Me gustan los tulipanes y las margaritas para ti, aunque no quisiera que una flor resumiera todo lo que quiero decirte. Preferiría que fuera una excusa para conversar: por qué esa y no otra, qué recuerdo te trae, si te gusta por su forma o simplemente porque te alegra verla.",
+      "También me gusta pensar que tienes una sensibilidad propia para elegir lo que te rodea. No necesito convertir cada detalle en una gran declaración; a veces basta con prestar atención y recordar. Y si algún día llego con una flor, ojalá se sienta así: no como una obligación ni como una escena preparada, sino como algo que escogí porque pensé en ti."
     ],
-    "detalle": "Escoge cuál te gustaría recibir sin motivo: ¿un tulipán o una margarita? No prometo que llegue mañana, pero sí que voy a recordar tu elección. Hay detalles que vale la pena guardar para el momento indicado.",
-    "buenasNoches": "Buenas noches, corazón. Ojalá hoy alguien haya tenido un detalle contigo. Yo me quedo imaginando cuál flor elegiría para ti y, sobre todo, la sonrisa que me gustaría provocar cuando te la entregue.",
+    "detalle": "Te dejo una elección pequeña: si hoy pudieras tener una flor cerca, ¿escogerías un tulipán o una margarita? Y si ninguna de las dos gana, dime cuál sería. Me interesa conocer tu elección, incluso si cambias de opinión mañana.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas encontrado algo bonito en medio de la rutina, aunque haya sido una cosa pequeña. Yo sigo guardando esos detalles que me vas dejando conocer; quizá algún día una flor sea solo la forma más sencilla de decirte que me acordé de ti.",
     "cancionTitulo": "Beautiful",
     "cancionArtista": "Snoop Dogg; Pharrell Williams; Charlie Wilson",
     "youtubeId": "_FE194VN6c4",
