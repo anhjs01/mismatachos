@@ -1746,7 +1746,7 @@ const CALENDARIO = [
     "dia": 73,
     "fecha": "2026-12-27",
     "fechaTexto": "dom, 27 de dic",
-    "categoria": "El próximo destino lo escogemos entre dos",
+    "categoria": "Una escapada escogida entre los dos",
     "icono": "♨️",
     "tono": "aventurero",
     "color": {
@@ -1754,13 +1754,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Te dejo una propuesta para salir de la rutina: una escapada de un día a un pueblo cercano, viajando en bus y regresando sin afanes. Nada de itinerarios imposibles; solo cambiar de paisaje, caminar y comer algo rico.",
+    "buenosDias": "Hoy se me antoja abrir nuestra carpeta de «Planes con Aleja» y mirar una idea de esas que hemos ido guardando. No para llenar la agenda ni decidirlo todo de una vez; simplemente para escoger una posibilidad que nos entusiasme a los dos.",
     "poema": [
-      "Podemos buscar un lugar con una plaza bonita, un mirador accesible o calles para recorrer despacio. Tú escoges qué tipo de paisaje te llama y yo busco una parada que valga la pena.",
-      "Y si prefieres quedarte cerca, cambiamos el pueblo por un parque y llevamos algo para pintar. El plan no depende de la distancia, sino de que ambos tengamos ganas y escojamos juntos."
+      "Podría ser una salida de un día a un pueblo cercano, viajando en bus y caminando sin afán por sus calles. Tal vez encontremos un mirador, una plaza agradable o un sitio donde sentarnos a comer algo rico.",
+      "Pero no quiero escoger el destino por ti. Tú puedes decir qué paisaje te provoca y qué te gustaría hacer; yo busco opciones que encajen. Y si ese día preferimos algo más sencillo, cambiamos el plan por un parque y una tarde tranquila."
     ],
-    "detalle": "Elige el próximo destino imaginario: pueblo con mirador, lugar con naturaleza o parque para una tarde creativa. Después dime qué no puede faltar en ese día. Yo añado una sorpresa pequeña al recorrido.",
-    "buenasNoches": "Buenas noches. Me gusta dejar esa escapada como una posibilidad compartida: dos elecciones, un bus y un día para cambiar de aire. Cuando te provoque, podemos convertir la idea en un plan real.",
+    "detalle": "Cuando revisemos la carpeta, escoge una idea que te llame la atención y cámbiale lo que quieras: el lugar, el recorrido o la actividad. Yo añadiré una pequeña sorpresa al plan. La idea es que los dos tengamos voz y que sea una salida de un día, sin carreras ni itinerarios imposibles.",
+    "buenasNoches": "Buenas noches. Me gusta que los planes no sean decisiones tomadas por una sola persona. Dejemos esa escapada guardada hasta que a los dos nos provoque hacerla realidad; por ahora, ya tenemos una idea para empezar a imaginar.",
     "cancionTitulo": "Don't Know Why",
     "cancionArtista": "Norah Jones",
     "youtubeId": "tO4dxvguQDk",
