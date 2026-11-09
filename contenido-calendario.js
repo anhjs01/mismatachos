@@ -1036,7 +1036,7 @@ const CALENDARIO = [
     "dia": 44,
     "fecha": "2026-11-28",
     "fechaTexto": "sáb, 28 de nov",
-    "categoria": "Un día fuera de la ciudad",
+    "categoria": "Cambiar de paisaje por un día",
     "icono": "🥂",
     "tono": "aventurero",
     "color": {
@@ -1044,13 +1044,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Te propongo un pensamiento para romper la rutina: ¿y si un día salimos de la ciudad en bus, sin carro, sin afán y sin convertirlo en una expedición complicada? Solo cambiar de paisaje por unas horas.",
+    "buenosDias": "Buenos días, Aleja. Se me ocurrió una escena sencilla: un sábado cualquiera, salir con tiempo, tomar un bus y ver cómo el paisaje va cambiando por la ventana. Sin tener que llenar cada minuto ni llegar con una lista de obligaciones. A veces basta con salir un rato de la rutina.",
     "poema": [
-      "Me imagino salir temprano, elegir un destino al que podamos llegar en bus, mirar por la ventana y dejar que el día vaya tomando forma. Puede ser un pueblo cercano, un lugar con naturaleza o algún sitio donde caminar y comer algo rico.",
-      "Pero esta vez hay una regla divertida: tú tienes la primera elección. ¿A dónde te escaparías por un día si pudieras escoger el paisaje? Yo puedo poner otra condición inesperada para completar el plan."
+      "Me imagino llegar a un lugar que todavía no conocemos bien, caminar sin demasiada prisa, encontrar una vista bonita y detenernos donde algo nos llame la atención. Tal vez terminemos tomando un café, mirando una tienda curiosa o sentados en algún sitio inventando historias sobre la gente que pasa.",
+      "No necesito decidir ahora el destino ni hacer que esto parezca un gran viaje. Si algún día nos animamos, podemos mirar opciones a las que se llegue en bus y escoger entre los dos. Me gusta más la idea de descubrir qué paisaje nos provoca que llevar un itinerario escrito de principio a fin."
     ],
-    "detalle": "Juego de imaginación: propón un lugar fuera de la ciudad al que te gustaría ir en bus y elige una sola cosa imprescindible para llevar. Después me toca añadir una sorpresa al itinerario. No hay que reservar nada todavía; primero veamos qué aventura inventamos.",
-    "buenasNoches": "Buenas noches. Me quedo con ese pequeño viaje que armamos en la cabeza: salir de la ciudad, cambiar de aire y volver el mismo día con alguna historia nueva. La próxima vez puedes poner tú la primera pieza del plan.",
+    "detalle": "Pregunta para dejar abierta la imaginación: si pudieras cambiar de paisaje por un día, ¿preferirías naturaleza, un pueblo tranquilo o un lugar con una vista que invite a quedarse un rato? Yo elegiría otra parte del plan contigo cuando sepamos qué te llama la atención. Primero la idea; después, si nos apetece, miramos rutas y horarios.",
+    "buenasNoches": "Buenas noches, Aleja. Hoy me quedo con esa imagen de la ventana del bus y un paisaje distinto apareciendo poco a poco. No hace falta convertirla en una promesa ni organizarlo todo desde ahora; me gusta que algunas ideas puedan quedarse ahí, esperando el momento en que a los dos nos provoque hacerlas realidad.",
     "cancionTitulo": "By Your Side",
     "cancionArtista": "Sade",
     "youtubeId": "C8QJmI_V3j4",
