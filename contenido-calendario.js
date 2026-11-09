@@ -1802,13 +1802,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Hay planes que no necesitan demasiada producción: algo rico, música de fondo y una conversación que se alarga porque ninguno tiene afán de terminarla. Ese tipo de tarde tiene bastante encanto.",
+    "buenosDias": "Hay días en los que el mejor plan es no tener que correr. Me imagino una tarde con café tinto, algo de chocolate amargo, música de fondo y la libertad de cambiar de idea a mitad del camino. Sin agenda estricta ni obligación de aprovechar cada minuto.",
     "poema": [
-      "Podríamos preparar algo sencillo, con poca sal y a nuestro gusto, elegir una película o poner música y dejar que la tarde encuentre su propio ritmo.",
-      "Y si la película queda pausada varias veces, no pienso asumir la culpa completa. Aunque quizá me distraería un poquito si te tengo cerca."
+      "Me gustaría saber cómo sería tu versión de una tarde perfecta sin reloj. Tal vez prefieras salir a caminar, quedarte leyendo, poner una película o simplemente conversar mientras se hace de noche.",
+      "Yo puedo aportar el café y la selección musical, aunque acepto que tienes derecho a cambiar las canciones si mi gusto necesita supervisión. Y si un día coincidimos en esa tarde, prometo no llenarla de actividades."
     ],
-    "detalle": "Cuando se dé la ocasión, elige qué te provoca más: cocinar algo fácil, pedir un antojo o preparar café y acompañarlo con chocolate amargo. Yo me encargo de escoger la música; tú tienes derecho a vetar la primera canción.",
-    "buenasNoches": "Que descanses, bonita. Me gusta imaginar un plan así contigo: sencillo, cómodo y con suficiente confianza para que hasta los silencios se sientan bien.",
+    "detalle": "Completa esta frase: «Una tarde ideal para desconectarme tendría…». Puedes incluir compañía o elegir estar por tu cuenta. Después te cuento cómo sería la mía y vemos si hay algún detalle que nos gustaría compartir algún día.",
+    "buenasNoches": "Buenas noches. Ojalá hayas tenido aunque sea un momento para bajar el ritmo. Me gusta la idea de conocerte también en esos gustos tranquilos, cuando no hace falta impresionar a nadie y basta con estar a gusto.",
     "cancionTitulo": "By Your Side",
     "cancionArtista": "Sade",
     "youtubeId": "C8QJmI_V3j4",
