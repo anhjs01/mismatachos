@@ -1722,7 +1722,7 @@ const CALENDARIO = [
     "dia": 72,
     "fecha": "2026-12-26",
     "fechaTexto": "sáb, 26 de dic",
-    "categoria": "Una mirada cómplice en medio del ruido",
+    "categoria": "Esa complicidad que aparece sin avisar",
     "icono": "🧩",
     "tono": "coqueto_sutil",
     "color": {
@@ -1730,13 +1730,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "En medio de tantas conversaciones y planes, hay algo que me gusta: cuando dos personas comparten una mirada y entienden el chiste sin tener que explicarlo. Esa complicidad tiene su propio idioma.",
+    "buenosDias": "Hay momentos en los que una mirada basta para entender que los dos acabamos de notar lo mismo. Me gustan esas pequeñas complicidades: una sonrisa que se escapa, una broma que no necesita explicación o ese gesto de «después te cuento» cuando hay más gente alrededor.",
     "poema": [
-      "No hace falta convertir cada momento en una escena de película. A veces basta con una sonrisa de lado, una broma que solo entienden dos o una pausa cómoda en mitad del ruido.",
-      "Y sí, admito que me gustaría descubrir más de ese idioma contigo. Sin apurarlo, pero tampoco fingiendo que no me da curiosidad."
+      "Creo que la confianza también se construye así, sin grandes declaraciones: aprendiendo el humor del otro, descubriendo qué cosas le dan risa y encontrando maneras pequeñas de decir «estoy aquí» incluso en medio del ruido.",
+      "No quiero inventarme una complicidad antes de tiempo ni dar por hecho que siempre vamos a pensar igual. Me gusta más la idea de descubrir qué códigos aparecen naturalmente cuando compartimos momentos."
     ],
-    "detalle": "Completa este código secreto: inventa una palabra o gesto que signifique «necesito que nos riamos de esto después». Yo inventaré el mío y veremos cuál es más difícil de disimular.",
-    "buenasNoches": "Que descanses. Ojalá hoy hayas tenido una de esas sonrisas cómplices que no necesitan explicación. Si todavía no tenemos nuestro código, podemos inventarlo cuando quieras.",
+    "detalle": "Te propongo algo sencillo: cuéntame una expresión, gesto o frase que uses cuando algo te da mucha risa y no puedes decirlo en voz alta. Yo te cuento uno mío. Si con el tiempo aparece un código propio, genial; y si no, al menos tendremos otra historia para reírnos.",
+    "buenasNoches": "Buenas noches. Ojalá hoy te hayas reído de esas cosas pequeñas que hacen el día más llevadero. Y si alguna vez compartimos una mirada que diga más que una conversación entera, espero que sea porque los dos estamos disfrutando el momento.",
     "cancionTitulo": "No Está en Venta",
     "cancionArtista": "Alcolirykoz",
     "youtubeId": "Se6Cd4sW3ks",
