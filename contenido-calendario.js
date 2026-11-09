@@ -1818,7 +1818,7 @@ const CALENDARIO = [
     "dia": 76,
     "fecha": "2026-12-30",
     "fechaTexto": "mié, 30 de dic",
-    "categoria": "La bienvenida más sincera",
+    "categoria": "El cariño que se nota en los gestos",
     "icono": "🐩",
     "tono": "tierno",
     "color": {
@@ -1826,13 +1826,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Ojalá hoy recibas una de esas bienvenidas que no necesitan palabras: una mascota acercándose feliz, una cola moviéndose a toda velocidad o esa compañía que mejora el día apenas llegas.",
+    "buenosDias": "Hay saludos que arreglan un día sin decir una sola palabra: una mascota que corre a recibirte, una cola que no deja de moverse o esa compañía que se acomoda cerca como si supiera que la necesitabas. Hoy quería dejarte un pensamiento bonito sobre esa forma tan honesta de querer.",
     "poema": [
-      "Hay cariños que se expresan sin discursos y sin calcular el momento perfecto. Solo aparecen, se acercan y te recuerdan que tu presencia importa.",
-      "Me gusta esa ternura tan sencilla. Y también me gusta pensar que mereces encontrarla en las personas: un cariño que se note en los gestos y te deje ser tú."
+      "Los animales tienen maneras muy particulares de acompañar. No preguntan si tuviste un buen día ni necesitan que les expliques el cansancio; simplemente se acercan, buscan un lugar junto a ti y hacen que el momento se sienta un poquito más amable.",
+      "También me recuerda que el cariño entre personas debería tener algo de eso: respeto, paciencia y gestos que no haya que estar pidiendo todo el tiempo. Que puedas sentirte querida sin tener que dejar de ser tú."
     ],
-    "detalle": "Si tienes un ratito, regálales a tus mascotas un momento de juego o de mimos. Y si hoy no están cerca, piensa en ese saludo que siempre consigue sacarte una sonrisa.",
-    "buenasNoches": "Buenas noches. Que el último tramo del año te encuentre acompañada de cariño sincero, del que no hace ruido pero se hace sentir.",
+    "detalle": "Si hoy tienes una mascota cerca, regálale un rato de atención a su manera favorita: juego, paseo o mimos. Si no está contigo, cuéntame qué animal siempre consigue alegrarte el día o qué gesto suyo te derrite. Me interesa conocer ese lado tuyo.",
+    "buenasNoches": "Buenas noches. Ojalá hoy hayas recibido cariño del que se siente sencillo y sincero. Y que nunca te falten esos pequeños encuentros que hacen que volver a casa sea bonito.",
     "cancionTitulo": "Three Little Birds",
     "cancionArtista": "Bob Marley & The Wailers",
     "youtubeId": "HNBCVM4KbUM",
