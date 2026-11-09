@@ -12,13 +12,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Ojalá hoy te reciban tus mascotas con esa emoción que no necesita disimularse. Hay cariños que se notan en cuanto alguien cruza la puerta, y ellos parecen tener bastante dominado ese arte.",
+    "buenosDias": "Buenos días, Aleja. Ojalá hoy te reciban con la misma emoción con la que tus mascotas se alegran de verte. Hay cariños que no saben disimular y, la verdad, son de mis favoritos.",
     "poema": [
       "Corazón, qué bonito debe ser llegar a casa y que alguien te quiera sin preguntarte cómo te fue, si tuviste un buen día o si vienes despeinada. Solo te ven y ya eres lo mejor que les pasó.",
       "Y tú también tienes algo de eso, ¿sabes? Hay personas que llegan y uno se alegra un poquito más de lo normal. No voy a señalar a nadie… pero espero que hoy te acuerdes de sonreír, bonita."
     ],
     "detalle": "Hoy fíjate en esas pequeñas cosas que te hacen sonreír sin prepararte para ello. Si tus mascotas te reciben como si hubieras vuelto de una expedición de tres años, por favor, no les expliques el concepto del tiempo: disfrútalo y déjate querer.",
-    "buenasNoches": "Que descanses. Ojalá hoy hayas recibido un poquito de ese cariño espontáneo que tus mascotas reparten sin pensarlo. A veces una bienvenida así basta para mejorar cualquier día.",
+    "buenasNoches": "Descansa, mi vida. Ojalá hoy hayas recibido aunque sea una parte de ese cariño que tú sabes dar. Y si tus mascotas te buscaron para saludarte, ya tienes una razón bastante convincente para terminar el día con una sonrisa.",
     "cancionTitulo": "Three Little Birds",
     "cancionArtista": "Bob Marley & The Wailers",
     "youtubeId": "HNBCVM4KbUM",
@@ -36,13 +36,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Que el primer tinto de hoy salga fuerte, sin azúcar y exactamente como te gusta. No voy a discutirle al café ni a quien ya tiene clarísimo cómo lo prefiere.",
+    "buenosDias": "Que el primer tinto de hoy salga fuerte, sin azúcar y exactamente como te gusta. Yo no pienso discutirle al café ni a la mujer que sabe lo que quiere.",
     "poema": [
       "Me gusta que hasta en algo tan sencillo como el café tengas tu manera de hacerlo. No todo tiene que endulzarse para ser bonito; a veces basta con que sea auténtico… como esa forma tuya de ser.",
       "Y sí, también me gustaría estar ahí para verte dar el primer sorbo y preguntarte si quedó bien. Aunque sospecho que terminaría distraído mirándote y se me enfriaría el mío."
     ],
-    "detalle": "Que el café de hoy sea exactamente como te gusta: sin azúcar y sin que nadie venga a explicarte cómo deberías tomarlo. Ya hay suficientes opiniones en el mundo; la tuya puede empezar con un buen sorbo.",
-    "buenasNoches": "Buenas noches, Aleja. Que mañana el café te salga rico y el mundo te regale unos minutos antes de empezar a pedirte cosas. No es mucho pedir, ¿cierto?",
+    "detalle": "Que el café de hoy sea exactamente como te gusta: sin azúcar y sin que nadie venga a explicarte cómo deberías tomarlo. Ya hay suficientes opiniones en el mundo, mi vida; la tuya puede empezar con un buen sorbo.",
+    "buenasNoches": "Buenas noches, corazón. Que mañana el café te salga rico y el mundo te dé unos minutos antes de empezar a pedirte cosas. No es mucho pedir, ¿cierto?",
     "cancionTitulo": "On & On",
     "cancionArtista": "Erykah Badu",
     "youtubeId": "j-yh7sGQe2Q",
@@ -60,13 +60,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Te dejo una idea sencilla para hoy: encontrar algo rico, una fresa dulce, un durazno en su punto o un mensaje inesperado que te saque una sonrisa.",
+    "buenosDias": "Te dejo una misión sencilla para hoy: encontrar algo rico, una fresa dulce, un durazno en su punto o un mensajito que te saque esa sonrisa tuya.",
     "poema": [
       "Hay días que no necesitan un gran plan: fruta cortada, una conversación que se alarga y alguien que te haga reír cuando estabas intentando no mancharte las manos.",
       "Y si te ríes mientras lees esto, ya me doy por bien servido. Aunque, siendo justos, con esas pecas apareciendo cuando sonríes, la fruta tendría competencia."
     ],
     "detalle": "Si hoy aparece una fresa o un durazno en tu camino, date ese gusto sin convertirlo en una decisión trascendental. Y si alguien te ofrece el último pedazo, observa bien: podría ser una prueba de cariño bastante seria.",
-    "buenasNoches": "Que descanses. Ojalá el día te haya dejado una cosa pequeña para recordar con una sonrisa; no tiene que ser extraordinaria, solo tuya.",
+    "buenasNoches": "Que descanses, amor. Ojalá el día te haya dejado una cosa pequeña para recordar con una sonrisa; no tiene que ser extraordinaria, solo tuya.",
     "cancionTitulo": "Put Your Records On",
     "cancionArtista": "Corinne Bailey Rae",
     "youtubeId": "oWQl00LWEwE",
@@ -84,12 +84,12 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hoy me acordé de esa cara que pones cuando estás concentrada en algo. Tengo la sospecha de que ni te das cuenta de los gestos que haces cuando te metes de lleno en una idea.",
+    "buenosDias": "Buenos días, bonita. Hoy me acordé de esa cara que pones cuando estás concentrada en algo. Tengo la sospecha de que ni te das cuenta de lo linda que te ves cuando te olvidas de todo lo demás.",
     "poema": [
       "Me gustaría verte en ese momento en que algo por fin te sale como querías: primero la concentración, luego esa pequeña sonrisa de satisfacción y las pecas haciendo su aparición especial.",
       "No sé si te distraería o me quedaría quieto mirando. Probablemente intentaría hacerme el serio y me descubrirías enseguida. Tú sigue creando, mi vida; yo solo quería dejarte este pensamiento."
     ],
-    "detalle": "Cuando estés concentrada en algo, no te apures por terminar solo para pasar a lo siguiente. Y si se te escapa una muequita o ese «jum» cuando una idea te cuadra, ya tienes una pequeña firma personal.",
+    "detalle": "Cuando estés concentrada en algo, no te apures por terminar solo para pasar a lo siguiente. Y si se te escapa una muequita o ese «jum» que haces cuando una idea te cuadra, que sepas que hasta esos gestos pequeños tienen encanto.",
     "buenasNoches": "Apaga un rato las exigencias y deja que la cabeza descanse. Me gusta imaginarte tranquila, sin tener que demostrar nada ni resolverlo todo antes de dormir.",
     "cancionTitulo": "Show Me How",
     "cancionArtista": "Men I Trust",
@@ -186,7 +186,7 @@ const CALENDARIO = [
       "Cuando encuentres una, mándamela. Quiero saber qué canción logra quedarse contigo después de terminar. Y si tiene saxofón, ya me imagino el ambiente; solo faltaría una conversación que nadie tenga ganas de acabar."
     ],
     "detalle": "Si hoy suena un bolero con saxofón, déjalo acompañarte sin apuro. Hay músicas que parecen hablar bajito y, aun así, dicen más que una conversación entera.",
-    "buenasNoches": "Que la noche te trate suave, Aleja. Ojalá alguna melodía se te quede dando vueltas, de esas que no hacen ruido pero acompañan bonito.",
+    "buenasNoches": "Que la noche te trate suave, mi vida. Ojalá alguna melodía se te quede dando vueltas, de esas que no hacen ruido pero acompañan bonito.",
     "cancionTitulo": "Solo Tú",
     "cancionArtista": "Macha y el Bloque Depresivo; Álvaro Henríquez",
     "youtubeId": "lxPDvuV9Z88",
@@ -228,13 +228,13 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Ponte esa ropa amplia que te encanta y sal a conquistar el día a tu manera. La comodidad también puede tener mucho estilo, especialmente cuando alguien sabe llevarla con personalidad.",
+    "buenosDias": "Buenos días, bonita. Ponte esa ropa amplia que te encanta y sal a conquistar el día a tu manera. La comodidad también puede tener mucho estilo, especialmente cuando la llevas tú.",
     "poema": [
       "Hay gente que necesita vestirse para impresionar; tú puedes ponerte algo sencillo y aun así darle personalidad. No sé cómo haces, pero me parece que la ropa termina adaptándose a ti y no al revés.",
       "Eso sí, si algún día me preguntas cómo te ves, probablemente responda que muy linda y después intente dar una explicación más elaborada. No prometo que me salga bien."
     ],
-    "detalle": "Vístete cómoda y como te dé la gana. No tienes que convertir cada día en un desfile, aunque admito que tienes esa habilidad sospechosa de hacer que lo sencillo tenga personalidad.",
-    "buenasNoches": "Descansa cómoda, a tu manera y sin pedir permiso. Ojalá mañana te despiertes con ganas de seguir llevando las cosas a tu estilo.",
+    "detalle": "Vístete cómoda y como te dé la gana. No tienes que convertir cada día en un desfile, aunque admito que tienes esa habilidad sospechosa de hacer que lo sencillo te quede con personalidad.",
+    "buenasNoches": "Descansa cómoda, a tu manera y sin pedir permiso. Ojalá mañana te despiertes sintiéndote tan tú como cuando eliges ponerte lo que te gusta.",
     "cancionTitulo": "Japanese Denim",
     "cancionArtista": "Daniel Caesar",
     "youtubeId": "4MXruqqZb8Q",
@@ -282,7 +282,7 @@ const CALENDARIO = [
       "No hace falta que sea un ramo gigante, mi vida. A veces una sola flor y una nota escrita con cariño dicen mucho más de lo que cabe en un discurso."
     ],
     "detalle": "Si hoy ves tulipanes o margaritas, piensa que no hace falta una fecha especial para que una flor le mejore el día a alguien. Lo mismo pasa con los mensajes: a veces llegan porque sí, y justo por eso se sienten tan bonitos.",
-    "buenasNoches": "Buenas noches, Aleja. No hace falta que hoy haya sido una fecha especial para que merezcas un detalle bonito. Ojalá mañana aparezca uno sin que tengas que esperarlo.",
+    "buenasNoches": "Buenas noches, mi vida. No hace falta que hoy haya sido una fecha especial para que merezcas un detalle bonito. Ojalá mañana alguien te sorprenda con uno.",
     "cancionTitulo": "Kiss Of Life",
     "cancionArtista": "Sade",
     "youtubeId": "MmOau-PMWJk",
@@ -353,8 +353,8 @@ const CALENDARIO = [
       "Tu sonrisa tiene una cosa peligrosa: cuando aparece, las pecas salen a acompañarla y una conversación cualquiera se vuelve más bonita. No sé si tú lo notas, pero desde afuera debe ser difícil no sonreír también.",
       "Así que ríete, corazón. Por una tontería, por un meme absurdo, por tus mascotas haciendo alguna locura. Y si alguien te pregunta por qué estás tan contenta, puedes guardarte el chiste para ti."
     ],
-    "detalle": "Si hoy te sale esa sonrisa que aparece de golpe, no intentes esconderla. Y si alguien consigue provocarla, que sepa que acaba de ganarse un momento bastante bueno.",
-    "buenasNoches": "Buenas noches, Aleja. Ojalá hoy hayas reído de verdad, de esa forma en que se te ilumina la cara y las pecas parecen sumarse a la conversación.",
+    "detalle": "Si hoy te sale esa sonrisa tuya que aparece de golpe, no intentes esconderla. Y si alguien consigue provocarla, que sepa que acaba de ganar un privilegio bastante bonito.",
+    "buenasNoches": "Buenas noches, bonita. Ojalá hoy hayas reído de verdad, de esa forma en que se te ilumina la cara y las pecas parecen sumarse a la conversación.",
     "cancionTitulo": "Feliz Si Es Raro",
     "cancionArtista": "Alcolirykoz",
     "youtubeId": "rTv5pNLz9IU",
@@ -426,7 +426,7 @@ const CALENDARIO = [
       "Así que si algún día confundo algo, me corriges sin pena, amor. Lo importante es que cada vez te conozca un poquito mejor, sin inventarme una versión tuya que no existe."
     ],
     "detalle": "Cuando alguien te cuente algo, escucha a tu manera: con atención, con preguntas y con esa sensibilidad para notar lo que a veces queda entre líneas. Y recuerda que tú también mereces que te escuchen así.",
-    "buenasNoches": "Buenas noches. Ojalá también tengas cerca a alguien que te escuche con la misma atención que tú sabes regalar. No siempre tienes que ser quien sostiene la conversación.",
+    "buenasNoches": "Buenas noches, corazón. Ojalá también tengas cerca a alguien que te escuche con la misma atención que tú sabes regalar. No siempre tienes que ser quien sostiene la conversación.",
     "cancionTitulo": "A Veces",
     "cancionArtista": "Al2 El Aldeano",
     "youtubeId": "LQYOZFO5aB4",
@@ -468,13 +468,13 @@ const CALENDARIO = [
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Voy a reconocer algo: tus ojos cafés tienen una manera particular de llamar la atención. Hay miradas que hacen que uno pierda el hilo de lo que estaba diciendo; la tuya podría estar en esa categoría.",
+    "buenosDias": "Voy a decirlo sin rodeos: tus ojos cafés merecían su propio mensaje. Hay miradas que hacen que uno pierda el hilo de lo que estaba diciendo; la tuya tiene toda la pinta de ser de esas.",
     "poema": [
       "Y cuando sonríes, aparecen tus pecas como si también quisieran participar en la conversación. Me parece injusto que tengas tantos detalles bonitos en una sola cara, pero bueno, alguien tenía que tener esa suerte.",
       "No te escribo esto para que te pases el día frente al espejo, mi vida. Solo quería recordarte que hay cosas lindas de ti que quizá tú ves normales y que otra persona puede notar muchísimo."
     ],
-    "detalle": "Si hoy alguien te mira y te sonríe, devuelve la sonrisa si te nace. Y si te ríes de verdad y se te notan las pecas, bueno… hay pequeñas distracciones que no pasan desapercibidas.",
-    "buenasNoches": "Descansa, Aleja. Si hoy alguien te sacó esa sonrisa tuya, espero que el recuerdo te acompañe un poquito. Y si no, queda pendiente que mañana el día haga mejor su trabajo.",
+    "detalle": "Si hoy alguien te mira y te sonríe, devuelve la sonrisa si te nace. Y si te ríes de verdad y se te notan las pecas, bueno… hay pequeñas distracciones que deberían venir con advertencia.",
+    "buenasNoches": "Descansa, amor. Si hoy alguien te sacó esa sonrisa tuya, espero que el recuerdo te acompañe un poquito. Y si no, queda pendiente que el día siguiente haga mejor su trabajo.",
     "cancionTitulo": "The One",
     "cancionArtista": "Jorja Smith",
     "youtubeId": "f4XVdNE0Kxc",
@@ -522,7 +522,7 @@ const CALENDARIO = [
       "Tú mereces esa clase de atención, Aleja. Y mientras llega cada cosa a su ritmo, no olvides que tus sentimientos no son un problema que tengas que esconder."
     ],
     "detalle": "Si alguien que quieres necesita de ti, acompáñalo como puedas, pero no olvides guardarte un poco de cuidado para ti. Tener un corazón generoso no significa tener que resolverlo todo.",
-    "buenasNoches": "Que descanses, Aleja. Acuérdate de que cuidar a los demás también incluye no exigirte estar disponible para todo el mundo todo el tiempo.",
+    "buenasNoches": "Que descanses, mi vida. Acuérdate de que cuidar a los demás también incluye no exigirte estar disponible para todo el mundo todo el tiempo.",
     "cancionTitulo": "Love",
     "cancionArtista": "Keyshia Cole",
     "youtubeId": "9PBZy9j3H3I",
