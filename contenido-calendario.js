@@ -580,21 +580,21 @@ const CALENDARIO = [
     "dia": 25,
     "fecha": "2026-11-09",
     "fechaTexto": "lun, 9 de nov",
-    "categoria": "Una promesa que sigue en pie",
+    "categoria": "Una invitación que ya no quiero disfrazar",
     "icono": "🏠",
-    "tono": "romantico",
+    "tono": "amor",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Buenos días, Aleja. Hay conversaciones que no se quedan en el momento en que ocurren; algunas se convierten en promesas que uno guarda con una sonrisa. Hoy me acordé de aquella vez que hablamos de que tú me tatuarías algo.",
+    "buenosDias": "Buenos días, Aleja. Hoy quiero dejarte algo más claro que otras veces: me gusta hablar contigo, me atraes y cada vez me dan menos ganas de esconderlo detrás de un simple «qué bonito sería». Ojalá tu mañana empiece lindo… y que sepas que hay alguien que quisiera ganarse un lugar especial en tus días.",
     "poema": [
-      "Cuando empezáramos nuestra relación te dije que iba a dejar que tú eligieras qué tatuarme. Y quiero que sepas que esa idea sigue en pie. No se me olvidó ni estoy retirando la invitación: todavía me gustaría que diseñaras algo que tenga tu toque y que cuente una parte de nuestra historia.",
-      "Y debajo de lo que tú elijas, quisiera llevar esta frase: «Si no eres el amor de mi vida, diré que me equivoqué de vida, pero no de amor». Es una frase intensa, lo sé; precisamente por eso quiero que sea una decisión pensada, bonita y que nos represente a los dos, nunca algo que tengas que hacer por compromiso."
+      "No quiero que todas nuestras conversaciones se queden en imaginar planes. Me gustaría vivir alguno contigo: cocinar, reírnos porque algo salió distinto, elegir una película y encontrar cualquier excusa para alargar un poquito la noche.",
+      "Y te lo digo sin rodeos, bonita: no te estoy escribiendo desde el lugar de un amigo que solo desea que seas feliz. Me gustaría descubrir qué podría pasar si nos damos la oportunidad de mirarnos de otra manera. Sin presión, pero con intención."
     ],
-    "detalle": "La idea sigue siendo tuya: tú escogerías qué dibujar y cómo hacerlo. No tenemos que decidirlo hoy ni correr con algo permanente; me gusta más imaginar que, cuando llegue el momento y ambos estemos seguros, tendrá una historia que solo nosotros conocemos.",
-    "buenasNoches": "Que descanses, bonita. Me hizo ilusión recordar aquella promesa. Más que llevar tinta en la piel, me gusta la idea de que algún día podamos mirar ese diseño y recordar por qué lo elegimos.",
+    "detalle": "La invitación sigue en pie, pero hoy tiene una aclaración: me gustaría que ese plan de cocinar y ver una película fuera una cita. Tú eliges el menú; yo pongo las ganas de verte y prometo no robarte todos los ingredientes mientras cocinas.",
+    "buenasNoches": "Que descanses, Aleja. No sé qué nombre tendrá esto más adelante, pero sí sé que ya no quiero hacer como si solo fueras una persona más. Me gustas, y quería que hoy te fueras a dormir sabiéndolo.",
     "cancionTitulo": "Best Part (feat. H.E.R.)",
     "cancionArtista": "Daniel Caesar; H.E.R.",
     "youtubeId": "vBy7FaapGRo",
@@ -604,21 +604,21 @@ const CALENDARIO = [
     "dia": 26,
     "fecha": "2026-11-10",
     "fechaTexto": "mar, 10 de nov",
-    "categoria": "Ese vestido y una noche que nos debemos",
+    "categoria": "Una bienvenida que quisiera compartir",
     "icono": "🐾",
-    "tono": "coqueto",
+    "tono": "amor",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, Aleja. Me quedé pensando en eso que dijiste de ponerte un vestido para ir a un lugar especial. Te advierto algo: ese día llegará… y voy a tener que prepararme, porque sospecho que me vas a dejar sin palabras.",
+    "buenosDias": "Buenos días, bonita. Ojalá hoy te reciban tus mascotas con toda esa emoción suya. Aunque confieso que me da un poquito de envidia: ellas pueden correr a saludarte y yo tengo que conformarme con imaginar tu sonrisa cuando lees esto.",
     "poema": [
-      "Quiero que tengamos una ocasión de esas en las que los dos nos arreglamos con ganas, elegimos un lugar bonito y hacemos que la noche se sienta distinta. Tú con ese vestido que tienes en mente y yo intentando estar a la altura.",
-      "Y si al final decides que nada de vestido y que mejor nos vamos los dos de traje, como los Peaky Blinders, tampoco pienso quejarme. Me gusta esa versión de tus ideas: un poquito elegante, un poquito inesperada y con suficiente locura para que la noche tenga nuestra firma."
+      "Hay algo precioso en la forma en que tus mascotas celebran que vuelvas. Me gusta pensar en una casa con esa alegría, con patitas haciendo ruido y alguien que se alegra de verte incluso en tus días más despeinados.",
+      "Yo también quisiera ser alguien cuya llegada te provoque una sonrisa. No para competir con tus peludos —sé perfectamente que perdería—, sino para tener la suerte de compartir contigo esos momentos sencillos."
     ],
-    "detalle": "Queda pendiente esa salida especial. No quiero escogerlo todo por ti: también quiero saber qué lugar te gustaría, cómo te imaginas esa noche y qué versión te provoca más. Yo me encargo de acompañarte y de combinar el traje si gana el plan Peaky Blinders.",
-    "buenasNoches": "Buenas noches, Aleja. Guarda ese vestido —o ese traje imaginario— para cuando llegue el momento. No sé qué nos pondremos exactamente, pero sí me gustaría que fuera una noche que recordemos con una sonrisa.",
+    "detalle": "Si hoy te reciben como si hubieras regresado de una expedición larguísima, dales una caricia extra. Y guarda un poquito de esa alegría para ti: ojalá la vida también te acerque personas que se emocionen de verte.",
+    "buenasNoches": "Buenas noches, corazón. Ojalá hayas terminado el día rodeada de cariño. Me gustaría que algún día, además de tus recibimientos peludos, también tengas uno mío: de esos abrazos que no llevan prisa.",
     "cancionTitulo": "You Got Me",
     "cancionArtista": "The Roots; Tariq Trotter; Erykah Badu; Eve",
     "youtubeId": "MJCHeEQV454",
@@ -628,21 +628,21 @@ const CALENDARIO = [
     "dia": 27,
     "fecha": "2026-11-11",
     "fechaTexto": "mié, 11 de nov",
-    "categoria": "En tus locuras también quiero estar",
+    "categoria": "Una idea de futuro con mis rulos",
     "icono": "🫖",
-    "tono": "coqueto",
+    "tono": "amor",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días, cómplice. Hoy vengo a dejar una declaración importante: no tienes que tener todas tus ideas ordenadas ni convertir cada ocurrencia en un plan razonable para contar conmigo.",
+    "buenosDias": "Buenos días, Aleja. Hoy amanecí con una sonrisa por una conversación que todavía recuerdo. Hay cosas que uno escucha y deja pasar… y hay otras que se quedan dando vueltas porque vienen de alguien que le mueve el corazón.",
     "poema": [
-      "Si un día se te ocurre hacer algo espontáneo, conocer un sitio que nunca hemos visitado, cambiar el plan a última hora o inventarnos una aventura de esas que empiezan con «¿y si…?», quiero que sepas que me gusta esa parte tuya.",
-      "No quiero estar solamente para las fotos bonitas o los momentos perfectamente organizados. También quiero compartir las risas cuando algo salga distinto, las decisiones improvisadas y esas historias que después contamos diciendo: «¿te acuerdas de la locura que hicimos?»."
+      "Una vez dijiste que te gustaría tener un hijo mío, con mis rulos y todo. No sé si lo dijiste jugando o si por un instante también te imaginaste esa escena, pero te confieso que la idea se me quedó guardada.",
+      "Y mira que yo intento hacerme el tranquilo, pero a veces pienso: ¿y si algún día sí? ¿Unos rizos pequeñitos corriendo por ahí y tú mirándome como diciendo «te dije»? No te estoy pidiendo que decidamos el futuro en un poema; solo quería que supieras que imaginar algo bonito contigo ya no me parece una locura."
     ],
-    "detalle": "Te dejo una pregunta: ¿qué idea medio loca tienes guardada que todavía no le has propuesto a nadie? No prometo tener siempre la respuesta más sensata; sí prometo escucharla y, si nos hace ilusión a los dos, buscar cómo hacerla posible.",
-    "buenasNoches": "Que descanses, Aleja. Ojalá nunca sientas que tienes que hacerte más seria o más pequeña para compartir tus ideas conmigo. Me gusta que tengas esa chispa, y me gustaría acompañarte en muchas de esas ocurrencias.",
+    "detalle": "Si hoy te acuerdas de aquella conversación, sonríe un poquito. Yo todavía no sé quién heredaría más carácter, si tú o yo, pero con esos rulos en la ecuación ya tenemos bastante personalidad asegurada. Lo importante es que cualquier futuro se construya porque los dos lo queremos, a nuestro tiempo.",
+    "buenasNoches": "Buenas noches, bonita. Hoy te dejo una confesión un poquito más atrevida: aquella idea de los rulos pequeños no me asustó. Me hizo sonreír. No hay que correr ni prometer nada ahora; hay cosas que prefiero construir despacio, pero contigo sí me dan ganas de imaginar.",
     "cancionTitulo": "Keep Your Worries",
     "cancionArtista": "Guru; Angie Stone",
     "youtubeId": "7R0D6ryRUqQ",
@@ -652,21 +652,21 @@ const CALENDARIO = [
     "dia": 28,
     "fecha": "2026-11-12",
     "fechaTexto": "jue, 12 de nov",
-    "categoria": "Un pequeño símbolo elegido por los dos",
+    "categoria": "Un antojo y una mirada cómplice",
     "icono": "🍑",
-    "tono": "romantico",
+    "tono": "ambiente",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, Aleja. Quiero proponerte algo que mencionaste y que me gustaría convertir en un recuerdo compartido: ¿qué tal si el próximo fin de semana, el 14 o 15 de noviembre, vamos juntos a hacernos una perforación?",
+    "buenosDias": "Buenos días, Aleja. Si hoy aparece una fresa o un durazno en su punto, que sea tu pequeño premio. Y si alguien te mira con ganas de robarte un pedacito, espero que al menos tenga la decencia de pedirlo con una sonrisa bonita.",
     "poema": [
-      "Me gusta la idea de que cada uno elija la suya, pero que exista un detalle que conecte las dos: quizá el mismo tipo de joya, un símbolo parecido o simplemente la historia de haberlo decidido y vivido juntos. No tiene que ser algo idéntico; puede ser algo pequeño cuyo significado solo nosotros conozcamos.",
-      "Y esta vez quiero que tú también tengas la iniciativa: escoge el sitio que te guste y que te dé confianza. Lo miramos juntos, revisamos que sea un lugar profesional y decidimos con calma. Quiero que sea una experiencia bonita para ambos, no una sorpresa en la que todo esté resuelto sin preguntarte."
+      "Me gustan los planes simples: compartir algo rico, discutir cuál pedazo estaba mejor y terminar riéndonos por una tontería. No hace falta convertir cada encuentro en un acontecimiento para que se vuelva especial.",
+      "Contigo, eso sí, sospecho que hasta elegir la fruta podría terminar siendo una excusa para acercarme un poquito más."
     ],
-    "detalle": "¿Te gustaría que lo hiciéramos el sábado o el domingo? Tú puedes escoger el estudio o lugar que prefieras; lo importante es que los dos estemos cómodos con la decisión, el procedimiento y los cuidados. Si hay que mover la fecha, también está bien.",
-    "buenasNoches": "Buenas noches, bonita. Me hace ilusión pensar que podríamos llevar un pequeño recuerdo de ese día. No por tener algo igual, sino por saber que lo elegimos juntos y que detrás de ese detalle hay una historia nuestra.",
+    "detalle": "Elige algo que de verdad te provoque, sin complicarte. Y si algún día compartimos ese antojo, prometo negociar justamente… aunque quizá intente convencerte de que el último bocado sabe mejor si me lo das tú.",
+    "buenasNoches": "Que descanses, mi vida. Ojalá hoy hayas tenido algo rico y un motivo inesperado para sonreír. Yo me quedo con la idea de que algún día podamos compartir esos gustos sin tener que imaginarlos.",
     "cancionTitulo": "You Rock My World",
     "cancionArtista": "Michael Jackson",
     "youtubeId": "1-7ABIM2qjU",
@@ -724,21 +724,21 @@ const CALENDARIO = [
     "dia": 31,
     "fecha": "2026-11-15",
     "fechaTexto": "dom, 15 de nov",
-    "categoria": "No quiero impresionarte, quiero incluirte",
+    "categoria": "Un pequeño símbolo elegido por los dos",
     "icono": "🌀",
-    "tono": "amor",
+    "tono": "romantico",
     "color": {
       "principal": "#77d9d8",
       "suave": "#dcf7f4",
       "oscuro": "#12343b"
     },
-    "buenosDias": "Buenos días, Aleja. Hoy quiero decirte algo que para mí importa: no quiero que sientas que tengo que organizarlo todo para impresionarte. Me gusta tener iniciativas, sí, pero me gusta mucho más cuando una idea también lleva algo tuyo.",
+    "buenosDias": "Buenos días, Aleja. Me acordé de algo que dijiste que te gustaría hacer y me dieron ganas de proponértelo de verdad: ¿te gustaría que el próximo fin de semana nos hiciéramos una perforación juntos?",
     "poema": [
-      "Quiero proponerte planes y también escuchar los tuyos. Que unas veces elijas el lugar, otras veces yo lleve una idea y otras inventemos algo que no se le habría ocurrido a ninguno por separado. No quiero que seas espectadora de mis detalles; quiero que tengas espacio para decidir, cambiar, sumar y sorprenderme también.",
-      "Me interesa lo que te emociona, lo que te da curiosidad y hasta esos pequeños cambios que harías a un plan para que se sienta más tuyo. Para mí, compartir no es preparar algo perfecto para que lo recibas: es construir algo en lo que los dos podamos reconocernos."
+      "Me gusta imaginar que cada uno elige la suya, pero que exista un pequeño detalle que conecte las dos: quizá una joya parecida o un símbolo que tenga un significado que solo nosotros conozcamos. No tiene que ser idéntico; lo especial sería la historia de haberlo elegido juntos.",
+      "Y esta vez quiero que tú pongas una parte importante del plan: escoge el estudio o el lugar que te guste y te dé confianza. Lo revisamos entre los dos, miramos que sea profesional y decidimos con calma. No quiero organizarlo todo para impresionarte; quiero que también se sienta como una idea tuya."
     ],
-    "detalle": "Así que hoy te cedo el primer movimiento: cuando te nazca, propón una salida, una actividad o una pequeña locura que te gustaría hacer conmigo. No tiene que ser grande ni tener fecha todavía. Quiero conocer tus ideas y hacerles espacio de verdad.",
-    "buenasNoches": "Buenas noches, bonita. Me gusta tomar la iniciativa, pero no quiero llevar toda la historia yo solo. Si vamos a escribir algo bonito, quiero que haya ideas tuyas, decisiones mías y muchas cosas que nazcan de los dos.",
+    "detalle": "Si te sigue haciendo ilusión, dime qué día del próximo fin de semana te vendría mejor y qué sitio escogerías. Revisamos juntos la higiene, el material de la joya y los cuidados posteriores. Y si prefieres pensarlo un poco más, no hay afán.",
+    "buenasNoches": "Que descanses, bonita. Me gusta la idea de compartir una experiencia así, pero más todavía que la decisión sea de los dos. El significado no estaría solo en la perforación, sino en haberla escogido juntos.",
     "cancionTitulo": "Blue World",
     "cancionArtista": "Mac Miller",
     "youtubeId": "_GC2wFTCAGY",
@@ -1132,21 +1132,21 @@ const CALENDARIO = [
     "dia": 48,
     "fecha": "2026-12-02",
     "fechaTexto": "mié, 2 de dic",
-    "categoria": "Un café y tres preguntas inesperadas",
+    "categoria": "Una noche para la que vale la pena arreglarse",
     "icono": "🫗",
-    "tono": "complicidad",
+    "tono": "coqueto",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Imagínate una mesa pequeña, dos tintos sin azúcar y una conversación sin entrevista. Hoy te dejo tres preguntas para escoger: ¿qué lugar te calma?, ¿qué talento absurdo te gustaría tener?, ¿qué recuerdo cotidiano te hace reír?",
+    "buenosDias": "Hoy me acordé de tu idea de ponerte un vestido para ir a un lugar especial. No la he olvidado; de hecho, me parece una de esas escenas que merecen su propio momento, sin tener que apresurarla.",
     "poema": [
-      "Hay conversaciones que empiezan con una pregunta sencilla y terminan abriendo ventanas que uno no sabía que tenía. No hace falta contarlo todo; basta con compartir lo que a cada quien le nazca.",
-      "Si algún día hacemos ese plan, tú eliges el café o el sitio tranquilo y yo llevo otras tres preguntas para que no se nos acabe la conversación."
+      "Me imagino que llega ese día, eliges el vestido con el que te sientes espectacular y yo también me arreglo para llevarte a un lugar bonito. Quiero que sea una noche especial para los dos, no solo una salida para tomarnos fotos.",
+      "Y si al final gana tu otra propuesta y decidimos irnos los dos de traje, al estilo Peaky Blinders, también me apunto. No sé si impondríamos respeto o terminaríamos riéndonos de nosotros mismos, pero contigo cualquiera de las dos opciones me parece un buen comienzo."
     ],
-    "detalle": "Escoge una de las tres preguntas y respóndela cuando te provoque. Luego puedes devolverme una pregunta que no esté en la lista. Esta vez tú decides por dónde se va la charla.",
-    "buenasNoches": "Que descanses. Me quedo pensando en las respuestas que pueden salir de una taza de café y una pregunta bien puesta. No todas las conversaciones necesitan un tema importante.",
+    "detalle": "No hace falta decidir hoy el lugar ni la fecha. Cuando llegue el momento, quiero que tú también escojas cómo te imaginas esa noche: vestido y elegancia o traje y actitud de película. Yo pongo de mi parte para que sea un recuerdo bonito para ambos.",
+    "buenasNoches": "Que descanses. Me gusta que tengas esas ideas tan tuyas. Y te confieso que la imagen de verte llegar con ese vestido —o de vernos coordinados de traje— ya me sacó una sonrisa.",
     "cancionTitulo": "Antonia",
     "cancionArtista": "Gondwana",
     "youtubeId": "exxkGyu3G1Q",
@@ -1324,21 +1324,21 @@ const CALENDARIO = [
     "dia": 56,
     "fecha": "2026-12-10",
     "fechaTexto": "jue, 10 de dic",
-    "categoria": "Una teoría absurda sobre nosotros",
+    "categoria": "Una promesa escrita con tinta",
     "icono": "🧑‍🎨",
-    "tono": "humor",
+    "tono": "romantico",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Tengo una teoría: si nos dejaran organizar una tarde sin presupuesto ni obligaciones, terminaríamos discutiendo con absoluta seriedad sobre una decisión completamente insignificante. Hoy quiero comprobar si mi teoría es correcta.",
+    "buenosDias": "Hay una promesa tuya que todavía tengo presente, aunque hoy no voy a convertirla en una gran ceremonia. Solo quería recordarte que algunas conversaciones se quedan guardadas por una razón.",
     "poema": [
-      "Por ejemplo: ¿quién escogería la música?, ¿cuánto tiempo se puede tardar alguien eligiendo un helado?, ¿qué animal sería el peor compañero de viaje? Preguntas importantísimas para la estabilidad del universo.",
-      "Me gusta imaginar esa conversación porque no necesita un tema profundo para ser entretenida. A veces la complicidad aparece en la forma de defender una tontería."
+      "Cuando hablamos de empezar nuestra relación, te dije que dejaría que tú me tatuaras lo que quisieras. Sigue en pie. Me gustaría que el diseño lo eligieras tú, con tu estilo y tu significado; no quiero quitarte esa parte decidiendo por adelantado qué debes dibujar.",
+      "Debajo me gustaría llevar esta frase: «Si no eres el amor de mi vida, diré que me equivoqué de vida, pero no de amor». Es intensa y tiene mucho de lo que siento, pero un tatuaje es permanente: si algún día lo hacemos, será porque ambos lo pensamos bien y estamos seguros de que queremos convertirlo en ese recuerdo."
     ],
-    "detalle": "Elige una pregunta absurda y defiende tu respuesta como si estuvieras en un debate televisado. Luego me toca contraargumentar. No se permiten respuestas de «depende» sin una explicación dramática.",
-    "buenasNoches": "Buenas noches. Si hoy terminaste defendiendo una teoría absurda, espero que al menos haya sido una buena manera de reírte un rato. Mañana podemos discutir otra cosa igual de importante.",
+    "detalle": "No tienes que diseñar nada ahora ni tomarlo como una tarea. Solo quería que supieras que no olvidé lo que te prometí. Si llega el momento, quiero que sea una decisión libre, conversada y con un diseño que de verdad te represente también.",
+    "buenasNoches": "Buenas noches, Aleja. Me gusta imaginar que algún día me enseñarás el dibujo y me contarás por qué lo escogiste. La frase ya te la compartí; lo demás prefiero que nazca de tu creatividad, cuando sea el momento.",
     "cancionTitulo": "Virtual Insanity - Remastered 2006",
     "cancionArtista": "Jamiroquai",
     "youtubeId": "4JkIs37a2JE",
@@ -1516,7 +1516,7 @@ const CALENDARIO = [
     "dia": 64,
     "fecha": "2026-12-18",
     "fechaTexto": "vie, 18 de dic",
-    "categoria": "Una cita con una regla inesperada",
+    "categoria": "Una locura que todavía no hemos inventado",
     "icono": "💥",
     "tono": "jugueton",
     "color": {
@@ -1524,13 +1524,13 @@ const CALENDARIO = [
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Imagina que tenemos una tarde libre y solo una regla: cada uno puede añadir una condición al plan, pero no puede repetir la idea del otro. ¿Qué regla pondrías tú?",
+    "buenosDias": "Tengo una sospecha: contigo una tarde cualquiera puede terminar convertida en una anécdota que no estaba en los planes. Y, sinceramente, esa posibilidad me gusta.",
     "poema": [
-      "Podría ser ir a un sitio donde ninguno haya estado, escoger la comida por sorteo o llevar un color que el otro elija. Las reglas pequeñas a veces convierten una salida normal en una historia divertida.",
-      "Lo mejor es que ninguno controla todo el plan. Vamos descubriendo qué pasa con las decisiones de ambos."
+      "Si un día apareces con una idea espontánea, de esas que empiezan con «se me ocurrió algo», quiero escucharla antes de preguntar por todos los detalles. Puede ser cambiar el rumbo de un paseo, vestirnos de una forma inesperada o probar algo nuevo que nos dé risa.",
+      "No quiero decir que sí a todo sin pensar; quiero decir que no voy a descartar tus ocurrencias solo porque no estaban en mi agenda. Si nos entusiasma a los dos y podemos hacerlo con tranquilidad, busquemos la manera."
     ],
-    "detalle": "Tu turno para poner la primera regla de una salida imaginaria. Yo añadiré la segunda y después vemos si todavía podemos cumplirlas sin reírnos.",
-    "buenasNoches": "Que descanses. Me quedo con la curiosidad de saber qué regla inventarías. Ojalá algún día la probemos en una salida de verdad.",
+    "detalle": "Hoy te dejo una pregunta sin opciones: ¿qué locura pequeña te gustaría hacer algún día y con quién te gustaría compartirla? Yo tengo varias ideas, pero esta vez quiero escuchar la tuya primero.",
+    "buenasNoches": "Que descanses, Aleja. Me gusta esa parte tuya que se permite imaginar planes fuera de lo común. Ojalá sigamos encontrando ideas que nos hagan reír y que, de vez en cuando, terminemos convirtiendo en recuerdos.",
     "cancionTitulo": "Tomorrow",
     "cancionArtista": "Jorja Smith",
     "youtubeId": "zMC5-M15je0",
