@@ -988,7 +988,7 @@ const CALENDARIO = [
     "dia": 42,
     "fecha": "2026-11-26",
     "fechaTexto": "jue, 26 de nov",
-    "categoria": "El antojo lo decides tú",
+    "categoria": "Tus gustos también tienen pequeñas historias",
     "icono": "🍳",
     "tono": "cotidiano",
     "color": {
@@ -996,13 +996,13 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Pregunta importante para empezar el día: si hoy pudieras escoger un antojo sencillo, ¿qué ganaría? ¿Algo dulce, una pasta, un café tranquilo o ese plato que siempre se te antoja?",
+    "buenosDias": "Buenos días, Aleja. Pregunta de hoy, completamente seria y con consecuencias imaginarias: ¿qué comida podrías repetir varias veces sin aburrirte y cuál no aceptarías ni aunque te la recomendaran con mucha emoción? Quiero conocer tanto tus favoritos como tus «por ahí no».",
     "poema": [
-      "Imagino una mesa sin protocolo, una charla que va y viene y algo rico para compartir. Nada de complicarse ni de ponerle sal de más a la comida: que el sabor haga su trabajo.",
-      "Y esta vez no voy a escoger por los dos. Me interesa conocer tu antojo y, sobre todo, qué lugar se te ocurre para disfrutarlo."
+      "Los gustos también cuentan historias. A veces uno conserva una comida porque le recuerda a alguien, elige siempre lo mismo porque sabe que no falla o descubre una combinación inesperada que termina convirtiéndose en favorita. Y otras veces hay ingredientes que simplemente no negocia.",
+      "Me gusta conocer esas pequeñas preferencias tuyas, incluso las más particulares. No para memorizar un menú perfecto ni para decidir por ti, sino para que cuando compartamos una mesa haya espacio para lo que de verdad disfrutas. Además, siempre es divertido descubrir que dos personas pueden ponerse de acuerdo en el postre y discutir amistosamente por el plato principal."
     ],
-    "detalle": "Propón tú el plan gastronómico: elige el antojo y el ambiente. Puede quedarse en una idea para otro día; lo bonito es que la invitación empiece de tu lado.",
-    "buenasNoches": "Buenas noches. Ojalá hayas terminado el día con algo que te gustara. Me quedo esperando, sin apuro, ese antojo que algún día quieras convertir en plan.",
+    "detalle": "Hagamos un intercambio rápido: dime un plato que te encante, uno que no te guste nada y algo que todavía tengas pendiente probar. Yo te comparto mis tres respuestas. Si algún día cocinamos o escogemos dónde comer, ya tendremos mejores pistas para armar el plan; con poca sal y, por supuesto, nada de maní.",
+    "buenasNoches": "Buenas noches, Aleja. Espero que hoy hayas comido algo rico o al menos hayas encontrado un antojo que te alegrara. Me gusta descubrir tus gustos sin convertirlos en reglas: siempre puede aparecer un nuevo favorito, y también está bien que haya cosas que sigan siendo un rotundo no.",
     "cancionTitulo": "Feel So Good",
     "cancionArtista": "Mase",
     "youtubeId": "rIvEiTrq9kk",
