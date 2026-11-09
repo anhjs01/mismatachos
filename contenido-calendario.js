@@ -1108,21 +1108,21 @@ const CALENDARIO = [
     "dia": 47,
     "fecha": "2026-12-01",
     "fechaTexto": "mar, 1 de dic",
-    "categoria": "Ese humor que solo tú sabes sacar",
+    "categoria": "Ese humor que aparece cuando menos lo espero",
     "icono": "🎯",
-    "tono": "juguetón",
+    "tono": "jugueton",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, Aleja. Hay personas que tienen una forma muy particular de hacer reír: un comentario inesperado, una cara en el momento preciso, una ocurrencia absurda o ese humor que aparece cuando nadie lo está esperando. Hoy me acordé de eso y me pregunté qué cosas te dan risa de verdad.",
+    "buenosDias": "Hay personas que tienen una forma muy suya de hacer reír: una mirada, una respuesta inesperada o un comentario que llega justo cuando hacía falta. ¿Qué tipo de humor consigue sacarte una carcajada incluso en un día complicado?",
     "poema": [
-      "No todo tiene que ser profundo ni convertirse en un gran recuerdo. También hacen falta conversaciones sin sentido, reírse por una bobada y poder contar algo absurdo sin tener que explicarlo demasiado.",
-      "Me gustaría conocer ese lado tuyo que aparece cuando estás en confianza: si eres de humor negro, sarcasmo, imitaciones, chistes malos o de soltar una frase tan inesperada que deja a todos intentando procesarla. Seguro tienes una combinación muy tuya."
+      "Me gusta pensar que conocerte también significa descubrir esas pequeñas cosas que te causan gracia: tus ocurrencias, las situaciones absurdas que notas y esas historias que vuelves a contar porque todavía te hacen reír.",
+      "No todo tiene que ser profundo ni convertirse en un gran momento. A veces basta con compartir una tontería, reírse de algo que solo ustedes entienden y sentir que la conversación se volvió un poquito más ligera."
     ],
-    "detalle": "Pregunta del día: ¿qué tipo de humor te gana casi siempre y qué cosa te parece tan absurda que te hace reír aunque intentes evitarlo? Yo te cuento una de mis debilidades humorísticas también. Y queda permitido mandar un meme o un chiste malísimo como evidencia.",
-    "buenasNoches": "Buenas noches, Aleja. Espero que hoy hayas tenido al menos un motivo para reírte, incluso si fue una tontería. A veces una buena carcajada acomoda un día entero. Y si algún día compartimos una de esas risas que empiezan por nada y no se pueden detener, ya será un buen recuerdo sin haberlo planeado.",
+    "detalle": "Hoy quiero dejar espacio para el humor que te representa. Si te encuentras con algo ridículo, una frase inesperada o un meme que te describa demasiado bien, puedes compartirlo. Yo también pondré de mi parte; seguramente terminaremos descubriendo qué clase de tonterías nos dan risa a los dos.",
+    "buenasNoches": "Buenas noches. Ojalá hoy hayas tenido al menos un motivo para reírte de verdad. Y si el día estuvo serio, queda pendiente intercambiar alguna de esas ocurrencias que aparecen sin avisar y terminan salvando la tarde.",
     "cancionTitulo": "No Está en Venta",
     "cancionArtista": "Alcolirykoz",
     "youtubeId": "Se6Cd4sW3ks",
