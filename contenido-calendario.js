@@ -1253,21 +1253,21 @@ const CALENDARIO = [
     "dia": 53,
     "fecha": "2026-12-07",
     "fechaTexto": "lun, 7 de dic",
-    "categoria": "Un picnic de antojos elegidos entre dos",
+    "categoria": "Hay miradas que dicen más que un discurso",
     "icono": "🍒",
-    "tono": "cotidiano",
+    "tono": "coqueto",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Pregunta para armar un plan sencillo: si lleváramos algo rico a un parque, ¿qué pondrías tú en la bolsa? Puede ser fruta, algo de chocolate amargo, un sándwich o ese antojo que nunca falla.",
+    "buenosDias": "Hay algo curioso en la química entre dos personas: a veces aparece en una mirada que dura un segundo más, en una sonrisa que se escapa o en esa facilidad para seguir hablando aunque ya se haya acabado el tema. No siempre se puede explicar; simplemente se nota cuando sucede.",
     "poema": [
-      "Me imagino una manta, algo para picar y una conversación que se interrumpe porque alguien quiere probar lo que trajo el otro. No hace falta preparar un banquete; con dos o tres elecciones acertadas alcanza.",
-      "Esta vez cada quien escoge una cosa y después hacemos intercambio de bocados. Aunque advierto que defenderé mi porción de chocolate con argumentos bastante convincentes."
+      "No quiero atribuirte señales ni dar por hecho lo que sientes. Prefiero ser honesto con lo que me pasa a mí: hay momentos en los que me descubro sonriendo después de hablar contigo, o pensando en alguna expresión tuya que se me quedó grabada.",
+      "Me gusta esa mezcla de curiosidad y nervios que puede aparecer cuando alguien empieza a importarte de una manera distinta. Y también me gusta que, si algo llega a crecer, sea porque los dos lo reconocemos libremente, no porque uno intente descifrar al otro a la fuerza."
     ],
-    "detalle": "Juego del picnic: tú eliges el antojo principal y yo el complemento. Si los dos escogemos algo dulce, tendremos que negociar dónde entra lo salado. ¿Qué llevarías tú?",
-    "buenasNoches": "Que descanses. Me quedo con ese picnic inventado entre dos gustos distintos; a veces un plan pequeño empieza con una pregunta sobre qué llevar.",
+    "detalle": "Te dejo una pregunta sin respuestas correctas: ¿qué detalle suele hacerte notar que hay química con alguien? Puede ser la mirada, el sentido del humor, la conversación, la confianza o algo que no sepas explicar. Yo también te diré qué pequeños detalles me llaman la atención.",
+    "buenasNoches": "Buenas noches. Hay sonrisas que aparecen sin pedir permiso y conversaciones que uno recuerda un poquito más de lo esperado. No hace falta sacar conclusiones esta noche; a veces basta con disfrutar lo bonito que está pasando, cada quien a su ritmo.",
     "cancionTitulo": "Put Your Records On",
     "cancionArtista": "Corinne Bailey Rae",
     "youtubeId": "oWQl00LWEwE",
