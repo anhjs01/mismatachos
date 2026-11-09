@@ -1204,21 +1204,22 @@ const CALENDARIO = [
     "dia": 51,
     "fecha": "2026-12-05",
     "fechaTexto": "sáb, 5 de dic",
-    "categoria": "La invitación que cambia de manos",
+    "categoria": "Mira todo lo que has ido construyendo",
     "icono": "🦴",
-    "tono": "coqueto",
+    "tono": "admiracion",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Hoy no voy a proponerte un plan concreto. Quiero dejarte el espacio para que tú me sorprendas: puede ser una salida, una actividad, una pregunta curiosa o algo tan sencillo como compartir un rato.",
+    "buenosDias": "Hoy quiero proponerte que mires por un momento a la persona que eres ahora y la compares con aquella que eras hace unos años. No para juzgar ninguna versión, sino para reconocer cuánto has cambiado, qué has aprendido y qué cosas bonitas de ti siguen intactas.",
     "poema": [
-      "A veces la complicidad se nota en esas ganas de buscar al otro sin necesitar una excusa enorme. Una invitación espontánea puede decir mucho, incluso cuando solo propone caminar y hablar un rato.",
-      "Y admito que me daría curiosidad recibir una idea tuya, de esas que llevan tu sello y que yo no habría pensado."
+      "A veces uno se acostumbra tanto a seguir adelante que no se detiene a reconocer lo que ha logrado. Hay decisiones que te hicieron crecer, momentos que te enseñaron a conocerte mejor y etapas en las que quizá descubriste una fuerza que no sabías que tenías.",
+      "No conozco cada capítulo de tu historia, y tampoco quiero inventarme lo que significó para ti. Pero sí me gustaría conocerlos cuando quieras compartirlos: tus pequeñas victorias, las cosas que hoy ves distinto y esa parte de ti que has conseguido cuidar a pesar de los cambios.",
+      "Y ojalá nunca sientas que tienes que convertirte en otra persona para merecer cosas buenas. Crecer también puede ser aprender a estar más de tu lado."
     ],
-    "detalle": "Si te nace, invítame tú a algo. No tiene que ser una cita elaborada ni una indirecta perfecta; puede ser simplemente «vamos a…». La propuesta puede esperar al momento adecuado.",
-    "buenasNoches": "Buenas noches. Hoy dejo el turno de las ideas de tu lado. Me gusta pensar que todavía nos quedan planes que ninguno ha imaginado y que podemos inventarlos entre los dos.",
+    "detalle": "Si te apetece, cuéntame algo de lo que hoy te sientas orgullosa, aunque parezca pequeño, o algo que antes te costaba y ahora llevas de otra manera. Yo también puedo compartir una parte de mi propio camino. Sin comparar historias ni pedir explicaciones sobre aquello que prefieras guardar para ti.",
+    "buenasNoches": "Buenas noches. Ojalá puedas reconocer algo de lo que has construido hasta aquí. No tienes que tener todo resuelto ni saber exactamente quién serás después; también hay belleza en seguir descubriéndote a tu ritmo.",
     "cancionTitulo": "Will I See You Again?",
     "cancionArtista": "Thee Sacred Souls",
     "youtubeId": "IGgb10A_2c8",
