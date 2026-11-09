@@ -1350,21 +1350,22 @@ const CALENDARIO = [
     "dia": 57,
     "fecha": "2026-12-11",
     "fechaTexto": "vie, 11 de dic",
-    "categoria": "Un lugar nuevo para mirar el atardecer",
+    "categoria": "Lo que este año te deja y lo que ya puedes soltar",
     "icono": "🌄",
-    "tono": "aventurero",
+    "tono": "reflexivo",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "¿Y si buscamos un lugar distinto para ver el atardecer? Puede ser un parque, una colina accesible o un mirador al que podamos llegar en transporte público. No hace falta ir lejos para cambiar de perspectiva.",
+    "buenosDias": "Diciembre siempre trae esa sensación de mirar un poco hacia atrás. Hoy no quiero preguntarte por una lista de logros ni por todo lo que te faltó hacer. Me da más curiosidad saber qué cosas de este año te gustaría guardar contigo y cuáles sientes que ya puedes dejar ir.",
     "poema": [
-      "Me imagino llegar con tiempo, caminar un poco y escoger dónde sentarnos. Tú podrías elegir el paisaje y yo llevar algo para picar; después vemos qué colores aparecen y dejamos que la tarde haga lo suyo.",
-      "Si te gustan más los planes fuera de la ciudad, también podemos guardar la idea de un pueblo cercano para otro día. Lo importante es escoger juntos un destino que nos dé ganas de salir."
+      "Quizá hubo momentos que te hicieron reír más de lo esperado, personas que te enseñaron algo, decisiones que te costaron o pequeñas versiones de ti que tuviste que dejar atrás. No todo tiene que haber salido perfecto para haber significado algo.",
+      "También está bien reconocer que algunas cosas pesaron, que ciertos planes cambiaron o que hubo días en los que simplemente hiciste lo que pudiste. No tienes que encontrarle una enseñanza bonita a todo; a veces cerrar una etapa consiste, sencillamente, en no cargarla igual hacia la siguiente.",
+      "Me gusta pensar que todavía quedan páginas por escribir y que no necesitas tenerlas resueltas desde ahora."
     ],
-    "detalle": "Tu turno de elegir: ¿atardecer en un parque de la ciudad o una escapada a un pueblo cercano en bus? Escoge el ambiente y yo pienso en un detalle para completar el plan.",
-    "buenasNoches": "Que descanses. Ojalá algún día podamos compartir ese atardecer que escojamos entre los dos, sin correr para llegar ni apurarnos para volver.",
+    "detalle": "Si te apetece, comparte dos cosas: un recuerdo de este año que quisieras conservar y algo que preferirías no llevar contigo al próximo. Yo también responderé. Puedes hablar de algo sencillo o profundo, y también puedes guardarte cualquier parte que no quieras contar.",
+    "buenasNoches": "Buenas noches. Ojalá puedas mirar el camino recorrido con un poquito de paciencia hacia ti misma. Lo que salió bien merece celebrarse; lo que no, no tiene por qué definir lo que viene. Todavía hay espacio para empezar de otra manera.",
     "cancionTitulo": "Apocalypse",
     "cancionArtista": "Cigarettes After Sex",
     "youtubeId": "sElE_BfQ67s",
