@@ -1420,21 +1420,21 @@ const CALENDARIO = [
     "dia": 60,
     "fecha": "2026-12-14",
     "fechaTexto": "lun, 14 de dic",
-    "categoria": "Tu ropa, tu ritmo",
+    "categoria": "Un paseo para elegir sin afán",
     "icono": "🧢",
-    "tono": "filosofica",
+    "tono": "complicidad",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Buenos días, bonita. Ponte algo cómodo, sal con tu estilo y no pierdas tiempo tratando de parecer otra persona. Así, tal cual, ya tienes lo tuyo.",
+    "buenosDias": "Hoy te propongo un plan sencillo: salir a caminar y dejar que el camino nos ayude a decidir dónde parar. Puede ser un parque, una calle bonita o una cafetería que no conozcamos.",
     "poema": [
-      "Me gusta la ropa amplia porque parece dar permiso para moverse sin pensar tanto en cómo se ve cada cosa. Y me gusta más cuando alguien la lleva con esa seguridad tranquila que hace que todo parezca suyo.",
-      "Que hoy te sientas cómoda contigo, mi vida. Y si te ves al espejo y piensas «me veo linda», por favor no discutas contigo misma."
+      "Me gusta la idea de no tener que llegar a un sitio específico. Caminar, mirar vitrinas, comentar cualquier cosa y terminar sentados donde nos provoque tiene su encanto.",
+      "Esta vez podemos elegir por turnos: tú decides la primera parada y yo la siguiente. Así el paseo se va armando entre los dos."
     ],
-    "detalle": "Si hoy te pones una prenda grande y cómoda, que sea porque te gusta y punto. No tienes que justificar tu uniforme favorito ante un comité imaginario de moda.",
-    "buenasNoches": "Que descanses, amor. Mañana puedes volver a elegir tu ropa favorita y seguir siendo tú, sin explicaciones ni permisos.",
+    "detalle": "Juego de ruta: elige qué buscarías primero —un lugar con árboles, una tienda curiosa o algo rico para comer—. Yo escogeré la segunda parada. Si nos perdemos un poquito, que sea dentro del plan.",
+    "buenasNoches": "Que descanses. Me quedo con ese paseo sin itinerario rígido, donde cada uno aporta una parada y el día se arma sobre la marcha.",
     "cancionTitulo": "good denim",
     "cancionArtista": "jalen chords",
     "youtubeId": "_2Lnj5N9lCM",
@@ -1444,21 +1444,21 @@ const CALENDARIO = [
     "dia": 61,
     "fecha": "2026-12-15",
     "fechaTexto": "mar, 15 de dic",
-    "categoria": "El contraste que te gusta en la mora",
+    "categoria": "La cata de dos antojos",
     "icono": "🍧",
-    "tono": "amor",
+    "tono": "jugueton",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, amor. Hoy va un recordatorio muy serio: la mora con cobertura amarga tiene su lugar y no necesita que nadie le cambie la receta.",
+    "buenosDias": "Hoy hay una decisión importante: mora con chocolate amargo o un antojo completamente distinto. No tienes que escoger el más elegante, sino el que de verdad te provoque.",
     "poema": [
-      "Me gustan esos gustos que parecen pequeños pero se quedan en la memoria. Recordarlos es una forma discreta de decir que una conversación no se perdió apenas terminó.",
-      "Ojalá hoy te consientas con algo que te guste de verdad, corazón. Y si aparece esa combinación, quiero saber si sigue mereciendo cinco estrellas."
+      "Imagino una tarde probando dos sabores y discutiendo cuál merece el primer puesto. Cada quien defiende su elección y al final se permite una cucharada del otro, porque la investigación exige sacrificios.",
+      "Si algún día hacemos esa pequeña cata, tú eliges el primer sabor y yo llevo una segunda opción sorpresa."
     ],
-    "detalle": "Que la combinación de mora y cubierta amarga siga siendo una de esas pequeñas cosas que te alegran. A veces conocer a alguien también es aprender esas preferencias diminutas que parecen insignificantes hasta que quieres sorprenderla.",
-    "buenasNoches": "Buenas noches, bonita. Me gusta que tengas gustos tan tuyos, hasta en esas combinaciones pequeñas que a otra persona quizá ni se le ocurrirían.",
+    "detalle": "Reto de paladar: escoge un sabor que nunca combinarías con mora y chocolate, y dime si crees que funcionaría. Yo propongo otra mezcla y después comparamos teorías.",
+    "buenasNoches": "Buenas noches. Espero que hoy hayas encontrado algo rico para disfrutar. La cata queda pendiente hasta que los dos tengamos antojo y tiempo.",
     "cancionTitulo": "I Want You Around",
     "cancionArtista": "Snoh Aalegra",
     "youtubeId": "WdyPcNEA27M",
@@ -1468,21 +1468,21 @@ const CALENDARIO = [
     "dia": 62,
     "fecha": "2026-12-16",
     "fechaTexto": "mié, 16 de dic",
-    "categoria": "Flores para alegrar un día cualquiera",
+    "categoria": "Una flor y una nota escondida",
     "icono": "🌱",
-    "tono": "amor",
+    "tono": "tierno",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días, mi vida. Ojalá alguien te regale una flor porque sí, no porque lo diga una fecha ni porque haya que compensar algo.",
+    "buenosDias": "A veces una flor alegra el día sin necesitar una fecha especial. Y si viene acompañada de una nota pequeña, puede convertirse en un recuerdo que uno guarda mucho más tiempo.",
     "poema": [
-      "Un tulipán o una margarita pueden durar poquito, pero el momento de recibirlos se queda más tiempo. Sobre todo si vienen con una nota escrita a mano, de esas que uno guarda aunque diga que no guarda esas cosas.",
-      "Si hoy no hay flores, te dejo esta en palabras, corazón: qué bonito sería verte sonreír al descubrir un detalle que no esperabas."
+      "Me imagino escoger una margarita o un tulipán y escribir algo breve, sin discursos: una frase que te haga sonreír cuando la encuentres.",
+      "También podría ser al revés: que un día tú escondas una nota donde yo no la espere. Me daría curiosidad descubrir qué palabras escogerías."
     ],
-    "detalle": "Si hoy una flor aparece en tu día, aunque sea en una foto o en el camino, tómala como un recordatorio de que no todo lo bonito llega con una ocasión marcada en el calendario.",
-    "buenasNoches": "Que duermas rico, mi vida. Ojalá mañana te llegue una sorpresa sencilla, de esas que no cuestan mucho pero te sacan una sonrisa sincera.",
+    "detalle": "Juego de mensajes secretos: escribe una frase de máximo siete palabras que dejarías dentro de un libro, una bolsa o junto a una flor. Si quieres, me la compartes; después te toca imaginar dónde escondería yo la mía.",
+    "buenasNoches": "Que descanses. Ojalá mañana encuentres una pequeña sorpresa, aunque sea una frase bonita en el momento indicado. A veces eso basta para cambiar el tono del día.",
     "cancionTitulo": "Kiss Of Life",
     "cancionArtista": "Sade",
     "youtubeId": "MmOau-PMWJk",
@@ -1492,21 +1492,21 @@ const CALENDARIO = [
     "dia": 63,
     "fecha": "2026-12-17",
     "fechaTexto": "jue, 17 de dic",
-    "categoria": "Dejar espacio para lo que viene",
+    "categoria": "El mapa de nuestros planes pendientes",
     "icono": "📝",
-    "tono": "filosofica",
+    "tono": "juego",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "No llenes cada espacio libre por costumbre. Si aparece una pausa, puedes dejarla ser una pausa: mirar el cielo, escuchar una canción o simplemente no hacer nada por unos minutos.",
+    "buenosDias": "Hoy vamos a imaginar un mapa con tres lugares: uno para crear algo, otro para descansar y otro para descubrir algo nuevo. No hace falta que estén lejos; lo importante es que cada sitio tenga una razón para visitarlo.",
     "poema": [
-      "No todo lo bueno llega con cita previa. A veces lo mejor de la tarde es lo que aparece cuando uno deja de llenar cada minuto con pendientes.",
-      "Ojalá hoy te sorprenda algo bonito, mi vida. Y si no, que al menos tengas un rato tranquilo que sea completamente tuyo."
+      "En el primero podríamos pintar o decorar una pieza. En el segundo, buscar un parque tranquilo. En el tercero, tomar un bus a un pueblo cercano y caminar sin agenda apretada.",
+      "Me gusta que el mapa no tenga que completarse de una vez. Podemos escoger un lugar cada tanto y dejar que el resto siga esperando su momento."
     ],
-    "detalle": "Deja un poquito de espacio para cambiar de idea. No todo lo que viene necesita una respuesta inmediata, y no tienes que tener resuelto el siguiente capítulo para disfrutar este.",
-    "buenasNoches": "Buenas noches, corazón. No tienes que tener todos los planes resueltos; deja un poco de espacio para que la vida te sorprenda.",
+    "detalle": "Elige cuál de los tres lugares visitarías primero y agrega uno que no esté en el mapa. Yo elegiré el siguiente destino cuando me toque. Así vamos construyendo una lista compartida, sin convertirla en calendario de obligaciones.",
+    "buenasNoches": "Buenas noches. Nuestro mapa puede quedarse abierto; no hay que cumplirlo todo. Basta con que haya ideas que nos den ganas de compartir un día.",
     "cancionTitulo": "Three Little Birds",
     "cancionArtista": "Bob Marley & The Wailers",
     "youtubeId": "HNBCVM4KbUM",
@@ -1516,21 +1516,21 @@ const CALENDARIO = [
     "dia": 64,
     "fecha": "2026-12-18",
     "fechaTexto": "vie, 18 de dic",
-    "categoria": "El impulso de empezar",
+    "categoria": "Una cita con una regla inesperada",
     "icono": "💥",
-    "tono": "filosofica",
+    "tono": "jugueton",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Si llevas una idea dando vueltas, prueba con un primer paso pequeño. No tienes que tener todo resuelto para empezar, y tampoco tienes que convertir cada entusiasmo en una obligación.",
+    "buenosDias": "Imagina que tenemos una tarde libre y solo una regla: cada uno puede añadir una condición al plan, pero no puede repetir la idea del otro. ¿Qué regla pondrías tú?",
     "poema": [
-      "Sé que cuando algo te entusiasma puedes imaginar mil detalles de una vez. Pero también vale empezar con lo que tienes a mano y descubrir el resto sobre la marcha.",
-      "Me cuentas qué estás pensando, amor. Me gusta escucharte cuando algo te emociona, porque hasta la forma en que lo explicas cambia cuando de verdad te importa."
+      "Podría ser ir a un sitio donde ninguno haya estado, escoger la comida por sorteo o llevar un color que el otro elija. Las reglas pequeñas a veces convierten una salida normal en una historia divertida.",
+      "Lo mejor es que ninguno controla todo el plan. Vamos descubriendo qué pasa con las decisiones de ambos."
     ],
-    "detalle": "Si tienes ganas de empezar algo, da un primer paso pequeño. No necesitas sentirte lista al cien por ciento; a veces la confianza llega después de comenzar.",
-    "buenasNoches": "Descansa, amor. Si hoy te quedó una idea rondando la cabeza, mañana puedes darle una oportunidad. Esta noche no tienes que perseguirla por toda la habitación.",
+    "detalle": "Tu turno para poner la primera regla de una salida imaginaria. Yo añadiré la segunda y después vemos si todavía podemos cumplirlas sin reírnos.",
+    "buenasNoches": "Que descanses. Me quedo con la curiosidad de saber qué regla inventarías. Ojalá algún día la probemos en una salida de verdad.",
     "cancionTitulo": "Tomorrow",
     "cancionArtista": "Jorja Smith",
     "youtubeId": "zMC5-M15je0",
@@ -1540,21 +1540,21 @@ const CALENDARIO = [
     "dia": 65,
     "fecha": "2026-12-19",
     "fechaTexto": "sáb, 19 de dic",
-    "categoria": "La risa que llega de sorpresa",
+    "categoria": "El concurso de la peor imitación",
     "icono": "😆",
-    "tono": "amor",
+    "tono": "humor",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Ojalá hoy te dé una risa de esas que te cambian la cara antes de que alcances a disimularla. Si intentas ponerte seria y te vuelve a dar, ya está: perdiste esa batalla.",
+    "buenosDias": "Hoy propongo un concurso sin premios: hacer la peor imitación posible de una escena cotidiana. Puede ser alguien buscando las llaves, tratando de elegir qué comer o diciendo «ya casi estoy» cuando apenas va empezando.",
     "poema": [
-      "Hay algo contagioso en la risa sincera, especialmente cuando no se puede explicar por qué empezó. Me imagino tus ojos cafés achinándose un poquito y las pecas apareciendo como invitadas que nunca faltan.",
-      "Si hoy te pasa, disfrútalo, corazón. La vida ya se pone seria demasiadas veces como para no aprovechar una tontería bien graciosa."
+      "La gracia no está en hacerlo bien, sino en sostener el personaje con una seriedad absurda. Si alguien se ríe primero, pierde; aunque probablemente los dos terminemos perdiendo en el primer minuto.",
+      "Me gustaría ver qué personaje escogerías tú. Tengo la sospecha de que tu versión sería mucho más convincente que la mía."
     ],
-    "detalle": "Si hoy te sale una carcajada inesperada, ojalá nadie te pida que la bajes. Esas risas que desarman la seriedad hacen falta más de lo que uno cree.",
-    "buenasNoches": "Buenas noches, mi vida. Ojalá hoy te hayas reído con ganas; una risa genuina a veces es lo mejor que uno se lleva del día.",
+    "detalle": "Escoge una situación para imitar y mándame una pista escrita o un audio si te apetece. Yo intento adivinarla y luego te envío mi peor actuación. No hay obligación de grabar nada: también vale describirla.",
+    "buenasNoches": "Buenas noches. Espero que hoy hayas tenido al menos una razón para reírte. Si no, queda pendiente ese concurso ridículo que probablemente terminaríamos perdiendo los dos.",
     "cancionTitulo": "Let's Get It Started - Spike Mix",
     "cancionArtista": "Black Eyed Peas",
     "youtubeId": "mRaQAdynxto",
@@ -1564,21 +1564,21 @@ const CALENDARIO = [
     "dia": 66,
     "fecha": "2026-12-20",
     "fechaTexto": "dom, 20 de dic",
-    "categoria": "La canción que ya se siente tuya",
+    "categoria": "Una canción para el camino",
     "icono": "🔁",
-    "tono": "ambiente",
+    "tono": "musical",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "¿Hay una canción que repites tanto que ya parece tener un lugar reservado en tu día? Si te nace, compártemela; me da curiosidad saber qué tiene para que siempre vuelvas a ella.",
+    "buenosDias": "Elige una canción que pondrías si saliéramos de la ciudad en bus. No tiene que hablar de viajes; solo debe hacer que mirar por la ventana se sienta un poquito más cinematográfico.",
     "poema": [
-      "Una canción puede quedarse pegada a una persona, a un lugar o a una época de la vida. Después suenan dos notas y uno vuelve ahí sin pedir permiso.",
-      "Compárteme una de esas, mi vida. Quiero conocer qué canciones guardas cerca del corazón y qué tienen para que siempre termines regresando a ellas."
+      "Me imagino los asientos, el paisaje cambiando y una lista de canciones que vamos turnando. Una escoge tú, otra yo, y ninguna necesita explicación si nos gusta cómo suena.",
+      "Quizá el destino sea un pueblo cercano, quizá solo una salida improvisada. La música puede empezar a elegir el ambiente antes de que decidamos el lugar."
     ],
-    "detalle": "Si una canción ya se siente tuya, guárdala cerca. Hay melodías que terminan asociadas a un momento, a una persona o a una versión de uno mismo que da gusto recordar.",
-    "buenasNoches": "Que descanses, corazón. Hay canciones que se vuelven parte de nuestros recuerdos sin avisar. Quizá alguna de las tuyas esté guardando uno bonito para más adelante.",
+    "detalle": "Mándame tu canción para ese trayecto y dime si la pondrías al salir, cuando aparezca el paisaje o de regreso. Después yo elijo otra para completar la lista.",
+    "buenasNoches": "Que descanses. La ruta todavía no está elegida, pero ya tenemos una canción para el camino. A veces una buena salida empieza mucho antes de comprar los pasajes.",
     "cancionTitulo": "I Want You Around",
     "cancionArtista": "Snoh Aalegra",
     "youtubeId": "WdyPcNEA27M",
