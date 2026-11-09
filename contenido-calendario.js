@@ -1084,21 +1084,21 @@ const CALENDARIO = [
     "dia": 46,
     "fecha": "2026-11-30",
     "fechaTexto": "lun, 30 de nov",
-    "categoria": "Hacer algo solo para ver qué pasa",
+    "categoria": "Pintar sin tener que saber pintar",
     "icono": "🧵",
-    "tono": "filosofica",
+    "tono": "creativo",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hoy puedes probar algo sin convertirlo en un proyecto perfecto. Una mezcla de colores, una idea manual o cualquier ocurrencia que te dé curiosidad ya cuenta como un buen comienzo.",
+    "buenosDias": "Hoy te dejo una idea para salir un rato de lo de siempre: buscar un parque tranquilo, llevar papel y colores, y pintar lo primero que nos llame la atención. No importa si termina siendo una obra maestra o un garabato con mucha personalidad.",
     "poema": [
-      "La curiosidad también merece espacio sin convertirse en productividad. Probar una cosa, reírse si sale mal y aprender algo que no estaba en el plan puede ser suficiente.",
-      "Así que improvisa un poquito, mi vida. Y si haces un experimento extraño, necesito una foto o por lo menos una explicación con todo el drama."
+      "Me gusta imaginar dos personas sentadas en el pasto, cada una mirando el mismo paisaje desde un ángulo distinto. De pronto una pinta un árbol, la otra inventa un sol violeta y terminan comparando resultados como si fueran artistas de una exposición importante.",
+      "Podemos escoger el parque entre los dos y llevar algo sencillo. Lo bonito no sería pintar perfecto, sino compartir un rato sin mirar tanto el reloj."
     ],
-    "detalle": "Prueba hoy algo sin planear cada resultado. No porque todo tenga que salir bien, sino porque a veces lo inesperado también merece un espacio en tu día.",
-    "buenasNoches": "Que tengas una noche suave, mi vida. Ojalá mañana te permitas probar algo sin exigirte saber desde el comienzo cómo va a salir.",
+    "detalle": "Juego de elección: tú escoges qué pintaríamos —el paisaje, una flor, algo inventado o un retrato caricaturesco— y yo escojo el color que no puede faltar. ¿Qué parque te gustaría para ese plan?",
+    "buenasNoches": "Que descanses. Me quedo con la imagen de ese parque y dos dibujos distintos del mismo lugar. A veces una tarde sencilla termina siendo un recuerdo bonito.",
     "cancionTitulo": "Déjame Entrar",
     "cancionArtista": "Cultura Profética",
     "youtubeId": "IAhVESdwvIU",
@@ -1108,21 +1108,21 @@ const CALENDARIO = [
     "dia": 47,
     "fecha": "2026-12-01",
     "fechaTexto": "mar, 1 de dic",
-    "categoria": "Que las palabras coincidan con los actos",
+    "categoria": "Dos opciones y una tercera inventada",
     "icono": "🎯",
-    "tono": "filosofica",
+    "tono": "jugueton",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Te deseo vínculos donde las palabras no sean acertijos y los actos no contradigan lo que se dice. La claridad también puede ser tierna; no tiene que llegar en forma de discusión.",
+    "buenosDias": "Hoy toca un juego rápido: te doy dos opciones y tú puedes escoger una… o inventar una tercera que sea mejor. ¿Paseo con paisaje o tarde creativa? ¿Café y charla o probar algo que nunca hemos comido?",
     "poema": [
-      "El cariño bonito no debería ser una adivinanza eterna. Puede tener nervios, dudas y días complicados, claro, pero también tiene que saber hablar y escuchar sin jugar con lo que el otro siente.",
-      "No olvides eso, Aleja: mereces tranquilidad, respeto y un interés que se note. No tienes que conformarte con señales confusas para demostrar que sabes querer."
+      "No siempre hay que elegir entre las opciones que alguien pone delante. A veces la respuesta más interesante es decir «ninguna, se me ocurrió algo mejor» y cambiar el rumbo.",
+      "Me gusta esa idea de construir un plan entre dos: uno pone una posibilidad, el otro la transforma y al final aparece algo que ninguno habría pensado por su cuenta."
     ],
-    "detalle": "Fíjate en quién cumple lo que dice, incluso en las cosas pequeñas. Y procura rodearte de personas con las que no tengas que adivinar si el cariño está ahí: lo bonito también puede ser claro.",
-    "buenasNoches": "Buenas noches, corazón. Puedes ser cuidadosa con tus palabras y seguir siendo firme en lo que piensas. No tienes que escoger entre tu ternura y tu carácter.",
+    "detalle": "Tu turno: elige una de las opciones o rompe las reglas con una tercera. Después me toca mejorar tu propuesta con un detalle sorpresa. Sin puntos ni perdedores; solo imaginación.",
+    "buenasNoches": "Buenas noches. Ojalá hoy se te haya ocurrido una tercera opción inesperada. Si no, queda guardada para otro día: las mejores ideas a veces aparecen cuando uno deja de buscarlas.",
     "cancionTitulo": "No Está en Venta",
     "cancionArtista": "Alcolirykoz",
     "youtubeId": "Se6Cd4sW3ks",
@@ -1132,21 +1132,21 @@ const CALENDARIO = [
     "dia": 48,
     "fecha": "2026-12-02",
     "fechaTexto": "mié, 2 de dic",
-    "categoria": "Un café que no endulza el día a la fuerza",
+    "categoria": "Un café y tres preguntas inesperadas",
     "icono": "🫗",
-    "tono": "ambiente",
+    "tono": "complicidad",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Que tu tinto salga fuerte y sin azúcar, pero que el día no tenga que saber igual. Si la mañana se tuerce, ve resolviendo una cosa a la vez y no le exijas dulzura a la taza.",
+    "buenosDias": "Imagínate una mesa pequeña, dos tintos sin azúcar y una conversación sin entrevista. Hoy te dejo tres preguntas para escoger: ¿qué lugar te calma?, ¿qué talento absurdo te gustaría tener?, ¿qué recuerdo cotidiano te hace reír?",
     "poema": [
-      "Me imagino el primer sorbo, el silencio de antes de que arranque el día y tú mirando la taza como si todavía estuvieras negociando con el sueño.",
-      "Si pudiera dejarte una nota al lado, diría: «corazón, no tienes que correr desde el primer minuto». Y probablemente dibujaría un café pequeño que me quedaría bastante mal."
+      "Hay conversaciones que empiezan con una pregunta sencilla y terminan abriendo ventanas que uno no sabía que tenía. No hace falta contarlo todo; basta con compartir lo que a cada quien le nazca.",
+      "Si algún día hacemos ese plan, tú eliges el café o el sitio tranquilo y yo llevo otras tres preguntas para que no se nos acabe la conversación."
     ],
-    "detalle": "Que el café no tenga azúcar no significa que el día tenga que ser amargo. Si la mañana viene torcida, ve por partes; no tienes que resolverla entera antes del primer sorbo.",
-    "buenasNoches": "Que descanses, amor. El café de mañana puede esperar hasta que abras los ojos; por ahora, no necesitas ganarle ninguna carrera al día.",
+    "detalle": "Escoge una de las tres preguntas y respóndela cuando te provoque. Luego puedes devolverme una pregunta que no esté en la lista. Esta vez tú decides por dónde se va la charla.",
+    "buenasNoches": "Que descanses. Me quedo pensando en las respuestas que pueden salir de una taza de café y una pregunta bien puesta. No todas las conversaciones necesitan un tema importante.",
     "cancionTitulo": "Antonia",
     "cancionArtista": "Gondwana",
     "youtubeId": "exxkGyu3G1Q",
@@ -1156,21 +1156,21 @@ const CALENDARIO = [
     "dia": 49,
     "fecha": "2026-12-03",
     "fechaTexto": "jue, 3 de dic",
-    "categoria": "Dormir sin negociar con el reloj",
+    "categoria": "El permiso de bajar el ritmo",
     "icono": "🌻",
-    "tono": "amor",
+    "tono": "bienestar",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Ojalá hoy tengas permiso de dormir lo que necesitas, sin convertir el descanso en una carrera ni sentir que tienes que ganarte el derecho a parar.",
+    "buenosDias": "No todos los días tienen que convertirse en una aventura. A veces el mejor plan es quitarse un poco de peso de encima, comer algo rico, descansar y no exigirse estar de buen humor todo el tiempo.",
     "poema": [
-      "Hay algo bonito en poder cerrar los ojos y dejar que el mundo siga un rato sin ti. No todo momento tiene que convertirse en una tarea, una idea o algo que tachar de una lista.",
-      "Si hoy el sueño te gana un poquito, no lo tomes como una derrota, corazón. A veces descansar también es la manera más sensata de cuidarse; hasta las personas más inquietas necesitan apagar el ruido."
+      "Ojalá encuentres un espacio donde no tengas que demostrar nada. Puedes estar callada, cansada, distraída o llena de ideas; no tienes que editarte para merecer compañía.",
+      "Y si hoy prefieres tranquilidad, también es una respuesta válida. Compartir tiempo no siempre significa llenar cada minuto de actividades."
     ],
-    "detalle": "Si tienes un rato libre y el cuerpo te pide descansar, regálatelo sin culpa. Puedes dejar el teléfono a un lado, acomodarte como más te guste y permitir que el día espere un poco.",
-    "buenasNoches": "Buenas noches, bonita. Ojalá hoy hayas podido descansar de verdad, aunque fuera un ratito. Que la almohada esté cómoda, la cabeza baje el volumen y mañana llegue sin exigirte que resuelvas todo apenas despiertes.",
+    "detalle": "Elige una pequeña forma de cuidarte hoy: una pausa, música, una comida que te guste o dejar algo para mañana. Si quieres, cuéntame cuál escogiste; sin convertirlo en una tarea pendiente.",
+    "buenasNoches": "Buenas noches. Que el descanso te encuentre sin cuentas por rendir. Mañana habrá nuevas ideas; por hoy, está bien dejar algunas cosas quietas.",
     "cancionTitulo": "La Noche y Tú",
     "cancionArtista": "Barbaro el Urbano Vargas",
     "youtubeId": "XSN_8UblItk",
@@ -1180,21 +1180,21 @@ const CALENDARIO = [
     "dia": 50,
     "fecha": "2026-12-04",
     "fechaTexto": "vie, 4 de dic",
-    "categoria": "Una noche casera que sí apetece",
+    "categoria": "Un espejo con una historia propia",
     "icono": "🛋️",
-    "tono": "amor",
+    "tono": "creativo",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Plan imaginario, cero logística: cocinar algo rico, poner música y pasar demasiado tiempo escogiendo una película. Sin necesidad de salir ni de convertirlo en una gran ocasión.",
+    "buenosDias": "Se me ocurrió otro plan para una tarde tranquila: conseguir un espejo sencillo y decorarlo entre los dos con pintura, pequeñas formas o detalles que tengan algún significado. Que no parezca comprado, sino inventado por nosotros.",
     "poema": [
-      "No hace falta una reserva ni un lugar elegante. A veces lo mejor es cocinar juntos, probar la salsa cada dos minutos y acabar viendo una película que uno de los dos ya se sabe de memoria.",
-      "Te dejo la idea por aquí, amor. Tú escoges qué comemos y yo acepto el trabajo de probarlo todo, que es una responsabilidad que estoy dispuesto a asumir."
+      "Podríamos escoger juntos los colores y decidir si queda delicado, lleno de formas o un poquito extravagante. Cada quien aporta una idea y el espejo termina teniendo una mezcla de los dos estilos.",
+      "Lo divertido sería que al mirarlo después recordáramos el rato, las decisiones discutidas con demasiada seriedad y las pequeñas imperfecciones que lo hacen único."
     ],
-    "detalle": "Si el plan ideal resulta ser cocinar algo sencillo y quedarse en casa viendo una película, defiéndelo con orgullo. No todas las citas necesitan reserva, tacones ni una logística digna de una excursión.",
-    "buenasNoches": "Descansa, mi vida. Un plan bonito también puede ser no salir, cocinar algo rico y compartir el sofá. No todo lo especial necesita luces de ciudad.",
+    "detalle": "Elige el estilo: minimalista, flores y colores suaves, figuras abstractas o algo completamente inesperado. Yo añado una regla: cada uno debe proponer un detalle secreto para incluir en el diseño.",
+    "buenasNoches": "Que descanses. Me gusta la idea de crear algo que después se quede en un rincón y nos recuerde una tarde compartida. ¿Qué estilo escogerías tú?",
     "cancionTitulo": "Moment Of Your Life (feat. Coco Jones)",
     "cancionArtista": "Brent Faiyaz; Coco Jones",
     "youtubeId": "Jv17JsayCSI",
@@ -1204,21 +1204,21 @@ const CALENDARIO = [
     "dia": 51,
     "fecha": "2026-12-05",
     "fechaTexto": "sáb, 5 de dic",
-    "categoria": "La alegría de volver a encontrarse",
+    "categoria": "La invitación que cambia de manos",
     "icono": "🦴",
-    "tono": "amor",
+    "tono": "coqueto",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buenos días, mi vida. Ojalá hoy tengas ese momento de volver a ver a alguien y sentir que la sonrisa te sale antes de que puedas pensar qué decir.",
+    "buenosDias": "Hoy no voy a proponerte un plan concreto. Quiero dejarte el espacio para que tú me sorprendas: puede ser una salida, una actividad, una pregunta curiosa o algo tan sencillo como compartir un rato.",
     "poema": [
-      "Hay recibimientos que arreglan un día sin preguntar nada: una mascota que corre hacia ti, una persona que se alegra de verte o un mensaje que aparece justo cuando lo necesitabas.",
-      "Si hoy alguien te alegra la tarde, déjaselo saber, corazón. Y si son tus mascotas, dales un abrazo de esos que duran un segundo más de lo normal."
+      "A veces la complicidad se nota en esas ganas de buscar al otro sin necesitar una excusa enorme. Una invitación espontánea puede decir mucho, incluso cuando solo propone caminar y hablar un rato.",
+      "Y admito que me daría curiosidad recibir una idea tuya, de esas que llevan tu sello y que yo no habría pensado."
     ],
-    "detalle": "Cuando vuelvas a ver a alguien que quieres, disfruta ese primer segundo del reencuentro. A veces la sonrisa sale antes que el saludo y cuenta toda la historia por su cuenta.",
-    "buenasNoches": "Buenas noches, corazón. Que recuerdes algún saludo bonito o una despedida que te hizo sentir importante. Esas pequeñas maneras de recibirnos y despedirnos pueden quedarse con uno todo el día.",
+    "detalle": "Si te nace, invítame tú a algo. No tiene que ser una cita elaborada ni una indirecta perfecta; puede ser simplemente «vamos a…». La propuesta puede esperar al momento adecuado.",
+    "buenasNoches": "Buenas noches. Hoy dejo el turno de las ideas de tu lado. Me gusta pensar que todavía nos quedan planes que ninguno ha imaginado y que podemos inventarlos entre los dos.",
     "cancionTitulo": "Will I See You Again?",
     "cancionArtista": "Thee Sacred Souls",
     "youtubeId": "IGgb10A_2c8",
@@ -1228,21 +1228,21 @@ const CALENDARIO = [
     "dia": 52,
     "fecha": "2026-12-06",
     "fechaTexto": "dom, 6 de dic",
-    "categoria": "El café de una mañana lenta",
+    "categoria": "Un poema sin pedir respuesta",
     "icono": "☕️",
-    "tono": "ambiente",
+    "tono": "romantico_sutil",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Que la mañana te deje despertar a tu ritmo, con el tinto sin azúcar y unos minutos antes de que empiecen las obligaciones. No todo tiene que arrancar con prisa.",
+    "buenosDias": "Hay personas que llegan a la rutina sin hacer ruido y, aun así, consiguen que ciertos momentos tengan otro color. No siempre hace falta explicar por qué; a veces basta con reconocerlo.",
     "poema": [
-      "Hay mañanas que necesitan menos consejos y más calma: una taza caliente, la ropa cómoda y unos minutos antes de que el mundo empiece a pedir respuestas.",
-      "Así que ve despacio si puedes, mi vida. Que el día tenga cosas pendientes no significa que debas empezar corriendo."
+      "No quiero llenar cada día de grandes palabras ni convertir cada gesto en una promesa. Me gusta más la idea de conocerte en lo sencillo: tus ocurrencias, tus silencios, tus gustos y esa manera tuya de mirar las cosas.",
+      "Si algo bonito está creciendo, prefiero que tenga espacio para hacerlo a su ritmo. Sin adivinar el final, pero sin fingir que la curiosidad no existe."
     ],
-    "detalle": "Si puedes empezar la mañana sin correr, hazlo. Y si no puedes, al menos que el café te acompañe en la negociación con el día.",
-    "buenasNoches": "Que duermas rico, amor. Ojalá mañana el día empiece con menos afán y más espacio para hacer las cosas a tu ritmo.",
+    "detalle": "Pregunta para guardar: ¿qué pequeño momento te hace sentir que un día valió la pena? Puede ser algo tan simple como una canción, una conversación o un lugar al que quisieras volver.",
+    "buenasNoches": "Que descanses. Ojalá hoy te haya quedado algún momento bonito para recordar. No hace falta ponerle nombre a todo; algunas cosas se disfrutan mejor mientras van tomando forma.",
     "cancionTitulo": "I'll Be Seeing You",
     "cancionArtista": "Billie Holiday",
     "youtubeId": "3C5zYKIuoxg",
