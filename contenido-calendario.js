@@ -1425,21 +1425,22 @@ const CALENDARIO = [
     "dia": 60,
     "fecha": "2026-12-14",
     "fechaTexto": "lun, 14 de dic",
-    "categoria": "Un paseo para elegir sin afán",
+    "categoria": "Dos miradas, una misma idea",
     "icono": "🧢",
-    "tono": "complicidad",
+    "tono": "creativo_complice",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hoy te propongo un plan sencillo: salir a caminar y dejar que el camino nos ayude a decidir dónde parar. Puede ser un parque, una calle bonita o una cafetería que no conozcamos.",
+    "buenosDias": "Hoy quiero proponerte algo que tiene que ver con tu lado artístico. No hace falta tener materiales especiales ni saber dibujar perfecto: basta con tomar una misma idea y ver qué hace cada uno con ella. A veces dos personas pueden partir de lo mismo y terminar creando mundos completamente distintos.",
     "poema": [
-      "Me gusta la idea de no tener que llegar a un sitio específico. Caminar, mirar vitrinas, comentar cualquier cosa y terminar sentados donde nos provoque tiene su encanto.",
-      "Esta vez podemos elegir por turnos: tú decides la primera parada y yo la siguiente. Así el paseo se va armando entre los dos."
+      "Podríamos elegir una palabra, por ejemplo «refugio», «caos», «libertad» o «azar», y representarla cada uno a su manera. Tú quizá la convertirías en colores y formas; yo tal vez terminaría haciendo algo que solo se entiende después de una explicación bastante cuestionable.",
+      "Lo bonito no sería decidir quién lo hizo mejor. Sería descubrir qué imaginó cada uno, qué detalles escogió y por qué una misma palabra tomó caminos tan diferentes.",
+      "Y si un día nos provoca hacerlo con pintura, papel o cualquier material que tengamos a mano, también puede convertirse en un pequeño plan para compartir sin prisas."
     ],
-    "detalle": "Juego de ruta: elige qué buscarías primero —un lugar con árboles, una tienda curiosa o algo rico para comer—. Yo escogeré la segunda parada. Si nos perdemos un poquito, que sea dentro del plan.",
-    "buenasNoches": "Que descanses. Me quedo con ese paseo sin itinerario rígido, donde cada uno aporta una parada y el día se arma sobre la marcha.",
+    "detalle": "Escoge una palabra para este juego y dime cuál sería. Cada uno hará un dibujo, una combinación de colores o incluso una pequeña composición con objetos que tenga cerca. No hay que terminarlo hoy ni buscar que quede perfecto. Después nos mostramos el resultado y contamos qué significa para cada uno. Si quieres, tú eliges la palabra y yo me encargo de sorprenderte con mi interpretación.",
+    "buenasNoches": "Buenas noches. Me gusta imaginar que dos personas pueden mirar la misma cosa y encontrar algo distinto, sin que una interpretación tenga que corregir a la otra. Ojalá nunca pierdas esas ganas de crear a tu manera, incluso cuando el resultado solo tenga sentido para ti.",
     "cancionTitulo": "good denim",
     "cancionArtista": "jalen chords",
     "youtubeId": "_2Lnj5N9lCM",
