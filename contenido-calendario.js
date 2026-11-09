@@ -1500,21 +1500,22 @@ const CALENDARIO = [
     "dia": 63,
     "fecha": "2026-12-17",
     "fechaTexto": "jue, 17 de dic",
-    "categoria": "El mapa de nuestros planes pendientes",
+    "categoria": "La química de una mirada",
     "icono": "📝",
-    "tono": "juego",
+    "tono": "coqueto_sutil",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Hoy vamos a imaginar un mapa con tres lugares: uno para crear algo, otro para descansar y otro para descubrir algo nuevo. No hace falta que estén lejos; lo importante es que cada sitio tenga una razón para visitarlo.",
+    "buenosDias": "Hay miradas que duran apenas un segundo, pero dejan una pregunta dando vueltas el resto del día. No siempre significan lo mismo y tampoco quiero inventar respuestas por ti. Solo me parece bonito reconocer que, a veces, una sonrisa, una pausa o esa forma de sostener la mirada pueden darle otro tono a un encuentro.",
     "poema": [
-      "En el primero podríamos pintar o decorar una pieza. En el segundo, buscar un parque tranquilo. En el tercero, tomar un bus a un pueblo cercano y caminar sin agenda apretada.",
-      "Me gusta que el mapa no tenga que completarse de una vez. Podemos escoger un lugar cada tanto y dejar que el resto siga esperando su momento."
+      "Me gusta la química que no necesita hacer ruido: una conversación que se alarga sin darse cuenta, una broma que solo los dos entienden, una mirada que aparece justo después de decir algo atrevido y esa sonrisa que intenta disimularlo todo.",
+      "No se trata de interpretar cada gesto como una señal ni de apresurar nada. La complicidad también está en poder disfrutar el momento sin exigirle una conclusión.",
+      "Y admito que hay algo especialmente atractivo en alguien que se muestra tal como es, con seguridad unas veces, con timidez otras y con esa espontaneidad que no se puede fabricar."
     ],
-    "detalle": "Elige cuál de los tres lugares visitarías primero y agrega uno que no esté en el mapa. Yo elegiré el siguiente destino cuando me toque. Así vamos construyendo una lista compartida, sin convertirla en calendario de obligaciones.",
-    "buenasNoches": "Buenas noches. Nuestro mapa puede quedarse abierto; no hay que cumplirlo todo. Basta con que haya ideas que nos den ganas de compartir un día.",
+    "detalle": "Te dejo una pregunta con un poquito de picardía: ¿qué te parece más difícil de disimular, una sonrisa cuando alguien te gusta, una mirada que se queda un segundo de más o las ganas de seguir conversando? Yo te digo cuál creo que me delataría a mí. Si tienes una respuesta distinta, te toca defenderla.",
+    "buenasNoches": "Buenas noches. Me quedo con la idea de que la química no se fuerza ni se adivina: se descubre cuando ambos están cómodos y les nace acercarse. Que descanses y no pierdas esa manera tan tuya de sonreír cuando algo realmente te gusta.",
     "cancionTitulo": "Three Little Birds",
     "cancionArtista": "Bob Marley & The Wailers",
     "youtubeId": "HNBCVM4KbUM",
