@@ -893,7 +893,7 @@ const CALENDARIO = [
     "dia": 38,
     "fecha": "2026-11-22",
     "fechaTexto": "dom, 22 de nov",
-    "categoria": "Una promesa que merece pensarse con calma",
+    "categoria": "Aquella idea que todavía me debes",
     "icono": "🗂️",
     "tono": "amor",
     "color": {
@@ -901,14 +901,14 @@ const CALENDARIO = [
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Hay algo que te prometí cuando empezábamos a conocernos y que no se me ha olvidado: algún día dejaría que me tatuaras. Hoy quería volver a mencionarlo, no para apresurar nada, sino porque fue una idea tuya que terminó teniendo un significado especial para mí.",
+    "buenosDias": "Buenos días, Aleja. Hoy me acordé de aquella vez que dijiste que querías tatuarme. Hay ocurrencias que uno escucha y guarda por ahí… y la tuya se quedó esperando su momento. No sé si ya tienes alguna idea rondándote la cabeza, pero me dio curiosidad imaginar qué se te ocurriría.",
     "poema": [
-      "Me sigue gustando que seas tú quien imagine el diseño. Quiero que tenga tu trazo, tu manera de crear y algo que tú quieras dejar en él. No necesito escogerlo por ti ni convertirlo en un dibujo hecho a la carrera; me gustaría conocer qué se te ocurriría si algún día decidimos llevar esa promesa a la piel.",
-      "Hay una frase que quisiera acompañara esa idea: «Si no eres el amor de mi vida, diré que me equivoqué de vida, pero no de amor». Es una frase intensa, lo sé. Para mí habla de atreverme a sentir de verdad y de no arrepentirme de haber querido. Pero también sé que un tatuaje es permanente y que las decisiones así merecen tiempo, conversación y plena seguridad.",
-      "Por eso no quiero que esto sea una prueba de cariño ni una obligación para ninguno. Si llega ese día, será porque los dos seguimos queriendo hacerlo, porque encontramos un diseño que nos representa y porque lo elegimos con tranquilidad."
+      "Me da un poco de intriga pensar qué dibujo saldría de tus manos. Seguro tendría algún detalle muy tuyo, de esos que quizá solo tú sabes explicar. Por ahora, podemos dejar que la idea siga dando vueltas; no hace falta convertir cada ocurrencia en un plan de inmediato.",
+      "Y hay una frase que me encontré y que tiene algo de esas historias que uno no sabe explicar del todo: «Si no eres el amor de mi vida, diré que me equivoqué de vida, pero no de amor». Tiene bastante drama, lo admito… aunque algunas frases se quedan dando vueltas más de lo esperado.",
+      "Quizá algún día volvamos a hablar de aquel tatuaje y terminemos haciendo un boceto entre risas. Si llega ese momento, que sea porque todavía nos hace ilusión y porque encontramos algo que de verdad queramos llevar en la piel."
     ],
-    "detalle": "Solo quería recordarte aquella promesa y dejarte una pregunta creativa, sin encargo ni fecha: si algún día retomáramos la idea, ¿qué estilo de dibujo te gustaría explorar? Puede quedarse en una conversación o en un boceto guardado. La decisión real siempre podrá esperar hasta que ambos estemos completamente seguros.",
-    "buenasNoches": "Buenas noches. Me gusta que algunas ideas tengan una historia detrás y que podamos volver a ellas sin presión. La promesa sigue aquí, pero más importante que cumplirla rápido es que, si algún día la convertimos en tinta, sea una decisión consciente y bonita para los dos.",
+    "detalle": "Te dejo una pregunta, solo por curiosidad: si todavía tuvieras que tatuarme algo, ¿ya tendrías un diseño en mente o me sorprenderías por completo? Prometo no pedir adelantos… aunque probablemente intente adivinar.",
+    "buenasNoches": "Buenas noches, Aleja. Algunas ideas no necesitan fecha para quedarse guardadas. La tuya sigue por ahí, esperando a ver si un día nos vuelve a dar por convertirla en una historia que podamos contar.",
     "cancionTitulo": "93 'Til Infinity",
     "cancionArtista": "Souls of Mischief",
     "youtubeId": "fXJc2NYwHjw",
@@ -1327,7 +1327,7 @@ const CALENDARIO = [
     "dia": 56,
     "fecha": "2026-12-10",
     "fechaTexto": "jue, 10 de dic",
-    "categoria": "Que mis intenciones no sean un acertijo",
+    "categoria": "Hay cosas que se entienden mejor con el tiempo",
     "icono": "🧑‍🎨",
     "tono": "romantico",
     "color": {
@@ -1335,13 +1335,14 @@ const CALENDARIO = [
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Buenos días, Aleja. Hay algo que prefiero hacer sencillo: hablarte con honestidad. Me gusta conocerte, me atraes y disfruto la forma en que poco a poco vamos compartiendo partes de nuestras vidas. No quiero esconderlo detrás de indirectas eternas, pero tampoco convertirlo en una pregunta que tengas que responder hoy.",
+    "buenosDias": "Buenos días, Aleja. A veces una conversación pequeña se queda acompañándonos más de lo esperado. No siempre hace falta explicar por qué; basta con recordar una frase, una risa o algún detalle que terminó alegrándonos el día.",
     "poema": [
-      "Me interesa conocerte en los días buenos y también en esos en los que no tienes ganas de hablar demasiado. Quiero descubrir tus ideas, tus contradicciones, tus maneras de reírte y hasta esas pequeñas rarezas que quizá tú consideras normales. No estoy buscando una versión perfecta de ti; me interesa la persona real que eres.",
-      "Si algún día esto se convierte en algo más, quisiera que fuera porque los dos lo elegimos y nos sentimos tranquilos estando ahí. No quiero adelantarte respuestas ni prometer una historia que todavía estamos escribiendo. Prefiero que mis gestos sean coherentes con lo que digo y que tengas espacio para mostrarme qué sientes tú, cuando lo tengas claro."
+      "Hay personas que tienen una manera particular de quedarse en los pensamientos: aparecen cuando suena una canción, cuando uno ve algo que les gustaría o cuando una tontería del día merece ser contada. Y lo curioso es que esos detalles suelen llegar sin avisar.",
+      "No sé si te pasa, pero a veces una buena conversación deja ganas de otra. No por tener algo importante que decir, sino porque hasta hablar de cualquier cosa puede volverse un buen momento cuando la compañía tiene algo distinto.",
+      "Supongo que hay cosas que es mejor dejar que se descubran solas, sin ponerles nombre antes de tiempo. Algunas señales se entienden mejor cuando se repiten en pequeños gestos."
     ],
-    "detalle": "Hoy no tienes que definir nada ni darme una respuesta especial. Solo te dejo una pregunta para conocerte un poquito más: ¿qué te hace sentir que alguien se está acercando a ti de verdad, y no solo diciendo cosas bonitas? Me gustaría aprender a cuidar eso.",
-    "buenasNoches": "Buenas noches, Aleja. Me gusta lo que voy descubriendo de ti y no quiero que la emoción me haga correr más de la cuenta. Mi interés es real, pero también lo es mi respeto por tus tiempos y tus decisiones. Ojalá podamos seguir conociéndonos con esa tranquilidad que permite ser uno mismo.",
+    "detalle": "Te dejo una pregunta sencilla: ¿qué tipo de conversación consigue que pierdas la noción del tiempo, incluso cuando empezó hablando de cualquier tontería?",
+    "buenasNoches": "Que descanses, Aleja. Ojalá hoy te haya quedado alguna conversación bonita dando vueltas en la cabeza. A veces, sin grandes anuncios, ciertos momentos consiguen hacerse un espacio.",
     "cancionTitulo": "Virtual Insanity - Remastered 2006",
     "cancionArtista": "Jamiroquai",
     "youtubeId": "4JkIs37a2JE",
