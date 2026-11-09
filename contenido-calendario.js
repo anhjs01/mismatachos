@@ -580,7 +580,7 @@ const CALENDARIO = [
     "dia": 25,
     "fecha": "2026-11-09",
     "fechaTexto": "lun, 9 de nov",
-    "categoria": "Cocinar juntos y elegir la película",
+    "categoria": "Una invitación que ya no quiero disfrazar",
     "icono": "🏠",
     "tono": "amor",
     "color": {
@@ -588,13 +588,13 @@ const CALENDARIO = [
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Plan sencillo para un día cualquiera: cocinar algo rico, picar un poquito mientras se hace, poner música y después pasar media hora decidiendo qué película ver.",
+    "buenosDias": "Buenos días, Aleja. Hoy quiero dejarte algo más claro que otras veces: me gusta hablar contigo, me atraes y cada vez me dan menos ganas de esconderlo detrás de un simple «qué bonito sería». Ojalá tu mañana empiece lindo… y que sepas que hay alguien que quisiera ganarse un lugar especial en tus días.",
     "poema": [
-      "Lo mejor de esos planes es que no tienen que salir perfectos. Puede quemarse un poquito algo, podemos cambiar de película tres veces y aun así terminar riéndonos de cualquier cosa en el sofá.",
-      "Queda hecha la invitación para cuando te provoque, corazón. Tú eliges la comida; yo llevo hambre, disposición para ayudar y opiniones innecesarias sobre las películas."
+      "No quiero que todas nuestras conversaciones se queden en imaginar planes. Me gustaría vivir alguno contigo: cocinar, reírnos porque algo salió distinto, elegir una película y encontrar cualquier excusa para alargar un poquito la noche.",
+      "Y te lo digo sin rodeos, bonita: no te estoy escribiendo desde el lugar de un amigo que solo desea que seas feliz. Me gustaría descubrir qué podría pasar si nos damos la oportunidad de mirarnos de otra manera. Sin presión, pero con intención."
     ],
-    "detalle": "Si alguna vez coincidimos cocinando, tú eliges qué se prepara y yo ayudo sin estorbar demasiado. Después buscamos una película y fingimos que vamos a verla completa sin hablar encima de las mejores escenas.",
-    "buenasNoches": "Descansa, bonita. Algún día habrá cocina compartida, una película elegida entre los dos y una discusión seria sobre quién escogió mejor. Por ahora te dejo dormir sin spoilers.",
+    "detalle": "La invitación sigue en pie, pero hoy tiene una aclaración: me gustaría que ese plan de cocinar y ver una película fuera una cita. Tú eliges el menú; yo pongo las ganas de verte y prometo no robarte todos los ingredientes mientras cocinas.",
+    "buenasNoches": "Que descanses, Aleja. No sé qué nombre tendrá esto más adelante, pero sí sé que ya no quiero hacer como si solo fueras una persona más. Me gustas, y quería que hoy te fueras a dormir sabiéndolo.",
     "cancionTitulo": "Best Part (feat. H.E.R.)",
     "cancionArtista": "Daniel Caesar; H.E.R.",
     "youtubeId": "vBy7FaapGRo",
@@ -604,7 +604,7 @@ const CALENDARIO = [
     "dia": 26,
     "fecha": "2026-11-10",
     "fechaTexto": "mar, 10 de nov",
-    "categoria": "Una compañía que celebra tu llegada",
+    "categoria": "Una bienvenida que quisiera compartir",
     "icono": "🐾",
     "tono": "amor",
     "color": {
@@ -612,13 +612,13 @@ const CALENDARIO = [
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Ojalá hoy tus mascotas te regalen uno de esos momentos absurdamente tiernos que hacen que uno saque el celular para grabar y termine riéndose tanto que no graba nada.",
+    "buenosDias": "Buenos días, bonita. Ojalá hoy te reciban tus mascotas con toda esa emoción suya. Aunque confieso que me da un poquito de envidia: ellas pueden correr a saludarte y yo tengo que conformarme con imaginar tu sonrisa cuando lees esto.",
     "poema": [
-      "Los animales tienen una forma muy suya de demostrar cariño: se emocionan, se acomodan a tu lado o aparecen justo cuando creen que necesitas compañía. No saben escribir mensajes, pero a veces sus maneras de estar dicen muchísimo.",
-      "Dales una caricia de mi parte, mi vida. Y si hacen alguna travesura, no olvides que probablemente ellos ya olvidaron el delito mientras tú sigues buscando qué pasó."
+      "Hay algo precioso en la forma en que tus mascotas celebran que vuelvas. Me gusta pensar en una casa con esa alegría, con patitas haciendo ruido y alguien que se alegra de verte incluso en tus días más despeinados.",
+      "Yo también quisiera ser alguien cuya llegada te provoque una sonrisa. No para competir con tus peludos —sé perfectamente que perdería—, sino para tener la suerte de compartir contigo esos momentos sencillos."
     ],
-    "detalle": "Si llegas a casa y tus mascotas montan su celebración habitual, déjalas ganar. Ellas no necesitan que les expliques que solo saliste un rato; para ellas, tu regreso ya es el acontecimiento del día.",
-    "buenasNoches": "Buenas noches, corazón. Ojalá tus mascotas te hagan compañía si se acercan, aunque probablemente ellas crean que la cama les pertenece por derecho propio.",
+    "detalle": "Si hoy te reciben como si hubieras regresado de una expedición larguísima, dales una caricia extra. Y guarda un poquito de esa alegría para ti: ojalá la vida también te acerque personas que se emocionen de verte.",
+    "buenasNoches": "Buenas noches, corazón. Ojalá hayas terminado el día rodeada de cariño. Me gustaría que algún día, además de tus recibimientos peludos, también tengas uno mío: de esos abrazos que no llevan prisa.",
     "cancionTitulo": "You Got Me",
     "cancionArtista": "The Roots; Tariq Trotter; Erykah Badu; Eve",
     "youtubeId": "MJCHeEQV454",
@@ -628,21 +628,21 @@ const CALENDARIO = [
     "dia": 27,
     "fecha": "2026-11-11",
     "fechaTexto": "mié, 11 de nov",
-    "categoria": "El primer sorbo, sin azúcar",
+    "categoria": "Una idea de futuro con mis rulos",
     "icono": "🫖",
-    "tono": "ambiente",
+    "tono": "amor",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Primera regla de la mañana: el café va sin azúcar y a tu manera. Y si todavía tienes sueño, no voy a juzgarte; bastante valiente es negociar con el despertador.",
+    "buenosDias": "Buenos días, Aleja. Hoy amanecí con una sonrisa por una conversación que todavía recuerdo. Hay cosas que uno escucha y deja pasar… y hay otras que se quedan dando vueltas porque vienen de alguien que le mueve el corazón.",
     "poema": [
-      "Me gusta imaginarte con la taza entre las manos, todavía medio dormida, el pelo como haya querido amanecer y cero ganas de que alguien te dé instrucciones antes de tiempo.",
-      "Despierta a tu ritmo, bonita. Hoy no tienes que ganarte el derecho a descansar ni demostrar nada antes de tomarte el café."
+      "Una vez dijiste que te gustaría tener un hijo mío, con mis rulos y todo. No sé si lo dijiste jugando o si por un instante también te imaginaste esa escena, pero te confieso que la idea se me quedó guardada.",
+      "Y mira que yo intento hacerme el tranquilo, pero a veces pienso: ¿y si algún día sí? ¿Unos rizos pequeñitos corriendo por ahí y tú mirándome como diciendo «te dije»? No te estoy pidiendo que decidamos el futuro en un poema; solo quería que supieras que imaginar algo bonito contigo ya no me parece una locura."
     ],
-    "detalle": "Que el café sin azúcar te despierte a tu manera. Y si la mañana viene con sueño, no voy a juzgarte: bastante valiente es negociar con el despertador antes de haber desayunado.",
-    "buenasNoches": "Que descanses, mi vida. Si la mañana te encuentra con sueño, no te declares vencida todavía: primero café, después decisiones importantes.",
+    "detalle": "Si hoy te acuerdas de aquella conversación, sonríe un poquito. Yo todavía no sé quién heredaría más carácter, si tú o yo, pero con esos rulos en la ecuación ya tenemos bastante personalidad asegurada. Lo importante es que cualquier futuro se construya porque los dos lo queremos, a nuestro tiempo.",
+    "buenasNoches": "Buenas noches, bonita. Hoy te dejo una confesión un poquito más atrevida: aquella idea de los rulos pequeños no me asustó. Me hizo sonreír. No hay que correr ni prometer nada ahora; hay cosas que prefiero construir despacio, pero contigo sí me dan ganas de imaginar.",
     "cancionTitulo": "Keep Your Worries",
     "cancionArtista": "Guru; Angie Stone",
     "youtubeId": "7R0D6ryRUqQ",
@@ -652,21 +652,21 @@ const CALENDARIO = [
     "dia": 28,
     "fecha": "2026-11-12",
     "fechaTexto": "jue, 12 de nov",
-    "categoria": "El color fresco de la fruta",
+    "categoria": "Un antojo y una mirada cómplice",
     "icono": "🍑",
-    "tono": "amor",
+    "tono": "ambiente",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Si hoy te cruzas con una fresa bonita o un durazno en su punto, considéralo una pequeña victoria del día. A veces el gusto está en cosas así de simples.",
+    "buenosDias": "Buenos días, Aleja. Si hoy aparece una fresa o un durazno en su punto, que sea tu pequeño premio. Y si alguien te mira con ganas de robarte un pedacito, espero que al menos tenga la decencia de pedirlo con una sonrisa bonita.",
     "poema": [
-      "Me gusta la idea de compartir fruta sin ceremonia, elegir el pedazo más rico y fingir que no estamos discutiendo por el último. Aunque contigo seguramente terminaría cediendo… o pidiendo la mitad con mucha dignidad.",
-      "Que hoy tengas algo rico, amor, y una conversación que te deje el mismo saborcito dulce que queda después de reírse mucho."
+      "Me gustan los planes simples: compartir algo rico, discutir cuál pedazo estaba mejor y terminar riéndonos por una tontería. No hace falta convertir cada encuentro en un acontecimiento para que se vuelva especial.",
+      "Contigo, eso sí, sospecho que hasta elegir la fruta podría terminar siendo una excusa para acercarme un poquito más."
     ],
-    "detalle": "Si te provoca fruta, elige la que te haga ilusión y no la que parezca más fotogénica. Aquí no estamos haciendo una campaña publicitaria, mi vida; estamos intentando que tengas un momento rico.",
-    "buenasNoches": "Buenas noches. Que mañana encuentres algo rico que comer y un motivo sencillo para sonreír. A veces no hace falta mucho para cambiarle el tono al día.",
+    "detalle": "Elige algo que de verdad te provoque, sin complicarte. Y si algún día compartimos ese antojo, prometo negociar justamente… aunque quizá intente convencerte de que el último bocado sabe mejor si me lo das tú.",
+    "buenasNoches": "Que descanses, mi vida. Ojalá hoy hayas tenido algo rico y un motivo inesperado para sonreír. Yo me quedo con la idea de que algún día podamos compartir esos gustos sin tener que imaginarlos.",
     "cancionTitulo": "You Rock My World",
     "cancionArtista": "Michael Jackson",
     "youtubeId": "1-7ABIM2qjU",
@@ -676,21 +676,21 @@ const CALENDARIO = [
     "dia": 29,
     "fecha": "2026-11-13",
     "fechaTexto": "vie, 13 de nov",
-    "categoria": "Cuando el detalle sí importa",
+    "categoria": "Me fijo en ti, no solo en tus detalles",
     "icono": "🖍️",
-    "tono": "filosofica",
+    "tono": "amor",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Hoy quería decirte algo que parece pequeño: me gusta fijarme en lo que te importa, incluso cuando no es algo que todo el mundo notaría.",
+    "buenosDias": "Buenos días, Aleja. Hoy no vengo con un cumplido genérico: me gusta cómo eres cuando te apasionas por algo, cómo defiendes tus gustos y esa expresión tuya cuando intentas concentrarte. Hay cosas de ti que me dan ganas de conocer cada vez más.",
     "poema": [
-      "No quiero llenarte de cumplidos que podrían servirle a cualquiera. Prefiero decirte que me parece lindo cómo te metes en tus proyectos, cómo recuerdas tus gustos y cómo una sonrisa tuya cambia por completo la expresión de tu cara.",
-      "Así que este es un piropo sin mucha ceremonia, corazón: tienes detalles que dan ganas de conocer despacio, y eso me parece mucho más interesante que cualquier frase perfecta."
+      "No quiero decirte solamente que eres bonita, aunque lo pienso más de lo que debería admitir. Me atrae tu manera de mirar el mundo, tus ideas, tus ocurrencias y hasta esa forma tan tuya de fruncir el gesto cuando algo no te convence.",
+      "Me gustaría tener la oportunidad de conocerte también en lo cotidiano, sin pantallas de por medio, y descubrir si en persona me distraes tanto como lo haces cuando apareces en mis pensamientos."
     ],
-    "detalle": "Hoy presta atención a un detalle pequeño: alguien que se acuerda de algo que dijiste, una canción que llega justo a tiempo o un mensaje inesperado. A veces eso dice ‘te tengo presente’ sin escribirlo literalmente.",
-    "buenasNoches": "Descansa, amor. Si hoy alguien se acordó de un detalle que le contaste, ojalá hayas sentido lo bonito que es que te escuchen de verdad.",
+    "detalle": "Hoy recuerda que no tienes que cambiar nada para llamar la atención de alguien. A mí me interesan tus versiones reales: la concentrada, la risueña, la cansada y la que no tiene ganas de hablar con nadie.",
+    "buenasNoches": "Buenas noches, bonita. Ojalá hoy te hayas sentido apreciada. Yo sigo descubriendo detalles tuyos que me gustan, y cada vez tengo menos intención de fingir que eso es simple curiosidad.",
     "cancionTitulo": "If I Ain't Got You",
     "cancionArtista": "Alicia Keys",
     "youtubeId": "Ju8Hr50Ckwk",
@@ -700,7 +700,7 @@ const CALENDARIO = [
     "dia": 30,
     "fecha": "2026-11-14",
     "fechaTexto": "sáb, 14 de nov",
-    "categoria": "Una pieza que solo tus manos podían hacer",
+    "categoria": "Verte crear y encontrar una excusa para acercarme",
     "icono": "🪴",
     "tono": "ambiente",
     "color": {
@@ -708,13 +708,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Manos a la obra, artista: ojalá hoy puedas hacer algo bonito, aunque sea una pieza pequeña, una prueba de color o algo que no tenías planeado.",
+    "buenosDias": "Buenos días, artista. Ojalá hoy tus manos encuentren una idea que te emocione y que el día te deje jugar con colores, formas o materiales. Me gustaría verte crear alguna vez; sospecho que sería difícil concentrarme en la pieza si tengo tu sonrisa cerca.",
     "poema": [
-      "Me imagino tus manos trabajando y tú mirando la pieza desde todos los ángulos para decidir qué le falta. A veces quisiera ver el proceso completo, no solo el resultado, porque seguro hay muchas ideas tuyas escondidas entre un intento y otro.",
-      "Y si hoy algo no sale, no pasa nada, mi vida. No todo lo que haces tiene que convertirse en una obra maestra; también puedes crear por el puro gusto de hacerlo."
+      "Me interesa conocer el proceso detrás de lo que haces: tus pruebas, tus cambios de idea y ese instante en que decides que ya encontraste la forma correcta. Siento que ahí también se descubre mucho de una persona.",
+      "Y sí, me gustaría estar cerca mientras creas. Puedo alcanzarte los materiales, escuchar tus explicaciones y hacer el esfuerzo de no distraerte… aunque no prometo demasiado si me regalas una de esas sonrisas."
     ],
-    "detalle": "Si una pieza de cerámica no queda como la imaginabas, no la declares perdida enseguida. Quizá solo está encontrando una forma que no tenías planeada, como tantas cosas buenas.",
-    "buenasNoches": "Buenas noches, artista. No todas las piezas tienen que quedar listas hoy, ni todas las ideas tienen que convertirse enseguida en algo concreto. Deja que el proceso respire.",
+    "detalle": "Si hoy trabajas en una pieza, disfruta el proceso sin exigirle que quede perfecta. Y si algún día me dejas acompañarte, prometo respetar tu espacio de artista; solo pediré un pequeño descanso para admirar el resultado y a su creadora.",
+    "buenasNoches": "Descansa, artista. Ojalá hoy hayas creado algo que te guste. Me encantaría que algún día me enseñaras una pieza y me contaras por qué elegiste cada detalle; quiero conocer también esa parte de ti.",
     "cancionTitulo": "Tomorrow",
     "cancionArtista": "Jorja Smith",
     "youtubeId": "zMC5-M15je0",
@@ -724,21 +724,21 @@ const CALENDARIO = [
     "dia": 31,
     "fecha": "2026-11-15",
     "fechaTexto": "dom, 15 de nov",
-    "categoria": "El color que aparece al mezclar",
+    "categoria": "Un color nuevo para algo que apenas comienza",
     "icono": "🌀",
-    "tono": "filosofica",
+    "tono": "amor",
     "color": {
       "principal": "#77d9d8",
       "suave": "#dcf7f4",
       "oscuro": "#12343b"
     },
-    "buenosDias": "Me gusta pensar en los colores como en las ideas: mezclas dos y, de pronto, aparece uno que no estabas buscando, pero que te gusta tanto que cambias todo el plan por él.",
+    "buenosDias": "Buenos días, Aleja. A veces una mezcla inesperada termina creando el color más bonito. Con las personas puede pasar algo parecido: uno empieza conversando sin saber qué forma tomará todo y, de pronto, descubre que quiere acercarse un poco más.",
     "poema": [
-      "Me parece que crear tiene algo de magia y algo de terquedad: probar, mirar, mover un poquito más y de repente descubrir que la idea estaba esperando en otro lugar.",
-      "Si hoy encuentras un color así, guárdalo. Y luego me cuentas cómo lo llamarías, porque seguro tú le pondrías un nombre más bonito que «ese azul raro que salió»."
+      "No quiero apresurar lo que todavía está tomando forma, pero tampoco quiero esconder lo que siento detrás de palabras demasiado prudentes. Me gustas y me ilusiona la posibilidad de que esto sea algo más que mensajes bonitos.",
+      "Si algún día te nace, me gustaría que probáramos ese color nuevo: una cita, una conversación larga, una mirada que dure un segundo más. Sin guiones ni expectativas imposibles; solo dos personas descubriendo si también se eligen."
     ],
-    "detalle": "Mezcla colores por curiosidad, no por obligación. Si terminas con un tono inesperado, puedes llamarlo experimento artístico; si te gusta, lo llamamos genialidad y seguimos adelante.",
-    "buenasNoches": "Que descanses con la tranquilidad de no tener que acertar siempre a la primera. Hasta los colores encuentran su lugar después de varias pruebas.",
+    "detalle": "Hoy mezcla colores por curiosidad y deja que aparezca algo inesperado. Y si te preguntan qué tono es, puedes ponerle el nombre que quieras. Yo, por mi parte, llamaría «posibilidad» a eso que empieza cuando dos personas dejan de tratarse como una casualidad.",
+    "buenasNoches": "Buenas noches, Aleja. No necesito que respondas hoy a todo lo que te he dicho. Solo quería ser honesto: me gustaría acercarme a ti de otra manera, si a ti también te nace. Que descanses y que mañana te encuentre sonriendo.",
     "cancionTitulo": "Blue World",
     "cancionArtista": "Mac Miller",
     "youtubeId": "_GC2wFTCAGY",
