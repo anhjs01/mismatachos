@@ -700,7 +700,7 @@ const CALENDARIO = [
     "dia": 30,
     "fecha": "2026-11-14",
     "fechaTexto": "sáb, 14 de nov",
-    "categoria": "Tus metas también pueden tener compañía",
+    "categoria": "La vida que estás imaginando",
     "icono": "🪴",
     "tono": "ambiente",
     "color": {
@@ -708,13 +708,13 @@ const CALENDARIO = [
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Buenos días, artista. Me gustó que compartieras esa lista de cosas que quieres cumplir. Hay algo bonito en escribir lo que uno desea, pero a veces también ayuda tener a alguien que escuche esas ideas y celebre cada pequeño avance.",
+    "buenosDias": "Buenos días, Aleja. Me quedé pensando en esa lista de cosas que quieres cumplir este año. Me gusta que tengas deseos que poner por escrito, ideas que te despiertan curiosidad y experiencias que todavía te esperan. Ojalá nunca pierdas esas ganas de descubrir cosas nuevas.",
     "poema": [
-      "No quiero convertir tus metas en una lista que yo venga a dirigir ni asumir que tengo que participar en todas. Son tuyas, y quiero que sigan teniendo tu voz. Pero si hay alguna en la que te gustaría tener compañía, aprender algo juntos o simplemente que te anime mientras la haces, me gustaría estar ahí.",
-      "También quiero que me cuentes cuál de todas te emociona más ahora mismo. No necesariamente la más grande: quizá esa que parece sencilla, pero que llevas tiempo queriendo hacer."
+      "Hay algo muy tuyo en imaginar posibilidades y darles un espacio, aunque todavía no sepas exactamente cuándo o cómo van a suceder. No quiero reducirte a una lista de metas ni hablar como si ya conociera todos tus sueños; me gustaría seguir descubriendo qué te ilusiona, qué te mueve y qué cosas haces simplemente porque te hacen feliz.",
+      "Quiero que sepas que me interesa esa parte de ti que tiene planes propios, gustos particulares y un mundo que no depende de nadie más. Si alguna vez quieres compartir una de esas experiencias, aprender algo acompañada o contarme cómo te fue, me encantará escucharte. Y si prefieres vivir algunas por tu cuenta, también está bien: son tuyas y merecen ser tuyas."
     ],
-    "detalle": "Escoge una meta de tu lista que te gustaría empezar pronto y cuéntame cuál sería el primer paso pequeño. Si quieres, buscamos una manera de acompañarnos sin quitarte el protagonismo: tú marcas el rumbo y yo pongo de mi parte.",
-    "buenasNoches": "Que descanses, Aleja. Ojalá esa lista no se convierta en una presión, sino en una colección de posibilidades. Me va a gustar verte cumplirlas, y también descubrir cuáles de esas aventuras nos gustaría compartir.",
+    "detalle": "De toda esa lista, ¿hay alguna cosa que te emocione especialmente en este momento? No tienes que escoger la más importante ni empezar a cumplirla hoy. Solo me gustaría conocer qué idea te está haciendo ilusión últimamente.",
+    "buenasNoches": "Buenas noches, Aleja. Ojalá esa lista siga creciendo con cosas que de verdad quieras vivir, no con pendientes que te pesen. Me gusta pensar que todavía hay muchas versiones de ti por descubrir, lugares que quieres conocer y cosas que te harán sentir orgullosa. Que no se te apague esa curiosidad.",
     "cancionTitulo": "Tomorrow",
     "cancionArtista": "Jorja Smith",
     "youtubeId": "zMC5-M15je0",
